@@ -1,5 +1,5 @@
-#### Jeremiah 3:14-15
+#### 1 John 5:12-13
 
-14 Turn, O backsliding children, saith the LORD; for I am married unto you: and I will take you one of a city, and two of a family, and I will bring you to Zion: 15 And I will give you pastors according to mine heart, which shall feed you with knowledge and understanding.
+12 He that hath the Son hath life; and he that hath not the Son of God hath not life. 13 These things have I written unto you that believe on the name of the Son of God; that ye may know that ye have eternal life, and that ye may believe on the name of the Son of God.
 
-[Sunday 02-May, 2021](https://t.me/daily_scripture)
+[Monday 03-May, 2021](https://t.me/s/daily_scripture)
