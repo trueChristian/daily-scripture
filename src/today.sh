@@ -1,7 +1,33 @@
 #!/bin/bash
 
+# Do some prep work
+command -v git >/dev/null 2>&1 || {
+  echo >&2 "We require git for this script to run, but it's not installed.  Aborting."
+  exit 1
+}
+command -v curl >/dev/null 2>&1 || {
+  echo >&2 "We require curl for this script to run, but it's not installed.  Aborting."
+  exit 1
+}
+
+# global config options
+DRYRUN=0
+
+# check if we have options
+while :; do
+  case $1 in
+  --dry)
+    DRYRUN=1
+    ;;
+  *) # Default case: No more options, so break out of the loop.
+    break ;;
+  esac
+  shift
+done
+
 #██████████████████████████████████████████████████████████████ DATE TODAY ███
-TODAY=$(date '+%A %d-%B, %Y')
+# must set the time to Namibian :)
+TODAY=$(TZ="Africa/Windhoek" date '+%A %d-%B, %Y')
 
 #█████████████████████████████████████████████████████████████ SCRIPT PATH ███
 DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
@@ -16,26 +42,37 @@ TMP="$DIR/.TMP"
 sort -R -k1 -b "${SORTED}" >"${TMP}"
 # get the first line
 VERSE=$(head -n 1 "${TMP}")
-# remove the verse
-sed -i -e '1,1d' "${TMP}"
-# add to used verses
-[ -f "${USED}" ] && echo "$VERSE" >>"${USED}" || echo "$VERSE" >"${USED}"
+# test behaviour
+if (("$DRYRUN" == 1)); then
+  echo "selected: $VERSE"
+else
+  # remove the verse
+  sed -i -e '1,1d' "${TMP}"
+  # add to used verses
+  [ -f "${USED}" ] && echo "$VERSE" >>"${USED}" || echo "$VERSE" >"${USED}"
+fi
 
 #█████████████████████████████████████████████████████ SIX MONTH RETENTION ███
-# count the number of verse in used file
-LINES_NR=$(wc -l <"${USED}")
-if [ "$LINES_NR" -gt 182 ]; then
-  # get the first line
-  VERSE_BACK=$(head -n 1 "${USED}")
-  # remove the verse
-  sed -i -e '1,1d' "${USED}"
-  # add add back to the pile
-  echo "$VERSE_BACK" >>"${TMP}"
+# check test behaviour
+if (("$DRYRUN" == 0)); then
+  # count the number of verse in used file
+  LINES_NR=$(wc -l <"${USED}")
+  if [ "$LINES_NR" -gt 182 ]; then
+    # get the first line
+    VERSE_BACK=$(head -n 1 "${USED}")
+    # remove the verse
+    sed -i -e '1,1d' "${USED}"
+    # add add back to the pile
+    echo "$VERSE_BACK" >>"${TMP}"
+  fi
 fi
 
 #███████████████████████████████████████████████████████████████ SORT BACK ███
-# store back for next time
-sort -h -b -k1 "${TMP}" >"${SORTED}"
+# check test behaviour
+if (("$DRYRUN" == 0)); then
+  # store back for next time
+  sort -h -b -k1 "${TMP}" >"${SORTED}"
+fi
 # remove the temp file
 rm -f "${TMP}"
 
@@ -61,10 +98,17 @@ ${VERSES//$'\n'/ }
 
 #███████████████████████████████████████████████████████████████ SET FILES ███
 
-echo "${HTML}" >README.html
-echo "${MARKDOWN}" >README.md
+# check test behaviour
+if (("$DRYRUN" == 1)); then
+  echo "${HTML}"
+  echo "----------------------------------------------------"
+  echo "${MARKDOWN}"
+else
+  echo "${HTML}" >README.html
+  echo "${MARKDOWN}" >README.md
 
-git commit -am"${TODAY}"
-git push
+  git commit -am"${TODAY}"
+  git push
+fi
 
 exit 0
