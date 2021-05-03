@@ -85,12 +85,13 @@ VERSES=$(bash <(curl -s https://raw.githubusercontent.com/getbible/getverse/mast
 NAME=$(bash <(curl -s https://raw.githubusercontent.com/getbible/getverse/master/src/name.sh) "${VERSE}")
 
 #████████████████████████████████████████████ SET TODAY'S SCRIPTURE IN HTML ███
-HTML="<h4>${NAME}</h4>
-<p>${VERSES//$'\n'/ }</p>
-<p><a id=\"daily-scripture-link\" href=\"https://t.me/daily_scripture\">${TODAY}</a></p>"
+HTML="<strong>${NAME}</strong>
+${VERSES//$'\n'/ }
+
+<a id=\"daily-scripture-link\" href=\"https://t.me/daily_scripture\">${TODAY}</a>"
 
 #████████████████████████████████████████ SET TODAY'S SCRIPTURE IN MARKDOWN ███
-MARKDOWN="#### ${NAME}
+MARKDOWN="**${NAME}**
 
 ${VERSES//$'\n'/ }
 
