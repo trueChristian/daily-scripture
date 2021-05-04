@@ -1,5 +1,5 @@
-**1 Timothy 2:12-14**
+**Isaiah 63:10**
 
-12 But I suffer not a woman to teach, nor to usurp authority over the man, but to be in silence. 13 For Adam was first formed, then Eve. 14 And Adam was not deceived, but the woman being deceived was in the transgression.
+10 But they rebelled, and vexed his holy Spirit: therefore he was turned to be their enemy, and he fought against them.
 
-[Tuesday 04-May, 2021](https://t.me/s/daily_scripture)
+[Wednesday 05-May, 2021](https://t.me/s/daily_scripture)
