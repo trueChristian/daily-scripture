@@ -1,5 +1,5 @@
-**Psalms 129:2**
+**Matthew 21:13**
 
-2 Many a time have they afflicted me from my youth: yet they have not prevailed against me.
+13 And said unto them, It is written, My house shall be called the house of prayer; but ye have made it a den of thieves.
 
-[Thursday 06-May, 2021](https://t.me/s/daily_scripture)
+[Friday 07-May, 2021](https://t.me/s/daily_scripture)
