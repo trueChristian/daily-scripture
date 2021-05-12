@@ -1,5 +1,5 @@
-**Hebrews 10:17**
+**John 12:48**
 
-17 And their sins and iniquities will I remember no more.
+48 He that rejecteth me, and receiveth not my words, hath one that judgeth him: the word that I have spoken, the same shall judge him in the last day.
 
-[Wednesday 12-May, 2021](https://t.me/s/daily_scripture)
+[Thursday 13-May, 2021](https://t.me/s/daily_scripture)
