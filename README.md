@@ -1,5 +1,5 @@
-**John 12:48**
+**James 1:9**
 
-48 He that rejecteth me, and receiveth not my words, hath one that judgeth him: the word that I have spoken, the same shall judge him in the last day.
+9 Let the brother of low degree rejoice in that he is exalted:
 
-[Thursday 13-May, 2021](https://t.me/s/daily_scripture)
+[Friday 14-May, 2021](https://t.me/s/daily_scripture)
