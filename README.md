@@ -1,5 +1,5 @@
-**James 1:9**
+**Isaiah 66:8**
 
-9 Let the brother of low degree rejoice in that he is exalted:
+8 Who hath heard such a thing? who hath seen such things? Shall the earth be made to bring forth in one day? or shall a nation be born at once? for as soon as Zion travailed, she brought forth her children.
 
-[Friday 14-May, 2021](https://t.me/s/daily_scripture)
+[Saturday 15-May, 2021](https://t.me/s/daily_scripture)
