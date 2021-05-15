@@ -1,5 +1,5 @@
-**Isaiah 66:8**
+**John 11:52**
 
-8 Who hath heard such a thing? who hath seen such things? Shall the earth be made to bring forth in one day? or shall a nation be born at once? for as soon as Zion travailed, she brought forth her children.
+52 And not for that nation only, but that also he should gather together in one the children of God that were scattered abroad.
 
-[Saturday 15-May, 2021](https://t.me/s/daily_scripture)
+[Sunday 16-May, 2021](https://t.me/s/daily_scripture)
