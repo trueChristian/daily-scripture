@@ -1,5 +1,5 @@
-**John 11:52**
+**Luke 22:46**
 
-52 And not for that nation only, but that also he should gather together in one the children of God that were scattered abroad.
+46 And said unto them, Why sleep ye? rise and pray, lest ye enter into temptation.
 
-[Sunday 16-May, 2021](https://t.me/s/daily_scripture)
+[Monday 17-May, 2021](https://t.me/s/daily_scripture)
