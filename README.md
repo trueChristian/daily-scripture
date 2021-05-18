@@ -1,5 +1,5 @@
-**1 John 4:15**
+**Psalms 145:10-12**
 
-15 Whosoever shall confess that Jesus is the Son of God, God dwelleth in him, and he in God.
+10 All thy works shall praise thee, O Lord; and thy saints shall bless thee. 11 They shall speak of the glory of thy kingdom, and talk of thy power; 12 To make known to the sons of men his mighty acts, and the glorious majesty of his kingdom.
 
-[Tuesday 18-May, 2021](https://t.me/s/daily_scripture)
+[Wednesday 19-May, 2021](https://t.me/s/daily_scripture)
