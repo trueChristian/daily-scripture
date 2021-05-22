@@ -1,5 +1,5 @@
-**Romans 2:1**
+**Psalms 106:24**
 
-1 Therefore thou art inexcusable, O man, whosoever thou art that judgest: for wherein thou judgest another, thou condemnest thyself; for thou that judgest doest the same things.
+24 Yea, they despised the pleasant land, they believed not his word:
 
-[Saturday 22-May, 2021](https://t.me/s/daily_scripture)
+[Sunday 23-May, 2021](https://t.me/s/daily_scripture)
