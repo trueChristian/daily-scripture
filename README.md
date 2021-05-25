@@ -1,5 +1,5 @@
-**Ezra 7:23**
+**Isaiah 23:11**
 
-23 Whatsoever is commanded by the God of heaven, let it be diligently done for the house of the God of heaven: for why should there be wrath against the realm of the king and his sons?
+11 He stretched out his hand over the sea, he shook the kingdoms: the Lord hath given a commandment against the merchant city, to destroy the strong holds thereof.
 
-[Tuesday 25-May, 2021](https://t.me/s/daily_scripture)
+[Wednesday 26-May, 2021](https://t.me/s/daily_scripture)
