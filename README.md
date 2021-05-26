@@ -1,5 +1,5 @@
-**Isaiah 23:11**
+**John 9:3**
 
-11 He stretched out his hand over the sea, he shook the kingdoms: the Lord hath given a commandment against the merchant city, to destroy the strong holds thereof.
+3 Jesus answered, Neither hath this man sinned, nor his parents: but that the works of God should be made manifest in him.
 
-[Wednesday 26-May, 2021](https://t.me/s/daily_scripture)
+[Thursday 27-May, 2021](https://t.me/s/daily_scripture)
