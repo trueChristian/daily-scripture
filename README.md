@@ -1,5 +1,5 @@
-**John 9:3**
+**Joshua 15:19**
 
-3 Jesus answered, Neither hath this man sinned, nor his parents: but that the works of God should be made manifest in him.
+19 Who answered, Give me a blessing; for thou hast given me a south land; give me also springs of water. And he gave her the upper springs, and the nether springs.
 
-[Thursday 27-May, 2021](https://t.me/s/daily_scripture)
+[Friday 28-May, 2021](https://t.me/s/daily_scripture)
