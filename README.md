@@ -1,5 +1,5 @@
-**Psalms 18:36**
+**Psalms 103:5**
 
-36 Thou hast enlarged my steps under me, that my feet did not slip.
+5 Who satisfieth thy mouth with good things; so that thy youth is renewed like the eagle’s.
 
-[Sunday 30-May, 2021](https://t.me/s/daily_scripture)
+[Monday 31-May, 2021](https://t.me/s/daily_scripture)
