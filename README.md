@@ -1,5 +1,5 @@
-**Psalms 103:5**
+**2 Timothy 4:2**
 
-5 Who satisfieth thy mouth with good things; so that thy youth is renewed like the eagle’s.
+2 Preach the word; be instant in season, out of season; reprove, rebuke, exhort with all longsuffering and doctrine.
 
-[Monday 31-May, 2021](https://t.me/s/daily_scripture)
+[Tuesday 01-June, 2021](https://t.me/s/daily_scripture)
