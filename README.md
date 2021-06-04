@@ -1,5 +1,5 @@
-**Matthew 13:33**
+**Ecclesiastes 10:1**
 
-33 Another parable spake he unto them; The kingdom of heaven is like unto leaven, which a woman took, and hid in three measures of meal, till the whole was leavened.
+1 Dead flies cause the ointment of the apothecary to send forth a stinking savour: so doth a little folly him that is in reputation for wisdom and honour.
 
-[Friday 04-June, 2021](https://t.me/s/daily_scripture)
+[Saturday 05-June, 2021](https://t.me/s/daily_scripture)
