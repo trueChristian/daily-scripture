@@ -1,5 +1,5 @@
-**Ecclesiastes 10:1**
+**Psalms 119:9**
 
-1 Dead flies cause the ointment of the apothecary to send forth a stinking savour: so doth a little folly him that is in reputation for wisdom and honour.
+9  Wherewithal shall a young man cleanse his way? by taking heed thereto according to thy word.
 
-[Saturday 05-June, 2021](https://t.me/s/daily_scripture)
+[Sunday 06-June, 2021](https://t.me/s/daily_scripture)
