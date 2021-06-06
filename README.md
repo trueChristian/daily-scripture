@@ -1,5 +1,5 @@
-**Psalms 119:9**
+**Song of Songs 5:16**
 
-9  Wherewithal shall a young man cleanse his way? by taking heed thereto according to thy word.
+16 His mouth is most sweet: yea, he is altogether lovely. This is my beloved, and this is my friend, O daughters of Jerusalem. 
 
-[Sunday 06-June, 2021](https://t.me/s/daily_scripture)
+[Monday 07-June, 2021](https://t.me/s/daily_scripture)
