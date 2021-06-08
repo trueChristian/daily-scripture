@@ -1,5 +1,5 @@
-**Daniel 6:4**
+**Hebrews 12:9-10**
 
-4 Then the presidents and princes sought to find occasion against Daniel concerning the kingdom; but they could find none occasion nor fault; forasmuch as he was faithful, neither was there any error or fault found in him.
+9 Furthermore we have had fathers of our flesh which corrected us, and we gave them reverence: shall we not much rather be in subjection unto the Father of spirits, and live? 10 For they verily for a few days chastened us after their own pleasure; but he for our profit, that we might be partakers of his holiness.
 
-[Tuesday 08-June, 2021](https://t.me/s/daily_scripture)
+[Wednesday 09-June, 2021](https://t.me/s/daily_scripture)
