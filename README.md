@@ -1,5 +1,5 @@
-**Hebrews 12:9-10**
+**John 21:15**
 
-9 Furthermore we have had fathers of our flesh which corrected us, and we gave them reverence: shall we not much rather be in subjection unto the Father of spirits, and live? 10 For they verily for a few days chastened us after their own pleasure; but he for our profit, that we might be partakers of his holiness.
+15 So when they had dined, Jesus saith to Simon Peter, Simon, son of Jonas, lovest thou me more than these? He saith unto him, Yea, Lord; thou knowest that I love thee. He saith unto him, Feed my lambs.
 
-[Wednesday 09-June, 2021](https://t.me/s/daily_scripture)
+[Thursday 10-June, 2021](https://t.me/s/daily_scripture)
