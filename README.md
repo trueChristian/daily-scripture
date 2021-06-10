@@ -1,5 +1,5 @@
-**John 21:15**
+**1 Timothy 6:11**
 
-15 So when they had dined, Jesus saith to Simon Peter, Simon, son of Jonas, lovest thou me more than these? He saith unto him, Yea, Lord; thou knowest that I love thee. He saith unto him, Feed my lambs.
+11 But thou, O man of God, flee these things; and follow after righteousness, godliness, faith, love, patience, meekness.
 
-[Thursday 10-June, 2021](https://t.me/s/daily_scripture)
+[Friday 11-June, 2021](https://t.me/s/daily_scripture)
