@@ -1,5 +1,5 @@
-**1 Timothy 6:11**
+**Romans 9:25-26**
 
-11 But thou, O man of God, flee these things; and follow after righteousness, godliness, faith, love, patience, meekness.
+25 As he saith also in Osee, I will call them my people, which were not my people; and her beloved, which was not beloved. 26 And it shall come to pass, that in the place where it was said unto them, Ye are not my people; there shall they be called the children of the living God.
 
-[Friday 11-June, 2021](https://t.me/s/daily_scripture)
+[Saturday 12-June, 2021](https://t.me/s/daily_scripture)
