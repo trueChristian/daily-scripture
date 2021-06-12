@@ -1,5 +1,5 @@
-**Romans 9:25-26**
+**Psalms 18:2**
 
-25 As he saith also in Osee, I will call them my people, which were not my people; and her beloved, which was not beloved. 26 And it shall come to pass, that in the place where it was said unto them, Ye are not my people; there shall they be called the children of the living God.
+2 The Lord is my rock, and my fortress, and my deliverer; my God, my strength, in whom I will trust; my buckler, and the horn of my salvation, and my high tower.
 
-[Saturday 12-June, 2021](https://t.me/s/daily_scripture)
+[Sunday 13-June, 2021](https://t.me/s/daily_scripture)
