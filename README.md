@@ -1,5 +1,5 @@
-**Psalms 18:2**
+**Matthew 22:37-39**
 
-2 The Lord is my rock, and my fortress, and my deliverer; my God, my strength, in whom I will trust; my buckler, and the horn of my salvation, and my high tower.
+37 Jesus said unto him, Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind. 38 This is the first and great commandment. 39 And the second is like unto it, Thou shalt love thy neighbour as thyself.
 
-[Sunday 13-June, 2021](https://t.me/s/daily_scripture)
+[Monday 14-June, 2021](https://t.me/s/daily_scripture)
