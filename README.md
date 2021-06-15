@@ -1,5 +1,5 @@
-**Matthew 24:33**
+**Philippians 3:15-16**
 
-33 So likewise ye, when ye shall see all these things, know that it is near, even at the doors.
+15 Let us therefore, as many as be perfect, be thus minded: and if in any thing ye be otherwise minded, God shall reveal even this unto you. 16 Nevertheless, whereto we have already attained, let us walk by the same rule, let us mind the same thing.
 
-[Tuesday 15-June, 2021](https://t.me/s/daily_scripture)
+[Wednesday 16-June, 2021](https://t.me/s/daily_scripture)
