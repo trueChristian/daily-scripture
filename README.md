@@ -1,5 +1,5 @@
-**Proverbs 17:28**
+**Galatians 5:16-17**
 
-28 Even a fool, when he holdeth his peace, is counted wise: and he that shutteth his lips is esteemed a man of understanding.
+16 This I say then, Walk in the Spirit, and ye shall not fulfil the lust of the flesh. 17 For the flesh lusteth against the Spirit, and the Spirit against the flesh: and these are contrary the one to the other: so that ye cannot do the things that ye would.
 
-[Saturday 19-June, 2021](https://t.me/s/daily_scripture)
+[Sunday 20-June, 2021](https://t.me/s/daily_scripture)
