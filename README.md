@@ -1,5 +1,5 @@
-**Job 4:17-19**
+**Romans 8:23**
 
-17 Shall mortal man be more just than God? shall a man be more pure than his maker? 18 Behold, he put no trust in his servants; and his angels he charged with folly: 19 How much less in them that dwell in houses of clay, whose foundation is in the dust, which are crushed before the moth?
+23 And not only they, but ourselves also, which have the firstfruits of the Spirit, even we ourselves groan within ourselves, waiting for the adoption, to wit, the redemption of our body.
 
-[Wednesday 23-June, 2021](https://t.me/s/daily_scripture)
+[Thursday 24-June, 2021](https://t.me/s/daily_scripture)
