@@ -1,5 +1,5 @@
-**Romans 8:23**
+**Ephesians 5:31-32**
 
-23 And not only they, but ourselves also, which have the firstfruits of the Spirit, even we ourselves groan within ourselves, waiting for the adoption, to wit, the redemption of our body.
+31 For this cause shall a man leave his father and mother, and shall be joined unto his wife, and they two shall be one flesh. 32 This is a great mystery: but I speak concerning Christ and the church.
 
-[Thursday 24-June, 2021](https://t.me/s/daily_scripture)
+[Friday 25-June, 2021](https://t.me/s/daily_scripture)
