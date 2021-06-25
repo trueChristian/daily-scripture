@@ -1,5 +1,5 @@
-**Ephesians 5:31-32**
+**1 John 2:1-2**
 
-31 For this cause shall a man leave his father and mother, and shall be joined unto his wife, and they two shall be one flesh. 32 This is a great mystery: but I speak concerning Christ and the church.
+1 My little children, these things write I unto you, that ye sin not. And if any man sin, we have an advocate with the Father, Jesus Christ the righteous: 2 And he is the propitiation for our sins: and not for ours only, but also for the sins of the whole world.
 
-[Friday 25-June, 2021](https://t.me/s/daily_scripture)
+[Saturday 26-June, 2021](https://t.me/s/daily_scripture)
