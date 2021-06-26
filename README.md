@@ -1,5 +1,5 @@
-**1 John 2:1-2**
+**3 John 1:6-8**
 
-1 My little children, these things write I unto you, that ye sin not. And if any man sin, we have an advocate with the Father, Jesus Christ the righteous: 2 And he is the propitiation for our sins: and not for ours only, but also for the sins of the whole world.
+6 Which have borne witness of thy charity before the church: whom if thou bring forward on their journey after a godly sort, thou shalt do well: 7 Because that for his name’s sake they went forth, taking nothing of the Gentiles. 8 We therefore ought to receive such, that we might be fellowhelpers to the truth.
 
-[Saturday 26-June, 2021](https://t.me/s/daily_scripture)
+[Sunday 27-June, 2021](https://t.me/s/daily_scripture)
