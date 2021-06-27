@@ -1,5 +1,5 @@
-**3 John 1:6-8**
+**Hebrews 11:8**
 
-6 Which have borne witness of thy charity before the church: whom if thou bring forward on their journey after a godly sort, thou shalt do well: 7 Because that for his name’s sake they went forth, taking nothing of the Gentiles. 8 We therefore ought to receive such, that we might be fellowhelpers to the truth.
+8 By faith Abraham, when he was called to go out into a place which he should after receive for an inheritance, obeyed; and he went out, not knowing whither he went.
 
-[Sunday 27-June, 2021](https://t.me/s/daily_scripture)
+[Monday 28-June, 2021](https://t.me/s/daily_scripture)
