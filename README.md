@@ -1,5 +1,5 @@
-**1 Timothy 4:13**
+**John 6:20**
 
-13 Till I come, give attendance to reading, to exhortation, to doctrine.
+20 But he saith unto them, It is I; be not afraid.
 
-[Wednesday 30-June, 2021](https://t.me/s/daily_scripture)
+[Thursday 01-July, 2021](https://t.me/s/daily_scripture)
