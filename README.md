@@ -1,5 +1,5 @@
-**Ephesians 4:1-3**
+**Isaiah 33:20**
 
-1 I therefore, the prisoner of the Lord, beseech you that ye walk worthy of the vocation wherewith ye are called, 2 With all lowliness and meekness, with longsuffering, forbearing one another in love; 3 Endeavouring to keep the unity of the Spirit in the bond of peace.
+20 Look upon Zion, the city of our solemnities: thine eyes shall see Jerusalem a quiet habitation, a tabernacle that shall not be taken down; not one of the stakes thereof shall ever be removed, neither shall any of the cords thereof be broken.
 
-[Friday 02-July, 2021](https://t.me/s/daily_scripture)
+[Saturday 03-July, 2021](https://t.me/s/daily_scripture)
