@@ -1,5 +1,5 @@
-**Isaiah 33:20**
+**Psalms 97:11**
 
-20 Look upon Zion, the city of our solemnities: thine eyes shall see Jerusalem a quiet habitation, a tabernacle that shall not be taken down; not one of the stakes thereof shall ever be removed, neither shall any of the cords thereof be broken.
+11 Light is sown for the righteous, and gladness for the upright in heart.
 
-[Saturday 03-July, 2021](https://t.me/s/daily_scripture)
+[Sunday 04-July, 2021](https://t.me/s/daily_scripture)
