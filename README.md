@@ -1,5 +1,5 @@
-**Psalms 97:11**
+**John 5:21**
 
-11 Light is sown for the righteous, and gladness for the upright in heart.
+21 For as the Father raiseth up the dead, and quickeneth them; even so the Son quickeneth whom he will.
 
-[Sunday 04-July, 2021](https://t.me/s/daily_scripture)
+[Monday 05-July, 2021](https://t.me/s/daily_scripture)
