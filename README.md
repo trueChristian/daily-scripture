@@ -1,5 +1,5 @@
-**John 5:21**
+**Romans 6:11**
 
-21 For as the Father raiseth up the dead, and quickeneth them; even so the Son quickeneth whom he will.
+11 Likewise reckon ye also yourselves to be dead indeed unto sin, but alive unto God through Jesus Christ our Lord.
 
-[Monday 05-July, 2021](https://t.me/s/daily_scripture)
+[Tuesday 06-July, 2021](https://t.me/s/daily_scripture)
