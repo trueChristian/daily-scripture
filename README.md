@@ -1,5 +1,5 @@
-**Romans 6:11**
+**Job 35:14**
 
-11 Likewise reckon ye also yourselves to be dead indeed unto sin, but alive unto God through Jesus Christ our Lord.
+14 Although thou sayest thou shalt not see him, yet judgment is before him; therefore trust thou in him.
 
-[Tuesday 06-July, 2021](https://t.me/s/daily_scripture)
+[Wednesday 07-July, 2021](https://t.me/s/daily_scripture)
