@@ -1,5 +1,5 @@
-**Job 35:14**
+**2 Corinthians 13:9**
 
-14 Although thou sayest thou shalt not see him, yet judgment is before him; therefore trust thou in him.
+9 For we are glad, when we are weak, and ye are strong: and this also we wish, even your perfection.
 
-[Wednesday 07-July, 2021](https://t.me/s/daily_scripture)
+[Thursday 08-July, 2021](https://t.me/s/daily_scripture)
