@@ -1,5 +1,5 @@
-**2 Corinthians 13:9**
+**Proverbs 4:23**
 
-9 For we are glad, when we are weak, and ye are strong: and this also we wish, even your perfection.
+23 Keep thy heart with all diligence; for out of it are the issues of life.
 
-[Thursday 08-July, 2021](https://t.me/s/daily_scripture)
+[Friday 09-July, 2021](https://t.me/s/daily_scripture)
