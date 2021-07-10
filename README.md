@@ -1,5 +1,5 @@
-**Psalms 84:10**
+**Psalms 88:18**
 
-10 For a day in thy courts is better than a thousand. I had rather be a doorkeeper in the house of my God, than to dwell in the tents of wickedness.
+18 Lover and friend hast thou put far from me, and mine acquaintance into darkness. 
 
-[Saturday 10-July, 2021](https://t.me/s/daily_scripture)
+[Sunday 11-July, 2021](https://t.me/s/daily_scripture)
