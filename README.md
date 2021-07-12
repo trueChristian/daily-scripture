@@ -1,5 +1,5 @@
-**Proverbs 28:23**
+**Luke 22:68**
 
-23 He that rebuketh a man afterwards shall find more favour than he that flattereth with the tongue.
+68 And if I also ask you, ye will not answer me, nor let me go.
 
-[Monday 12-July, 2021](https://t.me/s/daily_scripture)
+[Tuesday 13-July, 2021](https://t.me/s/daily_scripture)
