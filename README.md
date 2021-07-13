@@ -1,5 +1,5 @@
-**Luke 22:68**
+**Acts 3:9**
 
-68 And if I also ask you, ye will not answer me, nor let me go.
+9 And all the people saw him walking and praising God:
 
-[Tuesday 13-July, 2021](https://t.me/s/daily_scripture)
+[Wednesday 14-July, 2021](https://t.me/s/daily_scripture)
