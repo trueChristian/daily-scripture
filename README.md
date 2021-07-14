@@ -1,5 +1,5 @@
-**Acts 3:9**
+**Psalms 5:3**
 
-9 And all the people saw him walking and praising God:
+3 My voice shalt thou hear in the morning, O Lord; in the morning will I direct my prayer unto thee, and will look up.
 
-[Wednesday 14-July, 2021](https://t.me/s/daily_scripture)
+[Thursday 15-July, 2021](https://t.me/s/daily_scripture)
