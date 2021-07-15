@@ -1,5 +1,5 @@
-**Psalms 5:3**
+**Isaiah 50:7**
 
-3 My voice shalt thou hear in the morning, O Lord; in the morning will I direct my prayer unto thee, and will look up.
+7 For the Lord God will help me; therefore shall I not be confounded: therefore have I set my face like a flint, and I know that I shall not be ashamed.
 
-[Thursday 15-July, 2021](https://t.me/s/daily_scripture)
+[Friday 16-July, 2021](https://t.me/s/daily_scripture)
