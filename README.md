@@ -1,5 +1,5 @@
-**Isaiah 50:7**
+**Luke 23:5**
 
-7 For the Lord God will help me; therefore shall I not be confounded: therefore have I set my face like a flint, and I know that I shall not be ashamed.
+5 And they were the more fierce, saying, He stirreth up the people, teaching throughout all Jewry, beginning from Galilee to this place.
 
-[Friday 16-July, 2021](https://t.me/s/daily_scripture)
+[Saturday 17-July, 2021](https://t.me/s/daily_scripture)
