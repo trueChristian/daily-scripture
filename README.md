@@ -1,5 +1,5 @@
-**Luke 23:5**
+**Psalms 92:5**
 
-5 And they were the more fierce, saying, He stirreth up the people, teaching throughout all Jewry, beginning from Galilee to this place.
+5 O Lord, how great are thy works! and thy thoughts are very deep.
 
-[Saturday 17-July, 2021](https://t.me/s/daily_scripture)
+[Sunday 18-July, 2021](https://t.me/s/daily_scripture)
