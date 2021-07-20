@@ -1,5 +1,5 @@
-**Isaiah 52:7**
+**Hebrews 11:24-26**
 
-7 How beautiful upon the mountains are the feet of him that bringeth good tidings, that publisheth peace; that bringeth good tidings of good, that publisheth salvation; that saith unto Zion, Thy God reigneth!
+24 By faith Moses, when he was come to years, refused to be called the son of Pharaoh’s daughter; 25 Choosing rather to suffer affliction with the people of God, than to enjoy the pleasures of sin for a season; 26 Esteeming the reproach of Christ greater riches than the treasures in Egypt: for he had respect unto the recompence of the reward.
 
-[Tuesday 20-July, 2021](https://t.me/s/daily_scripture)
+[Wednesday 21-July, 2021](https://t.me/s/daily_scripture)
