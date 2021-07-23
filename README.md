@@ -1,5 +1,5 @@
-**Micah 3:12**
+**Obadiah 1:12**
 
-12 Therefore shall Zion for your sake be plowed as a field, and Jerusalem shall become heaps, and the mountain of the house as the high places of the forest. 
+12 But thou shouldest not have looked on the day of thy brother in the day that he became a stranger; neither shouldest thou have rejoiced over the children of Judah in the day of their destruction; neither shouldest thou have spoken proudly in the day of distress.
 
-[Friday 23-July, 2021](https://t.me/s/daily_scripture)
+[Saturday 24-July, 2021](https://t.me/s/daily_scripture)
