@@ -1,5 +1,5 @@
-**Hebrews 5:13-14**
+**Isaiah 49:14-16**
 
-13 For every one that useth milk is unskilful in the word of righteousness: for he is a babe. 14 But strong meat belongeth to them that are of full age, even those who by reason of use have their senses exercised to discern both good and evil. 
+14 But Zion said, The Lord hath forsaken me, and my Lord hath forgotten me. 15 Can a woman forget her sucking child, that she should not have compassion on the son of her womb? yea, they may forget, yet will I not forget thee. 16 Behold, I have graven thee upon the palms of my hands; thy walls are continually before me.
 
-[Monday 26-July, 2021](https://t.me/s/daily_scripture)
+[Tuesday 27-July, 2021](https://t.me/s/daily_scripture)
