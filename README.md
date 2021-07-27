@@ -1,5 +1,5 @@
-**Isaiah 49:14-16**
+**Mark 12:44**
 
-14 But Zion said, The Lord hath forsaken me, and my Lord hath forgotten me. 15 Can a woman forget her sucking child, that she should not have compassion on the son of her womb? yea, they may forget, yet will I not forget thee. 16 Behold, I have graven thee upon the palms of my hands; thy walls are continually before me.
+44 For all they did cast in of their abundance; but she of her want did cast in all that she had, even all her living. 
 
-[Tuesday 27-July, 2021](https://t.me/s/daily_scripture)
+[Wednesday 28-July, 2021](https://t.me/s/daily_scripture)
