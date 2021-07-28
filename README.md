@@ -1,5 +1,5 @@
-**Mark 12:44**
+**Philippians 3:10**
 
-44 For all they did cast in of their abundance; but she of her want did cast in all that she had, even all her living. 
+10 That I may know him, and the power of his resurrection, and the fellowship of his sufferings, being made conformable unto his death;
 
-[Wednesday 28-July, 2021](https://t.me/s/daily_scripture)
+[Thursday 29-July, 2021](https://t.me/s/daily_scripture)
