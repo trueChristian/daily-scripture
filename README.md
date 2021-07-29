@@ -1,5 +1,5 @@
-**Philippians 3:10**
+**Matthew 27:23**
 
-10 That I may know him, and the power of his resurrection, and the fellowship of his sufferings, being made conformable unto his death;
+23 And the governor said, Why, what evil hath he done? But they cried out the more, saying, Let him be crucified.
 
-[Thursday 29-July, 2021](https://t.me/s/daily_scripture)
+[Friday 30-July, 2021](https://t.me/s/daily_scripture)
