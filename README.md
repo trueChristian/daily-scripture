@@ -1,5 +1,5 @@
-**Matthew 27:23**
+**Revelation 1:9**
 
-23 And the governor said, Why, what evil hath he done? But they cried out the more, saying, Let him be crucified.
+9 I John, who also am your brother, and companion in tribulation, and in the kingdom and patience of Jesus Christ, was in the isle that is called Patmos, for the word of God, and for the testimony of Jesus Christ.
 
-[Friday 30-July, 2021](https://t.me/s/daily_scripture)
+[Saturday 31-July, 2021](https://t.me/s/daily_scripture)
