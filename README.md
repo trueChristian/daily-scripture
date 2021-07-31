@@ -1,5 +1,5 @@
-**Revelation 1:9**
+**John 15:14**
 
-9 I John, who also am your brother, and companion in tribulation, and in the kingdom and patience of Jesus Christ, was in the isle that is called Patmos, for the word of God, and for the testimony of Jesus Christ.
+14 Ye are my friends, if ye do whatsoever I command you.
 
-[Saturday 31-July, 2021](https://t.me/s/daily_scripture)
+[Sunday 01-August, 2021](https://t.me/s/daily_scripture)
