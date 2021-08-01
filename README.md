@@ -1,5 +1,5 @@
-**John 15:14**
+**John 13:5**
 
-14 Ye are my friends, if ye do whatsoever I command you.
+5 After that he poureth water into a bason, and began to wash the disciples’ feet, and to wipe them with the towel wherewith he was girded.
 
-[Sunday 01-August, 2021](https://t.me/s/daily_scripture)
+[Monday 02-August, 2021](https://t.me/s/daily_scripture)
