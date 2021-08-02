@@ -1,5 +1,5 @@
-**John 13:5**
+**Exodus 14:14**
 
-5 After that he poureth water into a bason, and began to wash the disciples’ feet, and to wipe them with the towel wherewith he was girded.
+14 The Lord shall fight for you, and ye shall hold your peace.
 
-[Monday 02-August, 2021](https://t.me/s/daily_scripture)
+[Tuesday 03-August, 2021](https://t.me/s/daily_scripture)
