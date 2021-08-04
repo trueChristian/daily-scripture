@@ -1,5 +1,5 @@
-**James 2:1**
+**1 Peter 3:13**
 
-1 My brethren, have not the faith of our Lord Jesus Christ, the Lord of glory, with respect of persons.
+13 And who is he that will harm you, if ye be followers of that which is good?
 
-[Wednesday 04-August, 2021](https://t.me/s/daily_scripture)
+[Thursday 05-August, 2021](https://t.me/s/daily_scripture)
