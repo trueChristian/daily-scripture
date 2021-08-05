@@ -1,5 +1,5 @@
-**1 Peter 3:13**
+**Mark 10:27**
 
-13 And who is he that will harm you, if ye be followers of that which is good?
+27 And Jesus looking upon them saith, With men it is impossible, but not with God: for with God all things are possible.
 
-[Thursday 05-August, 2021](https://t.me/s/daily_scripture)
+[Friday 06-August, 2021](https://t.me/s/daily_scripture)
