@@ -1,5 +1,5 @@
-**Mark 10:27**
+**Daniel 3:27**
 
-27 And Jesus looking upon them saith, With men it is impossible, but not with God: for with God all things are possible.
+27 And the princes, governors, and captains, and the king’s counsellors, being gathered together, saw these men, upon whose bodies the fire had no power, nor was an hair of their head singed, neither were their coats changed, nor the smell of fire had passed on them.
 
-[Friday 06-August, 2021](https://t.me/s/daily_scripture)
+[Saturday 07-August, 2021](https://t.me/s/daily_scripture)
