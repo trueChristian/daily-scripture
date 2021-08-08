@@ -1,5 +1,5 @@
-**Galatians 5:14**
+**Luke 5:13**
 
-14 For all the law is fulfilled in one word, even in this; Thou shalt love thy neighbour as thyself.
+13 And he put forth his hand, and touched him, saying, I will: be thou clean. And immediately the leprosy departed from him.
 
-[Sunday 08-August, 2021](https://t.me/s/daily_scripture)
+[Monday 09-August, 2021](https://t.me/s/daily_scripture)
