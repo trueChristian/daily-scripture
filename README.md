@@ -1,5 +1,5 @@
-**Acts 3:22**
+**1 Corinthians 6:12**
 
-22 For Moses truly said unto the fathers, A prophet shall the Lord your God raise up unto you of your brethren, like unto me; him shall ye hear in all things whatsoever he shall say unto you.
+12 All things are lawful unto me, but all things are not expedient: all things are lawful for me, but I will not be brought under the power of any.
 
-[Wednesday 11-August, 2021](https://t.me/s/daily_scripture)
+[Thursday 12-August, 2021](https://t.me/s/daily_scripture)
