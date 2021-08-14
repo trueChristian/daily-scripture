@@ -1,5 +1,5 @@
-**James 4:17**
+**Psalms 68:20**
 
-17 Therefore to him that knoweth to do good, and doeth it not, to him it is sin. 
+20 He that is our God is the God of salvation; and unto God the Lord belong the issues from death.
 
-[Saturday 14-August, 2021](https://t.me/s/daily_scripture)
+[Sunday 15-August, 2021](https://t.me/s/daily_scripture)
