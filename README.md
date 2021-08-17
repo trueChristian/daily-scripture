@@ -1,5 +1,5 @@
-**John 12:10**
+**Revelation 21:4**
 
-10 But the chief priests consulted that they might put Lazarus also to death;
+4 And God shall wipe away all tears from their eyes; and there shall be no more death, neither sorrow, nor crying, neither shall there be any more pain: for the former things are passed away.
 
-[Tuesday 17-August, 2021](https://t.me/s/daily_scripture)
+[Wednesday 18-August, 2021](https://t.me/s/daily_scripture)
