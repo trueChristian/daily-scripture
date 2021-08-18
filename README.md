@@ -1,5 +1,5 @@
-**Revelation 21:4**
+**Galatians 4:18**
 
-4 And God shall wipe away all tears from their eyes; and there shall be no more death, neither sorrow, nor crying, neither shall there be any more pain: for the former things are passed away.
+18 But it is good to be zealously affected always in a good thing, and not only when I am present with you.
 
-[Wednesday 18-August, 2021](https://t.me/s/daily_scripture)
+[Thursday 19-August, 2021](https://t.me/s/daily_scripture)
