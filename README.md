@@ -1,5 +1,5 @@
-**Galatians 4:18**
+**Micah 2:12**
 
-18 But it is good to be zealously affected always in a good thing, and not only when I am present with you.
+12 I will surely assemble, O Jacob, all of thee; I will surely gather the remnant of Israel; I will put them together as the sheep of Bozrah, as the flock in the midst of their fold: they shall make great noise by reason of the multitude of men.
 
-[Thursday 19-August, 2021](https://t.me/s/daily_scripture)
+[Friday 20-August, 2021](https://t.me/s/daily_scripture)
