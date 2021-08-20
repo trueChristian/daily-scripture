@@ -1,5 +1,5 @@
-**Micah 2:12**
+**Proverbs 10:22**
 
-12 I will surely assemble, O Jacob, all of thee; I will surely gather the remnant of Israel; I will put them together as the sheep of Bozrah, as the flock in the midst of their fold: they shall make great noise by reason of the multitude of men.
+22 The blessing of the Lord, it maketh rich, and he addeth no sorrow with it.
 
-[Friday 20-August, 2021](https://t.me/s/daily_scripture)
+[Saturday 21-August, 2021](https://t.me/s/daily_scripture)
