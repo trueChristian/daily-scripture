@@ -1,5 +1,5 @@
-**Proverbs 10:22**
+**Psalms 139:23-24**
 
-22 The blessing of the Lord, it maketh rich, and he addeth no sorrow with it.
+23 Search me, O God, and know my heart: try me, and know my thoughts: 24 And see if there be any wicked way in me, and lead me in the way everlasting. 
 
-[Saturday 21-August, 2021](https://t.me/s/daily_scripture)
+[Sunday 22-August, 2021](https://t.me/s/daily_scripture)
