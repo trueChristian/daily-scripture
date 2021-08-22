@@ -1,5 +1,5 @@
-**Psalms 139:23-24**
+**Luke 18:26-27**
 
-23 Search me, O God, and know my heart: try me, and know my thoughts: 24 And see if there be any wicked way in me, and lead me in the way everlasting. 
+26 And they that heard it said, Who then can be saved? 27 And he said, The things which are impossible with men are possible with God.
 
-[Sunday 22-August, 2021](https://t.me/s/daily_scripture)
+[Monday 23-August, 2021](https://t.me/s/daily_scripture)
