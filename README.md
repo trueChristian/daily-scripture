@@ -1,5 +1,5 @@
-**Luke 18:26-27**
+**Psalms 119:5-6**
 
-26 And they that heard it said, Who then can be saved? 27 And he said, The things which are impossible with men are possible with God.
+5 O that my ways were directed to keep thy statutes! 6 Then shall I not be ashamed, when I have respect unto all thy commandments.
 
-[Monday 23-August, 2021](https://t.me/s/daily_scripture)
+[Tuesday 24-August, 2021](https://t.me/s/daily_scripture)
