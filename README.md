@@ -1,5 +1,5 @@
-**Luke 22:24-27**
+**Ezekiel 43:10-11**
 
-24 And there was also a strife among them, which of them should be accounted the greatest. 25 And he said unto them, The kings of the Gentiles exercise lordship over them; and they that exercise authority upon them are called benefactors. 26 But ye shall not be so: but he that is greatest among you, let him be as the younger; and he that is chief, as he that doth serve. 27 For whether is greater, he that sitteth at meat, or he that serveth? is not he that sitteth at meat? but I am among you as he that serveth.
+10 Thou son of man, shew the house to the house of Israel, that they may be ashamed of their iniquities: and let them measure the pattern. 11 And if they be ashamed of all that they have done, shew them the form of the house, and the fashion thereof, and the goings out thereof, and the comings in thereof, and all the forms thereof, and all the ordinances thereof, and all the forms thereof, and all the laws thereof: and write it in their sight, that they may keep the whole form thereof, and all the ordinances thereof, and do them.
 
-[Wednesday 25-August, 2021](https://t.me/s/daily_scripture)
+[Thursday 26-August, 2021](https://t.me/s/daily_scripture)
