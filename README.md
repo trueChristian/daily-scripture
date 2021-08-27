@@ -1,5 +1,5 @@
-**Psalms 25:13**
+**John 14:23**
 
-13 His soul shall dwell at ease; and his seed shall inherit the earth.
+23 Jesus answered and said unto him, If a man love me, he will keep my words: and my Father will love him, and we will come unto him, and make our abode with him.
 
-[Friday 27-August, 2021](https://t.me/s/daily_scripture)
+[Saturday 28-August, 2021](https://t.me/s/daily_scripture)
