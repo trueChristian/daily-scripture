@@ -1,5 +1,5 @@
-**Proverbs 23:13-14**
+**Exodus 35:34**
 
-13 Withhold not correction from the child: for if thou beatest him with the rod, he shall not die. 14 Thou shalt beat him with the rod, and shalt deliver his soul from hell.
+34 And he hath put in his heart that he may teach, both he, and Aholiab, the son of Ahisamach, of the tribe of Dan.
 
-[Tuesday 31-August, 2021](https://t.me/s/daily_scripture)
+[Wednesday 01-September, 2021](https://t.me/s/daily_scripture)
