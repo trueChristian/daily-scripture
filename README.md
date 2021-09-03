@@ -1,5 +1,5 @@
-**John 5:17**
+**1 Corinthians 2:10**
 
-17 But Jesus answered them, My Father worketh hitherto, and I work.
+10 But God hath revealed them unto us by his Spirit: for the Spirit searcheth all things, yea, the deep things of God.
 
-[Friday 03-September, 2021](https://t.me/s/daily_scripture)
+[Saturday 04-September, 2021](https://t.me/s/daily_scripture)
