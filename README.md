@@ -1,5 +1,5 @@
-**1 Corinthians 2:10**
+**Psalms 9:9-10**
 
-10 But God hath revealed them unto us by his Spirit: for the Spirit searcheth all things, yea, the deep things of God.
+9 The Lord also will be a refuge for the oppressed, a refuge in times of trouble. 10 And they that know thy name will put their trust in thee: for thou, Lord, hast not forsaken them that seek thee.
 
-[Saturday 04-September, 2021](https://t.me/s/daily_scripture)
+[Sunday 05-September, 2021](https://t.me/s/daily_scripture)
