@@ -1,5 +1,5 @@
-**Psalms 9:9-10**
+**Proverbs 25:14**
 
-9 The Lord also will be a refuge for the oppressed, a refuge in times of trouble. 10 And they that know thy name will put their trust in thee: for thou, Lord, hast not forsaken them that seek thee.
+14 Whoso boasteth himself of a false gift is like clouds and wind without rain.
 
-[Sunday 05-September, 2021](https://t.me/s/daily_scripture)
+[Monday 06-September, 2021](https://t.me/s/daily_scripture)
