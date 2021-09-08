@@ -1,5 +1,5 @@
-**Ephesians 3:20-21**
+**Revelation 2:4-5**
 
-20 Now unto him that is able to do exceeding abundantly above all that we ask or think, according to the power that worketh in us, 21 Unto him be glory in the church by Christ Jesus throughout all ages, world without end. Amen. 
+4 Nevertheless I have somewhat against thee, because thou hast left thy first love. 5 Remember therefore from whence thou art fallen, and repent, and do the first works; or else I will come unto thee quickly, and will remove thy candlestick out of his place, except thou repent.
 
-[Wednesday 08-September, 2021](https://t.me/s/daily_scripture)
+[Thursday 09-September, 2021](https://t.me/s/daily_scripture)
