@@ -1,5 +1,5 @@
-**Revelation 2:4-5**
+**Psalms 56:12-13**
 
-4 Nevertheless I have somewhat against thee, because thou hast left thy first love. 5 Remember therefore from whence thou art fallen, and repent, and do the first works; or else I will come unto thee quickly, and will remove thy candlestick out of his place, except thou repent.
+12 Thy vows are upon me, O God: I will render praises unto thee. 13 For thou hast delivered my soul from death: wilt not thou deliver my feet from falling, that I may walk before God in the light of the living? 
 
-[Thursday 09-September, 2021](https://t.me/s/daily_scripture)
+[Friday 10-September, 2021](https://t.me/s/daily_scripture)
