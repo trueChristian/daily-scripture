@@ -1,5 +1,5 @@
-**Psalms 56:12-13**
+**Matthew 16:26**
 
-12 Thy vows are upon me, O God: I will render praises unto thee. 13 For thou hast delivered my soul from death: wilt not thou deliver my feet from falling, that I may walk before God in the light of the living? 
+26 For what is a man profited, if he shall gain the whole world, and lose his own soul? or what shall a man give in exchange for his soul?
 
-[Friday 10-September, 2021](https://t.me/s/daily_scripture)
+[Saturday 11-September, 2021](https://t.me/s/daily_scripture)
