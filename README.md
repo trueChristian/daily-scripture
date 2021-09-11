@@ -1,5 +1,5 @@
-**Matthew 16:26**
+**Luke 16:11**
 
-26 For what is a man profited, if he shall gain the whole world, and lose his own soul? or what shall a man give in exchange for his soul?
+11 If therefore ye have not been faithful in the unrighteous mammon, who will commit to your trust the true riches?
 
-[Saturday 11-September, 2021](https://t.me/s/daily_scripture)
+[Sunday 12-September, 2021](https://t.me/s/daily_scripture)
