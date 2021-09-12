@@ -1,5 +1,5 @@
-**Luke 16:11**
+**Psalms 119:6**
 
-11 If therefore ye have not been faithful in the unrighteous mammon, who will commit to your trust the true riches?
+6 Then shall I not be ashamed, when I have respect unto all thy commandments.
 
-[Sunday 12-September, 2021](https://t.me/s/daily_scripture)
+[Monday 13-September, 2021](https://t.me/s/daily_scripture)
