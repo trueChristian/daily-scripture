@@ -1,5 +1,5 @@
-**Ezekiel 2:1-3,10**
+**Luke 7:47**
 
-1 And he said unto me, Son of man, stand upon thy feet, and I will speak unto thee. 2 And the spirit entered into me when he spake unto me, and set me upon my feet, that I heard him that spake unto me. 3 And he said unto me, Son of man, I send thee to the children of Israel, to a rebellious nation that hath rebelled against me: they and their fathers have transgressed against me, even unto this very day. 10 And he spread it before me; and it was written within and without: and there was written therein lamentations, and mourning, and woe. 
+47 Wherefore I say unto thee, Her sins, which are many, are forgiven; for she loved much: but to whom little is forgiven, the same loveth little.
 
-[Tuesday 14-September, 2021](https://t.me/s/daily_scripture)
+[Wednesday 15-September, 2021](https://t.me/s/daily_scripture)
