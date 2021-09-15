@@ -1,5 +1,5 @@
-**Luke 7:47**
+**Matthew 6:6**
 
-47 Wherefore I say unto thee, Her sins, which are many, are forgiven; for she loved much: but to whom little is forgiven, the same loveth little.
+6 But thou, when thou prayest, enter into thy closet, and when thou hast shut thy door, pray to thy Father which is in secret; and thy Father which seeth in secret shall reward thee openly.
 
-[Wednesday 15-September, 2021](https://t.me/s/daily_scripture)
+[Thursday 16-September, 2021](https://t.me/s/daily_scripture)
