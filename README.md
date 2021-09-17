@@ -1,5 +1,5 @@
-**1 John 2:9-11**
+**Luke 6:34-35**
 
-9 He that saith he is in the light, and hateth his brother, is in darkness even until now. 10 He that loveth his brother abideth in the light, and there is none occasion of stumbling in him. 11 But he that hateth his brother is in darkness, and walketh in darkness, and knoweth not whither he goeth, because that darkness hath blinded his eyes.
+34 And if ye lend to them of whom ye hope to receive, what thank have ye? for sinners also lend to sinners, to receive as much again. 35 But love ye your enemies, and do good, and lend, hoping for nothing again; and your reward shall be great, and ye shall be the children of the Highest: for he is kind unto the unthankful and to the evil.
 
-[Friday 17-September, 2021](https://t.me/s/daily_scripture)
+[Saturday 18-September, 2021](https://t.me/s/daily_scripture)
