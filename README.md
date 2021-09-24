@@ -1,5 +1,5 @@
-**2 Corinthians 6:11-13**
+**Proverbs 18:24**
 
-11 O ye Corinthians, our mouth is open unto you, our heart is enlarged. 12 Ye are not straitened in us, but ye are straitened in your own bowels. 13 Now for a recompence in the same, (I speak as unto my children,) be ye also enlarged.
+24 A man that hath friends must shew himself friendly: and there is a friend that sticketh closer than a brother. 
 
-[Friday 24-September, 2021](https://t.me/s/daily_scripture)
+[Saturday 25-September, 2021](https://t.me/s/daily_scripture)
