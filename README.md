@@ -1,5 +1,5 @@
-**Proverbs 18:24**
+**Romans 2:7-10**
 
-24 A man that hath friends must shew himself friendly: and there is a friend that sticketh closer than a brother. 
+7 To them who by patient continuance in well doing seek for glory and honour and immortality, eternal life: 8 But unto them that are contentious, and do not obey the truth, but obey unrighteousness, indignation and wrath, 9 Tribulation and anguish, upon every soul of man that doeth evil, of the Jew first, and also of the Gentile; 10 But glory, honour, and peace, to every man that worketh good, to the Jew first, and also to the Gentile:
 
-[Saturday 25-September, 2021](https://t.me/s/daily_scripture)
+[Sunday 26-September, 2021](https://t.me/s/daily_scripture)
