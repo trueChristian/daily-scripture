@@ -1,5 +1,5 @@
-**Romans 2:7-10**
+**Hebrews 11:19**
 
-7 To them who by patient continuance in well doing seek for glory and honour and immortality, eternal life: 8 But unto them that are contentious, and do not obey the truth, but obey unrighteousness, indignation and wrath, 9 Tribulation and anguish, upon every soul of man that doeth evil, of the Jew first, and also of the Gentile; 10 But glory, honour, and peace, to every man that worketh good, to the Jew first, and also to the Gentile:
+19 Accounting that God was able to raise him up, even from the dead; from whence also he received him in a figure.
 
-[Sunday 26-September, 2021](https://t.me/s/daily_scripture)
+[Monday 27-September, 2021](https://t.me/s/daily_scripture)
