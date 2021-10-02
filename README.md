@@ -1,5 +1,5 @@
-**Proverbs 6:10**
+**Acts 4:19**
 
-10 Yet a little sleep, a little slumber, a little folding of the hands to sleep:
+19 But Peter and John answered and said unto them, Whether it be right in the sight of God to hearken unto you more than unto God, judge ye.
 
-[Saturday 02-October, 2021](https://t.me/s/daily_scripture)
+[Sunday 03-October, 2021](https://t.me/s/daily_scripture)
