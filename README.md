@@ -1,5 +1,5 @@
-**Isaiah 53:12**
+**Job 36:21**
 
-12 Therefore will I divide him a portion with the great, and he shall divide the spoil with the strong; because he hath poured out his soul unto death: and he was numbered with the transgressors; and he bare the sin of many, and made intercession for the transgressors. 
+21 Take heed, regard not iniquity: for this hast thou chosen rather than affliction.
 
-[Saturday 09-October, 2021](https://t.me/s/daily_scripture)
+[Sunday 10-October, 2021](https://t.me/s/daily_scripture)
