@@ -1,5 +1,5 @@
-**Job 36:21**
+**1 Corinthians 4:2**
 
-21 Take heed, regard not iniquity: for this hast thou chosen rather than affliction.
+2 Moreover it is required in stewards, that a man be found faithful.
 
-[Sunday 10-October, 2021](https://t.me/s/daily_scripture)
+[Monday 11-October, 2021](https://t.me/s/daily_scripture)
