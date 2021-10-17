@@ -1,5 +1,5 @@
-**1 Timothy 5:8**
+**Psalms 101:3**
 
-8 But if any provide not for his own, and specially for those of his own house, he hath denied the faith, and is worse than an infidel.
+3 I will set no wicked thing before mine eyes: I hate the work of them that turn aside; it shall not cleave to me.
 
-[Sunday 17-October, 2021](https://t.me/s/daily_scripture)
+[Monday 18-October, 2021](https://t.me/s/daily_scripture)
