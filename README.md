@@ -1,5 +1,5 @@
-**Proverbs 3:9-10**
+**2 Corinthians 5:6**
 
-9 Honour the Lord with thy substance, and with the firstfruits of all thine increase: 10 So shall thy barns be filled with plenty, and thy presses shall burst out with new wine.
+6 Therefore we are always confident, knowing that, whilst we are at home in the body, we are absent from the Lord:
 
-[Thursday 21-October, 2021](https://t.me/s/daily_scripture)
+[Friday 22-October, 2021](https://t.me/s/daily_scripture)
