@@ -1,5 +1,5 @@
-**Romans 6:1-2**
+**Proverbs 26:12**
 
-1 What shall we say then? Shall we continue in sin, that grace may abound? 2 God forbid. How shall we, that are dead to sin, live any longer therein?
+12 Seest thou a man wise in his own conceit? there is more hope of a fool than of him.
 
-[Sunday 24-October, 2021](https://t.me/s/daily_scripture)
+[Monday 25-October, 2021](https://t.me/s/daily_scripture)
