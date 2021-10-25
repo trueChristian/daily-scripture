@@ -1,5 +1,5 @@
-**Proverbs 26:12**
+**2 Corinthians 8:15**
 
-12 Seest thou a man wise in his own conceit? there is more hope of a fool than of him.
+15 As it is written, He that had gathered much had nothing over; and he that had gathered little had no lack.
 
-[Monday 25-October, 2021](https://t.me/s/daily_scripture)
+[Tuesday 26-October, 2021](https://t.me/s/daily_scripture)
