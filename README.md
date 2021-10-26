@@ -1,5 +1,5 @@
-**2 Corinthians 8:15**
+**2 Corinthians 5:9**
 
-15 As it is written, He that had gathered much had nothing over; and he that had gathered little had no lack.
+9 Wherefore we labour, that, whether present or absent, we may be accepted of him.
 
-[Tuesday 26-October, 2021](https://t.me/s/daily_scripture)
+[Wednesday 27-October, 2021](https://t.me/s/daily_scripture)
