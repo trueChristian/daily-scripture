@@ -1,5 +1,5 @@
-**Proverbs 23:4-5**
+**Judges 15:8**
 
-4 Labour not to be rich: cease from thine own wisdom. 5 Wilt thou set thine eyes upon that which is not? for riches certainly make themselves wings; they fly away as an eagle toward heaven.
+8 And he smote them hip and thigh with a great slaughter: and he went down and dwelt in the top of the rock Etam.
 
-[Saturday 30-October, 2021](https://t.me/s/daily_scripture)
+[Sunday 31-October, 2021](https://t.me/s/daily_scripture)
