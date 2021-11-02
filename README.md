@@ -1,5 +1,5 @@
-**Psalms 16:2-3**
+**Isaiah 26:3**
 
-2 O my soul, thou hast said unto the Lord, Thou art my Lord: my goodness extendeth not to thee; 3 But to the saints that are in the earth, and to the excellent, in whom is all my delight.
+3 Thou wilt keep him in perfect peace, whose mind is stayed on thee: because he trusteth in thee.
 
-[Tuesday 02-November, 2021](https://t.me/s/daily_scripture)
+[Wednesday 03-November, 2021](https://t.me/s/daily_scripture)
