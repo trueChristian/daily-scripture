@@ -1,5 +1,5 @@
-**Psalms 86:11**
+**John 13:14**
 
-11 Teach me thy way, O Lord; I will walk in thy truth: unite my heart to fear thy name.
+14 If I then, your Lord and Master, have washed your feet; ye also ought to wash one another’s feet.
 
-[Saturday 06-November, 2021](https://t.me/s/daily_scripture)
+[Sunday 07-November, 2021](https://t.me/s/daily_scripture)
