@@ -1,5 +1,5 @@
-**John 13:14**
+**Revelation 1:2**
 
-14 If I then, your Lord and Master, have washed your feet; ye also ought to wash one another’s feet.
+2 Who bare record of the word of God, and of the testimony of Jesus Christ, and of all things that he saw.
 
-[Sunday 07-November, 2021](https://t.me/s/daily_scripture)
+[Monday 08-November, 2021](https://t.me/s/daily_scripture)
