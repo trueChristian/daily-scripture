@@ -1,5 +1,5 @@
-**Jonah 4:1,3-4**
+**Job 5:17-19**
 
-1 But it displeased Jonah exceedingly, and he was very angry. 3 Therefore now, O Lord, take, I beseech thee, my life from me; for it is better for me to die than to live. 4 Then said the Lord, Doest thou well to be angry?
+17 Behold, happy is the man whom God correcteth: therefore despise not thou the chastening of the Almighty: 18 For he maketh sore, and bindeth up: he woundeth, and his hands make whole. 19 He shall deliver thee in six troubles: yea, in seven there shall no evil touch thee.
 
-[Tuesday 09-November, 2021](https://t.me/s/daily_scripture)
+[Wednesday 10-November, 2021](https://t.me/s/daily_scripture)
