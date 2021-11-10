@@ -1,5 +1,5 @@
-**Job 5:17-19**
+**Hosea 11:7**
 
-17 Behold, happy is the man whom God correcteth: therefore despise not thou the chastening of the Almighty: 18 For he maketh sore, and bindeth up: he woundeth, and his hands make whole. 19 He shall deliver thee in six troubles: yea, in seven there shall no evil touch thee.
+7 And my people are bent to backsliding from me: though they called them to the most High, none at all would exalt him.
 
-[Wednesday 10-November, 2021](https://t.me/s/daily_scripture)
+[Thursday 11-November, 2021](https://t.me/s/daily_scripture)
