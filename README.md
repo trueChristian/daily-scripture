@@ -1,5 +1,5 @@
-**Hosea 11:7**
+**John 6:27**
 
-7 And my people are bent to backsliding from me: though they called them to the most High, none at all would exalt him.
+27 Labour not for the meat which perisheth, but for that meat which endureth unto everlasting life, which the Son of man shall give unto you: for him hath God the Father sealed.
 
-[Thursday 11-November, 2021](https://t.me/s/daily_scripture)
+[Friday 12-November, 2021](https://t.me/s/daily_scripture)
