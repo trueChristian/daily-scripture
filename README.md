@@ -1,5 +1,5 @@
-**John 6:27**
+**Psalms 119:15**
 
-27 Labour not for the meat which perisheth, but for that meat which endureth unto everlasting life, which the Son of man shall give unto you: for him hath God the Father sealed.
+15 I will meditate in thy precepts, and have respect unto thy ways.
 
-[Friday 12-November, 2021](https://t.me/s/daily_scripture)
+[Saturday 13-November, 2021](https://t.me/s/daily_scripture)
