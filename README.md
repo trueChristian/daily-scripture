@@ -1,5 +1,5 @@
-**Psalms 119:15**
+**Daniel 3:17**
 
-15 I will meditate in thy precepts, and have respect unto thy ways.
+17 If it be so, our God whom we serve is able to deliver us from the burning fiery furnace, and he will deliver us out of thine hand, O king.
 
-[Saturday 13-November, 2021](https://t.me/s/daily_scripture)
+[Sunday 14-November, 2021](https://t.me/s/daily_scripture)
