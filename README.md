@@ -1,5 +1,5 @@
-**Daniel 3:17**
+**1 Corinthians 1:10**
 
-17 If it be so, our God whom we serve is able to deliver us from the burning fiery furnace, and he will deliver us out of thine hand, O king.
+10 Now I beseech you, brethren, by the name of our Lord Jesus Christ, that ye all speak the same thing, and that there be no divisions among you; but that ye be perfectly joined together in the same mind and in the same judgment.
 
-[Sunday 14-November, 2021](https://t.me/s/daily_scripture)
+[Monday 15-November, 2021](https://t.me/s/daily_scripture)
