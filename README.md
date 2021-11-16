@@ -1,5 +1,5 @@
-**Psalms 63:4-8**
+**2 Kings 19:30-31**
 
-4 Thus will I bless thee while I live: I will lift up my hands in thy name. 5 My soul shall be satisfied as with marrow and fatness; and my mouth shall praise thee with joyful lips: 6 When I remember thee upon my bed, and meditate on thee in the night watches. 7 Because thou hast been my help, therefore in the shadow of thy wings will I rejoice. 8 My soul followeth hard after thee: thy right hand upholdeth me.
+30 And the remnant that is escaped of the house of Judah shall yet again take root downward, and bear fruit upward. 31 For out of Jerusalem shall go forth a remnant, and they that escape out of mount Zion: the zeal of the Lord of hosts shall do this.
 
-[Tuesday 16-November, 2021](https://t.me/s/daily_scripture)
+[Wednesday 17-November, 2021](https://t.me/s/daily_scripture)
