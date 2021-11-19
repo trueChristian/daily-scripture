@@ -1,5 +1,5 @@
-**Revelation 3:11**
+**James 5:10-11**
 
-11 Behold, I come quickly: hold that fast which thou hast, that no man take thy crown.
+10 Take, my brethren, the prophets, who have spoken in the name of the Lord, for an example of suffering affliction, and of patience. 11 Behold, we count them happy which endure. Ye have heard of the patience of Job, and have seen the end of the Lord; that the Lord is very pitiful, and of tender mercy.
 
-[Friday 19-November, 2021](https://t.me/s/daily_scripture)
+[Saturday 20-November, 2021](https://t.me/s/daily_scripture)
