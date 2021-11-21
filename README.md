@@ -1,5 +1,5 @@
-**Psalms 76:4**
+**Proverbs 22:19**
 
-4 Thou art more glorious and excellent than the mountains of prey.
+19 That thy trust may be in the Lord, I have made known to thee this day, even to thee.
 
-[Sunday 21-November, 2021](https://t.me/s/daily_scripture)
+[Monday 22-November, 2021](https://t.me/s/daily_scripture)
