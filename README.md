@@ -1,5 +1,5 @@
-**Proverbs 22:19**
+**Habakkuk 2:2**
 
-19 That thy trust may be in the Lord, I have made known to thee this day, even to thee.
+2 And the Lord answered me, and said, Write the vision, and make it plain upon tables, that he may run that readeth it.
 
-[Monday 22-November, 2021](https://t.me/s/daily_scripture)
+[Tuesday 23-November, 2021](https://t.me/s/daily_scripture)
