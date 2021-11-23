@@ -1,5 +1,5 @@
-**Habakkuk 2:2**
+**Job 42:3**
 
-2 And the Lord answered me, and said, Write the vision, and make it plain upon tables, that he may run that readeth it.
+3 Who is he that hideth counsel without knowledge? therefore have I uttered that I understood not; things too wonderful for me, which I knew not.
 
-[Tuesday 23-November, 2021](https://t.me/s/daily_scripture)
+[Wednesday 24-November, 2021](https://t.me/s/daily_scripture)
