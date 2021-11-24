@@ -1,5 +1,5 @@
-**Job 42:3**
+**Luke 20:23**
 
-3 Who is he that hideth counsel without knowledge? therefore have I uttered that I understood not; things too wonderful for me, which I knew not.
+23 But he perceived their craftiness, and said unto them, Why tempt ye me?
 
-[Wednesday 24-November, 2021](https://t.me/s/daily_scripture)
+[Thursday 25-November, 2021](https://t.me/s/daily_scripture)
