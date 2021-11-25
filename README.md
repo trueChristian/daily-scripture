@@ -1,5 +1,5 @@
-**Luke 20:23**
+**2 Corinthians 1:4**
 
-23 But he perceived their craftiness, and said unto them, Why tempt ye me?
+4 Who comforteth us in all our tribulation, that we may be able to comfort them which are in any trouble, by the comfort wherewith we ourselves are comforted of God.
 
-[Thursday 25-November, 2021](https://t.me/s/daily_scripture)
+[Friday 26-November, 2021](https://t.me/s/daily_scripture)
