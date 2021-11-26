@@ -1,5 +1,5 @@
-**2 Corinthians 1:4**
+**Ezra 7:25**
 
-4 Who comforteth us in all our tribulation, that we may be able to comfort them which are in any trouble, by the comfort wherewith we ourselves are comforted of God.
+25 And thou, Ezra, after the wisdom of thy God, that is in thine hand, set magistrates and judges, which may judge all the people that are beyond the river, all such as know the laws of thy God; and teach ye them that know them not.
 
-[Friday 26-November, 2021](https://t.me/s/daily_scripture)
+[Saturday 27-November, 2021](https://t.me/s/daily_scripture)
