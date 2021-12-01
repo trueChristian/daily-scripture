@@ -1,5 +1,5 @@
-**1 Peter 5:10**
+**Jude 1:24-25**
 
-10 But the God of all grace, who hath called us unto his eternal glory by Christ Jesus, after that ye have suffered a while, make you perfect, stablish, strengthen, settle you.
+24 Now unto him that is able to keep you from falling, and to present you faultless before the presence of his glory with exceeding joy, 25 To the only wise God our Saviour, be glory and majesty, dominion and power, both now and ever. Amen.  
 
-[Wednesday 01-December, 2021](https://t.me/s/daily_scripture)
+[Thursday 02-December, 2021](https://t.me/s/daily_scripture)
