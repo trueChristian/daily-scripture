@@ -1,5 +1,5 @@
-**Jude 1:24-25**
+**Proverbs 12:27**
 
-24 Now unto him that is able to keep you from falling, and to present you faultless before the presence of his glory with exceeding joy, 25 To the only wise God our Saviour, be glory and majesty, dominion and power, both now and ever. Amen.  
+27 The slothful man roasteth not that which he took in hunting: but the substance of a diligent man is precious.
 
-[Thursday 02-December, 2021](https://t.me/s/daily_scripture)
+[Friday 03-December, 2021](https://t.me/s/daily_scripture)
