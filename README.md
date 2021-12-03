@@ -1,5 +1,5 @@
-**Proverbs 12:27**
+**Luke 19:10**
 
-27 The slothful man roasteth not that which he took in hunting: but the substance of a diligent man is precious.
+10 For the Son of man is come to seek and to save that which was lost.
 
-[Friday 03-December, 2021](https://t.me/s/daily_scripture)
+[Saturday 04-December, 2021](https://t.me/s/daily_scripture)
