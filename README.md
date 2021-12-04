@@ -1,5 +1,5 @@
-**Luke 19:10**
+**1 John 3:15**
 
-10 For the Son of man is come to seek and to save that which was lost.
+15 Whosoever hateth his brother is a murderer: and ye know that no murderer hath eternal life abiding in him.
 
-[Saturday 04-December, 2021](https://t.me/s/daily_scripture)
+[Sunday 05-December, 2021](https://t.me/s/daily_scripture)
