@@ -1,5 +1,5 @@
-**2 Corinthians 3:12**
+**Psalms 119:165**
 
-12 Seeing then that we have such hope, we use great plainness of speech:
+165 Great peace have they which love thy law: and nothing shall offend them.
 
-[Tuesday 07-December, 2021](https://t.me/s/daily_scripture)
+[Wednesday 08-December, 2021](https://t.me/s/daily_scripture)
