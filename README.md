@@ -1,5 +1,5 @@
-**Psalms 119:165**
+**Mark 8:38**
 
-165 Great peace have they which love thy law: and nothing shall offend them.
+38 Whosoever therefore shall be ashamed of me and of my words in this adulterous and sinful generation; of him also shall the Son of man be ashamed, when he cometh in the glory of his Father with the holy angels. 
 
-[Wednesday 08-December, 2021](https://t.me/s/daily_scripture)
+[Thursday 09-December, 2021](https://t.me/s/daily_scripture)
