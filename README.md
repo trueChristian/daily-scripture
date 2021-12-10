@@ -1,5 +1,5 @@
-**Romans 13:14**
+**Matthew 5:8**
 
-14 But put ye on the Lord Jesus Christ, and make not provision for the flesh, to fulfil the lusts thereof. 
+8 Blessed are the pure in heart: for they shall see God.
 
-[Friday 10-December, 2021](https://t.me/s/daily_scripture)
+[Saturday 11-December, 2021](https://t.me/s/daily_scripture)
