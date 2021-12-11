@@ -1,5 +1,5 @@
-**Matthew 5:8**
+**John 9:4**
 
-8 Blessed are the pure in heart: for they shall see God.
+4 I must work the works of him that sent me, while it is day: the night cometh, when no man can work.
 
-[Saturday 11-December, 2021](https://t.me/s/daily_scripture)
+[Sunday 12-December, 2021](https://t.me/s/daily_scripture)
