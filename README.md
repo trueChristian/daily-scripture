@@ -1,5 +1,5 @@
-**Matthew 10:27-28**
+**Matthew 12:30**
 
-27 What I tell you in darkness, that speak ye in light: and what ye hear in the ear, that preach ye upon the housetops. 28 And fear not them which kill the body, but are not able to kill the soul: but rather fear him which is able to destroy both soul and body in hell.
+30 He that is not with me is against me; and he that gathereth not with me scattereth abroad.
 
-[Monday 13-December, 2021](https://t.me/s/daily_scripture)
+[Tuesday 14-December, 2021](https://t.me/s/daily_scripture)
