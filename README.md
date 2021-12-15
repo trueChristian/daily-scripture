@@ -1,5 +1,5 @@
-**Matthew 4:21-22**
+**Deuteronomy 32:39**
 
-21 And going on from thence, he saw other two brethren, James the son of Zebedee, and John his brother, in a ship with Zebedee their father, mending their nets; and he called them. 22 And they immediately left the ship and their father, and followed him.
+39 See now that I, even I, am he, and there is no god with me: I kill, and I make alive; I wound, and I heal: neither is there any that can deliver out of my hand.
 
-[Wednesday 15-December, 2021](https://t.me/s/daily_scripture)
+[Thursday 16-December, 2021](https://t.me/s/daily_scripture)
