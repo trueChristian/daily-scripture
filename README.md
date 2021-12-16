@@ -1,5 +1,5 @@
-**Deuteronomy 32:39**
+**Psalms 71:14**
 
-39 See now that I, even I, am he, and there is no god with me: I kill, and I make alive; I wound, and I heal: neither is there any that can deliver out of my hand.
+14 But I will hope continually, and will yet praise thee more and more.
 
-[Thursday 16-December, 2021](https://t.me/s/daily_scripture)
+[Friday 17-December, 2021](https://t.me/s/daily_scripture)
