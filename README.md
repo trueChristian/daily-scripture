@@ -1,5 +1,5 @@
-**2 Corinthians 10:4-5**
+**Isaiah 62:1**
 
-4 (For the weapons of our warfare are not carnal, but mighty through God to the pulling down of strong holds;) 5 Casting down imaginations, and every high thing that exalteth itself against the knowledge of God, and bringing into captivity every thought to the obedience of Christ;
+1 For Zion’s sake will I not hold my peace, and for Jerusalem’s sake I will not rest, until the righteousness thereof go forth as brightness, and the salvation thereof as a lamp that burneth.
 
-[Sunday 19-December, 2021](https://t.me/s/daily_scripture)
+[Monday 20-December, 2021](https://t.me/s/daily_scripture)
