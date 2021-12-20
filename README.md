@@ -1,5 +1,5 @@
-**Isaiah 62:1**
+**Ezekiel 18:31**
 
-1 For Zion’s sake will I not hold my peace, and for Jerusalem’s sake I will not rest, until the righteousness thereof go forth as brightness, and the salvation thereof as a lamp that burneth.
+31 Cast away from you all your transgressions, whereby ye have transgressed; and make you a new heart and a new spirit: for why will ye die, O house of Israel?
 
-[Monday 20-December, 2021](https://t.me/s/daily_scripture)
+[Tuesday 21-December, 2021](https://t.me/s/daily_scripture)
