@@ -1,5 +1,5 @@
-**Ezekiel 18:31**
+**Matthew 22:21**
 
-31 Cast away from you all your transgressions, whereby ye have transgressed; and make you a new heart and a new spirit: for why will ye die, O house of Israel?
+21 They say unto him, Cæsar’s. Then saith he unto them, Render therefore unto Cæsar the things which are Cæsar’s; and unto God the things that are God’s.
 
-[Tuesday 21-December, 2021](https://t.me/s/daily_scripture)
+[Wednesday 22-December, 2021](https://t.me/s/daily_scripture)
