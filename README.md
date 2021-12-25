@@ -1,5 +1,5 @@
-**Luke 8:11**
+**Romans 8:29-30**
 
-11 Now the parable is this: The seed is the word of God.
+29 For whom he did foreknow, he also did predestinate to be conformed to the image of his Son, that he might be the firstborn among many brethren. 30 Moreover whom he did predestinate, them he also called: and whom he called, them he also justified: and whom he justified, them he also glorified.
 
-[Saturday 25-December, 2021](https://t.me/s/daily_scripture)
+[Sunday 26-December, 2021](https://t.me/s/daily_scripture)
