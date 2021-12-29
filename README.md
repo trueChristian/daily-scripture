@@ -1,5 +1,5 @@
-**Colossians 3:1**
+**Genesis 29:20**
 
-1 If ye then be risen with Christ, seek those things which are above, where Christ sitteth on the right hand of God.
+20 And Jacob served seven years for Rachel; and they seemed unto him but a few days, for the love he had to her.
 
-[Wednesday 29-December, 2021](https://t.me/s/daily_scripture)
+[Thursday 30-December, 2021](https://t.me/s/daily_scripture)
