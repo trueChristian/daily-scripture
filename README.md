@@ -1,5 +1,5 @@
-**2 Corinthians 2:9**
+**3 John 1:11**
 
-9 For to this end also did I write, that I might know the proof of you, whether ye be obedient in all things.
+11 Beloved, follow not that which is evil, but that which is good. He that doeth good is of God: but he that doeth evil hath not seen God.
 
-[Friday 31-December, 2021](https://t.me/s/daily_scripture)
+[Saturday 01-January, 2022](https://t.me/s/daily_scripture)
