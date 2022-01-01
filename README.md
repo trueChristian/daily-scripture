@@ -1,5 +1,5 @@
-**3 John 1:11**
+**Proverbs 15:31**
 
-11 Beloved, follow not that which is evil, but that which is good. He that doeth good is of God: but he that doeth evil hath not seen God.
+31 The ear that heareth the reproof of life abideth among the wise.
 
-[Saturday 01-January, 2022](https://t.me/s/daily_scripture)
+[Sunday 02-January, 2022](https://t.me/s/daily_scripture)
