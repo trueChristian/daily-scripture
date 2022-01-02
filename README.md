@@ -1,5 +1,5 @@
-**Proverbs 15:31**
+**Matthew 13:33**
 
-31 The ear that heareth the reproof of life abideth among the wise.
+33 Another parable spake he unto them; The kingdom of heaven is like unto leaven, which a woman took, and hid in three measures of meal, till the whole was leavened.
 
-[Sunday 02-January, 2022](https://t.me/s/daily_scripture)
+[Monday 03-January, 2022](https://t.me/s/daily_scripture)
