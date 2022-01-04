@@ -78,6 +78,7 @@ SORTED="$DIR/SCRIPTURE"
 USED="$DIR/SCRIPTURE_USED"
 TMP="$DIR/.TMP"
 SCRIPTURE_DIR="$DIR/../scripture/${VERSION}/${TODAY_FOLDER}"
+VERSION_DIR="$DIR/../scripture/${VERSION}"
 
 #█████████████████████████████████████████████████ GET SCRIPTURE FOR TODAY ███
 # only load if not already given
@@ -217,6 +218,12 @@ else
   fi
   # make sure the folders exist
   mkdir -p "${SCRIPTURE_DIR}"
+  # set today's README scripture
+  echo "${HTML}" >"${VERSION_DIR}/README.html"
+  jq <<<"$JSON" -S . >"${VERSION_DIR}/README.json"
+  echo "${TG}" >"${VERSION_DIR}/README.tg"
+  echo "${MARKDOWN}" >"${VERSION_DIR}/README.md"
+  echo "${TODAY_S_SCRIPTURE}" >"${VERSION_DIR}/README.today"
   # set today's verse to persistent state
   echo "${HTML}" >"${SCRIPTURE_DIR}/scripture.html"
   jq <<<"$JSON" -S . >"${SCRIPTURE_DIR}/scripture.json"
