@@ -129,11 +129,11 @@ fi
 
 #███████████████████████████████████████████████████████ GET SCRIPTURE TEXT ███
 # Get the verses from the getBible API
-TODAY_S_SCRIPTURE_TEXT=$(bash <(curl -s https://raw.githubusercontent.com/getbible/getverse/master/src/chapter.sh) -s="\"${TODAY_S_SCRIPTURE}\"" -v="${VERSION}" )
+TODAY_S_SCRIPTURE_TEXT=$(bash <(curl -s https://raw.githubusercontent.com/getbible/getverse/master/src/chapter.sh) -s="${TODAY_S_SCRIPTURE}" -v="${VERSION}" )
 
 #███████████████████████████████████████████████████████ GET SCRIPTURE NAME ███
 # Get the verses name from the getBible API
-NAME=$(bash <(curl -s https://raw.githubusercontent.com/getbible/getverse/master/src/name.sh) -s="\"${TODAY_S_SCRIPTURE}\"" -v="${VERSION}" )
+NAME=$(bash <(curl -s https://raw.githubusercontent.com/getbible/getverse/master/src/name.sh) -s="${TODAY_S_SCRIPTURE}" -v="${VERSION}" )
 
 #████████████████████████████████████████████ SET TODAY'S SCRIPTURE IN HTML ███
 HTML="<strong>${NAME}</strong><br />
