@@ -1,5 +1,5 @@
-**Psalms 119:72**
+**Luke 17:32**
 
-72 The law of thy mouth is better unto me than thousands of gold and silver.
+32 Remember Lot’s wife.
 
-[Thursday 06-January, 2022](https://t.me/s/daily_scripture)
+[Friday 07-January, 2022](https://t.me/s/daily_scripture)
