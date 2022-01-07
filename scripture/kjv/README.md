@@ -1,5 +1,5 @@
-**Luke 17:32**
+**Psalms 23:1-3**
 
-32 Remember Lot’s wife.
+1 The Lord is my shepherd; I shall not want. 2 He maketh me to lie down in green pastures: he leadeth me beside the still waters. 3 He restoreth my soul: he leadeth me in the paths of righteousness for his name’s sake.
 
-[Friday 07-January, 2022](https://t.me/s/daily_scripture)
+[Saturday 08-January, 2022](https://t.me/s/daily_scripture)
