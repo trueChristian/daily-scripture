@@ -1,5 +1,5 @@
-**Psalms 23:1-3**
+**Acts 8:37-38**
 
-1 The Lord is my shepherd; I shall not want. 2 He maketh me to lie down in green pastures: he leadeth me beside the still waters. 3 He restoreth my soul: he leadeth me in the paths of righteousness for his name’s sake.
+37 And Philip said, If thou believest with all thine heart, thou mayest. And he answered and said, I believe that Jesus Christ is the Son of God. 38 And he commanded the chariot to stand still: and they went down both into the water, both Philip and the eunuch; and he baptized him.
 
-[Saturday 08-January, 2022](https://t.me/s/daily_scripture)
+[Sunday 09-January, 2022](https://t.me/s/daily_scripture)
