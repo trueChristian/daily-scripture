@@ -1,5 +1,5 @@
-**Psalms 34:6**
+**Psalms 122:1**
 
-6 This poor man cried, and the Lord heard him, and saved him out of all his troubles.
+1 I was glad when they said unto me, Let us go into the house of the Lord.
 
-[Monday 10-January, 2022](https://t.me/s/daily_scripture)
+[Tuesday 11-January, 2022](https://t.me/s/daily_scripture)
