@@ -1,5 +1,5 @@
-**Psalms 122:1**
+**Psalms 119:11**
 
-1 I was glad when they said unto me, Let us go into the house of the Lord.
+11 Thy word have I hid in mine heart, that I might not sin against thee.
 
-[Tuesday 11-January, 2022](https://t.me/s/daily_scripture)
+[Wednesday 12-January, 2022](https://t.me/s/daily_scripture)
