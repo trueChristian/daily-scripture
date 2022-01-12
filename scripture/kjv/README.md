@@ -1,5 +1,5 @@
-**Psalms 119:11**
+**Psalms 26:4-5**
 
-11 Thy word have I hid in mine heart, that I might not sin against thee.
+4 I have not sat with vain persons, neither will I go in with dissemblers. 5 I have hated the congregation of evil doers; and will not sit with the wicked.
 
-[Wednesday 12-January, 2022](https://t.me/s/daily_scripture)
+[Thursday 13-January, 2022](https://t.me/s/daily_scripture)
