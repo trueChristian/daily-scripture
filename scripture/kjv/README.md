@@ -1,5 +1,5 @@
-**Psalms 26:4-5**
+**Romans 12:21**
 
-4 I have not sat with vain persons, neither will I go in with dissemblers. 5 I have hated the congregation of evil doers; and will not sit with the wicked.
+21 Be not overcome of evil, but overcome evil with good. 
 
-[Thursday 13-January, 2022](https://t.me/s/daily_scripture)
+[Friday 14-January, 2022](https://t.me/s/daily_scripture)
