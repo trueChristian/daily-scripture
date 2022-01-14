@@ -1,5 +1,5 @@
-**Romans 12:21**
+**Genesis 3:12-13**
 
-21 Be not overcome of evil, but overcome evil with good. 
+12 And the man said, The woman whom thou gavest to be with me, she gave me of the tree, and I did eat. 13 And the Lord God said unto the woman, What is this that thou hast done? And the woman said, The serpent beguiled me, and I did eat.
 
-[Friday 14-January, 2022](https://t.me/s/daily_scripture)
+[Saturday 15-January, 2022](https://t.me/s/daily_scripture)

@@ -1,10 +1,14 @@
 {
-  "date": "Friday 14-January, 2022",
-  "name": "Romans 12:21",
+  "date": "Saturday 15-January, 2022",
+  "name": "Genesis 3:12-13",
   "scripture": [
     {
-      "nr": "21",
-      "text": "Be not overcome of evil, but overcome evil with good. "
+      "nr": "12",
+      "text": "And the man said, The woman whom thou gavest to be with me, she gave me of the tree, and I did eat."
+    },
+    {
+      "nr": "13",
+      "text": "And the Lord God said unto the woman, What is this that thou hast done? And the woman said, The serpent beguiled me, and I did eat."
     }
   ],
   "source": "https://github.com/trueChristian/daily-scripture",
