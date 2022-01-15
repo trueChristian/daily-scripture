@@ -1,5 +1,5 @@
-**Genesis 3:12-13**
+**James 1:26**
 
-12 And the man said, The woman whom thou gavest to be with me, she gave me of the tree, and I did eat. 13 And the Lord God said unto the woman, What is this that thou hast done? And the woman said, The serpent beguiled me, and I did eat.
+26 If any man among you seem to be religious, and bridleth not his tongue, but deceiveth his own heart, this man’s religion is vain.
 
-[Saturday 15-January, 2022](https://t.me/s/daily_scripture)
+[Sunday 16-January, 2022](https://t.me/s/daily_scripture)
