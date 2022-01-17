@@ -1,5 +1,5 @@
-**Philippians 4:6**
+**John 7:46**
 
-6 Be careful for nothing; but in every thing by prayer and supplication with thanksgiving let your requests be made known unto God.
+46 The officers answered, Never man spake like this man.
 
-[Monday 17-January, 2022](https://t.me/s/daily_scripture)
+[Tuesday 18-January, 2022](https://t.me/s/daily_scripture)
