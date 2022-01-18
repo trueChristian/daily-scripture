@@ -1,10 +1,14 @@
 {
-  "date": "Tuesday 18-January, 2022",
-  "name": "John 7:46",
+  "date": "Wednesday 19-January, 2022",
+  "name": "Jeremiah 22:13-14",
   "scripture": [
     {
-      "nr": "46",
-      "text": "The officers answered, Never man spake like this man."
+      "nr": "13",
+      "text": "Woe unto him that buildeth his house by unrighteousness, and his chambers by wrong; that useth his neighbour’s service without wages, and giveth him not for his work;"
+    },
+    {
+      "nr": "14",
+      "text": "That saith, I will build me a wide house and large chambers, and cutteth him out windows; and it is cieled with cedar, and painted with vermilion."
     }
   ],
   "source": "https://github.com/trueChristian/daily-scripture",
