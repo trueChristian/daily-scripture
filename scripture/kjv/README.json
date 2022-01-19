@@ -1,14 +1,10 @@
 {
-  "date": "Wednesday 19-January, 2022",
-  "name": "Jeremiah 22:13-14",
+  "date": "Thursday 20-January, 2022",
+  "name": "Zephaniah 3:5",
   "scripture": [
     {
-      "nr": "13",
-      "text": "Woe unto him that buildeth his house by unrighteousness, and his chambers by wrong; that useth his neighbour’s service without wages, and giveth him not for his work;"
-    },
-    {
-      "nr": "14",
-      "text": "That saith, I will build me a wide house and large chambers, and cutteth him out windows; and it is cieled with cedar, and painted with vermilion."
+      "nr": "5",
+      "text": "The just Lord is in the midst thereof; he will not do iniquity: every morning doth he bring his judgment to light, he faileth not; but the unjust knoweth no shame."
     }
   ],
   "source": "https://github.com/trueChristian/daily-scripture",

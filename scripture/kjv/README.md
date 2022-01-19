@@ -1,5 +1,5 @@
-**Jeremiah 22:13-14**
+**Zephaniah 3:5**
 
-13 Woe unto him that buildeth his house by unrighteousness, and his chambers by wrong; that useth his neighbour’s service without wages, and giveth him not for his work; 14 That saith, I will build me a wide house and large chambers, and cutteth him out windows; and it is cieled with cedar, and painted with vermilion.
+5 The just Lord is in the midst thereof; he will not do iniquity: every morning doth he bring his judgment to light, he faileth not; but the unjust knoweth no shame.
 
-[Wednesday 19-January, 2022](https://t.me/s/daily_scripture)
+[Thursday 20-January, 2022](https://t.me/s/daily_scripture)
