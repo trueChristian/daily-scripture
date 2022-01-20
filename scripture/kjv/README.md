@@ -1,5 +1,5 @@
-**Zephaniah 3:5**
+**Jeremiah 15:9**
 
-5 The just Lord is in the midst thereof; he will not do iniquity: every morning doth he bring his judgment to light, he faileth not; but the unjust knoweth no shame.
+9 She that hath borne seven languisheth: she hath given up the ghost; her sun is gone down while it was yet day: she hath been ashamed and confounded: and the residue of them will I deliver to the sword before their enemies, saith the Lord.
 
-[Thursday 20-January, 2022](https://t.me/s/daily_scripture)
+[Friday 21-January, 2022](https://t.me/s/daily_scripture)
