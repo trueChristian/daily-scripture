@@ -1,5 +1,5 @@
-**Jeremiah 15:9**
+**Hebrews 3:18-19**
 
-9 She that hath borne seven languisheth: she hath given up the ghost; her sun is gone down while it was yet day: she hath been ashamed and confounded: and the residue of them will I deliver to the sword before their enemies, saith the Lord.
+18 And to whom sware he that they should not enter into his rest, but to them that believed not? 19 So we see that they could not enter in because of unbelief. 
 
-[Friday 21-January, 2022](https://t.me/s/daily_scripture)
+[Saturday 22-January, 2022](https://t.me/s/daily_scripture)
