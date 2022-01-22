@@ -1,5 +1,5 @@
-**Hebrews 3:18-19**
+**Jeremiah 6:6**
 
-18 And to whom sware he that they should not enter into his rest, but to them that believed not? 19 So we see that they could not enter in because of unbelief. 
+6 For thus hath the Lord of hosts said, Hew ye down trees, and cast a mount against Jerusalem: this is the city to be visited; she is wholly oppression in the midst of her.
 
-[Saturday 22-January, 2022](https://t.me/s/daily_scripture)
+[Sunday 23-January, 2022](https://t.me/s/daily_scripture)
