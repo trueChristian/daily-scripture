@@ -1,5 +1,5 @@
-**Jeremiah 6:6**
+**1 Corinthians 16:22**
 
-6 For thus hath the Lord of hosts said, Hew ye down trees, and cast a mount against Jerusalem: this is the city to be visited; she is wholly oppression in the midst of her.
+22 If any man love not the Lord Jesus Christ, let him be Anathema Maranatha.
 
-[Sunday 23-January, 2022](https://t.me/s/daily_scripture)
+[Monday 24-January, 2022](https://t.me/s/daily_scripture)
