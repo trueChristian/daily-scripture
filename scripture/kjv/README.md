@@ -1,5 +1,5 @@
-**1 Corinthians 16:22**
+**1 John 5:21**
 
-22 If any man love not the Lord Jesus Christ, let him be Anathema Maranatha.
+21 Little children, keep yourselves from idols. Amen.  
 
-[Monday 24-January, 2022](https://t.me/s/daily_scripture)
+[Tuesday 25-January, 2022](https://t.me/s/daily_scripture)
