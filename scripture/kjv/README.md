@@ -1,5 +1,5 @@
-**2 Corinthians 8:4**
+**John 4:50**
 
-4 Praying us with much intreaty that we would receive the gift, and take upon us the fellowship of the ministering to the saints.
+50 Jesus saith unto him, Go thy way; thy son liveth. And the man believed the word that Jesus had spoken unto him, and he went his way.
 
-[Wednesday 26-January, 2022](https://t.me/s/daily_scripture)
+[Thursday 27-January, 2022](https://t.me/s/daily_scripture)
