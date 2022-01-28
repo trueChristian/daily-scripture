@@ -1,5 +1,5 @@
-**Psalms 41:4**
+**Matthew 21:13**
 
-4 I said, Lord, be merciful unto me: heal my soul; for I have sinned against thee.
+13 And said unto them, It is written, My house shall be called the house of prayer; but ye have made it a den of thieves.
 
-[Friday 28-January, 2022](https://t.me/s/daily_scripture)
+[Saturday 29-January, 2022](https://t.me/s/daily_scripture)
