@@ -1,5 +1,5 @@
-**Matthew 21:13**
+**John 5:8-9**
 
-13 And said unto them, It is written, My house shall be called the house of prayer; but ye have made it a den of thieves.
+8 Jesus saith unto him, Rise, take up thy bed, and walk. 9 And immediately the man was made whole, and took up his bed, and walked: and on the same day was the sabbath.
 
-[Saturday 29-January, 2022](https://t.me/s/daily_scripture)
+[Sunday 30-January, 2022](https://t.me/s/daily_scripture)
