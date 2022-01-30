@@ -1,5 +1,5 @@
-**John 5:8-9**
+**Luke 12:2-3**
 
-8 Jesus saith unto him, Rise, take up thy bed, and walk. 9 And immediately the man was made whole, and took up his bed, and walked: and on the same day was the sabbath.
+2 For there is nothing covered, that shall not be revealed; neither hid, that shall not be known. 3 Therefore whatsoever ye have spoken in darkness shall be heard in the light; and that which ye have spoken in the ear in closets shall be proclaimed upon the housetops.
 
-[Sunday 30-January, 2022](https://t.me/s/daily_scripture)
+[Monday 31-January, 2022](https://t.me/s/daily_scripture)
