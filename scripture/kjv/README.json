@@ -1,14 +1,10 @@
 {
-  "date": "Monday 31-January, 2022",
-  "name": "Luke 12:2-3",
+  "date": "Tuesday 01-February, 2022",
+  "name": "John 3:27",
   "scripture": [
     {
-      "nr": "2",
-      "text": "For there is nothing covered, that shall not be revealed; neither hid, that shall not be known."
-    },
-    {
-      "nr": "3",
-      "text": "Therefore whatsoever ye have spoken in darkness shall be heard in the light; and that which ye have spoken in the ear in closets shall be proclaimed upon the housetops."
+      "nr": "27",
+      "text": "John answered and said, A man can receive nothing, except it be given him from heaven."
     }
   ],
   "source": "https://github.com/trueChristian/daily-scripture",
