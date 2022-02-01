@@ -1,5 +1,5 @@
-**John 3:27**
+**Colossians 3:2**
 
-27 John answered and said, A man can receive nothing, except it be given him from heaven.
+2 Set your affection on things above, not on things on the earth.
 
-[Tuesday 01-February, 2022](https://t.me/s/daily_scripture)
+[Wednesday 02-February, 2022](https://t.me/s/daily_scripture)
