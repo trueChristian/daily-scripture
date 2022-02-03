@@ -1,5 +1,5 @@
-**John 8:47**
+**Matthew 8:34**
 
-47 He that is of God heareth God’s words: ye therefore hear them not, because ye are not of God.
+34 And, behold, the whole city came out to meet Jesus: and when they saw him, they besought him that he would depart out of their coasts. 
 
-[Thursday 03-February, 2022](https://t.me/s/daily_scripture)
+[Friday 04-February, 2022](https://t.me/s/daily_scripture)
