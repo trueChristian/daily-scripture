@@ -1,10 +1,18 @@
 {
-  "date": "Friday 04-February, 2022",
-  "name": "Matthew 8:34",
+  "date": "Saturday 05-February, 2022",
+  "name": "Revelation 6:15-17",
   "scripture": [
     {
-      "nr": "34",
-      "text": "And, behold, the whole city came out to meet Jesus: and when they saw him, they besought him that he would depart out of their coasts. "
+      "nr": "15",
+      "text": "And the kings of the earth, and the great men, and the rich men, and the chief captains, and the mighty men, and every bondman, and every free man, hid themselves in the dens and in the rocks of the mountains;"
+    },
+    {
+      "nr": "16",
+      "text": "And said to the mountains and rocks, Fall on us, and hide us from the face of him that sitteth on the throne, and from the wrath of the Lamb:"
+    },
+    {
+      "nr": "17",
+      "text": "For the great day of his wrath is come; and who shall be able to stand? "
     }
   ],
   "source": "https://github.com/trueChristian/daily-scripture",
