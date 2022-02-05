@@ -1,18 +1,10 @@
 {
-  "date": "Saturday 05-February, 2022",
-  "name": "Revelation 6:15-17",
+  "date": "Sunday 06-February, 2022",
+  "name": "Proverbs 12:15",
   "scripture": [
     {
       "nr": "15",
-      "text": "And the kings of the earth, and the great men, and the rich men, and the chief captains, and the mighty men, and every bondman, and every free man, hid themselves in the dens and in the rocks of the mountains;"
-    },
-    {
-      "nr": "16",
-      "text": "And said to the mountains and rocks, Fall on us, and hide us from the face of him that sitteth on the throne, and from the wrath of the Lamb:"
-    },
-    {
-      "nr": "17",
-      "text": "For the great day of his wrath is come; and who shall be able to stand? "
+      "text": "The way of a fool is right in his own eyes: but he that hearkeneth unto counsel is wise."
     }
   ],
   "source": "https://github.com/trueChristian/daily-scripture",
