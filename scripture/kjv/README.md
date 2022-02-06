@@ -1,5 +1,5 @@
-**Proverbs 12:15**
+**Proverbs 13:4**
 
-15 The way of a fool is right in his own eyes: but he that hearkeneth unto counsel is wise.
+4 The soul of the sluggard desireth, and hath nothing: but the soul of the diligent shall be made fat.
 
-[Sunday 06-February, 2022](https://t.me/s/daily_scripture)
+[Monday 07-February, 2022](https://t.me/s/daily_scripture)
