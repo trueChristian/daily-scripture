@@ -1,5 +1,5 @@
-**Proverbs 13:4**
+**Joel 3:18**
 
-4 The soul of the sluggard desireth, and hath nothing: but the soul of the diligent shall be made fat.
+18 And it shall come to pass in that day, that the mountains shall drop down new wine, and the hills shall flow with milk, and all the rivers of Judah shall flow with waters, and a fountain shall come forth of the house of the Lord, and shall water the valley of Shittim.
 
-[Monday 07-February, 2022](https://t.me/s/daily_scripture)
+[Tuesday 08-February, 2022](https://t.me/s/daily_scripture)
