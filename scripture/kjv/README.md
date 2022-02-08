@@ -1,5 +1,5 @@
-**Joel 3:18**
+**Proverbs 24:32**
 
-18 And it shall come to pass in that day, that the mountains shall drop down new wine, and the hills shall flow with milk, and all the rivers of Judah shall flow with waters, and a fountain shall come forth of the house of the Lord, and shall water the valley of Shittim.
+32 Then I saw, and considered it well: I looked upon it, and received instruction.
 
-[Tuesday 08-February, 2022](https://t.me/s/daily_scripture)
+[Wednesday 09-February, 2022](https://t.me/s/daily_scripture)
