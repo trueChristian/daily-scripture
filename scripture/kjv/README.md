@@ -1,5 +1,5 @@
-**Proverbs 11:12**
+**Joshua 15:19**
 
-12 He that is void of wisdom despiseth his neighbour: but a man of understanding holdeth his peace.
+19 Who answered, Give me a blessing; for thou hast given me a south land; give me also springs of water. And he gave her the upper springs, and the nether springs.
 
-[Friday 11-February, 2022](https://t.me/s/daily_scripture)
+[Saturday 12-February, 2022](https://t.me/s/daily_scripture)
