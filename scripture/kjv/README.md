@@ -1,5 +1,5 @@
-**Joshua 15:19**
+**Revelation 1:5**
 
-19 Who answered, Give me a blessing; for thou hast given me a south land; give me also springs of water. And he gave her the upper springs, and the nether springs.
+5 And from Jesus Christ, who is the faithful witness, and the first begotten of the dead, and the prince of the kings of the earth. Unto him that loved us, and washed us from our sins in his own blood,
 
-[Saturday 12-February, 2022](https://t.me/s/daily_scripture)
+[Sunday 13-February, 2022](https://t.me/s/daily_scripture)
