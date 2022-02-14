@@ -1,5 +1,5 @@
-**1 Timothy 1:5-6**
+**Proverbs 15:4**
 
-5 Now the end of the commandment is charity out of a pure heart, and of a good conscience, and of faith unfeigned: 6 From which some having swerved have turned aside unto vain jangling;
+4 A wholesome tongue is a tree of life: but perverseness therein is a breach in the spirit.
 
-[Monday 14-February, 2022](https://t.me/s/daily_scripture)
+[Tuesday 15-February, 2022](https://t.me/s/daily_scripture)
