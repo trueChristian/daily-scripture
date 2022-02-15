@@ -1,10 +1,34 @@
 {
-  "date": "Tuesday 15-February, 2022",
-  "name": "Proverbs 15:4",
+  "date": "Wednesday 16-February, 2022",
+  "name": "Job 32:16-22",
   "scripture": [
     {
-      "nr": "4",
-      "text": "A wholesome tongue is a tree of life: but perverseness therein is a breach in the spirit."
+      "nr": "16",
+      "text": "When I had waited, (for they spake not, but stood still, and answered no more;)"
+    },
+    {
+      "nr": "17",
+      "text": "I said, I will answer also my part, I also will shew mine opinion."
+    },
+    {
+      "nr": "18",
+      "text": "For I am full of matter, the spirit within me constraineth me."
+    },
+    {
+      "nr": "19",
+      "text": "Behold, my belly is as wine which hath no vent; it is ready to burst like new bottles."
+    },
+    {
+      "nr": "20",
+      "text": "I will speak, that I may be refreshed: I will open my lips and answer."
+    },
+    {
+      "nr": "21",
+      "text": "Let me not, I pray you, accept any man’s person, neither let me give flattering titles unto man."
+    },
+    {
+      "nr": "22",
+      "text": "For I know not to give flattering titles; in so doing my maker would soon take me away. "
     }
   ],
   "source": "https://github.com/trueChristian/daily-scripture",
