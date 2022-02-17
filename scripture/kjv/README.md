@@ -1,5 +1,5 @@
-**Proverbs 27:5**
+**Ezekiel 34:20**
 
-5 Open rebuke is better than secret love.
+20 Therefore thus saith the Lord God unto them; Behold, I, even I, will judge between the fat cattle and between the lean cattle.
 
-[Thursday 17-February, 2022](https://t.me/s/daily_scripture)
+[Friday 18-February, 2022](https://t.me/s/daily_scripture)
