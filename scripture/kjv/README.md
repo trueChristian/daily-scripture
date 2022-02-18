@@ -1,5 +1,5 @@
-**Ezekiel 34:20**
+**Daniel 10:12-13**
 
-20 Therefore thus saith the Lord God unto them; Behold, I, even I, will judge between the fat cattle and between the lean cattle.
+12 Then said he unto me, Fear not, Daniel: for from the first day that thou didst set thine heart to understand, and to chasten thyself before thy God, thy words were heard, and I am come for thy words. 13 But the prince of the kingdom of Persia withstood me one and twenty days: but, lo, Michael, one of the chief princes, came to help me; and I remained there with the kings of Persia.
 
-[Friday 18-February, 2022](https://t.me/s/daily_scripture)
+[Saturday 19-February, 2022](https://t.me/s/daily_scripture)
