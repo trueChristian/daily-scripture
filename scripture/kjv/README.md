@@ -1,5 +1,5 @@
-**Daniel 10:12-13**
+**Jonah 1:3**
 
-12 Then said he unto me, Fear not, Daniel: for from the first day that thou didst set thine heart to understand, and to chasten thyself before thy God, thy words were heard, and I am come for thy words. 13 But the prince of the kingdom of Persia withstood me one and twenty days: but, lo, Michael, one of the chief princes, came to help me; and I remained there with the kings of Persia.
+3 But Jonah rose up to flee unto Tarshish from the presence of the Lord, and went down to Joppa; and he found a ship going to Tarshish: so he paid the fare thereof, and went down into it, to go with them unto Tarshish from the presence of the Lord.
 
-[Saturday 19-February, 2022](https://t.me/s/daily_scripture)
+[Sunday 20-February, 2022](https://t.me/s/daily_scripture)
