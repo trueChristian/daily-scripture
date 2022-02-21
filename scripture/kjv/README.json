@@ -1,14 +1,10 @@
 {
-  "date": "Monday 21-February, 2022",
-  "name": "Matthew 13:31-32",
+  "date": "Tuesday 22-February, 2022",
+  "name": "Song of Songs 2:15",
   "scripture": [
     {
-      "nr": "31",
-      "text": "Another parable put he forth unto them, saying, The kingdom of heaven is like to a grain of mustard seed, which a man took, and sowed in his field:"
-    },
-    {
-      "nr": "32",
-      "text": "Which indeed is the least of all seeds: but when it is grown, it is the greatest among herbs, and becometh a tree, so that the birds of the air come and lodge in the branches thereof."
+      "nr": "15",
+      "text": "Take us the foxes, the little foxes, that spoil the vines: for our vines have tender grapes."
     }
   ],
   "source": "https://github.com/trueChristian/daily-scripture",
