@@ -1,5 +1,5 @@
-**Song of Songs 2:15**
+**Psalms 46:7**
 
-15 Take us the foxes, the little foxes, that spoil the vines: for our vines have tender grapes.
+7 The Lord of hosts is with us; the God of Jacob is our refuge. Selah.
 
-[Tuesday 22-February, 2022](https://t.me/s/daily_scripture)
+[Wednesday 23-February, 2022](https://t.me/s/daily_scripture)
