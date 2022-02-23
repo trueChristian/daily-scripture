@@ -1,5 +1,5 @@
-**Psalms 46:7**
+**Acts 10:43**
 
-7 The Lord of hosts is with us; the God of Jacob is our refuge. Selah.
+43 To him give all the prophets witness, that through his name whosoever believeth in him shall receive remission of sins.
 
-[Wednesday 23-February, 2022](https://t.me/s/daily_scripture)
+[Thursday 24-February, 2022](https://t.me/s/daily_scripture)
