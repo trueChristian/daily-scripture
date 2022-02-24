@@ -1,5 +1,5 @@
-**Acts 10:43**
+**1 Corinthians 6:7**
 
-43 To him give all the prophets witness, that through his name whosoever believeth in him shall receive remission of sins.
+7 Now therefore there is utterly a fault among you, because ye go to law one with another. Why do ye not rather take wrong? why do ye not rather suffer yourselves to be defrauded?
 
-[Thursday 24-February, 2022](https://t.me/s/daily_scripture)
+[Friday 25-February, 2022](https://t.me/s/daily_scripture)
