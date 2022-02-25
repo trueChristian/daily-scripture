@@ -1,5 +1,5 @@
-**1 Corinthians 6:7**
+**James 1:25**
 
-7 Now therefore there is utterly a fault among you, because ye go to law one with another. Why do ye not rather take wrong? why do ye not rather suffer yourselves to be defrauded?
+25 But whoso looketh into the perfect law of liberty, and continueth therein, he being not a forgetful hearer, but a doer of the work, this man shall be blessed in his deed.
 
-[Friday 25-February, 2022](https://t.me/s/daily_scripture)
+[Saturday 26-February, 2022](https://t.me/s/daily_scripture)
