@@ -1,5 +1,5 @@
-**James 1:25**
+**Psalms 39:11**
 
-25 But whoso looketh into the perfect law of liberty, and continueth therein, he being not a forgetful hearer, but a doer of the work, this man shall be blessed in his deed.
+11 When thou with rebukes dost correct man for iniquity, thou makest his beauty to consume away like a moth: surely every man is vanity. Selah.
 
-[Saturday 26-February, 2022](https://t.me/s/daily_scripture)
+[Sunday 27-February, 2022](https://t.me/s/daily_scripture)
