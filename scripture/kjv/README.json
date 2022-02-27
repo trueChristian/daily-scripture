@@ -1,10 +1,14 @@
 {
-  "date": "Sunday 27-February, 2022",
-  "name": "Psalms 39:11",
+  "date": "Monday 28-February, 2022",
+  "name": "Ezekiel 12:22-23",
   "scripture": [
     {
-      "nr": "11",
-      "text": "When thou with rebukes dost correct man for iniquity, thou makest his beauty to consume away like a moth: surely every man is vanity. Selah."
+      "nr": "22",
+      "text": "Son of man, what is that proverb that ye have in the land of Israel, saying, The days are prolonged, and every vision faileth?"
+    },
+    {
+      "nr": "23",
+      "text": "Tell them therefore, Thus saith the Lord God; I will make this proverb to cease, and they shall no more use it as a proverb in Israel; but say unto them, The days are at hand, and the effect of every vision."
     }
   ],
   "source": "https://github.com/trueChristian/daily-scripture",
