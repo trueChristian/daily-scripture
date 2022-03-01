@@ -1,5 +1,5 @@
-**Psalms 68:20**
+**Psalms 119:30**
 
-20 He that is our God is the God of salvation; and unto God the Lord belong the issues from death.
+30 I have chosen the way of truth: thy judgments have I laid before me.
 
-[Tuesday 01-March, 2022](https://t.me/s/daily_scripture)
+[Wednesday 02-March, 2022](https://t.me/s/daily_scripture)
