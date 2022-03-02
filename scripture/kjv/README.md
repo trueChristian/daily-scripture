@@ -1,5 +1,5 @@
-**Psalms 119:30**
+**Acts 24:16**
 
-30 I have chosen the way of truth: thy judgments have I laid before me.
+16 And herein do I exercise myself, to have always a conscience void of offence toward God, and toward men.
 
-[Wednesday 02-March, 2022](https://t.me/s/daily_scripture)
+[Thursday 03-March, 2022](https://t.me/s/daily_scripture)
