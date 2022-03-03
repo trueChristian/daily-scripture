@@ -1,5 +1,5 @@
-**Acts 24:16**
+**Ecclesiastes 3:18**
 
-16 And herein do I exercise myself, to have always a conscience void of offence toward God, and toward men.
+18 I said in mine heart concerning the estate of the sons of men, that God might manifest them, and that they might see that they themselves are beasts.
 
-[Thursday 03-March, 2022](https://t.me/s/daily_scripture)
+[Friday 04-March, 2022](https://t.me/s/daily_scripture)
