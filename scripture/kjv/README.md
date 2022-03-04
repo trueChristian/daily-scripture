@@ -1,5 +1,5 @@
-**Ecclesiastes 3:18**
+**2 Chronicles 20:20**
 
-18 I said in mine heart concerning the estate of the sons of men, that God might manifest them, and that they might see that they themselves are beasts.
+20 And they rose early in the morning, and went forth into the wilderness of Tekoa: and as they went forth, Jehoshaphat stood and said, Hear me, O Judah, and ye inhabitants of Jerusalem; Believe in the Lord your God, so shall ye be established; believe his prophets, so shall ye prosper.
 
-[Friday 04-March, 2022](https://t.me/s/daily_scripture)
+[Saturday 05-March, 2022](https://t.me/s/daily_scripture)
