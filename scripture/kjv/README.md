@@ -1,5 +1,5 @@
-**2 Chronicles 20:20**
+**Isaiah 33:17**
 
-20 And they rose early in the morning, and went forth into the wilderness of Tekoa: and as they went forth, Jehoshaphat stood and said, Hear me, O Judah, and ye inhabitants of Jerusalem; Believe in the Lord your God, so shall ye be established; believe his prophets, so shall ye prosper.
+17 Thine eyes shall see the king in his beauty: they shall behold the land that is very far off.
 
-[Saturday 05-March, 2022](https://t.me/s/daily_scripture)
+[Sunday 06-March, 2022](https://t.me/s/daily_scripture)
