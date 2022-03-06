@@ -1,5 +1,5 @@
-**Isaiah 33:17**
+**Colossians 4:6**
 
-17 Thine eyes shall see the king in his beauty: they shall behold the land that is very far off.
+6 Let your speech be alway with grace, seasoned with salt, that ye may know how ye ought to answer every man.
 
-[Sunday 06-March, 2022](https://t.me/s/daily_scripture)
+[Monday 07-March, 2022](https://t.me/s/daily_scripture)
