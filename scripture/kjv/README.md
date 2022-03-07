@@ -1,5 +1,5 @@
-**Colossians 4:6**
+**2 Corinthians 13:5**
 
-6 Let your speech be alway with grace, seasoned with salt, that ye may know how ye ought to answer every man.
+5 Examine yourselves, whether ye be in the faith; prove your own selves. Know ye not your own selves, how that Jesus Christ is in you, except ye be reprobates?
 
-[Monday 07-March, 2022](https://t.me/s/daily_scripture)
+[Tuesday 08-March, 2022](https://t.me/s/daily_scripture)
