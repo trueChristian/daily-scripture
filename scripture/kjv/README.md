@@ -1,5 +1,5 @@
-**2 Corinthians 13:5**
+**Proverbs 30:6**
 
-5 Examine yourselves, whether ye be in the faith; prove your own selves. Know ye not your own selves, how that Jesus Christ is in you, except ye be reprobates?
+6 Add thou not unto his words, lest he reprove thee, and thou be found a liar.
 
-[Tuesday 08-March, 2022](https://t.me/s/daily_scripture)
+[Wednesday 09-March, 2022](https://t.me/s/daily_scripture)
