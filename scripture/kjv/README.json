@@ -1,10 +1,14 @@
 {
-  "date": "Wednesday 09-March, 2022",
-  "name": "Proverbs 30:6",
+  "date": "Thursday 10-March, 2022",
+  "name": "Luke 5:27-28",
   "scripture": [
     {
-      "nr": "6",
-      "text": "Add thou not unto his words, lest he reprove thee, and thou be found a liar."
+      "nr": "27",
+      "text": "And after these things he went forth, and saw a publican, named Levi, sitting at the receipt of custom: and he said unto him, Follow me."
+    },
+    {
+      "nr": "28",
+      "text": "And he left all, rose up, and followed him."
     }
   ],
   "source": "https://github.com/trueChristian/daily-scripture",

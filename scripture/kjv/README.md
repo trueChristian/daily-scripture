@@ -1,5 +1,5 @@
-**Proverbs 30:6**
+**Luke 5:27-28**
 
-6 Add thou not unto his words, lest he reprove thee, and thou be found a liar.
+27 And after these things he went forth, and saw a publican, named Levi, sitting at the receipt of custom: and he said unto him, Follow me. 28 And he left all, rose up, and followed him.
 
-[Wednesday 09-March, 2022](https://t.me/s/daily_scripture)
+[Thursday 10-March, 2022](https://t.me/s/daily_scripture)
