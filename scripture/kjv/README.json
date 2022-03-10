@@ -1,14 +1,26 @@
 {
-  "date": "Thursday 10-March, 2022",
-  "name": "Luke 5:27-28",
+  "date": "Friday 11-March, 2022",
+  "name": "Jeremiah 1:5-9",
   "scripture": [
     {
-      "nr": "27",
-      "text": "And after these things he went forth, and saw a publican, named Levi, sitting at the receipt of custom: and he said unto him, Follow me."
+      "nr": "5",
+      "text": "Before I formed thee in the belly I knew thee; and before thou camest forth out of the womb I sanctified thee, and I ordained thee a prophet unto the nations."
     },
     {
-      "nr": "28",
-      "text": "And he left all, rose up, and followed him."
+      "nr": "6",
+      "text": "Then said I, Ah, Lord God! behold, I cannot speak: for I am a child."
+    },
+    {
+      "nr": "7",
+      "text": "But the Lord said unto me, Say not, I am a child: for thou shalt go to all that I shall send thee, and whatsoever I command thee thou shalt speak."
+    },
+    {
+      "nr": "8",
+      "text": "Be not afraid of their faces: for I am with thee to deliver thee, saith the Lord."
+    },
+    {
+      "nr": "9",
+      "text": "Then the Lord put forth his hand, and touched my mouth. And the Lord said unto me, Behold, I have put my words in thy mouth."
     }
   ],
   "source": "https://github.com/trueChristian/daily-scripture",
