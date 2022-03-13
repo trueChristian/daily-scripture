@@ -1,5 +1,5 @@
-**Proverbs 31:30**
+**Romans 13:1**
 
-30 Favour is deceitful, and beauty is vain: but a woman that feareth the Lord, she shall be praised.
+1 Let every soul be subject unto the higher powers. For there is no power but of God: the powers that be are ordained of God.
 
-[Sunday 13-March, 2022](https://t.me/s/daily_scripture)
+[Monday 14-March, 2022](https://t.me/s/daily_scripture)
