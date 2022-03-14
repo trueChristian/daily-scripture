@@ -1,5 +1,5 @@
-**Romans 13:1**
+**Psalms 10:17-18**
 
-1 Let every soul be subject unto the higher powers. For there is no power but of God: the powers that be are ordained of God.
+17 Lord, thou hast heard the desire of the humble: thou wilt prepare their heart, thou wilt cause thine ear to hear: 18 To judge the fatherless and the oppressed, that the man of the earth may no more oppress. 
 
-[Monday 14-March, 2022](https://t.me/s/daily_scripture)
+[Tuesday 15-March, 2022](https://t.me/s/daily_scripture)

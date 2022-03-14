@@ -1,10 +1,14 @@
 {
-  "date": "Monday 14-March, 2022",
-  "name": "Romans 13:1",
+  "date": "Tuesday 15-March, 2022",
+  "name": "Psalms 10:17-18",
   "scripture": [
     {
-      "nr": "1",
-      "text": "Let every soul be subject unto the higher powers. For there is no power but of God: the powers that be are ordained of God."
+      "nr": "17",
+      "text": "Lord, thou hast heard the desire of the humble: thou wilt prepare their heart, thou wilt cause thine ear to hear:"
+    },
+    {
+      "nr": "18",
+      "text": "To judge the fatherless and the oppressed, that the man of the earth may no more oppress. "
     }
   ],
   "source": "https://github.com/trueChristian/daily-scripture",
