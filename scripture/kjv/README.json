@@ -1,14 +1,14 @@
 {
-  "date": "Tuesday 15-March, 2022",
-  "name": "Psalms 10:17-18",
+  "date": "Wednesday 16-March, 2022",
+  "name": "Jeremiah 31:3-4",
   "scripture": [
     {
-      "nr": "17",
-      "text": "Lord, thou hast heard the desire of the humble: thou wilt prepare their heart, thou wilt cause thine ear to hear:"
+      "nr": "3",
+      "text": "The Lord hath appeared of old unto me, saying, Yea, I have loved thee with an everlasting love: therefore with lovingkindness have I drawn thee."
     },
     {
-      "nr": "18",
-      "text": "To judge the fatherless and the oppressed, that the man of the earth may no more oppress. "
+      "nr": "4",
+      "text": "Again I will build thee, and thou shalt be built, O virgin of Israel: thou shalt again be adorned with thy tabrets, and shalt go forth in the dances of them that make merry."
     }
   ],
   "source": "https://github.com/trueChristian/daily-scripture",
