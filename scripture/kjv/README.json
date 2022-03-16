@@ -1,14 +1,10 @@
 {
-  "date": "Wednesday 16-March, 2022",
-  "name": "Jeremiah 31:3-4",
+  "date": "Thursday 17-March, 2022",
+  "name": "Acts 5:42",
   "scripture": [
     {
-      "nr": "3",
-      "text": "The Lord hath appeared of old unto me, saying, Yea, I have loved thee with an everlasting love: therefore with lovingkindness have I drawn thee."
-    },
-    {
-      "nr": "4",
-      "text": "Again I will build thee, and thou shalt be built, O virgin of Israel: thou shalt again be adorned with thy tabrets, and shalt go forth in the dances of them that make merry."
+      "nr": "42",
+      "text": "And daily in the temple, and in every house, they ceased not to teach and preach Jesus Christ. "
     }
   ],
   "source": "https://github.com/trueChristian/daily-scripture",
