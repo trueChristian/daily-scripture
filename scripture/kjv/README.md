@@ -1,5 +1,5 @@
-**Ephesians 3:16**
+**Proverbs 11:13**
 
-16 That he would grant you, according to the riches of his glory, to be strengthened with might by his Spirit in the inner man;
+13 A talebearer revealeth secrets: but he that is of a faithful spirit concealeth the matter.
 
-[Friday 18-March, 2022](https://t.me/s/daily_scripture)
+[Saturday 19-March, 2022](https://t.me/s/daily_scripture)
