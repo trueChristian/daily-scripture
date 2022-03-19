@@ -1,5 +1,5 @@
-**Proverbs 11:13**
+**Luke 17:15-18**
 
-13 A talebearer revealeth secrets: but he that is of a faithful spirit concealeth the matter.
+15 And one of them, when he saw that he was healed, turned back, and with a loud voice glorified God, 16 And fell down on his face at his feet, giving him thanks: and he was a Samaritan. 17 And Jesus answering said, Were there not ten cleansed? but where are the nine? 18 There are not found that returned to give glory to God, save this stranger.
 
-[Saturday 19-March, 2022](https://t.me/s/daily_scripture)
+[Sunday 20-March, 2022](https://t.me/s/daily_scripture)
