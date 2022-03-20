@@ -1,22 +1,10 @@
 {
-  "date": "Sunday 20-March, 2022",
-  "name": "Luke 17:15-18",
+  "date": "Monday 21-March, 2022",
+  "name": "Matthew 13:57",
   "scripture": [
     {
-      "nr": "15",
-      "text": "And one of them, when he saw that he was healed, turned back, and with a loud voice glorified God,"
-    },
-    {
-      "nr": "16",
-      "text": "And fell down on his face at his feet, giving him thanks: and he was a Samaritan."
-    },
-    {
-      "nr": "17",
-      "text": "And Jesus answering said, Were there not ten cleansed? but where are the nine?"
-    },
-    {
-      "nr": "18",
-      "text": "There are not found that returned to give glory to God, save this stranger."
+      "nr": "57",
+      "text": "And they were offended in him. But Jesus said unto them, A prophet is not without honour, save in his own country, and in his own house."
     }
   ],
   "source": "https://github.com/trueChristian/daily-scripture",
