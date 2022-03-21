@@ -1,5 +1,5 @@
-**Matthew 13:57**
+**Ezekiel 45:10**
 
-57 And they were offended in him. But Jesus said unto them, A prophet is not without honour, save in his own country, and in his own house.
+10 Ye shall have just balances, and a just ephah, and a just bath.
 
-[Monday 21-March, 2022](https://t.me/s/daily_scripture)
+[Tuesday 22-March, 2022](https://t.me/s/daily_scripture)
