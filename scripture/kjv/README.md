@@ -1,5 +1,5 @@
-**Ezekiel 45:10**
+**Jeremiah 12:6**
 
-10 Ye shall have just balances, and a just ephah, and a just bath.
+6 For even thy brethren, and the house of thy father, even they have dealt treacherously with thee; yea, they have called a multitude after thee: believe them not, though they speak fair words unto thee.
 
-[Tuesday 22-March, 2022](https://t.me/s/daily_scripture)
+[Wednesday 23-March, 2022](https://t.me/s/daily_scripture)
