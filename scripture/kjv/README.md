@@ -1,5 +1,5 @@
-**1 John 1:7-8**
+**Song of Songs 4:16**
 
-7 But if we walk in the light, as he is in the light, we have fellowship one with another, and the blood of Jesus Christ his Son cleanseth us from all sin. 8 If we say that we have no sin, we deceive ourselves, and the truth is not in us.
+16 Awake, O north wind; and come, thou south; blow upon my garden, that the spices thereof may flow out. Let my beloved come into his garden, and eat his pleasant fruits. 
 
-[Thursday 24-March, 2022](https://t.me/s/daily_scripture)
+[Friday 25-March, 2022](https://t.me/s/daily_scripture)
