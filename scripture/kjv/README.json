@@ -1,14 +1,10 @@
 {
-  "date": "Saturday 26-March, 2022",
-  "name": "1 Peter 3:8-9",
+  "date": "Sunday 27-March, 2022",
+  "name": "Revelation 1:8",
   "scripture": [
     {
       "nr": "8",
-      "text": "Finally, be ye all of one mind, having compassion one of another, love as brethren, be pitiful, be courteous:"
-    },
-    {
-      "nr": "9",
-      "text": "Not rendering evil for evil, or railing for railing: but contrariwise blessing; knowing that ye are thereunto called, that ye should inherit a blessing."
+      "text": "I am Alpha and Omega, the beginning and the ending, saith the Lord, which is, and which was, and which is to come, the Almighty."
     }
   ],
   "source": "https://github.com/trueChristian/daily-scripture",
