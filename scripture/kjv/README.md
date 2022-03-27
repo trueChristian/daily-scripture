@@ -1,5 +1,5 @@
-**Revelation 1:8**
+**Matthew 12:35-37**
 
-8 I am Alpha and Omega, the beginning and the ending, saith the Lord, which is, and which was, and which is to come, the Almighty.
+35 A good man out of the good treasure of the heart bringeth forth good things: and an evil man out of the evil treasure bringeth forth evil things. 36 But I say unto you, That every idle word that men shall speak, they shall give account thereof in the day of judgment. 37 For by thy words thou shalt be justified, and by thy words thou shalt be condemned.
 
-[Sunday 27-March, 2022](https://t.me/s/daily_scripture)
+[Monday 28-March, 2022](https://t.me/s/daily_scripture)
