@@ -1,18 +1,10 @@
 {
-  "date": "Monday 28-March, 2022",
-  "name": "Matthew 12:35-37",
+  "date": "Tuesday 29-March, 2022",
+  "name": "1 Peter 4:19",
   "scripture": [
     {
-      "nr": "35",
-      "text": "A good man out of the good treasure of the heart bringeth forth good things: and an evil man out of the evil treasure bringeth forth evil things."
-    },
-    {
-      "nr": "36",
-      "text": "But I say unto you, That every idle word that men shall speak, they shall give account thereof in the day of judgment."
-    },
-    {
-      "nr": "37",
-      "text": "For by thy words thou shalt be justified, and by thy words thou shalt be condemned."
+      "nr": "19",
+      "text": "Wherefore let them that suffer according to the will of God commit the keeping of their souls to him in well doing, as unto a faithful Creator. "
     }
   ],
   "source": "https://github.com/trueChristian/daily-scripture",
