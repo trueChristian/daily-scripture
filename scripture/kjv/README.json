@@ -1,22 +1,14 @@
 {
-  "date": "Wednesday 30-March, 2022",
-  "name": "Matthew 5:38-41",
+  "date": "Thursday 31-March, 2022",
+  "name": "Amos 8:11-12",
   "scripture": [
     {
-      "nr": "38",
-      "text": "Ye have heard that it hath been said, An eye for an eye, and a tooth for a tooth:"
+      "nr": "11",
+      "text": "Behold, the days come, saith the Lord God, that I will send a famine in the land, not a famine of bread, nor a thirst for water, but of hearing the words of the Lord:"
     },
     {
-      "nr": "39",
-      "text": "But I say unto you, That ye resist not evil: but whosoever shall smite thee on thy right cheek, turn to him the other also."
-    },
-    {
-      "nr": "40",
-      "text": "And if any man will sue thee at the law, and take away thy coat, let him have thy cloke also."
-    },
-    {
-      "nr": "41",
-      "text": "And whosoever shall compel thee to go a mile, go with him twain."
+      "nr": "12",
+      "text": "And they shall wander from sea to sea, and from the north even to the east, they shall run to and fro to seek the word of the Lord, and shall not find it."
     }
   ],
   "source": "https://github.com/trueChristian/daily-scripture",
