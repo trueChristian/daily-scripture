@@ -1,5 +1,5 @@
-**Amos 8:11-12**
+**Genesis 45:14-15**
 
-11 Behold, the days come, saith the Lord God, that I will send a famine in the land, not a famine of bread, nor a thirst for water, but of hearing the words of the Lord: 12 And they shall wander from sea to sea, and from the north even to the east, they shall run to and fro to seek the word of the Lord, and shall not find it.
+14 And he fell upon his brother Benjamin’s neck, and wept; and Benjamin wept upon his neck. 15 Moreover he kissed all his brethren, and wept upon them: and after that his brethren talked with him.
 
-[Thursday 31-March, 2022](https://t.me/s/daily_scripture)
+[Friday 01-April, 2022](https://t.me/s/daily_scripture)
