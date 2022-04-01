@@ -1,5 +1,5 @@
-**Genesis 45:14-15**
+**Proverbs 22:16**
 
-14 And he fell upon his brother Benjamin’s neck, and wept; and Benjamin wept upon his neck. 15 Moreover he kissed all his brethren, and wept upon them: and after that his brethren talked with him.
+16 He that oppresseth the poor to increase his riches, and he that giveth to the rich, shall surely come to want.
 
-[Friday 01-April, 2022](https://t.me/s/daily_scripture)
+[Saturday 02-April, 2022](https://t.me/s/daily_scripture)
