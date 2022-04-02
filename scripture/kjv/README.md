@@ -1,5 +1,5 @@
-**Proverbs 22:16**
+**2 Corinthians 3:17**
 
-16 He that oppresseth the poor to increase his riches, and he that giveth to the rich, shall surely come to want.
+17 Now the Lord is that Spirit: and where the Spirit of the Lord is, there is liberty.
 
-[Saturday 02-April, 2022](https://t.me/s/daily_scripture)
+[Sunday 03-April, 2022](https://t.me/s/daily_scripture)
