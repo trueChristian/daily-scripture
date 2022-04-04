@@ -1,18 +1,10 @@
 {
-  "date": "Monday 04-April, 2022",
-  "name": "Matthew 6:19-21",
+  "date": "Tuesday 05-April, 2022",
+  "name": "Proverbs 17:17",
   "scripture": [
     {
-      "nr": "19",
-      "text": "Lay not up for yourselves treasures upon earth, where moth and rust doth corrupt, and where thieves break through and steal:"
-    },
-    {
-      "nr": "20",
-      "text": "But lay up for yourselves treasures in heaven, where neither moth nor rust doth corrupt, and where thieves do not break through nor steal:"
-    },
-    {
-      "nr": "21",
-      "text": "For where your treasure is, there will your heart be also."
+      "nr": "17",
+      "text": "A friend loveth at all times, and a brother is born for adversity."
     }
   ],
   "source": "https://github.com/trueChristian/daily-scripture",
