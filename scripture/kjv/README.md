@@ -1,5 +1,5 @@
-**John 15:2**
+**Psalms 20:4-5**
 
-2 Every branch in me that beareth not fruit he taketh away: and every branch that beareth fruit, he purgeth it, that it may bring forth more fruit.
+4 Grant thee according to thine own heart, and fulfil all thy counsel. 5 We will rejoice in thy salvation, and in the name of our God we will set up our banners: the Lord fulfil all thy petitions.
 
-[Wednesday 06-April, 2022](https://t.me/s/daily_scripture)
+[Thursday 07-April, 2022](https://t.me/s/daily_scripture)

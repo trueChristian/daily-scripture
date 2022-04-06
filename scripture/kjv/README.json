@@ -1,10 +1,14 @@
 {
-  "date": "Wednesday 06-April, 2022",
-  "name": "John 15:2",
+  "date": "Thursday 07-April, 2022",
+  "name": "Psalms 20:4-5",
   "scripture": [
     {
-      "nr": "2",
-      "text": "Every branch in me that beareth not fruit he taketh away: and every branch that beareth fruit, he purgeth it, that it may bring forth more fruit."
+      "nr": "4",
+      "text": "Grant thee according to thine own heart, and fulfil all thy counsel."
+    },
+    {
+      "nr": "5",
+      "text": "We will rejoice in thy salvation, and in the name of our God we will set up our banners: the Lord fulfil all thy petitions."
     }
   ],
   "source": "https://github.com/trueChristian/daily-scripture",
