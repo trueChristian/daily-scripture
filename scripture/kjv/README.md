@@ -1,5 +1,5 @@
-**Job 35:13**
+**Proverbs 12:1**
 
-13 Surely God will not hear vanity, neither will the Almighty regard it.
+1 Whoso loveth instruction loveth knowledge: but he that hateth reproof is brutish.
 
-[Friday 08-April, 2022](https://t.me/s/daily_scripture)
+[Saturday 09-April, 2022](https://t.me/s/daily_scripture)
