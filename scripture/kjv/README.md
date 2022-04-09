@@ -1,5 +1,5 @@
-**Proverbs 12:1**
+**Psalms 33:3**
 
-1 Whoso loveth instruction loveth knowledge: but he that hateth reproof is brutish.
+3 Sing unto him a new song; play skilfully with a loud noise.
 
-[Saturday 09-April, 2022](https://t.me/s/daily_scripture)
+[Sunday 10-April, 2022](https://t.me/s/daily_scripture)
