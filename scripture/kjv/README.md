@@ -1,5 +1,5 @@
-**Proverbs 17:10**
+**Hebrews 3:12**
 
-10 A reproof entereth more into a wise man than an hundred stripes into a fool.
+12 Take heed, brethren, lest there be in any of you an evil heart of unbelief, in departing from the living God.
 
-[Tuesday 12-April, 2022](https://t.me/s/daily_scripture)
+[Wednesday 13-April, 2022](https://t.me/s/daily_scripture)
