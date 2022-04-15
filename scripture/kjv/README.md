@@ -1,5 +1,5 @@
-**Song of Songs 4:7**
+**Acts 5:32**
 
-7 Thou art all fair, my love; there is no spot in thee.
+32 And we are his witnesses of these things; and so is also the Holy Ghost, whom God hath given to them that obey him.
 
-[Friday 15-April, 2022](https://t.me/s/daily_scripture)
+[Saturday 16-April, 2022](https://t.me/s/daily_scripture)
