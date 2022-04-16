@@ -1,5 +1,5 @@
-**Acts 5:32**
+**Hebrews 12:15**
 
-32 And we are his witnesses of these things; and so is also the Holy Ghost, whom God hath given to them that obey him.
+15 Looking diligently lest any man fail of the grace of God; lest any root of bitterness springing up trouble you, and thereby many be defiled;
 
-[Saturday 16-April, 2022](https://t.me/s/daily_scripture)
+[Sunday 17-April, 2022](https://t.me/s/daily_scripture)
