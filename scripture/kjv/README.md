@@ -1,5 +1,5 @@
-**Hebrews 12:15**
+**John 18:37**
 
-15 Looking diligently lest any man fail of the grace of God; lest any root of bitterness springing up trouble you, and thereby many be defiled;
+37 Pilate therefore said unto him, Art thou a king then? Jesus answered, Thou sayest that I am a king. To this end was I born, and for this cause came I into the world, that I should bear witness unto the truth. Every one that is of the truth heareth my voice.
 
-[Sunday 17-April, 2022](https://t.me/s/daily_scripture)
+[Monday 18-April, 2022](https://t.me/s/daily_scripture)
