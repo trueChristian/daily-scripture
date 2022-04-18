@@ -1,5 +1,5 @@
-**John 18:37**
+**Psalms 17:5**
 
-37 Pilate therefore said unto him, Art thou a king then? Jesus answered, Thou sayest that I am a king. To this end was I born, and for this cause came I into the world, that I should bear witness unto the truth. Every one that is of the truth heareth my voice.
+5 Hold up my goings in thy paths, that my footsteps slip not.
 
-[Monday 18-April, 2022](https://t.me/s/daily_scripture)
+[Tuesday 19-April, 2022](https://t.me/s/daily_scripture)
