@@ -1,5 +1,5 @@
-**Galatians 5:6**
+**Proverbs 20:18**
 
-6 For in Jesus Christ neither circumcision availeth any thing, nor uncircumcision; but faith which worketh by love.
+18 Every purpose is established by counsel: and with good advice make war.
 
-[Wednesday 20-April, 2022](https://t.me/s/daily_scripture)
+[Thursday 21-April, 2022](https://t.me/s/daily_scripture)
