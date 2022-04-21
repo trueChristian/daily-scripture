@@ -1,5 +1,5 @@
-**Proverbs 20:18**
+**Acts 5:41**
 
-18 Every purpose is established by counsel: and with good advice make war.
+41 And they departed from the presence of the council, rejoicing that they were counted worthy to suffer shame for his name.
 
-[Thursday 21-April, 2022](https://t.me/s/daily_scripture)
+[Friday 22-April, 2022](https://t.me/s/daily_scripture)
