@@ -1,5 +1,5 @@
-**Acts 5:41**
+**Proverbs 17:8**
 
-41 And they departed from the presence of the council, rejoicing that they were counted worthy to suffer shame for his name.
+8 A gift is as a precious stone in the eyes of him that hath it: whithersoever it turneth, it prospereth.
 
-[Friday 22-April, 2022](https://t.me/s/daily_scripture)
+[Saturday 23-April, 2022](https://t.me/s/daily_scripture)
