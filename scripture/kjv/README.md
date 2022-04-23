@@ -1,5 +1,5 @@
-**Proverbs 17:8**
+**Matthew 18:15-17**
 
-8 A gift is as a precious stone in the eyes of him that hath it: whithersoever it turneth, it prospereth.
+15 Moreover if thy brother shall trespass against thee, go and tell him his fault between thee and him alone: if he shall hear thee, thou hast gained thy brother. 16 But if he will not hear thee, then take with thee one or two more, that in the mouth of two or three witnesses every word may be established. 17 And if he shall neglect to hear them, tell it unto the church: but if he neglect to hear the church, let him be unto thee as an heathen man and a publican.
 
-[Saturday 23-April, 2022](https://t.me/s/daily_scripture)
+[Sunday 24-April, 2022](https://t.me/s/daily_scripture)
