@@ -1,5 +1,5 @@
-**Matthew 18:15-17**
+**2 Corinthians 12:10**
 
-15 Moreover if thy brother shall trespass against thee, go and tell him his fault between thee and him alone: if he shall hear thee, thou hast gained thy brother. 16 But if he will not hear thee, then take with thee one or two more, that in the mouth of two or three witnesses every word may be established. 17 And if he shall neglect to hear them, tell it unto the church: but if he neglect to hear the church, let him be unto thee as an heathen man and a publican.
+10 Therefore I take pleasure in infirmities, in reproaches, in necessities, in persecutions, in distresses for Christ’s sake: for when I am weak, then am I strong.
 
-[Sunday 24-April, 2022](https://t.me/s/daily_scripture)
+[Monday 25-April, 2022](https://t.me/s/daily_scripture)

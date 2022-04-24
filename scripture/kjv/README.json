@@ -1,18 +1,10 @@
 {
-  "date": "Sunday 24-April, 2022",
-  "name": "Matthew 18:15-17",
+  "date": "Monday 25-April, 2022",
+  "name": "2 Corinthians 12:10",
   "scripture": [
     {
-      "nr": "15",
-      "text": "Moreover if thy brother shall trespass against thee, go and tell him his fault between thee and him alone: if he shall hear thee, thou hast gained thy brother."
-    },
-    {
-      "nr": "16",
-      "text": "But if he will not hear thee, then take with thee one or two more, that in the mouth of two or three witnesses every word may be established."
-    },
-    {
-      "nr": "17",
-      "text": "And if he shall neglect to hear them, tell it unto the church: but if he neglect to hear the church, let him be unto thee as an heathen man and a publican."
+      "nr": "10",
+      "text": "Therefore I take pleasure in infirmities, in reproaches, in necessities, in persecutions, in distresses for Christ’s sake: for when I am weak, then am I strong."
     }
   ],
   "source": "https://github.com/trueChristian/daily-scripture",
