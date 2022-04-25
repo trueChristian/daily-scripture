@@ -1,5 +1,5 @@
-**2 Corinthians 12:10**
+**Mark 10:16**
 
-10 Therefore I take pleasure in infirmities, in reproaches, in necessities, in persecutions, in distresses for Christ’s sake: for when I am weak, then am I strong.
+16 And he took them up in his arms, put his hands upon them, and blessed them.
 
-[Monday 25-April, 2022](https://t.me/s/daily_scripture)
+[Tuesday 26-April, 2022](https://t.me/s/daily_scripture)
