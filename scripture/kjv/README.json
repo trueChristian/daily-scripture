@@ -1,10 +1,14 @@
 {
-  "date": "Tuesday 26-April, 2022",
-  "name": "Mark 10:16",
+  "date": "Wednesday 27-April, 2022",
+  "name": "Hebrews 6:11-12",
   "scripture": [
     {
-      "nr": "16",
-      "text": "And he took them up in his arms, put his hands upon them, and blessed them."
+      "nr": "11",
+      "text": "And we desire that every one of you do shew the same diligence to the full assurance of hope unto the end:"
+    },
+    {
+      "nr": "12",
+      "text": "That ye be not slothful, but followers of them who through faith and patience inherit the promises."
     }
   ],
   "source": "https://github.com/trueChristian/daily-scripture",
