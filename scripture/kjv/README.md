@@ -1,5 +1,5 @@
-**Hebrews 6:11-12**
+**Job 22:21-23**
 
-11 And we desire that every one of you do shew the same diligence to the full assurance of hope unto the end: 12 That ye be not slothful, but followers of them who through faith and patience inherit the promises.
+21 Acquaint now thyself with him, and be at peace: thereby good shall come unto thee. 22 Receive, I pray thee, the law from his mouth, and lay up his words in thine heart. 23 If thou return to the Almighty, thou shalt be built up, thou shalt put away iniquity far from thy tabernacles.
 
-[Wednesday 27-April, 2022](https://t.me/s/daily_scripture)
+[Thursday 28-April, 2022](https://t.me/s/daily_scripture)

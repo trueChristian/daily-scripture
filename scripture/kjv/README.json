@@ -1,14 +1,18 @@
 {
-  "date": "Wednesday 27-April, 2022",
-  "name": "Hebrews 6:11-12",
+  "date": "Thursday 28-April, 2022",
+  "name": "Job 22:21-23",
   "scripture": [
     {
-      "nr": "11",
-      "text": "And we desire that every one of you do shew the same diligence to the full assurance of hope unto the end:"
+      "nr": "21",
+      "text": "Acquaint now thyself with him, and be at peace: thereby good shall come unto thee."
     },
     {
-      "nr": "12",
-      "text": "That ye be not slothful, but followers of them who through faith and patience inherit the promises."
+      "nr": "22",
+      "text": "Receive, I pray thee, the law from his mouth, and lay up his words in thine heart."
+    },
+    {
+      "nr": "23",
+      "text": "If thou return to the Almighty, thou shalt be built up, thou shalt put away iniquity far from thy tabernacles."
     }
   ],
   "source": "https://github.com/trueChristian/daily-scripture",
