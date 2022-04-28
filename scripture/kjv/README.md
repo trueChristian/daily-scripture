@@ -1,5 +1,5 @@
-**Job 22:21-23**
+**Isaiah 66:5**
 
-21 Acquaint now thyself with him, and be at peace: thereby good shall come unto thee. 22 Receive, I pray thee, the law from his mouth, and lay up his words in thine heart. 23 If thou return to the Almighty, thou shalt be built up, thou shalt put away iniquity far from thy tabernacles.
+5 Hear the word of the Lord, ye that tremble at his word; Your brethren that hated you, that cast you out for my name’s sake, said, Let the Lord be glorified: but he shall appear to your joy, and they shall be ashamed.
 
-[Thursday 28-April, 2022](https://t.me/s/daily_scripture)
+[Friday 29-April, 2022](https://t.me/s/daily_scripture)
