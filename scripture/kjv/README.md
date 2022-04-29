@@ -1,5 +1,5 @@
-**Isaiah 66:5**
+**Psalms 30:11**
 
-5 Hear the word of the Lord, ye that tremble at his word; Your brethren that hated you, that cast you out for my name’s sake, said, Let the Lord be glorified: but he shall appear to your joy, and they shall be ashamed.
+11 Thou hast turned for me my mourning into dancing: thou hast put off my sackcloth, and girded me with gladness;
 
-[Friday 29-April, 2022](https://t.me/s/daily_scripture)
+[Saturday 30-April, 2022](https://t.me/s/daily_scripture)
