@@ -1,5 +1,5 @@
-**Psalms 30:11**
+**Ruth 2:12**
 
-11 Thou hast turned for me my mourning into dancing: thou hast put off my sackcloth, and girded me with gladness;
+12 The Lord recompense thy work, and a full reward be given thee of the Lord God of Israel, under whose wings thou art come to trust.
 
-[Saturday 30-April, 2022](https://t.me/s/daily_scripture)
+[Sunday 01-May, 2022](https://t.me/s/daily_scripture)
