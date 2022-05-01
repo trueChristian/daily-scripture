@@ -1,5 +1,5 @@
-**Ruth 2:12**
+**Song of Songs 6:4**
 
-12 The Lord recompense thy work, and a full reward be given thee of the Lord God of Israel, under whose wings thou art come to trust.
+4 Thou art beautiful, O my love, as Tirzah, comely as Jerusalem, terrible as an army with banners.
 
-[Sunday 01-May, 2022](https://t.me/s/daily_scripture)
+[Monday 02-May, 2022](https://t.me/s/daily_scripture)
