@@ -1,5 +1,5 @@
-**Song of Songs 6:4**
+**Luke 12:22-24**
 
-4 Thou art beautiful, O my love, as Tirzah, comely as Jerusalem, terrible as an army with banners.
+22 And he said unto his disciples, Therefore I say unto you, Take no thought for your life, what ye shall eat; neither for the body, what ye shall put on. 23 The life is more than meat, and the body is more than raiment. 24 Consider the ravens: for they neither sow nor reap; which neither have storehouse nor barn; and God feedeth them: how much more are ye better than the fowls?
 
-[Monday 02-May, 2022](https://t.me/s/daily_scripture)
+[Tuesday 03-May, 2022](https://t.me/s/daily_scripture)
