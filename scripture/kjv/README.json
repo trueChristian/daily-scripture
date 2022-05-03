@@ -1,18 +1,10 @@
 {
-  "date": "Tuesday 03-May, 2022",
-  "name": "Luke 12:22-24",
+  "date": "Wednesday 04-May, 2022",
+  "name": "Psalms 34:18",
   "scripture": [
     {
-      "nr": "22",
-      "text": "And he said unto his disciples, Therefore I say unto you, Take no thought for your life, what ye shall eat; neither for the body, what ye shall put on."
-    },
-    {
-      "nr": "23",
-      "text": "The life is more than meat, and the body is more than raiment."
-    },
-    {
-      "nr": "24",
-      "text": "Consider the ravens: for they neither sow nor reap; which neither have storehouse nor barn; and God feedeth them: how much more are ye better than the fowls?"
+      "nr": "18",
+      "text": "The Lord is nigh unto them that are of a broken heart; and saveth such as be of a contrite spirit."
     }
   ],
   "source": "https://github.com/trueChristian/daily-scripture",
