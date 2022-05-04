@@ -1,5 +1,5 @@
-**Psalms 34:18**
+**Proverbs 20:3**
 
-18 The Lord is nigh unto them that are of a broken heart; and saveth such as be of a contrite spirit.
+3 It is an honour for a man to cease from strife: but every fool will be meddling.
 
-[Wednesday 04-May, 2022](https://t.me/s/daily_scripture)
+[Thursday 05-May, 2022](https://t.me/s/daily_scripture)
