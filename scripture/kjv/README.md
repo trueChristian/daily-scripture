@@ -1,5 +1,5 @@
-**Proverbs 20:3**
+**2 Corinthians 5:20**
 
-3 It is an honour for a man to cease from strife: but every fool will be meddling.
+20 Now then we are ambassadors for Christ, as though God did beseech you by us: we pray you in Christ’s stead, be ye reconciled to God.
 
-[Thursday 05-May, 2022](https://t.me/s/daily_scripture)
+[Friday 06-May, 2022](https://t.me/s/daily_scripture)
