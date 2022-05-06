@@ -1,5 +1,5 @@
-**2 Corinthians 5:20**
+**Ecclesiastes 10:1**
 
-20 Now then we are ambassadors for Christ, as though God did beseech you by us: we pray you in Christ’s stead, be ye reconciled to God.
+1 Dead flies cause the ointment of the apothecary to send forth a stinking savour: so doth a little folly him that is in reputation for wisdom and honour.
 
-[Friday 06-May, 2022](https://t.me/s/daily_scripture)
+[Saturday 07-May, 2022](https://t.me/s/daily_scripture)
