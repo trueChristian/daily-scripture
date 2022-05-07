@@ -1,5 +1,5 @@
-**Ecclesiastes 10:1**
+**Proverbs 15:8**
 
-1 Dead flies cause the ointment of the apothecary to send forth a stinking savour: so doth a little folly him that is in reputation for wisdom and honour.
+8 The sacrifice of the wicked is an abomination to the Lord: but the prayer of the upright is his delight.
 
-[Saturday 07-May, 2022](https://t.me/s/daily_scripture)
+[Sunday 08-May, 2022](https://t.me/s/daily_scripture)
