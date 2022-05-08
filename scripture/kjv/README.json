@@ -1,10 +1,18 @@
 {
-  "date": "Sunday 08-May, 2022",
-  "name": "Proverbs 15:8",
+  "date": "Monday 09-May, 2022",
+  "name": "Luke 21:26-28",
   "scripture": [
     {
-      "nr": "8",
-      "text": "The sacrifice of the wicked is an abomination to the Lord: but the prayer of the upright is his delight."
+      "nr": "26",
+      "text": "Men’s hearts failing them for fear, and for looking after those things which are coming on the earth: for the powers of heaven shall be shaken."
+    },
+    {
+      "nr": "27",
+      "text": "And then shall they see the Son of man coming in a cloud with power and great glory."
+    },
+    {
+      "nr": "28",
+      "text": "And when these things begin to come to pass, then look up, and lift up your heads; for your redemption draweth nigh."
     }
   ],
   "source": "https://github.com/trueChristian/daily-scripture",
