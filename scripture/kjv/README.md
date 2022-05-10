@@ -1,5 +1,5 @@
-**Proverbs 3:7**
+**2 Kings 17:9**
 
-7 Be not wise in thine own eyes: fear the Lord, and depart from evil.
+9 And the children of Israel did secretly those things that were not right against the Lord their God, and they built them high places in all their cities, from the tower of the watchmen to the fenced city.
 
-[Tuesday 10-May, 2022](https://t.me/s/daily_scripture)
+[Wednesday 11-May, 2022](https://t.me/s/daily_scripture)
