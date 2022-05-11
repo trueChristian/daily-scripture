@@ -1,10 +1,14 @@
 {
-  "date": "Wednesday 11-May, 2022",
-  "name": "2 Kings 17:9",
+  "date": "Thursday 12-May, 2022",
+  "name": "1 Peter 5:5-6",
   "scripture": [
     {
-      "nr": "9",
-      "text": "And the children of Israel did secretly those things that were not right against the Lord their God, and they built them high places in all their cities, from the tower of the watchmen to the fenced city."
+      "nr": "5",
+      "text": "Likewise, ye younger, submit yourselves unto the elder. Yea, all of you be subject one to another, and be clothed with humility: for God resisteth the proud, and giveth grace to the humble."
+    },
+    {
+      "nr": "6",
+      "text": "Humble yourselves therefore under the mighty hand of God, that he may exalt you in due time:"
     }
   ],
   "source": "https://github.com/trueChristian/daily-scripture",

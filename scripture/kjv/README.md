@@ -1,5 +1,5 @@
-**2 Kings 17:9**
+**1 Peter 5:5-6**
 
-9 And the children of Israel did secretly those things that were not right against the Lord their God, and they built them high places in all their cities, from the tower of the watchmen to the fenced city.
+5 Likewise, ye younger, submit yourselves unto the elder. Yea, all of you be subject one to another, and be clothed with humility: for God resisteth the proud, and giveth grace to the humble. 6 Humble yourselves therefore under the mighty hand of God, that he may exalt you in due time:
 
-[Wednesday 11-May, 2022](https://t.me/s/daily_scripture)
+[Thursday 12-May, 2022](https://t.me/s/daily_scripture)
