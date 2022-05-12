@@ -1,5 +1,5 @@
-**1 Peter 5:5-6**
+**Luke 22:46**
 
-5 Likewise, ye younger, submit yourselves unto the elder. Yea, all of you be subject one to another, and be clothed with humility: for God resisteth the proud, and giveth grace to the humble. 6 Humble yourselves therefore under the mighty hand of God, that he may exalt you in due time:
+46 And said unto them, Why sleep ye? rise and pray, lest ye enter into temptation.
 
-[Thursday 12-May, 2022](https://t.me/s/daily_scripture)
+[Friday 13-May, 2022](https://t.me/s/daily_scripture)
