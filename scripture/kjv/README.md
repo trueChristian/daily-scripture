@@ -1,5 +1,5 @@
-**Luke 22:46**
+**Job 36:13**
 
-46 And said unto them, Why sleep ye? rise and pray, lest ye enter into temptation.
+13 But the hypocrites in heart heap up wrath: they cry not when he bindeth them.
 
-[Friday 13-May, 2022](https://t.me/s/daily_scripture)
+[Saturday 14-May, 2022](https://t.me/s/daily_scripture)
