@@ -1,5 +1,5 @@
-**Job 36:13**
+**Psalms 27:5**
 
-13 But the hypocrites in heart heap up wrath: they cry not when he bindeth them.
+5 For in the time of trouble he shall hide me in his pavilion: in the secret of his tabernacle shall he hide me; he shall set me up upon a rock.
 
-[Saturday 14-May, 2022](https://t.me/s/daily_scripture)
+[Sunday 15-May, 2022](https://t.me/s/daily_scripture)
