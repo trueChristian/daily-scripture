@@ -1,5 +1,5 @@
-**Psalms 27:5**
+**Proverbs 16:6**
 
-5 For in the time of trouble he shall hide me in his pavilion: in the secret of his tabernacle shall he hide me; he shall set me up upon a rock.
+6 By mercy and truth iniquity is purged: and by the fear of the Lord men depart from evil.
 
-[Sunday 15-May, 2022](https://t.me/s/daily_scripture)
+[Monday 16-May, 2022](https://t.me/s/daily_scripture)
