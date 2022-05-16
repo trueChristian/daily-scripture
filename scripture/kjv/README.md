@@ -1,5 +1,5 @@
-**Proverbs 16:6**
+**Proverbs 19:18**
 
-6 By mercy and truth iniquity is purged: and by the fear of the Lord men depart from evil.
+18 Chasten thy son while there is hope, and let not thy soul spare for his crying.
 
-[Monday 16-May, 2022](https://t.me/s/daily_scripture)
+[Tuesday 17-May, 2022](https://t.me/s/daily_scripture)
