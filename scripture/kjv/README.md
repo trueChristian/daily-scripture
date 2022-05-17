@@ -1,5 +1,5 @@
-**Proverbs 19:18**
+**Acts 9:36**
 
-18 Chasten thy son while there is hope, and let not thy soul spare for his crying.
+36 Now there was at Joppa a certain disciple named Tabitha, which by interpretation is called Dorcas: this woman was full of good works and almsdeeds which she did.
 
-[Tuesday 17-May, 2022](https://t.me/s/daily_scripture)
+[Wednesday 18-May, 2022](https://t.me/s/daily_scripture)
