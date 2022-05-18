@@ -1,5 +1,5 @@
-**Acts 9:36**
+**Ecclesiastes 7:27**
 
-36 Now there was at Joppa a certain disciple named Tabitha, which by interpretation is called Dorcas: this woman was full of good works and almsdeeds which she did.
+27 Behold, this have I found, saith the preacher, counting one by one, to find out the account:
 
-[Wednesday 18-May, 2022](https://t.me/s/daily_scripture)
+[Thursday 19-May, 2022](https://t.me/s/daily_scripture)
