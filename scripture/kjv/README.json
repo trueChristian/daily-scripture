@@ -1,10 +1,26 @@
 {
-  "date": "Thursday 19-May, 2022",
-  "name": "Ecclesiastes 7:27",
+  "date": "Friday 20-May, 2022",
+  "name": "Psalms 65:9-13",
   "scripture": [
     {
-      "nr": "27",
-      "text": "Behold, this have I found, saith the preacher, counting one by one, to find out the account:"
+      "nr": "9",
+      "text": "Thou visitest the earth, and waterest it: thou greatly enrichest it with the river of God, which is full of water: thou preparest them corn, when thou hast so provided for it."
+    },
+    {
+      "nr": "10",
+      "text": "Thou waterest the ridges thereof abundantly: thou settlest the furrows thereof: thou makest it soft with showers: thou blessest the springing thereof."
+    },
+    {
+      "nr": "11",
+      "text": "Thou crownest the year with thy goodness; and thy paths drop fatness."
+    },
+    {
+      "nr": "12",
+      "text": "They drop upon the pastures of the wilderness: and the little hills rejoice on every side."
+    },
+    {
+      "nr": "13",
+      "text": "The pastures are clothed with flocks; the valleys also are covered over with corn; they shout for joy, they also sing. "
     }
   ],
   "source": "https://github.com/trueChristian/daily-scripture",
