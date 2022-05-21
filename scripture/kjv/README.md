@@ -1,5 +1,5 @@
-**3 John 1:12**
+**Romans 1:16**
 
-12 Demetrius hath good report of all men, and of the truth itself: yea, and we also bear record; and ye know that our record is true.
+16 For I am not ashamed of the gospel of Christ: for it is the power of God unto salvation to every one that believeth; to the Jew first, and also to the Greek.
 
-[Saturday 21-May, 2022](https://t.me/s/daily_scripture)
+[Sunday 22-May, 2022](https://t.me/s/daily_scripture)
