@@ -1,5 +1,5 @@
-**Romans 1:16**
+**Psalms 68:16**
 
-16 For I am not ashamed of the gospel of Christ: for it is the power of God unto salvation to every one that believeth; to the Jew first, and also to the Greek.
+16 Why leap ye, ye high hills? this is the hill which God desireth to dwell in; yea, the Lord will dwell in it for ever.
 
-[Sunday 22-May, 2022](https://t.me/s/daily_scripture)
+[Monday 23-May, 2022](https://t.me/s/daily_scripture)
