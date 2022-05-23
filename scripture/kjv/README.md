@@ -1,5 +1,5 @@
-**Psalms 68:16**
+**1 Corinthians 4:20**
 
-16 Why leap ye, ye high hills? this is the hill which God desireth to dwell in; yea, the Lord will dwell in it for ever.
+20 For the kingdom of God is not in word, but in power.
 
-[Monday 23-May, 2022](https://t.me/s/daily_scripture)
+[Tuesday 24-May, 2022](https://t.me/s/daily_scripture)
