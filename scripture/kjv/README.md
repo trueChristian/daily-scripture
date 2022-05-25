@@ -1,5 +1,5 @@
-**Philippians 1:9-11**
+**1 Corinthians 1:10**
 
-9 And this I pray, that your love may abound yet more and more in knowledge and in all judgment; 10 That ye may approve things that are excellent; that ye may be sincere and without offence till the day of Christ; 11 Being filled with the fruits of righteousness, which are by Jesus Christ, unto the glory and praise of God.
+10 Now I beseech you, brethren, by the name of our Lord Jesus Christ, that ye all speak the same thing, and that there be no divisions among you; but that ye be perfectly joined together in the same mind and in the same judgment.
 
-[Wednesday 25-May, 2022](https://t.me/s/daily_scripture)
+[Thursday 26-May, 2022](https://t.me/s/daily_scripture)
