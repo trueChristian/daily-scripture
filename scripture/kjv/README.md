@@ -1,5 +1,5 @@
-**Daniel 9:3-5**
+**Romans 5:8**
 
-3 And I set my face unto the Lord God, to seek by prayer and supplications, with fasting, and sackcloth, and ashes: 4 And I prayed unto the Lord my God, and made my confession, and said, O Lord, the great and dreadful God, keeping the covenant and mercy to them that love him, and to them that keep his commandments; 5 We have sinned, and have committed iniquity, and have done wickedly, and have rebelled, even by departing from thy precepts and from thy judgments:
+8 But God commendeth his love toward us, in that, while we were yet sinners, Christ died for us.
 
-[Friday 27-May, 2022](https://t.me/s/daily_scripture)
+[Saturday 28-May, 2022](https://t.me/s/daily_scripture)
