@@ -1,5 +1,5 @@
-**Romans 5:8**
+**2 Corinthians 4:16**
 
-8 But God commendeth his love toward us, in that, while we were yet sinners, Christ died for us.
+16 For which cause we faint not; but though our outward man perish, yet the inward man is renewed day by day.
 
-[Saturday 28-May, 2022](https://t.me/s/daily_scripture)
+[Sunday 29-May, 2022](https://t.me/s/daily_scripture)
