@@ -1,10 +1,18 @@
 {
-  "date": "Sunday 29-May, 2022",
-  "name": "2 Corinthians 4:16",
+  "date": "Monday 30-May, 2022",
+  "name": "1 Corinthians 9:20-22",
   "scripture": [
     {
-      "nr": "16",
-      "text": "For which cause we faint not; but though our outward man perish, yet the inward man is renewed day by day."
+      "nr": "20",
+      "text": "And unto the Jews I became as a Jew, that I might gain the Jews; to them that are under the law, as under the law, that I might gain them that are under the law;"
+    },
+    {
+      "nr": "21",
+      "text": "To them that are without law, as without law, (being not without law to God, but under the law to Christ,) that I might gain them that are without law."
+    },
+    {
+      "nr": "22",
+      "text": "To the weak became I as weak, that I might gain the weak: I am made all things to all men, that I might by all means save some."
     }
   ],
   "source": "https://github.com/trueChristian/daily-scripture",
