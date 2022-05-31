@@ -1,5 +1,5 @@
-**Psalms 119:13**
+**Mark 13:29**
 
-13 With my lips have I declared all the judgments of thy mouth.
+29 So ye in like manner, when ye shall see these things come to pass, know that it is nigh, even at the doors.
 
-[Tuesday 31-May, 2022](https://t.me/s/daily_scripture)
+[Wednesday 01-June, 2022](https://t.me/s/daily_scripture)
