@@ -1,5 +1,5 @@
-**Romans 9:33**
+**Deuteronomy 33:3**
 
-33 As it is written, Behold, I lay in Sion a stumblingstone and rock of offence: and whosoever believeth on him shall not be ashamed. 
+3 Yea, he loved the people; all his saints are in thy hand: and they sat down at thy feet; every one shall receive of thy words.
 
-[Thursday 02-June, 2022](https://t.me/s/daily_scripture)
+[Friday 03-June, 2022](https://t.me/s/daily_scripture)
