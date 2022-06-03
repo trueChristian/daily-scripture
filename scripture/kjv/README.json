@@ -1,10 +1,22 @@
 {
-  "date": "Friday 03-June, 2022",
-  "name": "Deuteronomy 33:3",
+  "date": "Saturday 04-June, 2022",
+  "name": "Matthew 8:14-17",
   "scripture": [
     {
-      "nr": "3",
-      "text": "Yea, he loved the people; all his saints are in thy hand: and they sat down at thy feet; every one shall receive of thy words."
+      "nr": "14",
+      "text": "And when Jesus was come into Peter’s house, he saw his wife’s mother laid, and sick of a fever."
+    },
+    {
+      "nr": "15",
+      "text": "And he touched her hand, and the fever left her: and she arose, and ministered unto them."
+    },
+    {
+      "nr": "16",
+      "text": "When the even was come, they brought unto him many that were possessed with devils: and he cast out the spirits with his word, and healed all that were sick:"
+    },
+    {
+      "nr": "17",
+      "text": "That it might be fulfilled which was spoken by Esaias the prophet, saying, Himself took our infirmities, and bare our sicknesses."
     }
   ],
   "source": "https://github.com/trueChristian/daily-scripture",

@@ -1,5 +1,5 @@
-**Deuteronomy 33:3**
+**Matthew 8:14-17**
 
-3 Yea, he loved the people; all his saints are in thy hand: and they sat down at thy feet; every one shall receive of thy words.
+14 And when Jesus was come into Peter’s house, he saw his wife’s mother laid, and sick of a fever. 15 And he touched her hand, and the fever left her: and she arose, and ministered unto them. 16 When the even was come, they brought unto him many that were possessed with devils: and he cast out the spirits with his word, and healed all that were sick: 17 That it might be fulfilled which was spoken by Esaias the prophet, saying, Himself took our infirmities, and bare our sicknesses.
 
-[Friday 03-June, 2022](https://t.me/s/daily_scripture)
+[Saturday 04-June, 2022](https://t.me/s/daily_scripture)
