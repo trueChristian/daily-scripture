@@ -1,5 +1,5 @@
-**Matthew 8:14-17**
+**John 7:37**
 
-14 And when Jesus was come into Peter’s house, he saw his wife’s mother laid, and sick of a fever. 15 And he touched her hand, and the fever left her: and she arose, and ministered unto them. 16 When the even was come, they brought unto him many that were possessed with devils: and he cast out the spirits with his word, and healed all that were sick: 17 That it might be fulfilled which was spoken by Esaias the prophet, saying, Himself took our infirmities, and bare our sicknesses.
+37 In the last day, that great day of the feast, Jesus stood and cried, saying, If any man thirst, let him come unto me, and drink.
 
-[Saturday 04-June, 2022](https://t.me/s/daily_scripture)
+[Sunday 05-June, 2022](https://t.me/s/daily_scripture)
