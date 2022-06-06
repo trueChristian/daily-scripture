@@ -1,5 +1,5 @@
-**Proverbs 28:21**
+**Proverbs 19:20**
 
-21 To have respect of persons is not good: for for a piece of bread that man will transgress.
+20 Hear counsel, and receive instruction, that thou mayest be wise in thy latter end.
 
-[Monday 06-June, 2022](https://t.me/s/daily_scripture)
+[Tuesday 07-June, 2022](https://t.me/s/daily_scripture)
