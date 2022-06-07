@@ -1,5 +1,5 @@
-**Proverbs 19:20**
+**Daniel 9:9-10**
 
-20 Hear counsel, and receive instruction, that thou mayest be wise in thy latter end.
+9 To the Lord our God belong mercies and forgivenesses, though we have rebelled against him; 10 Neither have we obeyed the voice of the Lord our God, to walk in his laws, which he set before us by his servants the prophets.
 
-[Tuesday 07-June, 2022](https://t.me/s/daily_scripture)
+[Wednesday 08-June, 2022](https://t.me/s/daily_scripture)
