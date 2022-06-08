@@ -1,14 +1,10 @@
 {
-  "date": "Wednesday 08-June, 2022",
-  "name": "Daniel 9:9-10",
+  "date": "Thursday 09-June, 2022",
+  "name": "Psalms 119:15",
   "scripture": [
     {
-      "nr": "9",
-      "text": "To the Lord our God belong mercies and forgivenesses, though we have rebelled against him;"
-    },
-    {
-      "nr": "10",
-      "text": "Neither have we obeyed the voice of the Lord our God, to walk in his laws, which he set before us by his servants the prophets."
+      "nr": "15",
+      "text": "I will meditate in thy precepts, and have respect unto thy ways."
     }
   ],
   "source": "https://github.com/trueChristian/daily-scripture",
