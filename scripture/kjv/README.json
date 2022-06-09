@@ -1,10 +1,18 @@
 {
-  "date": "Thursday 09-June, 2022",
-  "name": "Psalms 119:15",
+  "date": "Friday 10-June, 2022",
+  "name": "Daniel 9:13-15",
   "scripture": [
     {
+      "nr": "13",
+      "text": "As it is written in the law of Moses, all this evil is come upon us: yet made we not our prayer before the Lord our God, that we might turn from our iniquities, and understand thy truth."
+    },
+    {
+      "nr": "14",
+      "text": "Therefore hath the Lord watched upon the evil, and brought it upon us: for the Lord our God is righteous in all his works which he doeth: for we obeyed not his voice."
+    },
+    {
       "nr": "15",
-      "text": "I will meditate in thy precepts, and have respect unto thy ways."
+      "text": "And now, O Lord our God, that hast brought thy people forth out of the land of Egypt with a mighty hand, and hast gotten thee renown, as at this day; we have sinned, we have done wickedly."
     }
   ],
   "source": "https://github.com/trueChristian/daily-scripture",
