@@ -1,5 +1,5 @@
-**Matthew 24:12-13**
+**Jonah 2:9**
 
-12 And because iniquity shall abound, the love of many shall wax cold. 13 But he that shall endure unto the end, the same shall be saved.
+9 But I will sacrifice unto thee with the voice of thanksgiving; I will pay that that I have vowed. Salvation is of the Lord.
 
-[Saturday 11-June, 2022](https://t.me/s/daily_scripture)
+[Sunday 12-June, 2022](https://t.me/s/daily_scripture)
