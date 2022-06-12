@@ -1,5 +1,5 @@
-**Jonah 2:9**
+**Isaiah 1:13**
 
-9 But I will sacrifice unto thee with the voice of thanksgiving; I will pay that that I have vowed. Salvation is of the Lord.
+13 Bring no more vain oblations; incense is an abomination unto me; the new moons and sabbaths, the calling of assemblies, I cannot away with; it is iniquity, even the solemn meeting.
 
-[Sunday 12-June, 2022](https://t.me/s/daily_scripture)
+[Monday 13-June, 2022](https://t.me/s/daily_scripture)
