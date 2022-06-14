@@ -1,5 +1,5 @@
-**Isaiah 45:2**
+**Proverbs 10:18**
 
-2 I will go before thee, and make the crooked places straight: I will break in pieces the gates of brass, and cut in sunder the bars of iron:
+18 He that hideth hatred with lying lips, and he that uttereth a slander, is a fool.
 
-[Tuesday 14-June, 2022](https://t.me/s/daily_scripture)
+[Wednesday 15-June, 2022](https://t.me/s/daily_scripture)
