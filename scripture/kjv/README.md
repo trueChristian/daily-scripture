@@ -1,5 +1,5 @@
-**Proverbs 10:18**
+**Isaiah 7:15**
 
-18 He that hideth hatred with lying lips, and he that uttereth a slander, is a fool.
+15 Butter and honey shall he eat, that he may know to refuse the evil, and choose the good.
 
-[Wednesday 15-June, 2022](https://t.me/s/daily_scripture)
+[Thursday 16-June, 2022](https://t.me/s/daily_scripture)
