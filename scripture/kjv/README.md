@@ -1,5 +1,5 @@
-**Isaiah 7:15**
+**Jude 1:20-21**
 
-15 Butter and honey shall he eat, that he may know to refuse the evil, and choose the good.
+20 But ye, beloved, building up yourselves on your most holy faith, praying in the Holy Ghost, 21 Keep yourselves in the love of God, looking for the mercy of our Lord Jesus Christ unto eternal life.
 
-[Thursday 16-June, 2022](https://t.me/s/daily_scripture)
+[Friday 17-June, 2022](https://t.me/s/daily_scripture)
