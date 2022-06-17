@@ -1,5 +1,5 @@
-**Jude 1:20-21**
+**1 Timothy 1:7**
 
-20 But ye, beloved, building up yourselves on your most holy faith, praying in the Holy Ghost, 21 Keep yourselves in the love of God, looking for the mercy of our Lord Jesus Christ unto eternal life.
+7 Desiring to be teachers of the law; understanding neither what they say, nor whereof they affirm.
 
-[Friday 17-June, 2022](https://t.me/s/daily_scripture)
+[Saturday 18-June, 2022](https://t.me/s/daily_scripture)
