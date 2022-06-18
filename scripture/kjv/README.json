@@ -1,10 +1,14 @@
 {
-  "date": "Saturday 18-June, 2022",
-  "name": "1 Timothy 1:7",
+  "date": "Sunday 19-June, 2022",
+  "name": "Matthew 6:14-15",
   "scripture": [
     {
-      "nr": "7",
-      "text": "Desiring to be teachers of the law; understanding neither what they say, nor whereof they affirm."
+      "nr": "14",
+      "text": "For if ye forgive men their trespasses, your heavenly Father will also forgive you:"
+    },
+    {
+      "nr": "15",
+      "text": "But if ye forgive not men their trespasses, neither will your Father forgive your trespasses."
     }
   ],
   "source": "https://github.com/trueChristian/daily-scripture",

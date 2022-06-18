@@ -1,5 +1,5 @@
-**1 Timothy 1:7**
+**Matthew 6:14-15**
 
-7 Desiring to be teachers of the law; understanding neither what they say, nor whereof they affirm.
+14 For if ye forgive men their trespasses, your heavenly Father will also forgive you: 15 But if ye forgive not men their trespasses, neither will your Father forgive your trespasses.
 
-[Saturday 18-June, 2022](https://t.me/s/daily_scripture)
+[Sunday 19-June, 2022](https://t.me/s/daily_scripture)
