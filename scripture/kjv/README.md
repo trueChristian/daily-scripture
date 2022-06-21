@@ -1,5 +1,5 @@
-**Proverbs 18:24**
+**1 Corinthians 12:11**
 
-24 A man that hath friends must shew himself friendly: and there is a friend that sticketh closer than a brother. 
+11 But all these worketh that one and the selfsame Spirit, dividing to every man severally as he will.
 
-[Tuesday 21-June, 2022](https://t.me/s/daily_scripture)
+[Wednesday 22-June, 2022](https://t.me/s/daily_scripture)
