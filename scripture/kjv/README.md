@@ -1,5 +1,5 @@
-**John 18:25**
+**1 John 3:2-3**
 
-25 And Simon Peter stood and warmed himself. They said therefore unto him, Art not thou also one of his disciples? He denied it, and said, I am not.
+2 Beloved, now are we the sons of God, and it doth not yet appear what we shall be: but we know that, when he shall appear, we shall be like him; for we shall see him as he is. 3 And every man that hath this hope in him purifieth himself, even as he is pure.
 
-[Thursday 23-June, 2022](https://t.me/s/daily_scripture)
+[Friday 24-June, 2022](https://t.me/s/daily_scripture)
