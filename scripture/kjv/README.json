@@ -1,14 +1,26 @@
 {
-  "date": "Friday 24-June, 2022",
-  "name": "1 John 3:2-3",
+  "date": "Saturday 25-June, 2022",
+  "name": "Deuteronomy 33:25-29",
   "scripture": [
     {
-      "nr": "2",
-      "text": "Beloved, now are we the sons of God, and it doth not yet appear what we shall be: but we know that, when he shall appear, we shall be like him; for we shall see him as he is."
+      "nr": "25",
+      "text": "Thy shoes shall be iron and brass; and as thy days, so shall thy strength be."
     },
     {
-      "nr": "3",
-      "text": "And every man that hath this hope in him purifieth himself, even as he is pure."
+      "nr": "26",
+      "text": "There is none like unto the God of Jeshurun, who rideth upon the heaven in thy help, and in his excellency on the sky."
+    },
+    {
+      "nr": "27",
+      "text": "The eternal God is thy refuge, and underneath are the everlasting arms: and he shall thrust out the enemy from before thee; and shall say, Destroy them."
+    },
+    {
+      "nr": "28",
+      "text": "Israel then shall dwell in safety alone: the fountain of Jacob shall be upon a land of corn and wine; also his heavens shall drop down dew."
+    },
+    {
+      "nr": "29",
+      "text": "Happy art thou, O Israel: who is like unto thee, O people saved by the Lord, the shield of thy help, and who is the sword of thy excellency! and thine enemies shall be found liars unto thee; and thou shalt tread upon their high places. "
     }
   ],
   "source": "https://github.com/trueChristian/daily-scripture",
