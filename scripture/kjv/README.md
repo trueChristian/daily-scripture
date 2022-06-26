@@ -1,5 +1,5 @@
-**Proverbs 6:9**
+**John 4:35**
 
-9 How long wilt thou sleep, O sluggard? when wilt thou arise out of thy sleep?
+35 Say not ye, There are yet four months, and then cometh harvest? behold, I say unto you, Lift up your eyes, and look on the fields; for they are white already to harvest.
 
-[Sunday 26-June, 2022](https://t.me/s/daily_scripture)
+[Monday 27-June, 2022](https://t.me/s/daily_scripture)
