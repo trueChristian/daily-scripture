@@ -1,10 +1,14 @@
 {
-  "date": "Wednesday 29-June, 2022",
-  "name": "Luke 7:47",
+  "date": "Thursday 30-June, 2022",
+  "name": "Zephaniah 3:12-13",
   "scripture": [
     {
-      "nr": "47",
-      "text": "Wherefore I say unto thee, Her sins, which are many, are forgiven; for she loved much: but to whom little is forgiven, the same loveth little."
+      "nr": "12",
+      "text": "I will also leave in the midst of thee an afflicted and poor people, and they shall trust in the name of the Lord."
+    },
+    {
+      "nr": "13",
+      "text": "The remnant of Israel shall not do iniquity, nor speak lies; neither shall a deceitful tongue be found in their mouth: for they shall feed and lie down, and none shall make them afraid."
     }
   ],
   "source": "https://github.com/trueChristian/daily-scripture",
