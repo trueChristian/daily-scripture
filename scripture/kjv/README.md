@@ -1,5 +1,5 @@
-**Zephaniah 3:12-13**
+**Psalms 109:30-31**
 
-12 I will also leave in the midst of thee an afflicted and poor people, and they shall trust in the name of the Lord. 13 The remnant of Israel shall not do iniquity, nor speak lies; neither shall a deceitful tongue be found in their mouth: for they shall feed and lie down, and none shall make them afraid.
+30 I will greatly praise the Lord with my mouth; yea, I will praise him among the multitude. 31 For he shall stand at the right hand of the poor, to save him from those that condemn his soul. 
 
-[Thursday 30-June, 2022](https://t.me/s/daily_scripture)
+[Friday 01-July, 2022](https://t.me/s/daily_scripture)
