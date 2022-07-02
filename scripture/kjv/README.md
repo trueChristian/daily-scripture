@@ -1,5 +1,5 @@
-**John 21:15**
+**John 12:42-43**
 
-15 So when they had dined, Jesus saith to Simon Peter, Simon, son of Jonas, lovest thou me more than these? He saith unto him, Yea, Lord; thou knowest that I love thee. He saith unto him, Feed my lambs.
+42 Nevertheless among the chief rulers also many believed on him; but because of the Pharisees they did not confess him, lest they should be put out of the synagogue: 43 For they loved the praise of men more than the praise of God.
 
-[Saturday 02-July, 2022](https://t.me/s/daily_scripture)
+[Sunday 03-July, 2022](https://t.me/s/daily_scripture)
