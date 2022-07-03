@@ -1,14 +1,10 @@
 {
-  "date": "Sunday 03-July, 2022",
-  "name": "John 12:42-43",
+  "date": "Monday 04-July, 2022",
+  "name": "Revelation 20:15",
   "scripture": [
     {
-      "nr": "42",
-      "text": "Nevertheless among the chief rulers also many believed on him; but because of the Pharisees they did not confess him, lest they should be put out of the synagogue:"
-    },
-    {
-      "nr": "43",
-      "text": "For they loved the praise of men more than the praise of God."
+      "nr": "15",
+      "text": "And whosoever was not found written in the book of life was cast into the lake of fire. "
     }
   ],
   "source": "https://github.com/trueChristian/daily-scripture",

@@ -1,5 +1,5 @@
-**John 12:42-43**
+**Revelation 20:15**
 
-42 Nevertheless among the chief rulers also many believed on him; but because of the Pharisees they did not confess him, lest they should be put out of the synagogue: 43 For they loved the praise of men more than the praise of God.
+15 And whosoever was not found written in the book of life was cast into the lake of fire. 
 
-[Sunday 03-July, 2022](https://t.me/s/daily_scripture)
+[Monday 04-July, 2022](https://t.me/s/daily_scripture)
