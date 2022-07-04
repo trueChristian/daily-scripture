@@ -1,5 +1,5 @@
-**Revelation 20:15**
+**Ecclesiastes 7:9**
 
-15 And whosoever was not found written in the book of life was cast into the lake of fire. 
+9 Be not hasty in thy spirit to be angry: for anger resteth in the bosom of fools.
 
-[Monday 04-July, 2022](https://t.me/s/daily_scripture)
+[Tuesday 05-July, 2022](https://t.me/s/daily_scripture)
