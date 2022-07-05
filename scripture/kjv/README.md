@@ -1,5 +1,5 @@
-**Ecclesiastes 7:9**
+**John 7:22**
 
-9 Be not hasty in thy spirit to be angry: for anger resteth in the bosom of fools.
+22 Moses therefore gave unto you circumcision; (not because it is of Moses, but of the fathers;) and ye on the sabbath day circumcise a man.
 
-[Tuesday 05-July, 2022](https://t.me/s/daily_scripture)
+[Wednesday 06-July, 2022](https://t.me/s/daily_scripture)
