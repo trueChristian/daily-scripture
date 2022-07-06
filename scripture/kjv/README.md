@@ -1,5 +1,5 @@
-**John 7:22**
+**Ecclesiastes 11:2**
 
-22 Moses therefore gave unto you circumcision; (not because it is of Moses, but of the fathers;) and ye on the sabbath day circumcise a man.
+2 Give a portion to seven, and also to eight; for thou knowest not what evil shall be upon the earth.
 
-[Wednesday 06-July, 2022](https://t.me/s/daily_scripture)
+[Thursday 07-July, 2022](https://t.me/s/daily_scripture)
