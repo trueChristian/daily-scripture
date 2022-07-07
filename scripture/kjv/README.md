@@ -1,5 +1,5 @@
-**Ecclesiastes 11:2**
+**Hebrews 12:14**
 
-2 Give a portion to seven, and also to eight; for thou knowest not what evil shall be upon the earth.
+14 Follow peace with all men, and holiness, without which no man shall see the Lord:
 
-[Thursday 07-July, 2022](https://t.me/s/daily_scripture)
+[Friday 08-July, 2022](https://t.me/s/daily_scripture)
