@@ -1,5 +1,5 @@
-**Hebrews 12:14**
+**Proverbs 6:6**
 
-14 Follow peace with all men, and holiness, without which no man shall see the Lord:
+6 Go to the ant, thou sluggard; consider her ways, and be wise:
 
-[Friday 08-July, 2022](https://t.me/s/daily_scripture)
+[Saturday 09-July, 2022](https://t.me/s/daily_scripture)
