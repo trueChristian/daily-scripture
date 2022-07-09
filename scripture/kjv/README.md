@@ -1,5 +1,5 @@
-**Proverbs 6:6**
+**Acts 4:28**
 
-6 Go to the ant, thou sluggard; consider her ways, and be wise:
+28 For to do whatsoever thy hand and thy counsel determined before to be done.
 
-[Saturday 09-July, 2022](https://t.me/s/daily_scripture)
+[Sunday 10-July, 2022](https://t.me/s/daily_scripture)
