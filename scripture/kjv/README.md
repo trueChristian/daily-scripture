@@ -1,5 +1,5 @@
-**2 Corinthians 9:13**
+**Matthew 10:19-20**
 
-13 Whiles by the experiment of this ministration they glorify God for your professed subjection unto the gospel of Christ, and for your liberal distribution unto them, and unto all men;
+19 But when they deliver you up, take no thought how or what ye shall speak: for it shall be given you in that same hour what ye shall speak. 20 For it is not ye that speak, but the Spirit of your Father which speaketh in you.
 
-[Tuesday 12-July, 2022](https://t.me/s/daily_scripture)
+[Wednesday 13-July, 2022](https://t.me/s/daily_scripture)

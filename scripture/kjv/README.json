@@ -1,10 +1,14 @@
 {
-  "date": "Tuesday 12-July, 2022",
-  "name": "2 Corinthians 9:13",
+  "date": "Wednesday 13-July, 2022",
+  "name": "Matthew 10:19-20",
   "scripture": [
     {
-      "nr": "13",
-      "text": "Whiles by the experiment of this ministration they glorify God for your professed subjection unto the gospel of Christ, and for your liberal distribution unto them, and unto all men;"
+      "nr": "19",
+      "text": "But when they deliver you up, take no thought how or what ye shall speak: for it shall be given you in that same hour what ye shall speak."
+    },
+    {
+      "nr": "20",
+      "text": "For it is not ye that speak, but the Spirit of your Father which speaketh in you."
     }
   ],
   "source": "https://github.com/trueChristian/daily-scripture",
