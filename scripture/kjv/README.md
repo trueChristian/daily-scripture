@@ -1,5 +1,5 @@
-**Matthew 10:19-20**
+**Luke 15:7**
 
-19 But when they deliver you up, take no thought how or what ye shall speak: for it shall be given you in that same hour what ye shall speak. 20 For it is not ye that speak, but the Spirit of your Father which speaketh in you.
+7 I say unto you, that likewise joy shall be in heaven over one sinner that repenteth, more than over ninety and nine just persons, which need no repentance.
 
-[Wednesday 13-July, 2022](https://t.me/s/daily_scripture)
+[Thursday 14-July, 2022](https://t.me/s/daily_scripture)
