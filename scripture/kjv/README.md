@@ -1,5 +1,5 @@
-**Luke 15:7**
+**Genesis 24:31**
 
-7 I say unto you, that likewise joy shall be in heaven over one sinner that repenteth, more than over ninety and nine just persons, which need no repentance.
+31 And he said, Come in, thou blessed of the Lord; wherefore standest thou without? for I have prepared the house, and room for the camels.
 
-[Thursday 14-July, 2022](https://t.me/s/daily_scripture)
+[Friday 15-July, 2022](https://t.me/s/daily_scripture)
