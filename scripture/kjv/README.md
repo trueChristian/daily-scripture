@@ -1,5 +1,5 @@
-**Genesis 24:31**
+**1 Corinthians 13:1**
 
-31 And he said, Come in, thou blessed of the Lord; wherefore standest thou without? for I have prepared the house, and room for the camels.
+1 Though I speak with the tongues of men and of angels, and have not charity, I am become as sounding brass, or a tinkling cymbal.
 
-[Friday 15-July, 2022](https://t.me/s/daily_scripture)
+[Saturday 16-July, 2022](https://t.me/s/daily_scripture)
