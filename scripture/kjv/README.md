@@ -1,5 +1,5 @@
-**1 Corinthians 13:1**
+**Daniel 4:26**
 
-1 Though I speak with the tongues of men and of angels, and have not charity, I am become as sounding brass, or a tinkling cymbal.
+26 And whereas they commanded to leave the stump of the tree roots; thy kingdom shall be sure unto thee, after that thou shalt have known that the heavens do rule.
 
-[Saturday 16-July, 2022](https://t.me/s/daily_scripture)
+[Sunday 17-July, 2022](https://t.me/s/daily_scripture)
