@@ -1,5 +1,5 @@
-**Daniel 4:26**
+**Romans 15:2**
 
-26 And whereas they commanded to leave the stump of the tree roots; thy kingdom shall be sure unto thee, after that thou shalt have known that the heavens do rule.
+2 Let every one of us please his neighbour for his good to edification.
 
-[Sunday 17-July, 2022](https://t.me/s/daily_scripture)
+[Monday 18-July, 2022](https://t.me/s/daily_scripture)
