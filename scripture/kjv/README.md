@@ -1,5 +1,5 @@
-**John 8:12**
+**Galatians 4:16**
 
-12 Then spake Jesus again unto them, saying, I am the light of the world: he that followeth me shall not walk in darkness, but shall have the light of life.
+16 Am I therefore become your enemy, because I tell you the truth?
 
-[Tuesday 19-July, 2022](https://t.me/s/daily_scripture)
+[Wednesday 20-July, 2022](https://t.me/s/daily_scripture)
