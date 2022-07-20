@@ -1,5 +1,5 @@
-**Galatians 4:16**
+**John 9:3**
 
-16 Am I therefore become your enemy, because I tell you the truth?
+3 Jesus answered, Neither hath this man sinned, nor his parents: but that the works of God should be made manifest in him.
 
-[Wednesday 20-July, 2022](https://t.me/s/daily_scripture)
+[Thursday 21-July, 2022](https://t.me/s/daily_scripture)
