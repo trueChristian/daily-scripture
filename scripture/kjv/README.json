@@ -1,10 +1,18 @@
 {
-  "date": "Thursday 21-July, 2022",
-  "name": "John 9:3",
+  "date": "Friday 22-July, 2022",
+  "name": "Judges 6:14-16",
   "scripture": [
     {
-      "nr": "3",
-      "text": "Jesus answered, Neither hath this man sinned, nor his parents: but that the works of God should be made manifest in him."
+      "nr": "14",
+      "text": "And the Lord looked upon him, and said, Go in this thy might, and thou shalt save Israel from the hand of the Midianites: have not I sent thee?"
+    },
+    {
+      "nr": "15",
+      "text": "And he said unto him, Oh my Lord, wherewith shall I save Israel? behold, my family is poor in Manasseh, and I am the least in my father’s house."
+    },
+    {
+      "nr": "16",
+      "text": "And the Lord said unto him, Surely I will be with thee, and thou shalt smite the Midianites as one man."
     }
   ],
   "source": "https://github.com/trueChristian/daily-scripture",

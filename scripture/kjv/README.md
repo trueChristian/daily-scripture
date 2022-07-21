@@ -1,5 +1,5 @@
-**John 9:3**
+**Judges 6:14-16**
 
-3 Jesus answered, Neither hath this man sinned, nor his parents: but that the works of God should be made manifest in him.
+14 And the Lord looked upon him, and said, Go in this thy might, and thou shalt save Israel from the hand of the Midianites: have not I sent thee? 15 And he said unto him, Oh my Lord, wherewith shall I save Israel? behold, my family is poor in Manasseh, and I am the least in my father’s house. 16 And the Lord said unto him, Surely I will be with thee, and thou shalt smite the Midianites as one man.
 
-[Thursday 21-July, 2022](https://t.me/s/daily_scripture)
+[Friday 22-July, 2022](https://t.me/s/daily_scripture)
