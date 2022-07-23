@@ -1,10 +1,14 @@
 {
-  "date": "Saturday 23-July, 2022",
-  "name": "John 1:37",
+  "date": "Sunday 24-July, 2022",
+  "name": "Psalms 9:9-10",
   "scripture": [
     {
-      "nr": "37",
-      "text": "And the two disciples heard him speak, and they followed Jesus."
+      "nr": "9",
+      "text": "The Lord also will be a refuge for the oppressed, a refuge in times of trouble."
+    },
+    {
+      "nr": "10",
+      "text": "And they that know thy name will put their trust in thee: for thou, Lord, hast not forsaken them that seek thee."
     }
   ],
   "source": "https://github.com/trueChristian/daily-scripture",
