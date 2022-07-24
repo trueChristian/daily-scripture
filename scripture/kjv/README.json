@@ -1,14 +1,10 @@
 {
-  "date": "Sunday 24-July, 2022",
-  "name": "Psalms 9:9-10",
+  "date": "Monday 25-July, 2022",
+  "name": "John 12:31",
   "scripture": [
     {
-      "nr": "9",
-      "text": "The Lord also will be a refuge for the oppressed, a refuge in times of trouble."
-    },
-    {
-      "nr": "10",
-      "text": "And they that know thy name will put their trust in thee: for thou, Lord, hast not forsaken them that seek thee."
+      "nr": "31",
+      "text": "Now is the judgment of this world: now shall the prince of this world be cast out."
     }
   ],
   "source": "https://github.com/trueChristian/daily-scripture",
