@@ -1,5 +1,5 @@
-**John 12:31**
+**Psalms 73:23-24**
 
-31 Now is the judgment of this world: now shall the prince of this world be cast out.
+23 Nevertheless I am continually with thee: thou hast holden me by my right hand. 24 Thou shalt guide me with thy counsel, and afterward receive me to glory.
 
-[Monday 25-July, 2022](https://t.me/s/daily_scripture)
+[Tuesday 26-July, 2022](https://t.me/s/daily_scripture)

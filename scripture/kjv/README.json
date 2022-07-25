@@ -1,10 +1,14 @@
 {
-  "date": "Monday 25-July, 2022",
-  "name": "John 12:31",
+  "date": "Tuesday 26-July, 2022",
+  "name": "Psalms 73:23-24",
   "scripture": [
     {
-      "nr": "31",
-      "text": "Now is the judgment of this world: now shall the prince of this world be cast out."
+      "nr": "23",
+      "text": "Nevertheless I am continually with thee: thou hast holden me by my right hand."
+    },
+    {
+      "nr": "24",
+      "text": "Thou shalt guide me with thy counsel, and afterward receive me to glory."
     }
   ],
   "source": "https://github.com/trueChristian/daily-scripture",
