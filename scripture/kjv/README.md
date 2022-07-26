@@ -1,5 +1,5 @@
-**Psalms 73:23-24**
+**Psalms 119:6**
 
-23 Nevertheless I am continually with thee: thou hast holden me by my right hand. 24 Thou shalt guide me with thy counsel, and afterward receive me to glory.
+6 Then shall I not be ashamed, when I have respect unto all thy commandments.
 
-[Tuesday 26-July, 2022](https://t.me/s/daily_scripture)
+[Wednesday 27-July, 2022](https://t.me/s/daily_scripture)

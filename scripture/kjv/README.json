@@ -1,14 +1,10 @@
 {
-  "date": "Tuesday 26-July, 2022",
-  "name": "Psalms 73:23-24",
+  "date": "Wednesday 27-July, 2022",
+  "name": "Psalms 119:6",
   "scripture": [
     {
-      "nr": "23",
-      "text": "Nevertheless I am continually with thee: thou hast holden me by my right hand."
-    },
-    {
-      "nr": "24",
-      "text": "Thou shalt guide me with thy counsel, and afterward receive me to glory."
+      "nr": "6",
+      "text": "Then shall I not be ashamed, when I have respect unto all thy commandments."
     }
   ],
   "source": "https://github.com/trueChristian/daily-scripture",
