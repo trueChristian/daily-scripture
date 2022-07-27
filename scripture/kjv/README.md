@@ -1,5 +1,5 @@
-**Psalms 119:6**
+**Luke 11:41-42**
 
-6 Then shall I not be ashamed, when I have respect unto all thy commandments.
+41 But rather give alms of such things as ye have; and, behold, all things are clean unto you. 42 But woe unto you, Pharisees! for ye tithe mint and rue and all manner of herbs, and pass over judgment and the love of God: these ought ye to have done, and not to leave the other undone.
 
-[Wednesday 27-July, 2022](https://t.me/s/daily_scripture)
+[Thursday 28-July, 2022](https://t.me/s/daily_scripture)
