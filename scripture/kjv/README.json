@@ -1,14 +1,14 @@
 {
-  "date": "Thursday 28-July, 2022",
-  "name": "Luke 11:41-42",
+  "date": "Friday 29-July, 2022",
+  "name": "Psalms 46:1-2",
   "scripture": [
     {
-      "nr": "41",
-      "text": "But rather give alms of such things as ye have; and, behold, all things are clean unto you."
+      "nr": "1",
+      "text": "God is our refuge and strength, a very present help in trouble."
     },
     {
-      "nr": "42",
-      "text": "But woe unto you, Pharisees! for ye tithe mint and rue and all manner of herbs, and pass over judgment and the love of God: these ought ye to have done, and not to leave the other undone."
+      "nr": "2",
+      "text": "Therefore will not we fear, though the earth be removed, and though the mountains be carried into the midst of the sea;"
     }
   ],
   "source": "https://github.com/trueChristian/daily-scripture",
