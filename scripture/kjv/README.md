@@ -1,5 +1,5 @@
-**Psalms 46:1-2**
+**John 12:26**
 
-1 God is our refuge and strength, a very present help in trouble. 2 Therefore will not we fear, though the earth be removed, and though the mountains be carried into the midst of the sea;
+26 If any man serve me, let him follow me; and where I am, there shall also my servant be: if any man serve me, him will my Father honour.
 
-[Friday 29-July, 2022](https://t.me/s/daily_scripture)
+[Saturday 30-July, 2022](https://t.me/s/daily_scripture)

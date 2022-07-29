@@ -1,14 +1,10 @@
 {
-  "date": "Friday 29-July, 2022",
-  "name": "Psalms 46:1-2",
+  "date": "Saturday 30-July, 2022",
+  "name": "John 12:26",
   "scripture": [
     {
-      "nr": "1",
-      "text": "God is our refuge and strength, a very present help in trouble."
-    },
-    {
-      "nr": "2",
-      "text": "Therefore will not we fear, though the earth be removed, and though the mountains be carried into the midst of the sea;"
+      "nr": "26",
+      "text": "If any man serve me, let him follow me; and where I am, there shall also my servant be: if any man serve me, him will my Father honour."
     }
   ],
   "source": "https://github.com/trueChristian/daily-scripture",
