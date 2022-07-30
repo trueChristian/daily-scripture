@@ -1,10 +1,14 @@
 {
-  "date": "Saturday 30-July, 2022",
-  "name": "John 12:26",
+  "date": "Sunday 31-July, 2022",
+  "name": "Psalms 139:23-24",
   "scripture": [
     {
-      "nr": "26",
-      "text": "If any man serve me, let him follow me; and where I am, there shall also my servant be: if any man serve me, him will my Father honour."
+      "nr": "23",
+      "text": "Search me, O God, and know my heart: try me, and know my thoughts:"
+    },
+    {
+      "nr": "24",
+      "text": "And see if there be any wicked way in me, and lead me in the way everlasting. "
     }
   ],
   "source": "https://github.com/trueChristian/daily-scripture",

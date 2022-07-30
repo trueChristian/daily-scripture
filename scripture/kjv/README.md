@@ -1,5 +1,5 @@
-**John 12:26**
+**Psalms 139:23-24**
 
-26 If any man serve me, let him follow me; and where I am, there shall also my servant be: if any man serve me, him will my Father honour.
+23 Search me, O God, and know my heart: try me, and know my thoughts: 24 And see if there be any wicked way in me, and lead me in the way everlasting. 
 
-[Saturday 30-July, 2022](https://t.me/s/daily_scripture)
+[Sunday 31-July, 2022](https://t.me/s/daily_scripture)
