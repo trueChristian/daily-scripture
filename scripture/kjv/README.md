@@ -1,5 +1,5 @@
-**Psalms 139:23-24**
+**Luke 22:54**
 
-23 Search me, O God, and know my heart: try me, and know my thoughts: 24 And see if there be any wicked way in me, and lead me in the way everlasting. 
+54 Then took they him, and led him, and brought him into the high priest’s house. And Peter followed afar off.
 
-[Sunday 31-July, 2022](https://t.me/s/daily_scripture)
+[Monday 01-August, 2022](https://t.me/s/daily_scripture)

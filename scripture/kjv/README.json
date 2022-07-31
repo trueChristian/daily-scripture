@@ -1,14 +1,10 @@
 {
-  "date": "Sunday 31-July, 2022",
-  "name": "Psalms 139:23-24",
+  "date": "Monday 01-August, 2022",
+  "name": "Luke 22:54",
   "scripture": [
     {
-      "nr": "23",
-      "text": "Search me, O God, and know my heart: try me, and know my thoughts:"
-    },
-    {
-      "nr": "24",
-      "text": "And see if there be any wicked way in me, and lead me in the way everlasting. "
+      "nr": "54",
+      "text": "Then took they him, and led him, and brought him into the high priest’s house. And Peter followed afar off."
     }
   ],
   "source": "https://github.com/trueChristian/daily-scripture",
