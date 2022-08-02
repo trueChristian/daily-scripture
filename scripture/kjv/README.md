@@ -1,5 +1,5 @@
-**Luke 22:54**
+**2 Timothy 3:5**
 
-54 Then took they him, and led him, and brought him into the high priest’s house. And Peter followed afar off.
+5 Having a form of godliness, but denying the power thereof: from such turn away.
 
-[Monday 01-August, 2022](https://t.me/s/daily_scripture)
+[Tuesday 02-August, 2022](https://t.me/s/daily_scripture)
