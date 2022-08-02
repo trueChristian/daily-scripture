@@ -1,5 +1,5 @@
-**2 Timothy 3:5**
+**Luke 15:17-18**
 
-5 Having a form of godliness, but denying the power thereof: from such turn away.
+17 And when he came to himself, he said, How many hired servants of my father’s have bread enough and to spare, and I perish with hunger! 18 I will arise and go to my father, and will say unto him, Father, I have sinned against heaven, and before thee,
 
-[Tuesday 02-August, 2022](https://t.me/s/daily_scripture)
+[Wednesday 03-August, 2022](https://t.me/s/daily_scripture)

@@ -1,10 +1,14 @@
 {
-  "date": "Tuesday 02-August, 2022",
-  "name": "2 Timothy 3:5",
+  "date": "Wednesday 03-August, 2022",
+  "name": "Luke 15:17-18",
   "scripture": [
     {
-      "nr": "5",
-      "text": "Having a form of godliness, but denying the power thereof: from such turn away."
+      "nr": "17",
+      "text": "And when he came to himself, he said, How many hired servants of my father’s have bread enough and to spare, and I perish with hunger!"
+    },
+    {
+      "nr": "18",
+      "text": "I will arise and go to my father, and will say unto him, Father, I have sinned against heaven, and before thee,"
     }
   ],
   "source": "https://github.com/trueChristian/daily-scripture",
