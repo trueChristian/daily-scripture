@@ -1,5 +1,5 @@
-**Luke 15:17-18**
+**Romans 11:14**
 
-17 And when he came to himself, he said, How many hired servants of my father’s have bread enough and to spare, and I perish with hunger! 18 I will arise and go to my father, and will say unto him, Father, I have sinned against heaven, and before thee,
+14 If by any means I may provoke to emulation them which are my flesh, and might save some of them.
 
-[Wednesday 03-August, 2022](https://t.me/s/daily_scripture)
+[Thursday 04-August, 2022](https://t.me/s/daily_scripture)
