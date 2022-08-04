@@ -1,5 +1,5 @@
-**Romans 11:14**
+**Isaiah 54:11-12**
 
-14 If by any means I may provoke to emulation them which are my flesh, and might save some of them.
+11 O thou afflicted, tossed with tempest, and not comforted, behold, I will lay thy stones with fair colours, and lay thy foundations with sapphires. 12 And I will make thy windows of agates, and thy gates of carbuncles, and all thy borders of pleasant stones.
 
-[Thursday 04-August, 2022](https://t.me/s/daily_scripture)
+[Friday 05-August, 2022](https://t.me/s/daily_scripture)
