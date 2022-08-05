@@ -1,5 +1,5 @@
-**Isaiah 54:11-12**
+**Luke 12:25-26**
 
-11 O thou afflicted, tossed with tempest, and not comforted, behold, I will lay thy stones with fair colours, and lay thy foundations with sapphires. 12 And I will make thy windows of agates, and thy gates of carbuncles, and all thy borders of pleasant stones.
+25 And which of you with taking thought can add to his stature one cubit? 26 If ye then be not able to do that thing which is least, why take ye thought for the rest?
 
-[Friday 05-August, 2022](https://t.me/s/daily_scripture)
+[Saturday 06-August, 2022](https://t.me/s/daily_scripture)
