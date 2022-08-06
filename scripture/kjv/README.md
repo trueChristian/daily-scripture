@@ -1,5 +1,5 @@
-**Luke 12:25-26**
+**Jeremiah 23:30**
 
-25 And which of you with taking thought can add to his stature one cubit? 26 If ye then be not able to do that thing which is least, why take ye thought for the rest?
+30 Therefore, behold, I am against the prophets, saith the Lord, that steal my words every one from his neighbour.
 
-[Saturday 06-August, 2022](https://t.me/s/daily_scripture)
+[Sunday 07-August, 2022](https://t.me/s/daily_scripture)

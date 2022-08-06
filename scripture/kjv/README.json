@@ -1,14 +1,10 @@
 {
-  "date": "Saturday 06-August, 2022",
-  "name": "Luke 12:25-26",
+  "date": "Sunday 07-August, 2022",
+  "name": "Jeremiah 23:30",
   "scripture": [
     {
-      "nr": "25",
-      "text": "And which of you with taking thought can add to his stature one cubit?"
-    },
-    {
-      "nr": "26",
-      "text": "If ye then be not able to do that thing which is least, why take ye thought for the rest?"
+      "nr": "30",
+      "text": "Therefore, behold, I am against the prophets, saith the Lord, that steal my words every one from his neighbour."
     }
   ],
   "source": "https://github.com/trueChristian/daily-scripture",
