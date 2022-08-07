@@ -1,5 +1,5 @@
-**Jeremiah 23:30**
+**Titus 3:14**
 
-30 Therefore, behold, I am against the prophets, saith the Lord, that steal my words every one from his neighbour.
+14 And let ours also learn to maintain good works for necessary uses, that they be not unfruitful.
 
-[Sunday 07-August, 2022](https://t.me/s/daily_scripture)
+[Monday 08-August, 2022](https://t.me/s/daily_scripture)
