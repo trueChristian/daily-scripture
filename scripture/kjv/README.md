@@ -1,5 +1,5 @@
-**Titus 3:14**
+**2 Chronicles 15:7**
 
-14 And let ours also learn to maintain good works for necessary uses, that they be not unfruitful.
+7 Be ye strong therefore, and let not your hands be weak: for your work shall be rewarded.
 
-[Monday 08-August, 2022](https://t.me/s/daily_scripture)
+[Tuesday 09-August, 2022](https://t.me/s/daily_scripture)
