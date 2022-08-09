@@ -1,5 +1,5 @@
-**2 Chronicles 15:7**
+**Isaiah 55:12-13**
 
-7 Be ye strong therefore, and let not your hands be weak: for your work shall be rewarded.
+12 For ye shall go out with joy, and be led forth with peace: the mountains and the hills shall break forth before you into singing, and all the trees of the field shall clap their hands. 13 Instead of the thorn shall come up the fir tree, and instead of the brier shall come up the myrtle tree: and it shall be to the Lord for a name, for an everlasting sign that shall not be cut off. 
 
-[Tuesday 09-August, 2022](https://t.me/s/daily_scripture)
+[Wednesday 10-August, 2022](https://t.me/s/daily_scripture)
