@@ -1,5 +1,5 @@
-**Isaiah 55:12-13**
+**John 8:43**
 
-12 For ye shall go out with joy, and be led forth with peace: the mountains and the hills shall break forth before you into singing, and all the trees of the field shall clap their hands. 13 Instead of the thorn shall come up the fir tree, and instead of the brier shall come up the myrtle tree: and it shall be to the Lord for a name, for an everlasting sign that shall not be cut off. 
+43 Why do ye not understand my speech? even because ye cannot hear my word.
 
-[Wednesday 10-August, 2022](https://t.me/s/daily_scripture)
+[Thursday 11-August, 2022](https://t.me/s/daily_scripture)
