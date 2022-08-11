@@ -1,10 +1,14 @@
 {
-  "date": "Thursday 11-August, 2022",
-  "name": "John 8:43",
+  "date": "Friday 12-August, 2022",
+  "name": "Isaiah 62:6-7",
   "scripture": [
     {
-      "nr": "43",
-      "text": "Why do ye not understand my speech? even because ye cannot hear my word."
+      "nr": "6",
+      "text": "I have set watchmen upon thy walls, O Jerusalem, which shall never hold their peace day nor night: ye that make mention of the Lord, keep not silence,"
+    },
+    {
+      "nr": "7",
+      "text": "And give him no rest, till he establish, and till he make Jerusalem a praise in the earth."
     }
   ],
   "source": "https://github.com/trueChristian/daily-scripture",
