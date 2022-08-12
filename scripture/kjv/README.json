@@ -1,14 +1,10 @@
 {
-  "date": "Friday 12-August, 2022",
-  "name": "Isaiah 62:6-7",
+  "date": "Saturday 13-August, 2022",
+  "name": "Proverbs 4:23",
   "scripture": [
     {
-      "nr": "6",
-      "text": "I have set watchmen upon thy walls, O Jerusalem, which shall never hold their peace day nor night: ye that make mention of the Lord, keep not silence,"
-    },
-    {
-      "nr": "7",
-      "text": "And give him no rest, till he establish, and till he make Jerusalem a praise in the earth."
+      "nr": "23",
+      "text": "Keep thy heart with all diligence; for out of it are the issues of life."
     }
   ],
   "source": "https://github.com/trueChristian/daily-scripture",
