@@ -1,5 +1,5 @@
-**Proverbs 4:23**
+**Psalms 60:11**
 
-23 Keep thy heart with all diligence; for out of it are the issues of life.
+11 Give us help from trouble: for vain is the help of man.
 
-[Saturday 13-August, 2022](https://t.me/s/daily_scripture)
+[Sunday 14-August, 2022](https://t.me/s/daily_scripture)
