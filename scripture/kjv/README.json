@@ -1,10 +1,14 @@
 {
-  "date": "Sunday 14-August, 2022",
-  "name": "Psalms 60:11",
+  "date": "Monday 15-August, 2022",
+  "name": "Matthew 14:30-31",
   "scripture": [
     {
-      "nr": "11",
-      "text": "Give us help from trouble: for vain is the help of man."
+      "nr": "30",
+      "text": "But when he saw the wind boisterous, he was afraid; and beginning to sink, he cried, saying, Lord, save me."
+    },
+    {
+      "nr": "31",
+      "text": "And immediately Jesus stretched forth his hand, and caught him, and said unto him, O thou of little faith, wherefore didst thou doubt?"
     }
   ],
   "source": "https://github.com/trueChristian/daily-scripture",
