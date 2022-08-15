@@ -1,5 +1,5 @@
-**Matthew 14:30-31**
+**Romans 5:10**
 
-30 But when he saw the wind boisterous, he was afraid; and beginning to sink, he cried, saying, Lord, save me. 31 And immediately Jesus stretched forth his hand, and caught him, and said unto him, O thou of little faith, wherefore didst thou doubt?
+10 For if, when we were enemies, we were reconciled to God by the death of his Son, much more, being reconciled, we shall be saved by his life.
 
-[Monday 15-August, 2022](https://t.me/s/daily_scripture)
+[Tuesday 16-August, 2022](https://t.me/s/daily_scripture)

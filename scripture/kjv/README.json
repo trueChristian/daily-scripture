@@ -1,14 +1,10 @@
 {
-  "date": "Monday 15-August, 2022",
-  "name": "Matthew 14:30-31",
+  "date": "Tuesday 16-August, 2022",
+  "name": "Romans 5:10",
   "scripture": [
     {
-      "nr": "30",
-      "text": "But when he saw the wind boisterous, he was afraid; and beginning to sink, he cried, saying, Lord, save me."
-    },
-    {
-      "nr": "31",
-      "text": "And immediately Jesus stretched forth his hand, and caught him, and said unto him, O thou of little faith, wherefore didst thou doubt?"
+      "nr": "10",
+      "text": "For if, when we were enemies, we were reconciled to God by the death of his Son, much more, being reconciled, we shall be saved by his life."
     }
   ],
   "source": "https://github.com/trueChristian/daily-scripture",
