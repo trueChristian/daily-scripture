@@ -1,5 +1,5 @@
-**Romans 5:10**
+**John 11:4**
 
-10 For if, when we were enemies, we were reconciled to God by the death of his Son, much more, being reconciled, we shall be saved by his life.
+4 When Jesus heard that, he said, This sickness is not unto death, but for the glory of God, that the Son of God might be glorified thereby.
 
-[Tuesday 16-August, 2022](https://t.me/s/daily_scripture)
+[Wednesday 17-August, 2022](https://t.me/s/daily_scripture)
