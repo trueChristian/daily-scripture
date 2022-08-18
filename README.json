@@ -1,7 +1,24 @@
 {
   "date": "Thursday 18-August, 2022",
-  "name": "Philippians 2:2:20-21",
-  "scripture": [],
+  "name": "James 1:5-8",
+  "scripture": [
+    {
+      "nr": "5",
+      "text": "If any of you lack wisdom, let him ask of God, that giveth to all men liberally, and upbraideth not; and it shall be given him."
+    },
+    {
+      "nr": "6",
+      "text": "But let him ask in faith, nothing wavering. For he that wavereth is like a wave of the sea driven with the wind and tossed."
+    },
+    {
+      "nr": "7",
+      "text": "For let not that man think that he shall receive any thing of the Lord."
+    },
+    {
+      "nr": "8",
+      "text": "A double minded man is unstable in all his ways."
+    }
+  ],
   "source": "https://github.com/trueChristian/daily-scripture",
   "telegram": "daily_scripture",
   "version": "kjv"
