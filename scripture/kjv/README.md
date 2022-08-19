@@ -1,5 +1,5 @@
-**Genesis 4:7**
+**Proverbs 12:26**
 
-7 If thou doest well, shalt thou not be accepted? and if thou doest not well, sin lieth at the door. And unto thee shall be his desire, and thou shalt rule over him.
+26 The righteous is more excellent than his neighbour: but the way of the wicked seduceth them.
 
-[Friday 19-August, 2022](https://t.me/s/daily_scripture)
+[Saturday 20-August, 2022](https://t.me/s/daily_scripture)
