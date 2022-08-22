@@ -1,5 +1,5 @@
-**Haggai 1:14**
+**1 John 3:20**
 
-14 And the Lord stirred up the spirit of Zerubbabel the son of Shealtiel, governor of Judah, and the spirit of Joshua the son of Josedech, the high priest, and the spirit of all the remnant of the people; and they came and did work in the house of the Lord of hosts, their God,
+20 For if our heart condemn us, God is greater than our heart, and knoweth all things.
 
-[Monday 22-August, 2022](https://t.me/s/daily_scripture)
+[Tuesday 23-August, 2022](https://t.me/s/daily_scripture)
