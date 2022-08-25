@@ -1,5 +1,5 @@
-**Proverbs 11:9**
+**Proverbs 4:18**
 
-9 An hypocrite with his mouth destroyeth his neighbour: but through knowledge shall the just be delivered.
+18 But the path of the just is as the shining light, that shineth more and more unto the perfect day.
 
-[Thursday 25-August, 2022](https://t.me/s/daily_scripture)
+[Friday 26-August, 2022](https://t.me/s/daily_scripture)
