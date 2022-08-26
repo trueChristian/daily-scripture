@@ -1,5 +1,5 @@
-**Proverbs 4:18**
+**Matthew 15:8**
 
-18 But the path of the just is as the shining light, that shineth more and more unto the perfect day.
+8 This people draweth nigh unto me with their mouth, and honoureth me with their lips; but their heart is far from me.
 
-[Friday 26-August, 2022](https://t.me/s/daily_scripture)
+[Saturday 27-August, 2022](https://t.me/s/daily_scripture)
