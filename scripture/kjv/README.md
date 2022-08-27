@@ -1,5 +1,5 @@
-**Matthew 15:8**
+**Proverbs 1:33**
 
-8 This people draweth nigh unto me with their mouth, and honoureth me with their lips; but their heart is far from me.
+33 But whoso hearkeneth unto me shall dwell safely, and shall be quiet from fear of evil. 
 
-[Saturday 27-August, 2022](https://t.me/s/daily_scripture)
+[Sunday 28-August, 2022](https://t.me/s/daily_scripture)
