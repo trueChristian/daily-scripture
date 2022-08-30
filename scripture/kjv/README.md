@@ -1,5 +1,5 @@
-**Psalms 68:10**
+**Leviticus 19:15**
 
-10 Thy congregation hath dwelt therein: thou, O God, hast prepared of thy goodness for the poor.
+15 Ye shall do no unrighteousness in judgment: thou shalt not respect the person of the poor, nor honour the person of the mighty: but in righteousness shalt thou judge thy neighbour.
 
-[Tuesday 30-August, 2022](https://t.me/s/daily_scripture)
+[Wednesday 31-August, 2022](https://t.me/s/daily_scripture)
