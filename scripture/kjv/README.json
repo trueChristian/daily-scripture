@@ -1,10 +1,14 @@
 {
-  "date": "Wednesday 31-August, 2022",
-  "name": "Leviticus 19:15",
+  "date": "Thursday 01-September, 2022",
+  "name": "1 Peter 4:1-2",
   "scripture": [
     {
-      "nr": "15",
-      "text": "Ye shall do no unrighteousness in judgment: thou shalt not respect the person of the poor, nor honour the person of the mighty: but in righteousness shalt thou judge thy neighbour."
+      "nr": "1",
+      "text": "Forasmuch then as Christ hath suffered for us in the flesh, arm yourselves likewise with the same mind: for he that hath suffered in the flesh hath ceased from sin;"
+    },
+    {
+      "nr": "2",
+      "text": "That he no longer should live the rest of his time in the flesh to the lusts of men, but to the will of God."
     }
   ],
   "source": "https://github.com/trueChristian/daily-scripture",

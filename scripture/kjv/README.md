@@ -1,5 +1,5 @@
-**Leviticus 19:15**
+**1 Peter 4:1-2**
 
-15 Ye shall do no unrighteousness in judgment: thou shalt not respect the person of the poor, nor honour the person of the mighty: but in righteousness shalt thou judge thy neighbour.
+1 Forasmuch then as Christ hath suffered for us in the flesh, arm yourselves likewise with the same mind: for he that hath suffered in the flesh hath ceased from sin; 2 That he no longer should live the rest of his time in the flesh to the lusts of men, but to the will of God.
 
-[Wednesday 31-August, 2022](https://t.me/s/daily_scripture)
+[Thursday 01-September, 2022](https://t.me/s/daily_scripture)
