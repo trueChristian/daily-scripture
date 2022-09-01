@@ -1,5 +1,5 @@
-**1 Peter 4:1-2**
+**Nehemiah 4:17**
 
-1 Forasmuch then as Christ hath suffered for us in the flesh, arm yourselves likewise with the same mind: for he that hath suffered in the flesh hath ceased from sin; 2 That he no longer should live the rest of his time in the flesh to the lusts of men, but to the will of God.
+17 They which builded on the wall, and they that bare burdens, with those that laded, every one with one of his hands wrought in the work, and with the other hand held a weapon.
 
-[Thursday 01-September, 2022](https://t.me/s/daily_scripture)
+[Friday 02-September, 2022](https://t.me/s/daily_scripture)
