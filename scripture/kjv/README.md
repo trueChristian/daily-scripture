@@ -1,5 +1,5 @@
-**Nehemiah 4:17**
+**Psalms 1:5**
 
-17 They which builded on the wall, and they that bare burdens, with those that laded, every one with one of his hands wrought in the work, and with the other hand held a weapon.
+5 Therefore the ungodly shall not stand in the judgment, nor sinners in the congregation of the righteous.
 
-[Friday 02-September, 2022](https://t.me/s/daily_scripture)
+[Saturday 03-September, 2022](https://t.me/s/daily_scripture)
