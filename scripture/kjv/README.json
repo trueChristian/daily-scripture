@@ -1,10 +1,14 @@
 {
-  "date": "Saturday 03-September, 2022",
-  "name": "Psalms 1:5",
+  "date": "Sunday 04-September, 2022",
+  "name": "James 2:12-13",
   "scripture": [
     {
-      "nr": "5",
-      "text": "Therefore the ungodly shall not stand in the judgment, nor sinners in the congregation of the righteous."
+      "nr": "12",
+      "text": "So speak ye, and so do, as they that shall be judged by the law of liberty."
+    },
+    {
+      "nr": "13",
+      "text": "For he shall have judgment without mercy, that hath shewed no mercy; and mercy rejoiceth against judgment."
     }
   ],
   "source": "https://github.com/trueChristian/daily-scripture",
