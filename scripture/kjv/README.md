@@ -1,5 +1,5 @@
-**James 2:12-13**
+**John 7:38-39**
 
-12 So speak ye, and so do, as they that shall be judged by the law of liberty. 13 For he shall have judgment without mercy, that hath shewed no mercy; and mercy rejoiceth against judgment.
+38 He that believeth on me, as the scripture hath said, out of his belly shall flow rivers of living water. 39 (But this spake he of the Spirit, which they that believe on him should receive: for the Holy Ghost was not yet given; because that Jesus was not yet glorified.)
 
-[Sunday 04-September, 2022](https://t.me/s/daily_scripture)
+[Monday 05-September, 2022](https://t.me/s/daily_scripture)

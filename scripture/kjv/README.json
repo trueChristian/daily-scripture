@@ -1,14 +1,14 @@
 {
-  "date": "Sunday 04-September, 2022",
-  "name": "James 2:12-13",
+  "date": "Monday 05-September, 2022",
+  "name": "John 7:38-39",
   "scripture": [
     {
-      "nr": "12",
-      "text": "So speak ye, and so do, as they that shall be judged by the law of liberty."
+      "nr": "38",
+      "text": "He that believeth on me, as the scripture hath said, out of his belly shall flow rivers of living water."
     },
     {
-      "nr": "13",
-      "text": "For he shall have judgment without mercy, that hath shewed no mercy; and mercy rejoiceth against judgment."
+      "nr": "39",
+      "text": "(But this spake he of the Spirit, which they that believe on him should receive: for the Holy Ghost was not yet given; because that Jesus was not yet glorified.)"
     }
   ],
   "source": "https://github.com/trueChristian/daily-scripture",
