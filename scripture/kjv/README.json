@@ -1,14 +1,10 @@
 {
-  "date": "Monday 05-September, 2022",
-  "name": "John 7:38-39",
+  "date": "Tuesday 06-September, 2022",
+  "name": "Psalms 34:1",
   "scripture": [
     {
-      "nr": "38",
-      "text": "He that believeth on me, as the scripture hath said, out of his belly shall flow rivers of living water."
-    },
-    {
-      "nr": "39",
-      "text": "(But this spake he of the Spirit, which they that believe on him should receive: for the Holy Ghost was not yet given; because that Jesus was not yet glorified.)"
+      "nr": "1",
+      "text": "I will bless the Lord at all times: his praise shall continually be in my mouth."
     }
   ],
   "source": "https://github.com/trueChristian/daily-scripture",
