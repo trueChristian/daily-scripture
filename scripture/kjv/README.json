@@ -1,10 +1,14 @@
 {
-  "date": "Tuesday 06-September, 2022",
-  "name": "Psalms 34:1",
+  "date": "Wednesday 07-September, 2022",
+  "name": "Job 1:21-22",
   "scripture": [
     {
-      "nr": "1",
-      "text": "I will bless the Lord at all times: his praise shall continually be in my mouth."
+      "nr": "21",
+      "text": "And said, Naked came I out of my mother’s womb, and naked shall I return thither: the Lord gave, and the Lord hath taken away; blessed be the name of the Lord."
+    },
+    {
+      "nr": "22",
+      "text": "In all this Job sinned not, nor charged God foolishly. "
     }
   ],
   "source": "https://github.com/trueChristian/daily-scripture",
