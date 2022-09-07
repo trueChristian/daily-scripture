@@ -1,14 +1,10 @@
 {
-  "date": "Wednesday 07-September, 2022",
-  "name": "Job 1:21-22",
+  "date": "Thursday 08-September, 2022",
+  "name": "Proverbs 11:24",
   "scripture": [
     {
-      "nr": "21",
-      "text": "And said, Naked came I out of my mother’s womb, and naked shall I return thither: the Lord gave, and the Lord hath taken away; blessed be the name of the Lord."
-    },
-    {
-      "nr": "22",
-      "text": "In all this Job sinned not, nor charged God foolishly. "
+      "nr": "24",
+      "text": "There is that scattereth, and yet increaseth; and there is that withholdeth more than is meet, but it tendeth to poverty."
     }
   ],
   "source": "https://github.com/trueChristian/daily-scripture",
