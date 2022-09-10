@@ -1,10 +1,14 @@
 {
-  "date": "Saturday 10-September, 2022",
-  "name": "Acts 2:44",
+  "date": "Sunday 11-September, 2022",
+  "name": "James 2:8-9",
   "scripture": [
     {
-      "nr": "44",
-      "text": "And all that believed were together, and had all things common;"
+      "nr": "8",
+      "text": "If ye fulfil the royal law according to the scripture, Thou shalt love thy neighbour as thyself, ye do well:"
+    },
+    {
+      "nr": "9",
+      "text": "But if ye have respect to persons, ye commit sin, and are convinced of the law as transgressors."
     }
   ],
   "source": "https://github.com/trueChristian/daily-scripture",
