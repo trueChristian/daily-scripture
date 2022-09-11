@@ -1,14 +1,10 @@
 {
-  "date": "Sunday 11-September, 2022",
-  "name": "James 2:8-9",
+  "date": "Monday 12-September, 2022",
+  "name": "Jeremiah 4:3",
   "scripture": [
     {
-      "nr": "8",
-      "text": "If ye fulfil the royal law according to the scripture, Thou shalt love thy neighbour as thyself, ye do well:"
-    },
-    {
-      "nr": "9",
-      "text": "But if ye have respect to persons, ye commit sin, and are convinced of the law as transgressors."
+      "nr": "3",
+      "text": "For thus saith the Lord to the men of Judah and Jerusalem, Break up your fallow ground, and sow not among thorns."
     }
   ],
   "source": "https://github.com/trueChristian/daily-scripture",
