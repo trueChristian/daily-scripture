@@ -1,5 +1,5 @@
-**Jeremiah 4:3**
+**Philippians 3:7-8**
 
-3 For thus saith the Lord to the men of Judah and Jerusalem, Break up your fallow ground, and sow not among thorns.
+7 But what things were gain to me, those I counted loss for Christ. 8 Yea doubtless, and I count all things but loss for the excellency of the knowledge of Christ Jesus my Lord: for whom I have suffered the loss of all things, and do count them but dung, that I may win Christ,
 
-[Monday 12-September, 2022](https://t.me/s/daily_scripture)
+[Tuesday 13-September, 2022](https://t.me/s/daily_scripture)

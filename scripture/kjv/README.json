@@ -1,10 +1,14 @@
 {
-  "date": "Monday 12-September, 2022",
-  "name": "Jeremiah 4:3",
+  "date": "Tuesday 13-September, 2022",
+  "name": "Philippians 3:7-8",
   "scripture": [
     {
-      "nr": "3",
-      "text": "For thus saith the Lord to the men of Judah and Jerusalem, Break up your fallow ground, and sow not among thorns."
+      "nr": "7",
+      "text": "But what things were gain to me, those I counted loss for Christ."
+    },
+    {
+      "nr": "8",
+      "text": "Yea doubtless, and I count all things but loss for the excellency of the knowledge of Christ Jesus my Lord: for whom I have suffered the loss of all things, and do count them but dung, that I may win Christ,"
     }
   ],
   "source": "https://github.com/trueChristian/daily-scripture",
