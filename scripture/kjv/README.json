@@ -1,14 +1,10 @@
 {
-  "date": "Wednesday 14-September, 2022",
-  "name": "Hosea 7:8-9",
+  "date": "Thursday 15-September, 2022",
+  "name": "Psalms 50:15",
   "scripture": [
     {
-      "nr": "8",
-      "text": "Ephraim, he hath mixed himself among the people; Ephraim is a cake not turned."
-    },
-    {
-      "nr": "9",
-      "text": "Strangers have devoured his strength, and he knoweth it not: yea, gray hairs are here and there upon him, yet he knoweth not."
+      "nr": "15",
+      "text": "And call upon me in the day of trouble: I will deliver thee, and thou shalt glorify me."
     }
   ],
   "source": "https://github.com/trueChristian/daily-scripture",
