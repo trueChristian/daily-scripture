@@ -1,5 +1,5 @@
-**Psalms 50:15**
+**John 15:11**
 
-15 And call upon me in the day of trouble: I will deliver thee, and thou shalt glorify me.
+11 These things have I spoken unto you, that my joy might remain in you, and that your joy might be full.
 
-[Thursday 15-September, 2022](https://t.me/s/daily_scripture)
+[Friday 16-September, 2022](https://t.me/s/daily_scripture)
