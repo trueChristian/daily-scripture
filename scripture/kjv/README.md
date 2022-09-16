@@ -1,5 +1,5 @@
-**John 15:11**
+**Romans 8:17**
 
-11 These things have I spoken unto you, that my joy might remain in you, and that your joy might be full.
+17 And if children, then heirs; heirs of God, and joint-heirs with Christ; if so be that we suffer with him, that we may be also glorified together.
 
-[Friday 16-September, 2022](https://t.me/s/daily_scripture)
+[Saturday 17-September, 2022](https://t.me/s/daily_scripture)
