@@ -1,5 +1,5 @@
-**Romans 8:17**
+**Ephesians 4:28**
 
-17 And if children, then heirs; heirs of God, and joint-heirs with Christ; if so be that we suffer with him, that we may be also glorified together.
+28 Let him that stole steal no more: but rather let him labour, working with his hands the thing which is good, that he may have to give to him that needeth.
 
-[Saturday 17-September, 2022](https://t.me/s/daily_scripture)
+[Sunday 18-September, 2022](https://t.me/s/daily_scripture)
