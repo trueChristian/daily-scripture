@@ -1,5 +1,5 @@
-**Acts 4:31**
+**Proverbs 12:10**
 
-31 And when they had prayed, the place was shaken where they were assembled together; and they were all filled with the Holy Ghost, and they spake the word of God with boldness.
+10 A righteous man regardeth the life of his beast: but the tender mercies of the wicked are cruel.
 
-[Monday 19-September, 2022](https://t.me/s/daily_scripture)
+[Tuesday 20-September, 2022](https://t.me/s/daily_scripture)
