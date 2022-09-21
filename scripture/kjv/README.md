@@ -1,5 +1,5 @@
-**Romans 6:22**
+**Psalms 141:5**
 
-22 But now being made free from sin, and become servants to God, ye have your fruit unto holiness, and the end everlasting life.
+5 Let the righteous smite me; it shall be a kindness: and let him reprove me; it shall be an excellent oil, which shall not break my head: for yet my prayer also shall be in their calamities.
 
-[Wednesday 21-September, 2022](https://t.me/s/daily_scripture)
+[Thursday 22-September, 2022](https://t.me/s/daily_scripture)
