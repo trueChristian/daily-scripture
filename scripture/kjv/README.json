@@ -1,10 +1,22 @@
 {
-  "date": "Thursday 22-September, 2022",
-  "name": "Psalms 141:5",
+  "date": "Friday 23-September, 2022",
+  "name": "Joshua 23:8-11",
   "scripture": [
     {
-      "nr": "5",
-      "text": "Let the righteous smite me; it shall be a kindness: and let him reprove me; it shall be an excellent oil, which shall not break my head: for yet my prayer also shall be in their calamities."
+      "nr": "8",
+      "text": "But cleave unto the Lord your God, as ye have done unto this day."
+    },
+    {
+      "nr": "9",
+      "text": "For the Lord hath driven out from before you great nations and strong: but as for you, no man hath been able to stand before you unto this day."
+    },
+    {
+      "nr": "10",
+      "text": "One man of you shall chase a thousand: for the Lord your God, he it is that fighteth for you, as he hath promised you."
+    },
+    {
+      "nr": "11",
+      "text": "Take good heed therefore unto yourselves, that ye love the Lord your God."
     }
   ],
   "source": "https://github.com/trueChristian/daily-scripture",

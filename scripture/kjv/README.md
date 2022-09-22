@@ -1,5 +1,5 @@
-**Psalms 141:5**
+**Joshua 23:8-11**
 
-5 Let the righteous smite me; it shall be a kindness: and let him reprove me; it shall be an excellent oil, which shall not break my head: for yet my prayer also shall be in their calamities.
+8 But cleave unto the Lord your God, as ye have done unto this day. 9 For the Lord hath driven out from before you great nations and strong: but as for you, no man hath been able to stand before you unto this day. 10 One man of you shall chase a thousand: for the Lord your God, he it is that fighteth for you, as he hath promised you. 11 Take good heed therefore unto yourselves, that ye love the Lord your God.
 
-[Thursday 22-September, 2022](https://t.me/s/daily_scripture)
+[Friday 23-September, 2022](https://t.me/s/daily_scripture)
