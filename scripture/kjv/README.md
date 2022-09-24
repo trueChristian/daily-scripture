@@ -1,5 +1,5 @@
-**Zechariah 1:14**
+**Proverbs 25:12**
 
-14 So the angel that communed with me said unto me, Cry thou, saying, Thus saith the Lord of hosts; I am jealous for Jerusalem and for Zion with a great jealousy.
+12 As an earring of gold, and an ornament of fine gold, so is a wise reprover upon an obedient ear.
 
-[Saturday 24-September, 2022](https://t.me/s/daily_scripture)
+[Sunday 25-September, 2022](https://t.me/s/daily_scripture)
