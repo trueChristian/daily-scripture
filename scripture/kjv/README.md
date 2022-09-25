@@ -1,5 +1,5 @@
-**Proverbs 25:12**
+**2 Timothy 2:1**
 
-12 As an earring of gold, and an ornament of fine gold, so is a wise reprover upon an obedient ear.
+1 Thou therefore, my son, be strong in the grace that is in Christ Jesus.
 
-[Sunday 25-September, 2022](https://t.me/s/daily_scripture)
+[Monday 26-September, 2022](https://t.me/s/daily_scripture)
