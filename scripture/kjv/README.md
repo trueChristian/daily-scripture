@@ -1,5 +1,5 @@
-**John 11:26**
+**Luke 23:28**
 
-26 And whosoever liveth and believeth in me shall never die. Believest thou this?
+28 But Jesus turning unto them said, Daughters of Jerusalem, weep not for me, but weep for yourselves, and for your children.
 
-[Wednesday 28-September, 2022](https://t.me/s/daily_scripture)
+[Thursday 29-September, 2022](https://t.me/s/daily_scripture)
