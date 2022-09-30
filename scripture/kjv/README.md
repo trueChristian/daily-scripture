@@ -1,5 +1,5 @@
-**Micah 2:6-7**
+**Daniel 6:10**
 
-6 Prophesy ye not, say they to them that prophesy: they shall not prophesy to them, that they shall not take shame. 7 O thou that art named the house of Jacob, is the spirit of the Lord straitened? are these his doings? do not my words do good to him that walketh uprightly?
+10 Now when Daniel knew that the writing was signed, he went into his house; and his windows being open in his chamber toward Jerusalem, he kneeled upon his knees three times a day, and prayed, and gave thanks before his God, as he did aforetime.
 
-[Friday 30-September, 2022](https://t.me/s/daily_scripture)
+[Saturday 01-October, 2022](https://t.me/s/daily_scripture)
