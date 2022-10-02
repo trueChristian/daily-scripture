@@ -1,5 +1,5 @@
-**Matthew 13:57**
+**Job 6:14**
 
-57 And they were offended in him. But Jesus said unto them, A prophet is not without honour, save in his own country, and in his own house.
+14 To him that is afflicted pity should be shewed from his friend; but he forsaketh the fear of the Almighty.
 
-[Sunday 02-October, 2022](https://t.me/s/daily_scripture)
+[Monday 03-October, 2022](https://t.me/s/daily_scripture)
