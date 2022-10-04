@@ -1,5 +1,5 @@
-**Proverbs 21:30**
+**Psalms 84:5-7**
 
-30 There is no wisdom nor understanding nor counsel against the Lord.
+5 Blessed is the man whose strength is in thee; in whose heart are the ways of them. 6 Who passing through the valley of Baca make it a well; the rain also filleth the pools. 7 They go from strength to strength, every one of them in Zion appeareth before God.
 
-[Tuesday 04-October, 2022](https://t.me/s/daily_scripture)
+[Wednesday 05-October, 2022](https://t.me/s/daily_scripture)
