@@ -1,5 +1,5 @@
-**Psalms 145:18**
+**Hebrews 10:34**
 
-18 The Lord is nigh unto all them that call upon him, to all that call upon him in truth.
+34 For ye had compassion of me in my bonds, and took joyfully the spoiling of your goods, knowing in yourselves that ye have in heaven a better and an enduring substance.
 
-[Friday 07-October, 2022](https://t.me/s/daily_scripture)
+[Saturday 08-October, 2022](https://t.me/s/daily_scripture)
