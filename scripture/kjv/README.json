@@ -1,14 +1,10 @@
 {
-  "date": "Monday 10-October, 2022",
-  "name": "Proverbs 3:13-14",
+  "date": "Tuesday 11-October, 2022",
+  "name": "Acts 9:34",
   "scripture": [
     {
-      "nr": "13",
-      "text": "Happy is the man that findeth wisdom, and the man that getteth understanding."
-    },
-    {
-      "nr": "14",
-      "text": "For the merchandise of it is better than the merchandise of silver, and the gain thereof than fine gold."
+      "nr": "34",
+      "text": "And Peter said unto him, Æneas, Jesus Christ maketh thee whole: arise, and make thy bed. And he arose immediately."
     }
   ],
   "source": "https://github.com/trueChristian/daily-scripture",
