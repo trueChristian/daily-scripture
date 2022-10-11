@@ -1,10 +1,18 @@
 {
-  "date": "Tuesday 11-October, 2022",
-  "name": "Acts 9:34",
+  "date": "Wednesday 12-October, 2022",
+  "name": "Ephesians 5:22-24",
   "scripture": [
     {
-      "nr": "34",
-      "text": "And Peter said unto him, Æneas, Jesus Christ maketh thee whole: arise, and make thy bed. And he arose immediately."
+      "nr": "22",
+      "text": "Wives, submit yourselves unto your own husbands, as unto the Lord."
+    },
+    {
+      "nr": "23",
+      "text": "For the husband is the head of the wife, even as Christ is the head of the church: and he is the saviour of the body."
+    },
+    {
+      "nr": "24",
+      "text": "Therefore as the church is subject unto Christ, so let the wives be to their own husbands in every thing."
     }
   ],
   "source": "https://github.com/trueChristian/daily-scripture",
