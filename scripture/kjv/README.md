@@ -1,5 +1,5 @@
-**Ephesians 5:22-24**
+**Philippians 4:23**
 
-22 Wives, submit yourselves unto your own husbands, as unto the Lord. 23 For the husband is the head of the wife, even as Christ is the head of the church: and he is the saviour of the body. 24 Therefore as the church is subject unto Christ, so let the wives be to their own husbands in every thing.
+23 The grace of our Lord Jesus Christ be with you all. Amen.  It was written to the Philippians from Rome by Epaphroditus. 
 
-[Wednesday 12-October, 2022](https://t.me/s/daily_scripture)
+[Thursday 13-October, 2022](https://t.me/s/daily_scripture)
