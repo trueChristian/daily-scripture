@@ -1,5 +1,5 @@
-**Philippians 4:23**
+**Colossians 3:14**
 
-23 The grace of our Lord Jesus Christ be with you all. Amen.  It was written to the Philippians from Rome by Epaphroditus. 
+14 And above all these things put on charity, which is the bond of perfectness.
 
-[Thursday 13-October, 2022](https://t.me/s/daily_scripture)
+[Friday 14-October, 2022](https://t.me/s/daily_scripture)
