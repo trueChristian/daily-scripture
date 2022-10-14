@@ -1,5 +1,5 @@
-**Colossians 3:14**
+**Proverbs 12:19**
 
-14 And above all these things put on charity, which is the bond of perfectness.
+19 The lip of truth shall be established for ever: but a lying tongue is but for a moment.
 
-[Friday 14-October, 2022](https://t.me/s/daily_scripture)
+[Saturday 15-October, 2022](https://t.me/s/daily_scripture)
