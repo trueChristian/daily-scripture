@@ -1,5 +1,5 @@
-**Proverbs 12:19**
+**Isaiah 3:12**
 
-19 The lip of truth shall be established for ever: but a lying tongue is but for a moment.
+12 As for my people, children are their oppressors, and women rule over them. O my people, they which lead thee cause thee to err, and destroy the way of thy paths.
 
-[Saturday 15-October, 2022](https://t.me/s/daily_scripture)
+[Sunday 16-October, 2022](https://t.me/s/daily_scripture)
