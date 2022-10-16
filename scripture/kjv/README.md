@@ -1,5 +1,5 @@
-**Isaiah 3:12**
+**Luke 1:6**
 
-12 As for my people, children are their oppressors, and women rule over them. O my people, they which lead thee cause thee to err, and destroy the way of thy paths.
+6 And they were both righteous before God, walking in all the commandments and ordinances of the Lord blameless.
 
-[Sunday 16-October, 2022](https://t.me/s/daily_scripture)
+[Monday 17-October, 2022](https://t.me/s/daily_scripture)
