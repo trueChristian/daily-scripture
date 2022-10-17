@@ -1,5 +1,5 @@
-**Luke 1:6**
+**Matthew 7:7-11**
 
-6 And they were both righteous before God, walking in all the commandments and ordinances of the Lord blameless.
+7 Ask, and it shall be given you; seek, and ye shall find; knock, and it shall be opened unto you: 8 For every one that asketh receiveth; and he that seeketh findeth; and to him that knocketh it shall be opened. 9 Or what man is there of you, whom if his son ask bread, will he give him a stone? 10 Or if he ask a fish, will he give him a serpent? 11 If ye then, being evil, know how to give good gifts unto your children, how much more shall your Father which is in heaven give good things to them that ask him?
 
-[Monday 17-October, 2022](https://t.me/s/daily_scripture)
+[Tuesday 18-October, 2022](https://t.me/s/daily_scripture)

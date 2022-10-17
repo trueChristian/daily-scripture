@@ -1,10 +1,26 @@
 {
-  "date": "Monday 17-October, 2022",
-  "name": "Luke 1:6",
+  "date": "Tuesday 18-October, 2022",
+  "name": "Matthew 7:7-11",
   "scripture": [
     {
-      "nr": "6",
-      "text": "And they were both righteous before God, walking in all the commandments and ordinances of the Lord blameless."
+      "nr": "7",
+      "text": "Ask, and it shall be given you; seek, and ye shall find; knock, and it shall be opened unto you:"
+    },
+    {
+      "nr": "8",
+      "text": "For every one that asketh receiveth; and he that seeketh findeth; and to him that knocketh it shall be opened."
+    },
+    {
+      "nr": "9",
+      "text": "Or what man is there of you, whom if his son ask bread, will he give him a stone?"
+    },
+    {
+      "nr": "10",
+      "text": "Or if he ask a fish, will he give him a serpent?"
+    },
+    {
+      "nr": "11",
+      "text": "If ye then, being evil, know how to give good gifts unto your children, how much more shall your Father which is in heaven give good things to them that ask him?"
     }
   ],
   "source": "https://github.com/trueChristian/daily-scripture",
