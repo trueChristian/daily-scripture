@@ -1,26 +1,14 @@
 {
-  "date": "Tuesday 18-October, 2022",
-  "name": "Matthew 7:7-11",
+  "date": "Wednesday 19-October, 2022",
+  "name": "Psalms 104:27-28",
   "scripture": [
     {
-      "nr": "7",
-      "text": "Ask, and it shall be given you; seek, and ye shall find; knock, and it shall be opened unto you:"
+      "nr": "27",
+      "text": "These wait all upon thee; that thou mayest give them their meat in due season."
     },
     {
-      "nr": "8",
-      "text": "For every one that asketh receiveth; and he that seeketh findeth; and to him that knocketh it shall be opened."
-    },
-    {
-      "nr": "9",
-      "text": "Or what man is there of you, whom if his son ask bread, will he give him a stone?"
-    },
-    {
-      "nr": "10",
-      "text": "Or if he ask a fish, will he give him a serpent?"
-    },
-    {
-      "nr": "11",
-      "text": "If ye then, being evil, know how to give good gifts unto your children, how much more shall your Father which is in heaven give good things to them that ask him?"
+      "nr": "28",
+      "text": "That thou givest them they gather: thou openest thine hand, they are filled with good."
     }
   ],
   "source": "https://github.com/trueChristian/daily-scripture",
