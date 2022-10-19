@@ -1,5 +1,5 @@
-**Psalms 104:27-28**
+**Romans 4:5-8**
 
-27 These wait all upon thee; that thou mayest give them their meat in due season. 28 That thou givest them they gather: thou openest thine hand, they are filled with good.
+5 But to him that worketh not, but believeth on him that justifieth the ungodly, his faith is counted for righteousness. 6 Even as David also describeth the blessedness of the man, unto whom God imputeth righteousness without works, 7 Saying, Blessed are they whose iniquities are forgiven, and whose sins are covered. 8 Blessed is the man to whom the Lord will not impute sin.
 
-[Wednesday 19-October, 2022](https://t.me/s/daily_scripture)
+[Thursday 20-October, 2022](https://t.me/s/daily_scripture)
