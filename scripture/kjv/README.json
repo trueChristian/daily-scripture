@@ -1,22 +1,10 @@
 {
-  "date": "Thursday 20-October, 2022",
-  "name": "Romans 4:5-8",
+  "date": "Friday 21-October, 2022",
+  "name": "1 Thessalonians 5:15",
   "scripture": [
     {
-      "nr": "5",
-      "text": "But to him that worketh not, but believeth on him that justifieth the ungodly, his faith is counted for righteousness."
-    },
-    {
-      "nr": "6",
-      "text": "Even as David also describeth the blessedness of the man, unto whom God imputeth righteousness without works,"
-    },
-    {
-      "nr": "7",
-      "text": "Saying, Blessed are they whose iniquities are forgiven, and whose sins are covered."
-    },
-    {
-      "nr": "8",
-      "text": "Blessed is the man to whom the Lord will not impute sin."
+      "nr": "15",
+      "text": "See that none render evil for evil unto any man; but ever follow that which is good, both among yourselves, and to all men. "
     }
   ],
   "source": "https://github.com/trueChristian/daily-scripture",
