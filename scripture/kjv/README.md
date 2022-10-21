@@ -1,5 +1,5 @@
-**1 Thessalonians 5:15**
+**James 1:27**
 
-15 See that none render evil for evil unto any man; but ever follow that which is good, both among yourselves, and to all men. 
+27 Pure religion and undefiled before God and the Father is this, To visit the fatherless and widows in their affliction, and to keep himself unspotted from the world. 
 
-[Friday 21-October, 2022](https://t.me/s/daily_scripture)
+[Saturday 22-October, 2022](https://t.me/s/daily_scripture)
