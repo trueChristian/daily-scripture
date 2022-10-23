@@ -1,5 +1,5 @@
-**1 John 3:13**
+**Philippians 2:4**
 
-13 Marvel not, my brethren, if the world hate you.
+4 Look not every man on his own things, but every man also on the things of others.
 
-[Sunday 23-October, 2022](https://t.me/s/daily_scripture)
+[Monday 24-October, 2022](https://t.me/s/daily_scripture)
