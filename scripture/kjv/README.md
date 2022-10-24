@@ -1,5 +1,5 @@
-**Philippians 2:4**
+**1 Corinthians 6:9-10**
 
-4 Look not every man on his own things, but every man also on the things of others.
+9 Know ye not that the unrighteous shall not inherit the kingdom of God? Be not deceived: neither fornicators, nor idolaters, nor adulterers, nor effeminate, nor abusers of themselves with mankind, 10 Nor thieves, nor covetous, nor drunkards, nor revilers, nor extortioners, shall inherit the kingdom of God.
 
-[Monday 24-October, 2022](https://t.me/s/daily_scripture)
+[Tuesday 25-October, 2022](https://t.me/s/daily_scripture)
