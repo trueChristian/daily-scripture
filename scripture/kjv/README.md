@@ -1,5 +1,5 @@
-**2 Corinthians 5:7**
+**Revelation 3:10**
 
-7 (For we walk by faith, not by sight:)
+10 Because thou hast kept the word of my patience, I also will keep thee from the hour of temptation, which shall come upon all the world, to try them that dwell upon the earth.
 
-[Thursday 27-October, 2022](https://t.me/s/daily_scripture)
+[Friday 28-October, 2022](https://t.me/s/daily_scripture)
