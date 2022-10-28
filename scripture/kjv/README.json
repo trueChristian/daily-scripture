@@ -1,10 +1,18 @@
 {
-  "date": "Friday 28-October, 2022",
-  "name": "Revelation 3:10",
+  "date": "Saturday 29-October, 2022",
+  "name": "Revelation 4:9-11",
   "scripture": [
     {
+      "nr": "9",
+      "text": "And when those beasts give glory and honour and thanks to him that sat on the throne, who liveth for ever and ever,"
+    },
+    {
       "nr": "10",
-      "text": "Because thou hast kept the word of my patience, I also will keep thee from the hour of temptation, which shall come upon all the world, to try them that dwell upon the earth."
+      "text": "The four and twenty elders fall down before him that sat on the throne, and worship him that liveth for ever and ever, and cast their crowns before the throne, saying,"
+    },
+    {
+      "nr": "11",
+      "text": "Thou art worthy, O Lord, to receive glory and honour and power: for thou hast created all things, and for thy pleasure they are and were created. "
     }
   ],
   "source": "https://github.com/trueChristian/daily-scripture",
