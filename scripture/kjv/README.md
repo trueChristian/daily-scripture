@@ -1,5 +1,5 @@
-**John 15:17**
+**Proverbs 17:10**
 
-17 These things I command you, that ye love one another.
+10 A reproof entereth more into a wise man than an hundred stripes into a fool.
 
-[Monday 31-October, 2022](https://t.me/s/daily_scripture)
+[Tuesday 01-November, 2022](https://t.me/s/daily_scripture)
