@@ -1,5 +1,5 @@
-**Proverbs 17:10**
+**Psalms 38:18**
 
-10 A reproof entereth more into a wise man than an hundred stripes into a fool.
+18 For I will declare mine iniquity; I will be sorry for my sin.
 
-[Tuesday 01-November, 2022](https://t.me/s/daily_scripture)
+[Wednesday 02-November, 2022](https://t.me/s/daily_scripture)
