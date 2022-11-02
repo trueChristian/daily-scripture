@@ -1,5 +1,5 @@
-**Psalms 38:18**
+**Psalms 37:4**
 
-18 For I will declare mine iniquity; I will be sorry for my sin.
+4 Delight thyself also in the Lord; and he shall give thee the desires of thine heart.
 
-[Wednesday 02-November, 2022](https://t.me/s/daily_scripture)
+[Thursday 03-November, 2022](https://t.me/s/daily_scripture)
