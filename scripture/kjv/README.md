@@ -1,5 +1,5 @@
-**Psalms 37:4**
+**Romans 12:10**
 
-4 Delight thyself also in the Lord; and he shall give thee the desires of thine heart.
+10 Be kindly affectioned one to another with brotherly love; in honour preferring one another;
 
-[Thursday 03-November, 2022](https://t.me/s/daily_scripture)
+[Friday 04-November, 2022](https://t.me/s/daily_scripture)
