@@ -1,10 +1,30 @@
 {
-  "date": "Friday 04-November, 2022",
-  "name": "Romans 12:10",
+  "date": "Saturday 05-November, 2022",
+  "name": "2 Peter 2:4-9",
   "scripture": [
     {
-      "nr": "10",
-      "text": "Be kindly affectioned one to another with brotherly love; in honour preferring one another;"
+      "nr": "4",
+      "text": "For if God spared not the angels that sinned, but cast them down to hell, and delivered them into chains of darkness, to be reserved unto judgment;"
+    },
+    {
+      "nr": "5",
+      "text": "And spared not the old world, but saved Noah the eighth person, a preacher of righteousness, bringing in the flood upon the world of the ungodly;"
+    },
+    {
+      "nr": "6",
+      "text": "And turning the cities of Sodom and Gomorrha into ashes condemned them with an overthrow, making them an ensample unto those that after should live ungodly;"
+    },
+    {
+      "nr": "7",
+      "text": "And delivered just Lot, vexed with the filthy conversation of the wicked:"
+    },
+    {
+      "nr": "8",
+      "text": "(For that righteous man dwelling among them, in seeing and hearing, vexed his righteous soul from day to day with their unlawful deeds;)"
+    },
+    {
+      "nr": "9",
+      "text": "The Lord knoweth how to deliver the godly out of temptations, and to reserve the unjust unto the day of judgment to be punished:"
     }
   ],
   "source": "https://github.com/trueChristian/daily-scripture",
