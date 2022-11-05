@@ -1,30 +1,26 @@
 {
-  "date": "Saturday 05-November, 2022",
-  "name": "2 Peter 2:4-9",
+  "date": "Sunday 06-November, 2022",
+  "name": "Daniel 6:20-24",
   "scripture": [
     {
-      "nr": "4",
-      "text": "For if God spared not the angels that sinned, but cast them down to hell, and delivered them into chains of darkness, to be reserved unto judgment;"
+      "nr": "20",
+      "text": "And when he came to the den, he cried with a lamentable voice unto Daniel: and the king spake and said to Daniel, O Daniel, servant of the living God, is thy God, whom thou servest continually, able to deliver thee from the lions?"
     },
     {
-      "nr": "5",
-      "text": "And spared not the old world, but saved Noah the eighth person, a preacher of righteousness, bringing in the flood upon the world of the ungodly;"
+      "nr": "21",
+      "text": "Then said Daniel unto the king, O king, live for ever."
     },
     {
-      "nr": "6",
-      "text": "And turning the cities of Sodom and Gomorrha into ashes condemned them with an overthrow, making them an ensample unto those that after should live ungodly;"
+      "nr": "22",
+      "text": "My God hath sent his angel, and hath shut the lions’ mouths, that they have not hurt me: forasmuch as before him innocency was found in me; and also before thee, O king, have I done no hurt."
     },
     {
-      "nr": "7",
-      "text": "And delivered just Lot, vexed with the filthy conversation of the wicked:"
+      "nr": "23",
+      "text": "Then was the king exceeding glad for him, and commanded that they should take Daniel up out of the den. So Daniel was taken up out of the den, and no manner of hurt was found upon him, because he believed in his God."
     },
     {
-      "nr": "8",
-      "text": "(For that righteous man dwelling among them, in seeing and hearing, vexed his righteous soul from day to day with their unlawful deeds;)"
-    },
-    {
-      "nr": "9",
-      "text": "The Lord knoweth how to deliver the godly out of temptations, and to reserve the unjust unto the day of judgment to be punished:"
+      "nr": "24",
+      "text": "And the king commanded, and they brought those men which had accused Daniel, and they cast them into the den of lions, them, their children, and their wives; and the lions had the mastery of them, and brake all their bones in pieces or ever they came at the bottom of the den."
     }
   ],
   "source": "https://github.com/trueChristian/daily-scripture",
