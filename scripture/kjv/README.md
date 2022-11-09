@@ -1,5 +1,5 @@
-**Ephesians 2:10**
+**Proverbs 17:14**
 
-10 For we are his workmanship, created in Christ Jesus unto good works, which God hath before ordained that we should walk in them.
+14 The beginning of strife is as when one letteth out water: therefore leave off contention, before it be meddled with.
 
-[Wednesday 09-November, 2022](https://t.me/s/daily_scripture)
+[Thursday 10-November, 2022](https://t.me/s/daily_scripture)
