@@ -1,10 +1,14 @@
 {
-  "date": "Thursday 10-November, 2022",
-  "name": "Proverbs 17:14",
+  "date": "Friday 11-November, 2022",
+  "name": "Romans 2:28-29",
   "scripture": [
     {
-      "nr": "14",
-      "text": "The beginning of strife is as when one letteth out water: therefore leave off contention, before it be meddled with."
+      "nr": "28",
+      "text": "For he is not a Jew, which is one outwardly; neither is that circumcision, which is outward in the flesh:"
+    },
+    {
+      "nr": "29",
+      "text": "But he is a Jew, which is one inwardly; and circumcision is that of the heart, in the spirit, and not in the letter; whose praise is not of men, but of God. "
     }
   ],
   "source": "https://github.com/trueChristian/daily-scripture",

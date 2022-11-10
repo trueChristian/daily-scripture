@@ -1,5 +1,5 @@
-**Proverbs 17:14**
+**Romans 2:28-29**
 
-14 The beginning of strife is as when one letteth out water: therefore leave off contention, before it be meddled with.
+28 For he is not a Jew, which is one outwardly; neither is that circumcision, which is outward in the flesh: 29 But he is a Jew, which is one inwardly; and circumcision is that of the heart, in the spirit, and not in the letter; whose praise is not of men, but of God. 
 
-[Thursday 10-November, 2022](https://t.me/s/daily_scripture)
+[Friday 11-November, 2022](https://t.me/s/daily_scripture)
