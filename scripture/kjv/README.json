@@ -1,14 +1,10 @@
 {
-  "date": "Friday 11-November, 2022",
-  "name": "Romans 2:28-29",
+  "date": "Saturday 12-November, 2022",
+  "name": "1 John 5:5",
   "scripture": [
     {
-      "nr": "28",
-      "text": "For he is not a Jew, which is one outwardly; neither is that circumcision, which is outward in the flesh:"
-    },
-    {
-      "nr": "29",
-      "text": "But he is a Jew, which is one inwardly; and circumcision is that of the heart, in the spirit, and not in the letter; whose praise is not of men, but of God. "
+      "nr": "5",
+      "text": "Who is he that overcometh the world, but he that believeth that Jesus is the Son of God?"
     }
   ],
   "source": "https://github.com/trueChristian/daily-scripture",

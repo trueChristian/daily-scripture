@@ -1,5 +1,5 @@
-**Romans 2:28-29**
+**1 John 5:5**
 
-28 For he is not a Jew, which is one outwardly; neither is that circumcision, which is outward in the flesh: 29 But he is a Jew, which is one inwardly; and circumcision is that of the heart, in the spirit, and not in the letter; whose praise is not of men, but of God. 
+5 Who is he that overcometh the world, but he that believeth that Jesus is the Son of God?
 
-[Friday 11-November, 2022](https://t.me/s/daily_scripture)
+[Saturday 12-November, 2022](https://t.me/s/daily_scripture)
