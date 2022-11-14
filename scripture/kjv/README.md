@@ -1,5 +1,5 @@
-**Song of Songs 5:4**
+**Proverbs 26:12**
 
-4 My beloved put in his hand by the hole of the door, and my bowels were moved for him.
+12 Seest thou a man wise in his own conceit? there is more hope of a fool than of him.
 
-[Monday 14-November, 2022](https://t.me/s/daily_scripture)
+[Tuesday 15-November, 2022](https://t.me/s/daily_scripture)
