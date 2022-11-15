@@ -1,5 +1,5 @@
-**Proverbs 26:12**
+**Hebrews 12:25**
 
-12 Seest thou a man wise in his own conceit? there is more hope of a fool than of him.
+25 See that ye refuse not him that speaketh. For if they escaped not who refused him that spake on earth, much more shall not we escape, if we turn away from him that speaketh from heaven:
 
-[Tuesday 15-November, 2022](https://t.me/s/daily_scripture)
+[Wednesday 16-November, 2022](https://t.me/s/daily_scripture)
