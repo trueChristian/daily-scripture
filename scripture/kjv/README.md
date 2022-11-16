@@ -1,5 +1,5 @@
-**Hebrews 12:25**
+**John 21:25**
 
-25 See that ye refuse not him that speaketh. For if they escaped not who refused him that spake on earth, much more shall not we escape, if we turn away from him that speaketh from heaven:
+25 And there are also many other things which Jesus did, the which, if they should be written every one, I suppose that even the world itself could not contain the books that should be written. Amen.  
 
-[Wednesday 16-November, 2022](https://t.me/s/daily_scripture)
+[Thursday 17-November, 2022](https://t.me/s/daily_scripture)
