@@ -1,5 +1,5 @@
-**John 21:25**
+**Acts 3:19**
 
-25 And there are also many other things which Jesus did, the which, if they should be written every one, I suppose that even the world itself could not contain the books that should be written. Amen.  
+19 Repent ye therefore, and be converted, that your sins may be blotted out, when the times of refreshing shall come from the presence of the Lord;
 
-[Thursday 17-November, 2022](https://t.me/s/daily_scripture)
+[Friday 18-November, 2022](https://t.me/s/daily_scripture)
