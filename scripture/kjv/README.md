@@ -1,5 +1,5 @@
-**Acts 3:19**
+**Psalms 91:5-7**
 
-19 Repent ye therefore, and be converted, that your sins may be blotted out, when the times of refreshing shall come from the presence of the Lord;
+5 Thou shalt not be afraid for the terror by night; nor for the arrow that flieth by day; 6 Nor for the pestilence that walketh in darkness; nor for the destruction that wasteth at noonday. 7 A thousand shall fall at thy side, and ten thousand at thy right hand; but it shall not come nigh thee.
 
-[Friday 18-November, 2022](https://t.me/s/daily_scripture)
+[Saturday 19-November, 2022](https://t.me/s/daily_scripture)
