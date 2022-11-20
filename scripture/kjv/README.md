@@ -1,5 +1,5 @@
-**1 Corinthians 13:2**
+**Hosea 6:4**
 
-2 And though I have the gift of prophecy, and understand all mysteries, and all knowledge; and though I have all faith, so that I could remove mountains, and have not charity, I am nothing.
+4 O Ephraim, what shall I do unto thee? O Judah, what shall I do unto thee? for your goodness is as a morning cloud, and as the early dew it goeth away.
 
-[Sunday 20-November, 2022](https://t.me/s/daily_scripture)
+[Monday 21-November, 2022](https://t.me/s/daily_scripture)
