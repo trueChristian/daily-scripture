@@ -1,5 +1,5 @@
-**Luke 17:3**
+**John 10:28**
 
-3 Take heed to yourselves: If thy brother trespass against thee, rebuke him; and if he repent, forgive him.
+28 And I give unto them eternal life; and they shall never perish, neither shall any man pluck them out of my hand.
 
-[Wednesday 23-November, 2022](https://t.me/s/daily_scripture)
+[Thursday 24-November, 2022](https://t.me/s/daily_scripture)
