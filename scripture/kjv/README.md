@@ -1,5 +1,5 @@
-**John 10:28**
+**Jeremiah 6:14**
 
-28 And I give unto them eternal life; and they shall never perish, neither shall any man pluck them out of my hand.
+14 They have healed also the hurt of the daughter of my people slightly, saying, Peace, peace; when there is no peace.
 
-[Thursday 24-November, 2022](https://t.me/s/daily_scripture)
+[Friday 25-November, 2022](https://t.me/s/daily_scripture)
