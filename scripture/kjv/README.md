@@ -1,5 +1,5 @@
-**Jeremiah 6:14**
+**Proverbs 21:26**
 
-14 They have healed also the hurt of the daughter of my people slightly, saying, Peace, peace; when there is no peace.
+26 He coveteth greedily all the day long: but the righteous giveth and spareth not.
 
-[Friday 25-November, 2022](https://t.me/s/daily_scripture)
+[Saturday 26-November, 2022](https://t.me/s/daily_scripture)
