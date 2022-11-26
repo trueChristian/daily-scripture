@@ -1,10 +1,14 @@
 {
-  "date": "Saturday 26-November, 2022",
-  "name": "Proverbs 21:26",
+  "date": "Sunday 27-November, 2022",
+  "name": "Isaiah 60:1-2",
   "scripture": [
     {
-      "nr": "26",
-      "text": "He coveteth greedily all the day long: but the righteous giveth and spareth not."
+      "nr": "1",
+      "text": "Arise, shine; for thy light is come, and the glory of the Lord is risen upon thee."
+    },
+    {
+      "nr": "2",
+      "text": "For, behold, the darkness shall cover the earth, and gross darkness the people: but the Lord shall arise upon thee, and his glory shall be seen upon thee."
     }
   ],
   "source": "https://github.com/trueChristian/daily-scripture",
