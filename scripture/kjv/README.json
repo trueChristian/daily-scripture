@@ -1,14 +1,10 @@
 {
-  "date": "Sunday 27-November, 2022",
-  "name": "Isaiah 60:1-2",
+  "date": "Monday 28-November, 2022",
+  "name": "Proverbs 22:19",
   "scripture": [
     {
-      "nr": "1",
-      "text": "Arise, shine; for thy light is come, and the glory of the Lord is risen upon thee."
-    },
-    {
-      "nr": "2",
-      "text": "For, behold, the darkness shall cover the earth, and gross darkness the people: but the Lord shall arise upon thee, and his glory shall be seen upon thee."
+      "nr": "19",
+      "text": "That thy trust may be in the Lord, I have made known to thee this day, even to thee."
     }
   ],
   "source": "https://github.com/trueChristian/daily-scripture",

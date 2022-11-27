@@ -1,5 +1,5 @@
-**Isaiah 60:1-2**
+**Proverbs 22:19**
 
-1 Arise, shine; for thy light is come, and the glory of the Lord is risen upon thee. 2 For, behold, the darkness shall cover the earth, and gross darkness the people: but the Lord shall arise upon thee, and his glory shall be seen upon thee.
+19 That thy trust may be in the Lord, I have made known to thee this day, even to thee.
 
-[Sunday 27-November, 2022](https://t.me/s/daily_scripture)
+[Monday 28-November, 2022](https://t.me/s/daily_scripture)
