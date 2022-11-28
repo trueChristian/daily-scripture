@@ -1,10 +1,14 @@
 {
-  "date": "Monday 28-November, 2022",
-  "name": "Proverbs 22:19",
+  "date": "Tuesday 29-November, 2022",
+  "name": "Ezekiel 21:16-17",
   "scripture": [
     {
-      "nr": "19",
-      "text": "That thy trust may be in the Lord, I have made known to thee this day, even to thee."
+      "nr": "16",
+      "text": "Go thee one way or other, either on the right hand, or on the left, whithersoever thy face is set."
+    },
+    {
+      "nr": "17",
+      "text": "I will also smite mine hands together, and I will cause my fury to rest: I the Lord have said it."
     }
   ],
   "source": "https://github.com/trueChristian/daily-scripture",

@@ -1,5 +1,5 @@
-**Proverbs 22:19**
+**Ezekiel 21:16-17**
 
-19 That thy trust may be in the Lord, I have made known to thee this day, even to thee.
+16 Go thee one way or other, either on the right hand, or on the left, whithersoever thy face is set. 17 I will also smite mine hands together, and I will cause my fury to rest: I the Lord have said it.
 
-[Monday 28-November, 2022](https://t.me/s/daily_scripture)
+[Tuesday 29-November, 2022](https://t.me/s/daily_scripture)
