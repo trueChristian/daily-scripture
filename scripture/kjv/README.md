@@ -1,5 +1,5 @@
-**Proverbs 22:24**
+**Jeremiah 3:10**
 
-24 Make no friendship with an angry man; and with a furious man thou shalt not go:
+10 And yet for all this her treacherous sister Judah hath not turned unto me with her whole heart, but feignedly, saith the Lord.
 
-[Thursday 01-December, 2022](https://t.me/s/daily_scripture)
+[Friday 02-December, 2022](https://t.me/s/daily_scripture)
