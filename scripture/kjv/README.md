@@ -1,5 +1,5 @@
-**Jeremiah 3:10**
+**Exodus 35:34**
 
-10 And yet for all this her treacherous sister Judah hath not turned unto me with her whole heart, but feignedly, saith the Lord.
+34 And he hath put in his heart that he may teach, both he, and Aholiab, the son of Ahisamach, of the tribe of Dan.
 
-[Friday 02-December, 2022](https://t.me/s/daily_scripture)
+[Saturday 03-December, 2022](https://t.me/s/daily_scripture)
