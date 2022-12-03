@@ -1,5 +1,5 @@
-**Exodus 35:34**
+**Psalms 115:1**
 
-34 And he hath put in his heart that he may teach, both he, and Aholiab, the son of Ahisamach, of the tribe of Dan.
+1 Not unto us, O Lord, not unto us, but unto thy name give glory, for thy mercy, and for thy truth’s sake.
 
-[Saturday 03-December, 2022](https://t.me/s/daily_scripture)
+[Sunday 04-December, 2022](https://t.me/s/daily_scripture)
