@@ -1,10 +1,14 @@
 {
-  "date": "Sunday 04-December, 2022",
-  "name": "Psalms 115:1",
+  "date": "Monday 05-December, 2022",
+  "name": "Psalms 45:10-11",
   "scripture": [
     {
-      "nr": "1",
-      "text": "Not unto us, O Lord, not unto us, but unto thy name give glory, for thy mercy, and for thy truth’s sake."
+      "nr": "10",
+      "text": "Hearken, O daughter, and consider, and incline thine ear; forget also thine own people, and thy father’s house;"
+    },
+    {
+      "nr": "11",
+      "text": "So shall the king greatly desire thy beauty: for he is thy Lord; and worship thou him."
     }
   ],
   "source": "https://github.com/trueChristian/daily-scripture",
