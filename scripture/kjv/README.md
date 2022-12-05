@@ -1,5 +1,5 @@
-**Psalms 45:10-11**
+**Psalms 22:21**
 
-10 Hearken, O daughter, and consider, and incline thine ear; forget also thine own people, and thy father’s house; 11 So shall the king greatly desire thy beauty: for he is thy Lord; and worship thou him.
+21 Save me from the lion’s mouth: for thou hast heard me from the horns of the unicorns.
 
-[Monday 05-December, 2022](https://t.me/s/daily_scripture)
+[Tuesday 06-December, 2022](https://t.me/s/daily_scripture)
