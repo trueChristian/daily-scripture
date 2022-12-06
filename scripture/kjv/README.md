@@ -1,5 +1,5 @@
-**Psalms 22:21**
+**1 Thessalonians 5:11**
 
-21 Save me from the lion’s mouth: for thou hast heard me from the horns of the unicorns.
+11 Wherefore comfort yourselves together, and edify one another, even as also ye do.
 
-[Tuesday 06-December, 2022](https://t.me/s/daily_scripture)
+[Wednesday 07-December, 2022](https://t.me/s/daily_scripture)
