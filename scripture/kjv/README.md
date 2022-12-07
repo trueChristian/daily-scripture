@@ -1,5 +1,5 @@
-**1 Thessalonians 5:11**
+**Haggai 2:8**
 
-11 Wherefore comfort yourselves together, and edify one another, even as also ye do.
+8 The silver is mine, and the gold is mine, saith the Lord of hosts.
 
-[Wednesday 07-December, 2022](https://t.me/s/daily_scripture)
+[Thursday 08-December, 2022](https://t.me/s/daily_scripture)
