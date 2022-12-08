@@ -1,5 +1,5 @@
-**Haggai 2:8**
+**Acts 3:16**
 
-8 The silver is mine, and the gold is mine, saith the Lord of hosts.
+16 And his name through faith in his name hath made this man strong, whom ye see and know: yea, the faith which is by him hath given him this perfect soundness in the presence of you all.
 
-[Thursday 08-December, 2022](https://t.me/s/daily_scripture)
+[Friday 09-December, 2022](https://t.me/s/daily_scripture)
