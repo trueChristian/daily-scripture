@@ -1,10 +1,14 @@
 {
-  "date": "Saturday 10-December, 2022",
-  "name": "1 Thessalonians 5:22",
+  "date": "Sunday 11-December, 2022",
+  "name": "Romans 8:36-37",
   "scripture": [
     {
-      "nr": "22",
-      "text": "Abstain from all appearance of evil."
+      "nr": "36",
+      "text": "As it is written, For thy sake we are killed all the day long; we are accounted as sheep for the slaughter."
+    },
+    {
+      "nr": "37",
+      "text": "Nay, in all these things we are more than conquerors through him that loved us."
     }
   ],
   "source": "https://github.com/trueChristian/daily-scripture",

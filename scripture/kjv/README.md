@@ -1,5 +1,5 @@
-**1 Thessalonians 5:22**
+**Romans 8:36-37**
 
-22 Abstain from all appearance of evil.
+36 As it is written, For thy sake we are killed all the day long; we are accounted as sheep for the slaughter. 37 Nay, in all these things we are more than conquerors through him that loved us.
 
-[Saturday 10-December, 2022](https://t.me/s/daily_scripture)
+[Sunday 11-December, 2022](https://t.me/s/daily_scripture)
