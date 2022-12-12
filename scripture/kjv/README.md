@@ -1,5 +1,5 @@
-**Romans 8:36-37**
+**Job 5:26**
 
-36 As it is written, For thy sake we are killed all the day long; we are accounted as sheep for the slaughter. 37 Nay, in all these things we are more than conquerors through him that loved us.
+26 Thou shalt come to thy grave in a full age, like as a shock of corn cometh in in his season.
 
-[Sunday 11-December, 2022](https://t.me/s/daily_scripture)
+[Monday 12-December, 2022](https://t.me/s/daily_scripture)
