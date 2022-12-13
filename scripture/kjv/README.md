@@ -1,5 +1,5 @@
-**Proverbs 15:5**
+**Daniel 1:20**
 
-5 A fool despiseth his father’s instruction: but he that regardeth reproof is prudent.
+20 And in all matters of wisdom and understanding, that the king enquired of them, he found them ten times better than all the magicians and astrologers that were in all his realm.
 
-[Tuesday 13-December, 2022](https://t.me/s/daily_scripture)
+[Wednesday 14-December, 2022](https://t.me/s/daily_scripture)
