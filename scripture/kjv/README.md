@@ -1,5 +1,5 @@
-**Daniel 1:20**
+**3 John 1:9-10**
 
-20 And in all matters of wisdom and understanding, that the king enquired of them, he found them ten times better than all the magicians and astrologers that were in all his realm.
+9 I wrote unto the church: but Diotrephes, who loveth to have the preeminence among them, receiveth us not. 10 Wherefore, if I come, I will remember his deeds which he doeth, prating against us with malicious words: and not content therewith, neither doth he himself receive the brethren, and forbiddeth them that would, and casteth them out of the church.
 
-[Wednesday 14-December, 2022](https://t.me/s/daily_scripture)
+[Thursday 15-December, 2022](https://t.me/s/daily_scripture)
