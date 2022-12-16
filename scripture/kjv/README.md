@@ -1,5 +1,5 @@
-**Isaiah 50:4**
+**1 John 4:6**
 
-4 The Lord God hath given me the tongue of the learned, that I should know how to speak a word in season to him that is weary: he wakeneth morning by morning, he wakeneth mine ear to hear as the learned.
+6 We are of God: he that knoweth God heareth us; he that is not of God heareth not us. Hereby know we the spirit of truth, and the spirit of error.
 
-[Friday 16-December, 2022](https://t.me/s/daily_scripture)
+[Saturday 17-December, 2022](https://t.me/s/daily_scripture)
