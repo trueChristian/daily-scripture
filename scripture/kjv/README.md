@@ -1,5 +1,5 @@
-**1 John 4:6**
+**Proverbs 29:15**
 
-6 We are of God: he that knoweth God heareth us; he that is not of God heareth not us. Hereby know we the spirit of truth, and the spirit of error.
+15 The rod and reproof give wisdom: but a child left to himself bringeth his mother to shame.
 
-[Saturday 17-December, 2022](https://t.me/s/daily_scripture)
+[Sunday 18-December, 2022](https://t.me/s/daily_scripture)
