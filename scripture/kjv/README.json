@@ -1,10 +1,14 @@
 {
-  "date": "Sunday 18-December, 2022",
-  "name": "Proverbs 29:15",
+  "date": "Monday 19-December, 2022",
+  "name": "Hebrews 12:5-6",
   "scripture": [
     {
-      "nr": "15",
-      "text": "The rod and reproof give wisdom: but a child left to himself bringeth his mother to shame."
+      "nr": "5",
+      "text": "And ye have forgotten the exhortation which speaketh unto you as unto children, My son, despise not thou the chastening of the Lord, nor faint when thou art rebuked of him:"
+    },
+    {
+      "nr": "6",
+      "text": "For whom the Lord loveth he chasteneth, and scourgeth every son whom he receiveth."
     }
   ],
   "source": "https://github.com/trueChristian/daily-scripture",
