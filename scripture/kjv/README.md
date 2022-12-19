@@ -1,5 +1,5 @@
-**Hebrews 12:5-6**
+**Galatians 3:28**
 
-5 And ye have forgotten the exhortation which speaketh unto you as unto children, My son, despise not thou the chastening of the Lord, nor faint when thou art rebuked of him: 6 For whom the Lord loveth he chasteneth, and scourgeth every son whom he receiveth.
+28 There is neither Jew nor Greek, there is neither bond nor free, there is neither male nor female: for ye are all one in Christ Jesus.
 
-[Monday 19-December, 2022](https://t.me/s/daily_scripture)
+[Tuesday 20-December, 2022](https://t.me/s/daily_scripture)

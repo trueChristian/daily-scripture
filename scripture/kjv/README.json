@@ -1,14 +1,10 @@
 {
-  "date": "Monday 19-December, 2022",
-  "name": "Hebrews 12:5-6",
+  "date": "Tuesday 20-December, 2022",
+  "name": "Galatians 3:28",
   "scripture": [
     {
-      "nr": "5",
-      "text": "And ye have forgotten the exhortation which speaketh unto you as unto children, My son, despise not thou the chastening of the Lord, nor faint when thou art rebuked of him:"
-    },
-    {
-      "nr": "6",
-      "text": "For whom the Lord loveth he chasteneth, and scourgeth every son whom he receiveth."
+      "nr": "28",
+      "text": "There is neither Jew nor Greek, there is neither bond nor free, there is neither male nor female: for ye are all one in Christ Jesus."
     }
   ],
   "source": "https://github.com/trueChristian/daily-scripture",
