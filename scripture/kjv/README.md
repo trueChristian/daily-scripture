@@ -1,5 +1,5 @@
-**Galatians 3:28**
+**Psalms 31:5**
 
-28 There is neither Jew nor Greek, there is neither bond nor free, there is neither male nor female: for ye are all one in Christ Jesus.
+5 Into thine hand I commit my spirit: thou hast redeemed me, O Lord God of truth.
 
-[Tuesday 20-December, 2022](https://t.me/s/daily_scripture)
+[Wednesday 21-December, 2022](https://t.me/s/daily_scripture)
