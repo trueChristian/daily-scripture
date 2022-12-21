@@ -1,5 +1,5 @@
-**Psalms 31:5**
+**John 6:38**
 
-5 Into thine hand I commit my spirit: thou hast redeemed me, O Lord God of truth.
+38 For I came down from heaven, not to do mine own will, but the will of him that sent me.
 
-[Wednesday 21-December, 2022](https://t.me/s/daily_scripture)
+[Thursday 22-December, 2022](https://t.me/s/daily_scripture)
