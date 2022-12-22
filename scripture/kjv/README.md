@@ -1,5 +1,5 @@
-**John 6:38**
+**John 4:44**
 
-38 For I came down from heaven, not to do mine own will, but the will of him that sent me.
+44 For Jesus himself testified, that a prophet hath no honour in his own country.
 
-[Thursday 22-December, 2022](https://t.me/s/daily_scripture)
+[Friday 23-December, 2022](https://t.me/s/daily_scripture)
