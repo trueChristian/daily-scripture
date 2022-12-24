@@ -1,26 +1,10 @@
 {
-  "date": "Saturday 24-December, 2022",
-  "name": "John 20:25-29",
+  "date": "Sunday 25-December, 2022",
+  "name": "Leviticus 6:13",
   "scripture": [
     {
-      "nr": "25",
-      "text": "The other disciples therefore said unto him, We have seen the Lord. But he said unto them, Except I shall see in his hands the print of the nails, and put my finger into the print of the nails, and thrust my hand into his side, I will not believe."
-    },
-    {
-      "nr": "26",
-      "text": "And after eight days again his disciples were within, and Thomas with them: then came Jesus, the doors being shut, and stood in the midst, and said, Peace be unto you."
-    },
-    {
-      "nr": "27",
-      "text": "Then saith he to Thomas, Reach hither thy finger, and behold my hands; and reach hither thy hand, and thrust it into my side: and be not faithless, but believing."
-    },
-    {
-      "nr": "28",
-      "text": "And Thomas answered and said unto him, My Lord and my God."
-    },
-    {
-      "nr": "29",
-      "text": "Jesus saith unto him, Thomas, because thou hast seen me, thou hast believed: blessed are they that have not seen, and yet have believed."
+      "nr": "13",
+      "text": "The fire shall ever be burning upon the altar; it shall never go out."
     }
   ],
   "source": "https://github.com/trueChristian/daily-scripture",
