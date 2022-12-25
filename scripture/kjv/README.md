@@ -1,5 +1,5 @@
-**Leviticus 6:13**
+**2 Corinthians 8:11**
 
-13 The fire shall ever be burning upon the altar; it shall never go out.
+11 Now therefore perform the doing of it; that as there was a readiness to will, so there may be a performance also out of that which ye have.
 
-[Sunday 25-December, 2022](https://t.me/s/daily_scripture)
+[Monday 26-December, 2022](https://t.me/s/daily_scripture)
