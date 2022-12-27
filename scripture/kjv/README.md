@@ -1,5 +1,5 @@
-**Daniel 7:27**
+**Hebrews 3:1-2**
 
-27 And the kingdom and dominion, and the greatness of the kingdom under the whole heaven, shall be given to the people of the saints of the most High, whose kingdom is an everlasting kingdom, and all dominions shall serve and obey him.
+1 Wherefore, holy brethren, partakers of the heavenly calling, consider the Apostle and High Priest of our profession, Christ Jesus; 2 Who was faithful to him that appointed him, as also Moses was faithful in all his house.
 
-[Tuesday 27-December, 2022](https://t.me/s/daily_scripture)
+[Wednesday 28-December, 2022](https://t.me/s/daily_scripture)
