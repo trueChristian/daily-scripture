@@ -1,5 +1,5 @@
-**Hebrews 3:1-2**
+**Isaiah 32:20**
 
-1 Wherefore, holy brethren, partakers of the heavenly calling, consider the Apostle and High Priest of our profession, Christ Jesus; 2 Who was faithful to him that appointed him, as also Moses was faithful in all his house.
+20 Blessed are ye that sow beside all waters, that send forth thither the feet of the ox and the ass. 
 
-[Wednesday 28-December, 2022](https://t.me/s/daily_scripture)
+[Thursday 29-December, 2022](https://t.me/s/daily_scripture)

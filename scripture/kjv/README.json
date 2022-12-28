@@ -1,14 +1,10 @@
 {
-  "date": "Wednesday 28-December, 2022",
-  "name": "Hebrews 3:1-2",
+  "date": "Thursday 29-December, 2022",
+  "name": "Isaiah 32:20",
   "scripture": [
     {
-      "nr": "1",
-      "text": "Wherefore, holy brethren, partakers of the heavenly calling, consider the Apostle and High Priest of our profession, Christ Jesus;"
-    },
-    {
-      "nr": "2",
-      "text": "Who was faithful to him that appointed him, as also Moses was faithful in all his house."
+      "nr": "20",
+      "text": "Blessed are ye that sow beside all waters, that send forth thither the feet of the ox and the ass. "
     }
   ],
   "source": "https://github.com/trueChristian/daily-scripture",
