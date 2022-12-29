@@ -1,5 +1,5 @@
-**Isaiah 32:20**
+**Psalms 39:11**
 
-20 Blessed are ye that sow beside all waters, that send forth thither the feet of the ox and the ass. 
+11 When thou with rebukes dost correct man for iniquity, thou makest his beauty to consume away like a moth: surely every man is vanity. Selah.
 
-[Thursday 29-December, 2022](https://t.me/s/daily_scripture)
+[Friday 30-December, 2022](https://t.me/s/daily_scripture)
