@@ -1,5 +1,5 @@
-**Psalms 39:11**
+**Ezekiel 12:24**
 
-11 When thou with rebukes dost correct man for iniquity, thou makest his beauty to consume away like a moth: surely every man is vanity. Selah.
+24 For there shall be no more any vain vision nor flattering divination within the house of Israel.
 
-[Friday 30-December, 2022](https://t.me/s/daily_scripture)
+[Saturday 31-December, 2022](https://t.me/s/daily_scripture)
