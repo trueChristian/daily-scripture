@@ -1,10 +1,18 @@
 {
-  "date": "Saturday 31-December, 2022",
-  "name": "Ezekiel 12:24",
+  "date": "Sunday 01-January, 2023",
+  "name": "Amos 6:4-6",
   "scripture": [
     {
-      "nr": "24",
-      "text": "For there shall be no more any vain vision nor flattering divination within the house of Israel."
+      "nr": "4",
+      "text": "That lie upon beds of ivory, and stretch themselves upon their couches, and eat the lambs out of the flock, and the calves out of the midst of the stall;"
+    },
+    {
+      "nr": "5",
+      "text": "That chant to the sound of the viol, and invent to themselves instruments of musick, like David;"
+    },
+    {
+      "nr": "6",
+      "text": "That drink wine in bowls, and anoint themselves with the chief ointments: but they are not grieved for the affliction of Joseph."
     }
   ],
   "source": "https://github.com/trueChristian/daily-scripture",
