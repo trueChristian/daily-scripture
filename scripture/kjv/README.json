@@ -1,18 +1,10 @@
 {
-  "date": "Sunday 01-January, 2023",
-  "name": "Amos 6:4-6",
+  "date": "Monday 02-January, 2023",
+  "name": "Romans 13:1",
   "scripture": [
     {
-      "nr": "4",
-      "text": "That lie upon beds of ivory, and stretch themselves upon their couches, and eat the lambs out of the flock, and the calves out of the midst of the stall;"
-    },
-    {
-      "nr": "5",
-      "text": "That chant to the sound of the viol, and invent to themselves instruments of musick, like David;"
-    },
-    {
-      "nr": "6",
-      "text": "That drink wine in bowls, and anoint themselves with the chief ointments: but they are not grieved for the affliction of Joseph."
+      "nr": "1",
+      "text": "Let every soul be subject unto the higher powers. For there is no power but of God: the powers that be are ordained of God."
     }
   ],
   "source": "https://github.com/trueChristian/daily-scripture",
