@@ -1,5 +1,5 @@
-**Romans 13:1**
+**Daniel 5:20**
 
-1 Let every soul be subject unto the higher powers. For there is no power but of God: the powers that be are ordained of God.
+20 But when his heart was lifted up, and his mind hardened in pride, he was deposed from his kingly throne, and they took his glory from him:
 
-[Monday 02-January, 2023](https://t.me/s/daily_scripture)
+[Tuesday 03-January, 2023](https://t.me/s/daily_scripture)
