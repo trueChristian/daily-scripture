@@ -1,5 +1,5 @@
-**Daniel 5:20**
+**Psalms 119:9**
 
-20 But when his heart was lifted up, and his mind hardened in pride, he was deposed from his kingly throne, and they took his glory from him:
+9  Wherewithal shall a young man cleanse his way? by taking heed thereto according to thy word.
 
-[Tuesday 03-January, 2023](https://t.me/s/daily_scripture)
+[Wednesday 04-January, 2023](https://t.me/s/daily_scripture)
