@@ -1,22 +1,10 @@
 {
-  "date": "Saturday 07-January, 2023",
-  "name": "Mark 12:41-44",
+  "date": "Sunday 08-January, 2023",
+  "name": "Micah 6:8",
   "scripture": [
     {
-      "nr": "41",
-      "text": "And Jesus sat over against the treasury, and beheld how the people cast money into the treasury: and many that were rich cast in much."
-    },
-    {
-      "nr": "42",
-      "text": "And there came a certain poor widow, and she threw in two mites, which make a farthing."
-    },
-    {
-      "nr": "43",
-      "text": "And he called unto him his disciples, and saith unto them, Verily I say unto you, That this poor widow hath cast more in, than all they which have cast into the treasury:"
-    },
-    {
-      "nr": "44",
-      "text": "For all they did cast in of their abundance; but she of her want did cast in all that she had, even all her living. "
+      "nr": "8",
+      "text": "He hath shewed thee, O man, what is good; and what doth the Lord require of thee, but to do justly, and to love mercy, and to walk humbly with thy God?"
     }
   ],
   "source": "https://github.com/trueChristian/daily-scripture",

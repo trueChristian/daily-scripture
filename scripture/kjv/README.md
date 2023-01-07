@@ -1,5 +1,5 @@
-**Mark 12:41-44**
+**Micah 6:8**
 
-41 And Jesus sat over against the treasury, and beheld how the people cast money into the treasury: and many that were rich cast in much. 42 And there came a certain poor widow, and she threw in two mites, which make a farthing. 43 And he called unto him his disciples, and saith unto them, Verily I say unto you, That this poor widow hath cast more in, than all they which have cast into the treasury: 44 For all they did cast in of their abundance; but she of her want did cast in all that she had, even all her living. 
+8 He hath shewed thee, O man, what is good; and what doth the Lord require of thee, but to do justly, and to love mercy, and to walk humbly with thy God?
 
-[Saturday 07-January, 2023](https://t.me/s/daily_scripture)
+[Sunday 08-January, 2023](https://t.me/s/daily_scripture)
