@@ -1,5 +1,5 @@
-**Micah 6:8**
+**Romans 1:16**
 
-8 He hath shewed thee, O man, what is good; and what doth the Lord require of thee, but to do justly, and to love mercy, and to walk humbly with thy God?
+16 For I am not ashamed of the gospel of Christ: for it is the power of God unto salvation to every one that believeth; to the Jew first, and also to the Greek.
 
-[Sunday 08-January, 2023](https://t.me/s/daily_scripture)
+[Monday 09-January, 2023](https://t.me/s/daily_scripture)
