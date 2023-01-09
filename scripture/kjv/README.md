@@ -1,5 +1,5 @@
-**Romans 1:16**
+**Proverbs 25:26**
 
-16 For I am not ashamed of the gospel of Christ: for it is the power of God unto salvation to every one that believeth; to the Jew first, and also to the Greek.
+26 A righteous man falling down before the wicked is as a troubled fountain, and a corrupt spring.
 
-[Monday 09-January, 2023](https://t.me/s/daily_scripture)
+[Tuesday 10-January, 2023](https://t.me/s/daily_scripture)
