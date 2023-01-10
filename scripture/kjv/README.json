@@ -1,10 +1,14 @@
 {
-  "date": "Tuesday 10-January, 2023",
-  "name": "Proverbs 25:26",
+  "date": "Wednesday 11-January, 2023",
+  "name": "2 Kings 14:3-4",
   "scripture": [
     {
-      "nr": "26",
-      "text": "A righteous man falling down before the wicked is as a troubled fountain, and a corrupt spring."
+      "nr": "3",
+      "text": "And he did that which was right in the sight of the Lord, yet not like David his father: he did according to all things as Joash his father did."
+    },
+    {
+      "nr": "4",
+      "text": "Howbeit the high places were not taken away: as yet the people did sacrifice and burnt incense on the high places."
     }
   ],
   "source": "https://github.com/trueChristian/daily-scripture",
