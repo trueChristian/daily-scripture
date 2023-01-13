@@ -1,5 +1,5 @@
-**Isaiah 64:1-2**
+**Galatians 4:18**
 
-1 Oh that thou wouldest rend the heavens, that thou wouldest come down, that the mountains might flow down at thy presence, 2 As when the melting fire burneth, the fire causeth the waters to boil, to make thy name known to thine adversaries, that the nations may tremble at thy presence!
+18 But it is good to be zealously affected always in a good thing, and not only when I am present with you.
 
-[Friday 13-January, 2023](https://t.me/s/daily_scripture)
+[Saturday 14-January, 2023](https://t.me/s/daily_scripture)
