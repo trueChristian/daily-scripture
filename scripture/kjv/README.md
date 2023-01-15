@@ -1,5 +1,5 @@
-**Luke 8:15**
+**Proverbs 3:30**
 
-15 But that on the good ground are they, which in an honest and good heart, having heard the word, keep it, and bring forth fruit with patience.
+30 Strive not with a man without cause, if he have done thee no harm.
 
-[Sunday 15-January, 2023](https://t.me/s/daily_scripture)
+[Monday 16-January, 2023](https://t.me/s/daily_scripture)
