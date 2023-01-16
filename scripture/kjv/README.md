@@ -1,5 +1,5 @@
-**Proverbs 3:30**
+**1 John 4:4**
 
-30 Strive not with a man without cause, if he have done thee no harm.
+4 Ye are of God, little children, and have overcome them: because greater is he that is in you, than he that is in the world.
 
-[Monday 16-January, 2023](https://t.me/s/daily_scripture)
+[Tuesday 17-January, 2023](https://t.me/s/daily_scripture)
