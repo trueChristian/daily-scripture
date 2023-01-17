@@ -1,5 +1,5 @@
-**1 John 4:4**
+**Titus 2:14**
 
-4 Ye are of God, little children, and have overcome them: because greater is he that is in you, than he that is in the world.
+14 Who gave himself for us, that he might redeem us from all iniquity, and purify unto himself a peculiar people, zealous of good works.
 
-[Tuesday 17-January, 2023](https://t.me/s/daily_scripture)
+[Wednesday 18-January, 2023](https://t.me/s/daily_scripture)
