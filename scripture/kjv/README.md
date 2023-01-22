@@ -1,5 +1,5 @@
-**Revelation 1:8**
+**2 Corinthians 9:8**
 
-8 I am Alpha and Omega, the beginning and the ending, saith the Lord, which is, and which was, and which is to come, the Almighty.
+8 And God is able to make all grace abound toward you; that ye, always having all sufficiency in all things, may abound to every good work:
 
-[Sunday 22-January, 2023](https://t.me/s/daily_scripture)
+[Monday 23-January, 2023](https://t.me/s/daily_scripture)
