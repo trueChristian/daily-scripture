@@ -1,5 +1,5 @@
-**2 Corinthians 9:8**
+**Mark 9:40**
 
-8 And God is able to make all grace abound toward you; that ye, always having all sufficiency in all things, may abound to every good work:
+40 For he that is not against us is on our part.
 
-[Monday 23-January, 2023](https://t.me/s/daily_scripture)
+[Tuesday 24-January, 2023](https://t.me/s/daily_scripture)
