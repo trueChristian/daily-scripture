@@ -1,5 +1,5 @@
-**Acts 5:29**
+**Genesis 22:18**
 
-29 Then Peter and the other apostles answered and said, We ought to obey God rather than men.
+18 And in thy seed shall all the nations of the earth be blessed; because thou hast obeyed my voice.
 
-[Thursday 26-January, 2023](https://t.me/s/daily_scripture)
+[Friday 27-January, 2023](https://t.me/s/daily_scripture)
