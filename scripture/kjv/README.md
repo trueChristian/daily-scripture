@@ -1,5 +1,5 @@
-**Luke 5:8-11**
+**Proverbs 19:2**
 
-8 When Simon Peter saw it, he fell down at Jesus’ knees, saying, Depart from me; for I am a sinful man, O Lord. 9 For he was astonished, and all that were with him, at the draught of the fishes which they had taken: 10 And so was also James, and John, the sons of Zebedee, which were partners with Simon. And Jesus said unto Simon, Fear not; from henceforth thou shalt catch men. 11 And when they had brought their ships to land, they forsook all, and followed him.
+2 Also, that the soul be without knowledge, it is not good; and he that hasteth with his feet sinneth.
 
-[Sunday 29-January, 2023](https://t.me/s/daily_scripture)
+[Monday 30-January, 2023](https://t.me/s/daily_scripture)

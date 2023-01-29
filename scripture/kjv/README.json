@@ -1,22 +1,10 @@
 {
-  "date": "Sunday 29-January, 2023",
-  "name": "Luke 5:8-11",
+  "date": "Monday 30-January, 2023",
+  "name": "Proverbs 19:2",
   "scripture": [
     {
-      "nr": "8",
-      "text": "When Simon Peter saw it, he fell down at Jesus’ knees, saying, Depart from me; for I am a sinful man, O Lord."
-    },
-    {
-      "nr": "9",
-      "text": "For he was astonished, and all that were with him, at the draught of the fishes which they had taken:"
-    },
-    {
-      "nr": "10",
-      "text": "And so was also James, and John, the sons of Zebedee, which were partners with Simon. And Jesus said unto Simon, Fear not; from henceforth thou shalt catch men."
-    },
-    {
-      "nr": "11",
-      "text": "And when they had brought their ships to land, they forsook all, and followed him."
+      "nr": "2",
+      "text": "Also, that the soul be without knowledge, it is not good; and he that hasteth with his feet sinneth."
     }
   ],
   "source": "https://github.com/trueChristian/daily-scripture",
