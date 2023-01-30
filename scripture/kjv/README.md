@@ -1,5 +1,5 @@
-**Proverbs 19:2**
+**Song of Songs 4:12**
 
-2 Also, that the soul be without knowledge, it is not good; and he that hasteth with his feet sinneth.
+12 A garden inclosed is my sister, my spouse; a spring shut up, a fountain sealed.
 
-[Monday 30-January, 2023](https://t.me/s/daily_scripture)
+[Tuesday 31-January, 2023](https://t.me/s/daily_scripture)
