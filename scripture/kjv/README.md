@@ -1,5 +1,5 @@
-**Song of Songs 4:12**
+**Mark 8:34**
 
-12 A garden inclosed is my sister, my spouse; a spring shut up, a fountain sealed.
+34 And when he had called the people unto him with his disciples also, he said unto them, Whosoever will come after me, let him deny himself, and take up his cross, and follow me.
 
-[Tuesday 31-January, 2023](https://t.me/s/daily_scripture)
+[Wednesday 01-February, 2023](https://t.me/s/daily_scripture)
