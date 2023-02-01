@@ -1,5 +1,5 @@
-**Mark 8:34**
+**James 5:1-3**
 
-34 And when he had called the people unto him with his disciples also, he said unto them, Whosoever will come after me, let him deny himself, and take up his cross, and follow me.
+1 Go to now, ye rich men, weep and howl for your miseries that shall come upon you. 2 Your riches are corrupted, and your garments are motheaten. 3 Your gold and silver is cankered; and the rust of them shall be a witness against you, and shall eat your flesh as it were fire. Ye have heaped treasure together for the last days.
 
-[Wednesday 01-February, 2023](https://t.me/s/daily_scripture)
+[Thursday 02-February, 2023](https://t.me/s/daily_scripture)
