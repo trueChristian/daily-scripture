@@ -1,5 +1,5 @@
-**Proverbs 21:28**
+**1 Corinthians 16:22**
 
-28 A false witness shall perish: but the man that heareth speaketh constantly.
+22 If any man love not the Lord Jesus Christ, let him be Anathema Maranatha.
 
-[Friday 03-February, 2023](https://t.me/s/daily_scripture)
+[Saturday 04-February, 2023](https://t.me/s/daily_scripture)
