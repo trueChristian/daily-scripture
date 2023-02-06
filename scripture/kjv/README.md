@@ -1,5 +1,5 @@
-**Philippians 4:4**
+**Daniel 4:26**
 
-4 Rejoice in the Lord alway: and again I say, Rejoice.
+26 And whereas they commanded to leave the stump of the tree roots; thy kingdom shall be sure unto thee, after that thou shalt have known that the heavens do rule.
 
-[Monday 06-February, 2023](https://t.me/s/daily_scripture)
+[Tuesday 07-February, 2023](https://t.me/s/daily_scripture)
