@@ -1,5 +1,5 @@
-**Daniel 4:26**
+**John 3:20**
 
-26 And whereas they commanded to leave the stump of the tree roots; thy kingdom shall be sure unto thee, after that thou shalt have known that the heavens do rule.
+20 For every one that doeth evil hateth the light, neither cometh to the light, lest his deeds should be reproved.
 
-[Tuesday 07-February, 2023](https://t.me/s/daily_scripture)
+[Wednesday 08-February, 2023](https://t.me/s/daily_scripture)
