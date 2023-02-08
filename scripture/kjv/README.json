@@ -1,10 +1,22 @@
 {
-  "date": "Wednesday 08-February, 2023",
-  "name": "John 3:20",
+  "date": "Thursday 09-February, 2023",
+  "name": "Matthew 24:39-42",
   "scripture": [
     {
-      "nr": "20",
-      "text": "For every one that doeth evil hateth the light, neither cometh to the light, lest his deeds should be reproved."
+      "nr": "39",
+      "text": "And knew not until the flood came, and took them all away; so shall also the coming of the Son of man be."
+    },
+    {
+      "nr": "40",
+      "text": "Then shall two be in the field; the one shall be taken, and the other left."
+    },
+    {
+      "nr": "41",
+      "text": "Two women shall be grinding at the mill; the one shall be taken, and the other left."
+    },
+    {
+      "nr": "42",
+      "text": "Watch therefore: for ye know not what hour your Lord doth come."
     }
   ],
   "source": "https://github.com/trueChristian/daily-scripture",
