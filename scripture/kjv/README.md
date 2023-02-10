@@ -1,5 +1,5 @@
-**Proverbs 15:31**
+**Matthew 16:26**
 
-31 The ear that heareth the reproof of life abideth among the wise.
+26 For what is a man profited, if he shall gain the whole world, and lose his own soul? or what shall a man give in exchange for his soul?
 
-[Friday 10-February, 2023](https://t.me/s/daily_scripture)
+[Saturday 11-February, 2023](https://t.me/s/daily_scripture)
