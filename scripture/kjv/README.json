@@ -1,10 +1,18 @@
 {
-  "date": "Sunday 12-February, 2023",
-  "name": "Acts 27:22",
+  "date": "Monday 13-February, 2023",
+  "name": "Job 8:5-7",
   "scripture": [
     {
-      "nr": "22",
-      "text": "And now I exhort you to be of good cheer: for there shall be no loss of any man’s life among you, but of the ship."
+      "nr": "5",
+      "text": "If thou wouldest seek unto God betimes, and make thy supplication to the Almighty;"
+    },
+    {
+      "nr": "6",
+      "text": "If thou wert pure and upright; surely now he would awake for thee, and make the habitation of thy righteousness prosperous."
+    },
+    {
+      "nr": "7",
+      "text": "Though thy beginning was small, yet thy latter end should greatly increase."
     }
   ],
   "source": "https://github.com/trueChristian/daily-scripture",
