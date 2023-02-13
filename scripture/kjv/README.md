@@ -1,5 +1,5 @@
-**Job 8:5-7**
+**Daniel 4:27**
 
-5 If thou wouldest seek unto God betimes, and make thy supplication to the Almighty; 6 If thou wert pure and upright; surely now he would awake for thee, and make the habitation of thy righteousness prosperous. 7 Though thy beginning was small, yet thy latter end should greatly increase.
+27 Wherefore, O king, let my counsel be acceptable unto thee, and break off thy sins by righteousness, and thine iniquities by shewing mercy to the poor; if it may be a lengthening of thy tranquillity.
 
-[Monday 13-February, 2023](https://t.me/s/daily_scripture)
+[Tuesday 14-February, 2023](https://t.me/s/daily_scripture)
