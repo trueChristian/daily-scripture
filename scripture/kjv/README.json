@@ -1,10 +1,22 @@
 {
-  "date": "Tuesday 14-February, 2023",
-  "name": "Daniel 4:27",
+  "date": "Wednesday 15-February, 2023",
+  "name": "Matthew 18:1-4",
   "scripture": [
     {
-      "nr": "27",
-      "text": "Wherefore, O king, let my counsel be acceptable unto thee, and break off thy sins by righteousness, and thine iniquities by shewing mercy to the poor; if it may be a lengthening of thy tranquillity."
+      "nr": "1",
+      "text": "At the same time came the disciples unto Jesus, saying, Who is the greatest in the kingdom of heaven?"
+    },
+    {
+      "nr": "2",
+      "text": "And Jesus called a little child unto him, and set him in the midst of them,"
+    },
+    {
+      "nr": "3",
+      "text": "And said, Verily I say unto you, Except ye be converted, and become as little children, ye shall not enter into the kingdom of heaven."
+    },
+    {
+      "nr": "4",
+      "text": "Whosoever therefore shall humble himself as this little child, the same is greatest in the kingdom of heaven."
     }
   ],
   "source": "https://github.com/trueChristian/daily-scripture",
