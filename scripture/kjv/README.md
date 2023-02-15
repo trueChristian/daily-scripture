@@ -1,5 +1,5 @@
-**Matthew 18:1-4**
+**Psalms 81:11-13**
 
-1 At the same time came the disciples unto Jesus, saying, Who is the greatest in the kingdom of heaven? 2 And Jesus called a little child unto him, and set him in the midst of them, 3 And said, Verily I say unto you, Except ye be converted, and become as little children, ye shall not enter into the kingdom of heaven. 4 Whosoever therefore shall humble himself as this little child, the same is greatest in the kingdom of heaven.
+11 But my people would not hearken to my voice; and Israel would none of me. 12 So I gave them up unto their own hearts’ lust: and they walked in their own counsels. 13 Oh that my people had hearkened unto me, and Israel had walked in my ways!
 
-[Wednesday 15-February, 2023](https://t.me/s/daily_scripture)
+[Thursday 16-February, 2023](https://t.me/s/daily_scripture)

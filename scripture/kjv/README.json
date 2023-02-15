@@ -1,22 +1,18 @@
 {
-  "date": "Wednesday 15-February, 2023",
-  "name": "Matthew 18:1-4",
+  "date": "Thursday 16-February, 2023",
+  "name": "Psalms 81:11-13",
   "scripture": [
     {
-      "nr": "1",
-      "text": "At the same time came the disciples unto Jesus, saying, Who is the greatest in the kingdom of heaven?"
+      "nr": "11",
+      "text": "But my people would not hearken to my voice; and Israel would none of me."
     },
     {
-      "nr": "2",
-      "text": "And Jesus called a little child unto him, and set him in the midst of them,"
+      "nr": "12",
+      "text": "So I gave them up unto their own hearts’ lust: and they walked in their own counsels."
     },
     {
-      "nr": "3",
-      "text": "And said, Verily I say unto you, Except ye be converted, and become as little children, ye shall not enter into the kingdom of heaven."
-    },
-    {
-      "nr": "4",
-      "text": "Whosoever therefore shall humble himself as this little child, the same is greatest in the kingdom of heaven."
+      "nr": "13",
+      "text": "Oh that my people had hearkened unto me, and Israel had walked in my ways!"
     }
   ],
   "source": "https://github.com/trueChristian/daily-scripture",
