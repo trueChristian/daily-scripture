@@ -1,10 +1,14 @@
 {
-  "date": "Friday 17-February, 2023",
-  "name": "Romans 12:17",
+  "date": "Saturday 18-February, 2023",
+  "name": "Ephesians 5:15-16",
   "scripture": [
     {
-      "nr": "17",
-      "text": "Recompense to no man evil for evil. Provide things honest in the sight of all men."
+      "nr": "15",
+      "text": "See then that ye walk circumspectly, not as fools, but as wise,"
+    },
+    {
+      "nr": "16",
+      "text": "Redeeming the time, because the days are evil."
     }
   ],
   "source": "https://github.com/trueChristian/daily-scripture",

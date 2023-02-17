@@ -1,5 +1,5 @@
-**Romans 12:17**
+**Ephesians 5:15-16**
 
-17 Recompense to no man evil for evil. Provide things honest in the sight of all men.
+15 See then that ye walk circumspectly, not as fools, but as wise, 16 Redeeming the time, because the days are evil.
 
-[Friday 17-February, 2023](https://t.me/s/daily_scripture)
+[Saturday 18-February, 2023](https://t.me/s/daily_scripture)
