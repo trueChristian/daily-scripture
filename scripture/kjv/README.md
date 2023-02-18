@@ -1,5 +1,5 @@
-**Ephesians 5:15-16**
+**1 Corinthians 4:20**
 
-15 See then that ye walk circumspectly, not as fools, but as wise, 16 Redeeming the time, because the days are evil.
+20 For the kingdom of God is not in word, but in power.
 
-[Saturday 18-February, 2023](https://t.me/s/daily_scripture)
+[Sunday 19-February, 2023](https://t.me/s/daily_scripture)
