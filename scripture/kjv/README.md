@@ -1,5 +1,5 @@
-**2 Corinthians 2:9**
+**Psalms 22:26**
 
-9 For to this end also did I write, that I might know the proof of you, whether ye be obedient in all things.
+26 The meek shall eat and be satisfied: they shall praise the Lord that seek him: your heart shall live for ever.
 
-[Monday 20-February, 2023](https://t.me/s/daily_scripture)
+[Tuesday 21-February, 2023](https://t.me/s/daily_scripture)
