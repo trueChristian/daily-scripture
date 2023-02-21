@@ -1,5 +1,5 @@
-**Psalms 22:26**
+**1 John 4:12**
 
-26 The meek shall eat and be satisfied: they shall praise the Lord that seek him: your heart shall live for ever.
+12 No man hath seen God at any time. If we love one another, God dwelleth in us, and his love is perfected in us.
 
-[Tuesday 21-February, 2023](https://t.me/s/daily_scripture)
+[Wednesday 22-February, 2023](https://t.me/s/daily_scripture)
