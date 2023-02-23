@@ -1,5 +1,5 @@
-**John 8:12**
+**Isaiah 57:15-16**
 
-12 Then spake Jesus again unto them, saying, I am the light of the world: he that followeth me shall not walk in darkness, but shall have the light of life.
+15 For thus saith the high and lofty One that inhabiteth eternity, whose name is Holy; I dwell in the high and holy place, with him also that is of a contrite and humble spirit, to revive the spirit of the humble, and to revive the heart of the contrite ones. 16 For I will not contend for ever, neither will I be always wroth: for the spirit should fail before me, and the souls which I have made.
 
-[Thursday 23-February, 2023](https://t.me/s/daily_scripture)
+[Friday 24-February, 2023](https://t.me/s/daily_scripture)
