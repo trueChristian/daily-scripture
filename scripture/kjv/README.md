@@ -1,5 +1,5 @@
-**Isaiah 57:15-16**
+**John 7:18**
 
-15 For thus saith the high and lofty One that inhabiteth eternity, whose name is Holy; I dwell in the high and holy place, with him also that is of a contrite and humble spirit, to revive the spirit of the humble, and to revive the heart of the contrite ones. 16 For I will not contend for ever, neither will I be always wroth: for the spirit should fail before me, and the souls which I have made.
+18 He that speaketh of himself seeketh his own glory: but he that seeketh his glory that sent him, the same is true, and no unrighteousness is in him.
 
-[Friday 24-February, 2023](https://t.me/s/daily_scripture)
+[Saturday 25-February, 2023](https://t.me/s/daily_scripture)
