@@ -1,5 +1,5 @@
-**Luke 22:44**
+**Isaiah 2:12**
 
-44 And being in an agony he prayed more earnestly: and his sweat was as it were great drops of blood falling down to the ground.
+12 For the day of the Lord of hosts shall be upon every one that is proud and lofty, and upon every one that is lifted up; and he shall be brought low:
 
-[Tuesday 28-February, 2023](https://t.me/s/daily_scripture)
+[Wednesday 01-March, 2023](https://t.me/s/daily_scripture)
