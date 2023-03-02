@@ -1,5 +1,5 @@
-**Proverbs 21:23**
+**1 Thessalonians 4:1**
 
-23 Whoso keepeth his mouth and his tongue keepeth his soul from troubles.
+1 Furthermore then we beseech you, brethren, and exhort you by the Lord Jesus, that as ye have received of us how ye ought to walk and to please God, so ye would abound more and more.
 
-[Thursday 02-March, 2023](https://t.me/s/daily_scripture)
+[Friday 03-March, 2023](https://t.me/s/daily_scripture)
