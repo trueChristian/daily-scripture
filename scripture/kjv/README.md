@@ -1,5 +1,5 @@
-**1 Thessalonians 4:1**
+**2 Corinthians 8:9**
 
-1 Furthermore then we beseech you, brethren, and exhort you by the Lord Jesus, that as ye have received of us how ye ought to walk and to please God, so ye would abound more and more.
+9 For ye know the grace of our Lord Jesus Christ, that, though he was rich, yet for your sakes he became poor, that ye through his poverty might be rich.
 
-[Friday 03-March, 2023](https://t.me/s/daily_scripture)
+[Saturday 04-March, 2023](https://t.me/s/daily_scripture)
