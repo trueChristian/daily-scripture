@@ -1,5 +1,5 @@
-**2 Corinthians 8:9**
+**Ephesians 6:24**
 
-9 For ye know the grace of our Lord Jesus Christ, that, though he was rich, yet for your sakes he became poor, that ye through his poverty might be rich.
+24 Grace be with all them that love our Lord Jesus Christ in sincerity. Amen.  Written from Rome unto the Ephesians by Tychicus. 
 
-[Saturday 04-March, 2023](https://t.me/s/daily_scripture)
+[Sunday 05-March, 2023](https://t.me/s/daily_scripture)
