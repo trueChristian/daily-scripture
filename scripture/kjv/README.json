@@ -1,10 +1,18 @@
 {
-  "date": "Sunday 05-March, 2023",
-  "name": "Ephesians 6:24",
+  "date": "Monday 06-March, 2023",
+  "name": "1 Corinthians 7:29-31",
   "scripture": [
     {
-      "nr": "24",
-      "text": "Grace be with all them that love our Lord Jesus Christ in sincerity. Amen.  Written from Rome unto the Ephesians by Tychicus. "
+      "nr": "29",
+      "text": "But this I say, brethren, the time is short: it remaineth, that both they that have wives be as though they had none;"
+    },
+    {
+      "nr": "30",
+      "text": "And they that weep, as though they wept not; and they that rejoice, as though they rejoiced not; and they that buy, as though they possessed not;"
+    },
+    {
+      "nr": "31",
+      "text": "And they that use this world, as not abusing it: for the fashion of this world passeth away."
     }
   ],
   "source": "https://github.com/trueChristian/daily-scripture",

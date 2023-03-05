@@ -1,5 +1,5 @@
-**Ephesians 6:24**
+**1 Corinthians 7:29-31**
 
-24 Grace be with all them that love our Lord Jesus Christ in sincerity. Amen.  Written from Rome unto the Ephesians by Tychicus. 
+29 But this I say, brethren, the time is short: it remaineth, that both they that have wives be as though they had none; 30 And they that weep, as though they wept not; and they that rejoice, as though they rejoiced not; and they that buy, as though they possessed not; 31 And they that use this world, as not abusing it: for the fashion of this world passeth away.
 
-[Sunday 05-March, 2023](https://t.me/s/daily_scripture)
+[Monday 06-March, 2023](https://t.me/s/daily_scripture)
