@@ -1,10 +1,18 @@
 {
-  "date": "Tuesday 07-March, 2023",
-  "name": "Acts 20:20",
+  "date": "Wednesday 08-March, 2023",
+  "name": "Malachi 3:1-3",
   "scripture": [
     {
-      "nr": "20",
-      "text": "And how I kept back nothing that was profitable unto you, but have shewed you, and have taught you publickly, and from house to house,"
+      "nr": "1",
+      "text": "Behold, I will send my messenger, and he shall prepare the way before me: and the Lord, whom ye seek, shall suddenly come to his temple, even the messenger of the covenant, whom ye delight in: behold, he shall come, saith the Lord of hosts."
+    },
+    {
+      "nr": "2",
+      "text": "But who may abide the day of his coming? and who shall stand when he appeareth? for he is like a refiner’s fire, and like fullers’ soap:"
+    },
+    {
+      "nr": "3",
+      "text": "And he shall sit as a refiner and purifier of silver: and he shall purify the sons of Levi, and purge them as gold and silver, that they may offer unto the Lord an offering in righteousness."
     }
   ],
   "source": "https://github.com/trueChristian/daily-scripture",
