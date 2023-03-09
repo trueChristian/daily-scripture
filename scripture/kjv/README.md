@@ -1,5 +1,5 @@
-**Psalms 18:1**
+**Genesis 17:1**
 
-1 I will love thee, O Lord, my strength.
+1 And when Abram was ninety years old and nine, the Lord appeared to Abram, and said unto him, I am the Almighty God; walk before me, and be thou perfect.
 
-[Thursday 09-March, 2023](https://t.me/s/daily_scripture)
+[Friday 10-March, 2023](https://t.me/s/daily_scripture)
