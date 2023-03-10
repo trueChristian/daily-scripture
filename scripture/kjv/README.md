@@ -1,5 +1,5 @@
-**Genesis 17:1**
+**Hebrews 13:2**
 
-1 And when Abram was ninety years old and nine, the Lord appeared to Abram, and said unto him, I am the Almighty God; walk before me, and be thou perfect.
+2 Be not forgetful to entertain strangers: for thereby some have entertained angels unawares.
 
-[Friday 10-March, 2023](https://t.me/s/daily_scripture)
+[Saturday 11-March, 2023](https://t.me/s/daily_scripture)
