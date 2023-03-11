@@ -1,10 +1,14 @@
 {
-  "date": "Saturday 11-March, 2023",
-  "name": "Hebrews 13:2",
+  "date": "Sunday 12-March, 2023",
+  "name": "Romans 3:23-24",
   "scripture": [
     {
-      "nr": "2",
-      "text": "Be not forgetful to entertain strangers: for thereby some have entertained angels unawares."
+      "nr": "23",
+      "text": "For all have sinned, and come short of the glory of God;"
+    },
+    {
+      "nr": "24",
+      "text": "Being justified freely by his grace through the redemption that is in Christ Jesus:"
     }
   ],
   "source": "https://github.com/trueChristian/daily-scripture",

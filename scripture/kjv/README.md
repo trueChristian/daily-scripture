@@ -1,5 +1,5 @@
-**Hebrews 13:2**
+**Romans 3:23-24**
 
-2 Be not forgetful to entertain strangers: for thereby some have entertained angels unawares.
+23 For all have sinned, and come short of the glory of God; 24 Being justified freely by his grace through the redemption that is in Christ Jesus:
 
-[Saturday 11-March, 2023](https://t.me/s/daily_scripture)
+[Sunday 12-March, 2023](https://t.me/s/daily_scripture)
