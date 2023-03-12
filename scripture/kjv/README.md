@@ -1,5 +1,5 @@
-**Romans 3:23-24**
+**Isaiah 32:8**
 
-23 For all have sinned, and come short of the glory of God; 24 Being justified freely by his grace through the redemption that is in Christ Jesus:
+8 But the liberal deviseth liberal things; and by liberal things shall he stand.
 
-[Sunday 12-March, 2023](https://t.me/s/daily_scripture)
+[Monday 13-March, 2023](https://t.me/s/daily_scripture)

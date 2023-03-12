@@ -1,14 +1,10 @@
 {
-  "date": "Sunday 12-March, 2023",
-  "name": "Romans 3:23-24",
+  "date": "Monday 13-March, 2023",
+  "name": "Isaiah 32:8",
   "scripture": [
     {
-      "nr": "23",
-      "text": "For all have sinned, and come short of the glory of God;"
-    },
-    {
-      "nr": "24",
-      "text": "Being justified freely by his grace through the redemption that is in Christ Jesus:"
+      "nr": "8",
+      "text": "But the liberal deviseth liberal things; and by liberal things shall he stand."
     }
   ],
   "source": "https://github.com/trueChristian/daily-scripture",
