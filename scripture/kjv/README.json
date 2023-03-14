@@ -1,14 +1,10 @@
 {
-  "date": "Tuesday 14-March, 2023",
-  "name": "Matthew 23:23-24",
+  "date": "Wednesday 15-March, 2023",
+  "name": "Colossians 3:2",
   "scripture": [
     {
-      "nr": "23",
-      "text": "Woe unto you, scribes and Pharisees, hypocrites! for ye pay tithe of mint and anise and cummin, and have omitted the weightier matters of the law, judgment, mercy, and faith: these ought ye to have done, and not to leave the other undone."
-    },
-    {
-      "nr": "24",
-      "text": "Ye blind guides, which strain at a gnat, and swallow a camel."
+      "nr": "2",
+      "text": "Set your affection on things above, not on things on the earth."
     }
   ],
   "source": "https://github.com/trueChristian/daily-scripture",
