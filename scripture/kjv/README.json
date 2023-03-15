@@ -1,10 +1,14 @@
 {
-  "date": "Wednesday 15-March, 2023",
-  "name": "Colossians 3:2",
+  "date": "Thursday 16-March, 2023",
+  "name": "Daniel 9:9-10",
   "scripture": [
     {
-      "nr": "2",
-      "text": "Set your affection on things above, not on things on the earth."
+      "nr": "9",
+      "text": "To the Lord our God belong mercies and forgivenesses, though we have rebelled against him;"
+    },
+    {
+      "nr": "10",
+      "text": "Neither have we obeyed the voice of the Lord our God, to walk in his laws, which he set before us by his servants the prophets."
     }
   ],
   "source": "https://github.com/trueChristian/daily-scripture",
