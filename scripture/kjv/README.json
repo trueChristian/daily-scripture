@@ -1,14 +1,18 @@
 {
-  "date": "Thursday 16-March, 2023",
-  "name": "Daniel 9:9-10",
+  "date": "Friday 17-March, 2023",
+  "name": "Haggai 2:3-5",
   "scripture": [
     {
-      "nr": "9",
-      "text": "To the Lord our God belong mercies and forgivenesses, though we have rebelled against him;"
+      "nr": "3",
+      "text": "Who is left among you that saw this house in her first glory? and how do ye see it now? is it not in your eyes in comparison of it as nothing?"
     },
     {
-      "nr": "10",
-      "text": "Neither have we obeyed the voice of the Lord our God, to walk in his laws, which he set before us by his servants the prophets."
+      "nr": "4",
+      "text": "Yet now be strong, O Zerubbabel, saith the Lord; and be strong, O Joshua, son of Josedech, the high priest; and be strong, all ye people of the land, saith the Lord, and work: for I am with you, saith the Lord of hosts:"
+    },
+    {
+      "nr": "5",
+      "text": "According to the word that I covenanted with you when ye came out of Egypt, so my spirit remaineth among you: fear ye not."
     }
   ],
   "source": "https://github.com/trueChristian/daily-scripture",
