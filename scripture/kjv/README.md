@@ -1,5 +1,5 @@
-**Zechariah 13:1**
+**Isaiah 44:8**
 
-1 In that day there shall be a fountain opened to the house of David and to the inhabitants of Jerusalem for sin and for uncleanness.
+8 Fear ye not, neither be afraid: have not I told thee from that time, and have declared it? ye are even my witnesses. Is there a God beside me? yea, there is no God; I know not any.
 
-[Sunday 19-March, 2023](https://t.me/s/daily_scripture)
+[Monday 20-March, 2023](https://t.me/s/daily_scripture)
