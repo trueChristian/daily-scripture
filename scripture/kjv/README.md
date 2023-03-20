@@ -1,5 +1,5 @@
-**Isaiah 44:8**
+**Psalms 27:4**
 
-8 Fear ye not, neither be afraid: have not I told thee from that time, and have declared it? ye are even my witnesses. Is there a God beside me? yea, there is no God; I know not any.
+4 One thing have I desired of the Lord, that will I seek after; that I may dwell in the house of the Lord all the days of my life, to behold the beauty of the Lord, and to enquire in his temple.
 
-[Monday 20-March, 2023](https://t.me/s/daily_scripture)
+[Tuesday 21-March, 2023](https://t.me/s/daily_scripture)
