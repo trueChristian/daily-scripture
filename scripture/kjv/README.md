@@ -1,5 +1,5 @@
-**Psalms 27:4**
+**1 Timothy 6:9-10**
 
-4 One thing have I desired of the Lord, that will I seek after; that I may dwell in the house of the Lord all the days of my life, to behold the beauty of the Lord, and to enquire in his temple.
+9 But they that will be rich fall into temptation and a snare, and into many foolish and hurtful lusts, which drown men in destruction and perdition. 10 For the love of money is the root of all evil: which while some coveted after, they have erred from the faith, and pierced themselves through with many sorrows.
 
-[Tuesday 21-March, 2023](https://t.me/s/daily_scripture)
+[Wednesday 22-March, 2023](https://t.me/s/daily_scripture)
