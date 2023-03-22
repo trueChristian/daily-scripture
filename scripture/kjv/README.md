@@ -1,5 +1,5 @@
-**1 Timothy 6:9-10**
+**Luke 21:34**
 
-9 But they that will be rich fall into temptation and a snare, and into many foolish and hurtful lusts, which drown men in destruction and perdition. 10 For the love of money is the root of all evil: which while some coveted after, they have erred from the faith, and pierced themselves through with many sorrows.
+34 And take heed to yourselves, lest at any time your hearts be overcharged with surfeiting, and drunkenness, and cares of this life, and so that day come upon you unawares.
 
-[Wednesday 22-March, 2023](https://t.me/s/daily_scripture)
+[Thursday 23-March, 2023](https://t.me/s/daily_scripture)

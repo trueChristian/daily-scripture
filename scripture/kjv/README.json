@@ -1,14 +1,10 @@
 {
-  "date": "Wednesday 22-March, 2023",
-  "name": "1 Timothy 6:9-10",
+  "date": "Thursday 23-March, 2023",
+  "name": "Luke 21:34",
   "scripture": [
     {
-      "nr": "9",
-      "text": "But they that will be rich fall into temptation and a snare, and into many foolish and hurtful lusts, which drown men in destruction and perdition."
-    },
-    {
-      "nr": "10",
-      "text": "For the love of money is the root of all evil: which while some coveted after, they have erred from the faith, and pierced themselves through with many sorrows."
+      "nr": "34",
+      "text": "And take heed to yourselves, lest at any time your hearts be overcharged with surfeiting, and drunkenness, and cares of this life, and so that day come upon you unawares."
     }
   ],
   "source": "https://github.com/trueChristian/daily-scripture",
