@@ -1,5 +1,5 @@
-**Luke 21:34**
+**Ezra 7:23**
 
-34 And take heed to yourselves, lest at any time your hearts be overcharged with surfeiting, and drunkenness, and cares of this life, and so that day come upon you unawares.
+23 Whatsoever is commanded by the God of heaven, let it be diligently done for the house of the God of heaven: for why should there be wrath against the realm of the king and his sons?
 
-[Thursday 23-March, 2023](https://t.me/s/daily_scripture)
+[Friday 24-March, 2023](https://t.me/s/daily_scripture)
