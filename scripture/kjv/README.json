@@ -1,10 +1,18 @@
 {
-  "date": "Monday 27-March, 2023",
-  "name": "Psalms 16:11",
+  "date": "Tuesday 28-March, 2023",
+  "name": "Ezekiel 16:4-6",
   "scripture": [
     {
-      "nr": "11",
-      "text": "Thou wilt shew me the path of life: in thy presence is fulness of joy; at thy right hand there are pleasures for evermore. "
+      "nr": "4",
+      "text": "And as for thy nativity, in the day thou wast born thy navel was not cut, neither wast thou washed in water to supple thee; thou wast not salted at all, nor swaddled at all."
+    },
+    {
+      "nr": "5",
+      "text": "None eye pitied thee, to do any of these unto thee, to have compassion upon thee; but thou wast cast out in the open field, to the lothing of thy person, in the day that thou wast born."
+    },
+    {
+      "nr": "6",
+      "text": "And when I passed by thee, and saw thee polluted in thine own blood, I said unto thee when thou wast in thy blood, Live; yea, I said unto thee when thou wast in thy blood, Live."
     }
   ],
   "source": "https://github.com/trueChristian/daily-scripture",
