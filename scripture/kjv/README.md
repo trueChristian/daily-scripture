@@ -1,5 +1,5 @@
-**Ephesians 4:29-30**
+**Psalms 41:4**
 
-29 Let no corrupt communication proceed out of your mouth, but that which is good to the use of edifying, that it may minister grace unto the hearers. 30 And grieve not the holy Spirit of God, whereby ye are sealed unto the day of redemption.
+4 I said, Lord, be merciful unto me: heal my soul; for I have sinned against thee.
 
-[Wednesday 29-March, 2023](https://t.me/s/daily_scripture)
+[Thursday 30-March, 2023](https://t.me/s/daily_scripture)
