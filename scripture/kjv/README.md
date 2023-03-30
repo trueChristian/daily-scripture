@@ -1,5 +1,5 @@
-**Psalms 41:4**
+**2 Corinthians 8:15**
 
-4 I said, Lord, be merciful unto me: heal my soul; for I have sinned against thee.
+15 As it is written, He that had gathered much had nothing over; and he that had gathered little had no lack.
 
-[Thursday 30-March, 2023](https://t.me/s/daily_scripture)
+[Friday 31-March, 2023](https://t.me/s/daily_scripture)
