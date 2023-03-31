@@ -1,10 +1,14 @@
 {
-  "date": "Friday 31-March, 2023",
-  "name": "2 Corinthians 8:15",
+  "date": "Saturday 01-April, 2023",
+  "name": "Matthew 15:27-28",
   "scripture": [
     {
-      "nr": "15",
-      "text": "As it is written, He that had gathered much had nothing over; and he that had gathered little had no lack."
+      "nr": "27",
+      "text": "And she said, Truth, Lord: yet the dogs eat of the crumbs which fall from their masters’ table."
+    },
+    {
+      "nr": "28",
+      "text": "Then Jesus answered and said unto her, O woman, great is thy faith: be it unto thee even as thou wilt. And her daughter was made whole from that very hour."
     }
   ],
   "source": "https://github.com/trueChristian/daily-scripture",

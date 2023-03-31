@@ -1,5 +1,5 @@
-**2 Corinthians 8:15**
+**Matthew 15:27-28**
 
-15 As it is written, He that had gathered much had nothing over; and he that had gathered little had no lack.
+27 And she said, Truth, Lord: yet the dogs eat of the crumbs which fall from their masters’ table. 28 Then Jesus answered and said unto her, O woman, great is thy faith: be it unto thee even as thou wilt. And her daughter was made whole from that very hour.
 
-[Friday 31-March, 2023](https://t.me/s/daily_scripture)
+[Saturday 01-April, 2023](https://t.me/s/daily_scripture)
