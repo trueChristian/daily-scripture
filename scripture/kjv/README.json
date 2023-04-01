@@ -1,14 +1,10 @@
 {
-  "date": "Saturday 01-April, 2023",
-  "name": "Matthew 15:27-28",
+  "date": "Sunday 02-April, 2023",
+  "name": "Romans 9:20",
   "scripture": [
     {
-      "nr": "27",
-      "text": "And she said, Truth, Lord: yet the dogs eat of the crumbs which fall from their masters’ table."
-    },
-    {
-      "nr": "28",
-      "text": "Then Jesus answered and said unto her, O woman, great is thy faith: be it unto thee even as thou wilt. And her daughter was made whole from that very hour."
+      "nr": "20",
+      "text": "Nay but, O man, who art thou that repliest against God? Shall the thing formed say to him that formed it, Why hast thou made me thus?"
     }
   ],
   "source": "https://github.com/trueChristian/daily-scripture",
