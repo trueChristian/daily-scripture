@@ -1,5 +1,5 @@
-**Romans 9:20**
+**Luke 22:57-60**
 
-20 Nay but, O man, who art thou that repliest against God? Shall the thing formed say to him that formed it, Why hast thou made me thus?
+57 And he denied him, saying, Woman, I know him not. 58 And after a little while another saw him, and said, Thou art also of them. And Peter said, Man, I am not. 59 And about the space of one hour after another confidently affirmed, saying, Of a truth this fellow also was with him: for he is a Galilæan. 60 And Peter said, Man, I know not what thou sayest. And immediately, while he yet spake, the cock crew.
 
-[Sunday 02-April, 2023](https://t.me/s/daily_scripture)
+[Monday 03-April, 2023](https://t.me/s/daily_scripture)

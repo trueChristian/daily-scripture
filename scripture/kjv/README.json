@@ -1,10 +1,22 @@
 {
-  "date": "Sunday 02-April, 2023",
-  "name": "Romans 9:20",
+  "date": "Monday 03-April, 2023",
+  "name": "Luke 22:57-60",
   "scripture": [
     {
-      "nr": "20",
-      "text": "Nay but, O man, who art thou that repliest against God? Shall the thing formed say to him that formed it, Why hast thou made me thus?"
+      "nr": "57",
+      "text": "And he denied him, saying, Woman, I know him not."
+    },
+    {
+      "nr": "58",
+      "text": "And after a little while another saw him, and said, Thou art also of them. And Peter said, Man, I am not."
+    },
+    {
+      "nr": "59",
+      "text": "And about the space of one hour after another confidently affirmed, saying, Of a truth this fellow also was with him: for he is a Galilæan."
+    },
+    {
+      "nr": "60",
+      "text": "And Peter said, Man, I know not what thou sayest. And immediately, while he yet spake, the cock crew."
     }
   ],
   "source": "https://github.com/trueChristian/daily-scripture",
