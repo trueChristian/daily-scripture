@@ -1,18 +1,18 @@
 {
-  "date": "Tuesday 04-April, 2023",
-  "name": "Psalms 39:4-6",
+  "date": "Wednesday 05-April, 2023",
+  "name": "1 Thessalonians 5:8-10",
   "scripture": [
     {
-      "nr": "4",
-      "text": "Lord, make me to know mine end, and the measure of my days, what it is; that I may know how frail I am."
+      "nr": "8",
+      "text": "But let us, who are of the day, be sober, putting on the breastplate of faith and love; and for an helmet, the hope of salvation."
     },
     {
-      "nr": "5",
-      "text": "Behold, thou hast made my days as an handbreadth; and mine age is as nothing before thee: verily every man at his best state is altogether vanity. Selah."
+      "nr": "9",
+      "text": "For God hath not appointed us to wrath, but to obtain salvation by our Lord Jesus Christ,"
     },
     {
-      "nr": "6",
-      "text": "Surely every man walketh in a vain shew: surely they are disquieted in vain: he heapeth up riches, and knoweth not who shall gather them."
+      "nr": "10",
+      "text": "Who died for us, that, whether we wake or sleep, we should live together with him."
     }
   ],
   "source": "https://github.com/trueChristian/daily-scripture",
