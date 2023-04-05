@@ -1,5 +1,5 @@
-**1 Thessalonians 5:8-10**
+**2 Corinthians 8:4**
 
-8 But let us, who are of the day, be sober, putting on the breastplate of faith and love; and for an helmet, the hope of salvation. 9 For God hath not appointed us to wrath, but to obtain salvation by our Lord Jesus Christ, 10 Who died for us, that, whether we wake or sleep, we should live together with him.
+4 Praying us with much intreaty that we would receive the gift, and take upon us the fellowship of the ministering to the saints.
 
-[Wednesday 05-April, 2023](https://t.me/s/daily_scripture)
+[Thursday 06-April, 2023](https://t.me/s/daily_scripture)
