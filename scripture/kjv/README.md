@@ -1,5 +1,5 @@
-**2 Corinthians 8:4**
+**Daniel 5:22**
 
-4 Praying us with much intreaty that we would receive the gift, and take upon us the fellowship of the ministering to the saints.
+22 And thou his son, O Belshazzar, hast not humbled thine heart, though thou knewest all this;
 
-[Thursday 06-April, 2023](https://t.me/s/daily_scripture)
+[Friday 07-April, 2023](https://t.me/s/daily_scripture)
