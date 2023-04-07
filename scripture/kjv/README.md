@@ -1,5 +1,5 @@
-**Daniel 5:22**
+**Psalms 73:2-3**
 
-22 And thou his son, O Belshazzar, hast not humbled thine heart, though thou knewest all this;
+2 But as for me, my feet were almost gone; my steps had well nigh slipped. 3 For I was envious at the foolish, when I saw the prosperity of the wicked.
 
-[Friday 07-April, 2023](https://t.me/s/daily_scripture)
+[Saturday 08-April, 2023](https://t.me/s/daily_scripture)

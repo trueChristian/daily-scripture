@@ -1,10 +1,14 @@
 {
-  "date": "Friday 07-April, 2023",
-  "name": "Daniel 5:22",
+  "date": "Saturday 08-April, 2023",
+  "name": "Psalms 73:2-3",
   "scripture": [
     {
-      "nr": "22",
-      "text": "And thou his son, O Belshazzar, hast not humbled thine heart, though thou knewest all this;"
+      "nr": "2",
+      "text": "But as for me, my feet were almost gone; my steps had well nigh slipped."
+    },
+    {
+      "nr": "3",
+      "text": "For I was envious at the foolish, when I saw the prosperity of the wicked."
     }
   ],
   "source": "https://github.com/trueChristian/daily-scripture",
