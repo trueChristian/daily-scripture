@@ -1,14 +1,10 @@
 {
-  "date": "Saturday 08-April, 2023",
-  "name": "Psalms 73:2-3",
+  "date": "Sunday 09-April, 2023",
+  "name": "Zephaniah 3:9",
   "scripture": [
     {
-      "nr": "2",
-      "text": "But as for me, my feet were almost gone; my steps had well nigh slipped."
-    },
-    {
-      "nr": "3",
-      "text": "For I was envious at the foolish, when I saw the prosperity of the wicked."
+      "nr": "9",
+      "text": "For then will I turn to the people a pure language, that they may all call upon the name of the Lord, to serve him with one consent."
     }
   ],
   "source": "https://github.com/trueChristian/daily-scripture",

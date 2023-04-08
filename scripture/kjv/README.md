@@ -1,5 +1,5 @@
-**Psalms 73:2-3**
+**Zephaniah 3:9**
 
-2 But as for me, my feet were almost gone; my steps had well nigh slipped. 3 For I was envious at the foolish, when I saw the prosperity of the wicked.
+9 For then will I turn to the people a pure language, that they may all call upon the name of the Lord, to serve him with one consent.
 
-[Saturday 08-April, 2023](https://t.me/s/daily_scripture)
+[Sunday 09-April, 2023](https://t.me/s/daily_scripture)
