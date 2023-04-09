@@ -1,10 +1,14 @@
 {
-  "date": "Sunday 09-April, 2023",
-  "name": "Zephaniah 3:9",
+  "date": "Monday 10-April, 2023",
+  "name": "Ephesians 5:1-2",
   "scripture": [
     {
-      "nr": "9",
-      "text": "For then will I turn to the people a pure language, that they may all call upon the name of the Lord, to serve him with one consent."
+      "nr": "1",
+      "text": "Be ye therefore followers of God, as dear children;"
+    },
+    {
+      "nr": "2",
+      "text": "And walk in love, as Christ also hath loved us, and hath given himself for us an offering and a sacrifice to God for a sweetsmelling savour."
     }
   ],
   "source": "https://github.com/trueChristian/daily-scripture",
