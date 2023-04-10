@@ -1,5 +1,5 @@
-**Ephesians 5:1-2**
+**Proverbs 31:30**
 
-1 Be ye therefore followers of God, as dear children; 2 And walk in love, as Christ also hath loved us, and hath given himself for us an offering and a sacrifice to God for a sweetsmelling savour.
+30 Favour is deceitful, and beauty is vain: but a woman that feareth the Lord, she shall be praised.
 
-[Monday 10-April, 2023](https://t.me/s/daily_scripture)
+[Tuesday 11-April, 2023](https://t.me/s/daily_scripture)

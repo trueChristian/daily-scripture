@@ -1,14 +1,10 @@
 {
-  "date": "Monday 10-April, 2023",
-  "name": "Ephesians 5:1-2",
+  "date": "Tuesday 11-April, 2023",
+  "name": "Proverbs 31:30",
   "scripture": [
     {
-      "nr": "1",
-      "text": "Be ye therefore followers of God, as dear children;"
-    },
-    {
-      "nr": "2",
-      "text": "And walk in love, as Christ also hath loved us, and hath given himself for us an offering and a sacrifice to God for a sweetsmelling savour."
+      "nr": "30",
+      "text": "Favour is deceitful, and beauty is vain: but a woman that feareth the Lord, she shall be praised."
     }
   ],
   "source": "https://github.com/trueChristian/daily-scripture",
