@@ -1,5 +1,5 @@
-**Proverbs 31:30**
+**1 Corinthians 4:9-13**
 
-30 Favour is deceitful, and beauty is vain: but a woman that feareth the Lord, she shall be praised.
+9 For I think that God hath set forth us the apostles last, as it were appointed to death: for we are made a spectacle unto the world, and to angels, and to men. 10 We are fools for Christ’s sake, but ye are wise in Christ; we are weak, but ye are strong; ye are honourable, but we are despised. 11 Even unto this present hour we both hunger, and thirst, and are naked, and are buffeted, and have no certain dwellingplace; 12 And labour, working with our own hands: being reviled, we bless; being persecuted, we suffer it: 13 Being defamed, we intreat: we are made as the filth of the world, and are the offscouring of all things unto this day.
 
-[Tuesday 11-April, 2023](https://t.me/s/daily_scripture)
+[Wednesday 12-April, 2023](https://t.me/s/daily_scripture)
