@@ -1,62 +1,58 @@
 {
-  "date": "Thursday 13-April, 2023",
-  "name": "Matthew 25:33-46",
+  "date": "Friday 14-April, 2023",
+  "name": "Matthew 25:1-13",
   "scripture": [
     {
-      "nr": "33",
-      "text": "And he shall set the sheep on his right hand, but the goats on the left."
+      "nr": "1",
+      "text": "Then shall the kingdom of heaven be likened unto ten virgins, which took their lamps, and went forth to meet the bridegroom."
     },
     {
-      "nr": "34",
-      "text": "Then shall the King say unto them on his right hand, Come, ye blessed of my Father, inherit the kingdom prepared for you from the foundation of the world:"
+      "nr": "2",
+      "text": "And five of them were wise, and five were foolish."
     },
     {
-      "nr": "35",
-      "text": "For I was an hungred, and ye gave me meat: I was thirsty, and ye gave me drink: I was a stranger, and ye took me in:"
+      "nr": "3",
+      "text": "They that were foolish took their lamps, and took no oil with them:"
     },
     {
-      "nr": "36",
-      "text": "Naked, and ye clothed me: I was sick, and ye visited me: I was in prison, and ye came unto me."
+      "nr": "4",
+      "text": "But the wise took oil in their vessels with their lamps."
     },
     {
-      "nr": "37",
-      "text": "Then shall the righteous answer him, saying, Lord, when saw we thee an hungred, and fed thee? or thirsty, and gave thee drink?"
+      "nr": "5",
+      "text": "While the bridegroom tarried, they all slumbered and slept."
     },
     {
-      "nr": "38",
-      "text": "When saw we thee a stranger, and took thee in? or naked, and clothed thee?"
+      "nr": "6",
+      "text": "And at midnight there was a cry made, Behold, the bridegroom cometh; go ye out to meet him."
     },
     {
-      "nr": "39",
-      "text": "Or when saw we thee sick, or in prison, and came unto thee?"
+      "nr": "7",
+      "text": "Then all those virgins arose, and trimmed their lamps."
     },
     {
-      "nr": "40",
-      "text": "And the King shall answer and say unto them, Verily I say unto you, Inasmuch as ye have done it unto one of the least of these my brethren, ye have done it unto me."
+      "nr": "8",
+      "text": "And the foolish said unto the wise, Give us of your oil; for our lamps are gone out."
     },
     {
-      "nr": "41",
-      "text": "Then shall he say also unto them on the left hand, Depart from me, ye cursed, into everlasting fire, prepared for the devil and his angels:"
+      "nr": "9",
+      "text": "But the wise answered, saying, Not so; lest there be not enough for us and you: but go ye rather to them that sell, and buy for yourselves."
     },
     {
-      "nr": "42",
-      "text": "For I was an hungred, and ye gave me no meat: I was thirsty, and ye gave me no drink:"
+      "nr": "10",
+      "text": "And while they went to buy, the bridegroom came; and they that were ready went in with him to the marriage: and the door was shut."
     },
     {
-      "nr": "43",
-      "text": "I was a stranger, and ye took me not in: naked, and ye clothed me not: sick, and in prison, and ye visited me not."
+      "nr": "11",
+      "text": "Afterward came also the other virgins, saying, Lord, Lord, open to us."
     },
     {
-      "nr": "44",
-      "text": "Then shall they also answer him, saying, Lord, when saw we thee an hungred, or athirst, or a stranger, or naked, or sick, or in prison, and did not minister unto thee?"
+      "nr": "12",
+      "text": "But he answered and said, Verily I say unto you, I know you not."
     },
     {
-      "nr": "45",
-      "text": "Then shall he answer them, saying, Verily I say unto you, Inasmuch as ye did it not to one of the least of these, ye did it not to me."
-    },
-    {
-      "nr": "46",
-      "text": "And these shall go away into everlasting punishment: but the righteous into life eternal. "
+      "nr": "13",
+      "text": "Watch therefore, for ye know neither the day nor the hour wherein the Son of man cometh."
     }
   ],
   "source": "https://github.com/trueChristian/daily-scripture",
