@@ -1,58 +1,14 @@
 {
-  "date": "Friday 14-April, 2023",
-  "name": "Matthew 25:1-13",
+  "date": "Saturday 15-April, 2023",
+  "name": "Psalms 16:2-3",
   "scripture": [
     {
-      "nr": "1",
-      "text": "Then shall the kingdom of heaven be likened unto ten virgins, which took their lamps, and went forth to meet the bridegroom."
-    },
-    {
       "nr": "2",
-      "text": "And five of them were wise, and five were foolish."
+      "text": "O my soul, thou hast said unto the Lord, Thou art my Lord: my goodness extendeth not to thee;"
     },
     {
       "nr": "3",
-      "text": "They that were foolish took their lamps, and took no oil with them:"
-    },
-    {
-      "nr": "4",
-      "text": "But the wise took oil in their vessels with their lamps."
-    },
-    {
-      "nr": "5",
-      "text": "While the bridegroom tarried, they all slumbered and slept."
-    },
-    {
-      "nr": "6",
-      "text": "And at midnight there was a cry made, Behold, the bridegroom cometh; go ye out to meet him."
-    },
-    {
-      "nr": "7",
-      "text": "Then all those virgins arose, and trimmed their lamps."
-    },
-    {
-      "nr": "8",
-      "text": "And the foolish said unto the wise, Give us of your oil; for our lamps are gone out."
-    },
-    {
-      "nr": "9",
-      "text": "But the wise answered, saying, Not so; lest there be not enough for us and you: but go ye rather to them that sell, and buy for yourselves."
-    },
-    {
-      "nr": "10",
-      "text": "And while they went to buy, the bridegroom came; and they that were ready went in with him to the marriage: and the door was shut."
-    },
-    {
-      "nr": "11",
-      "text": "Afterward came also the other virgins, saying, Lord, Lord, open to us."
-    },
-    {
-      "nr": "12",
-      "text": "But he answered and said, Verily I say unto you, I know you not."
-    },
-    {
-      "nr": "13",
-      "text": "Watch therefore, for ye know neither the day nor the hour wherein the Son of man cometh."
+      "text": "But to the saints that are in the earth, and to the excellent, in whom is all my delight."
     }
   ],
   "source": "https://github.com/trueChristian/daily-scripture",
