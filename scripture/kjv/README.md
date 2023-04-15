@@ -1,5 +1,5 @@
-**Psalms 16:2-3**
+**Jeremiah 7:9-11**
 
-2 O my soul, thou hast said unto the Lord, Thou art my Lord: my goodness extendeth not to thee; 3 But to the saints that are in the earth, and to the excellent, in whom is all my delight.
+9 Will ye steal, murder, and commit adultery, and swear falsely, and burn incense unto Baal, and walk after other gods whom ye know not; 10 And come and stand before me in this house, which is called by my name, and say, We are delivered to do all these abominations? 11 Is this house, which is called by my name, become a den of robbers in your eyes? Behold, even I have seen it, saith the Lord.
 
-[Saturday 15-April, 2023](https://t.me/s/daily_scripture)
+[Sunday 16-April, 2023](https://t.me/s/daily_scripture)

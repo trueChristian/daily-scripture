@@ -1,14 +1,18 @@
 {
-  "date": "Saturday 15-April, 2023",
-  "name": "Psalms 16:2-3",
+  "date": "Sunday 16-April, 2023",
+  "name": "Jeremiah 7:9-11",
   "scripture": [
     {
-      "nr": "2",
-      "text": "O my soul, thou hast said unto the Lord, Thou art my Lord: my goodness extendeth not to thee;"
+      "nr": "9",
+      "text": "Will ye steal, murder, and commit adultery, and swear falsely, and burn incense unto Baal, and walk after other gods whom ye know not;"
     },
     {
-      "nr": "3",
-      "text": "But to the saints that are in the earth, and to the excellent, in whom is all my delight."
+      "nr": "10",
+      "text": "And come and stand before me in this house, which is called by my name, and say, We are delivered to do all these abominations?"
+    },
+    {
+      "nr": "11",
+      "text": "Is this house, which is called by my name, become a den of robbers in your eyes? Behold, even I have seen it, saith the Lord."
     }
   ],
   "source": "https://github.com/trueChristian/daily-scripture",
