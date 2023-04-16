@@ -1,5 +1,5 @@
-**Jeremiah 7:9-11**
+**Proverbs 3:13-14**
 
-9 Will ye steal, murder, and commit adultery, and swear falsely, and burn incense unto Baal, and walk after other gods whom ye know not; 10 And come and stand before me in this house, which is called by my name, and say, We are delivered to do all these abominations? 11 Is this house, which is called by my name, become a den of robbers in your eyes? Behold, even I have seen it, saith the Lord.
+13 Happy is the man that findeth wisdom, and the man that getteth understanding. 14 For the merchandise of it is better than the merchandise of silver, and the gain thereof than fine gold.
 
-[Sunday 16-April, 2023](https://t.me/s/daily_scripture)
+[Monday 17-April, 2023](https://t.me/s/daily_scripture)
