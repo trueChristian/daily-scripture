@@ -1,5 +1,5 @@
-**Proverbs 3:13-14**
+**2 John 1:3**
 
-13 Happy is the man that findeth wisdom, and the man that getteth understanding. 14 For the merchandise of it is better than the merchandise of silver, and the gain thereof than fine gold.
+3 Grace be with you, mercy, and peace, from God the Father, and from the Lord Jesus Christ, the Son of the Father, in truth and love.
 
-[Monday 17-April, 2023](https://t.me/s/daily_scripture)
+[Tuesday 18-April, 2023](https://t.me/s/daily_scripture)
