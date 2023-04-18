@@ -1,5 +1,5 @@
-**2 John 1:3**
+**Hebrews 4:2**
 
-3 Grace be with you, mercy, and peace, from God the Father, and from the Lord Jesus Christ, the Son of the Father, in truth and love.
+2 For unto us was the gospel preached, as well as unto them: but the word preached did not profit them, not being mixed with faith in them that heard it.
 
-[Tuesday 18-April, 2023](https://t.me/s/daily_scripture)
+[Wednesday 19-April, 2023](https://t.me/s/daily_scripture)
