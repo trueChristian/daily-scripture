@@ -1,5 +1,5 @@
-**Hebrews 4:2**
+**Romans 8:18**
 
-2 For unto us was the gospel preached, as well as unto them: but the word preached did not profit them, not being mixed with faith in them that heard it.
+18 For I reckon that the sufferings of this present time are not worthy to be compared with the glory which shall be revealed in us.
 
-[Wednesday 19-April, 2023](https://t.me/s/daily_scripture)
+[Thursday 20-April, 2023](https://t.me/s/daily_scripture)
