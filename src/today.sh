@@ -84,17 +84,19 @@ VERSION_DIR="$DIR/../scripture/${VERSION}"
 # only load if not already given
 if [ -z "${TODAY_S_SCRIPTURE}" ]; then
   #████████████████████████████████████████████████████████████████ RANDOM ███
-    # set a random temp file
-    sort -R -k1 -b "${SORTED}" >"${TMP}"
-    # get the first line
-    TODAY_S_SCRIPTURE=$(head -n 1 "${TMP}")
-    # only if not a test
-    if (("$DRY_RUN" == 0)); then
-      # remove the verse
-      sed -i -e '1,1d' "${TMP}"
-      # add to used verses
-      [ -f "${USED}" ] && echo "$TODAY_S_SCRIPTURE" >>"${USED}" || echo "$TODAY_S_SCRIPTURE" >"${USED}"
-    fi
+  # set a random temp file
+  sort -R -k1 -b "${SORTED}" >"${TMP}"
+  # get a random number between 1 and 1900
+  RANDOM_LINE=$((RANDOM % 1900 + 1))
+  # get the line corresponding to the random number
+  TODAY_S_SCRIPTURE=$(sed -n "${RANDOM_LINE}{p;q}" "${TMP}")
+  # only if not a test
+  if (("$DRY_RUN" == 0)); then
+    # remove the verse
+    sed -i -e "${RANDOM_LINE},${RANDOM_LINE}d" "${TMP}"
+    # add to used verses
+    [ -f "${USED}" ] && echo "$TODAY_S_SCRIPTURE" >>"${USED}" || echo "$TODAY_S_SCRIPTURE" >"${USED}"
+  fi
 
   #███████████████████████████████████████████████████ SIX MONTH RETENTION ███
   # check test behaviour
