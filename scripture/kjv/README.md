@@ -1,5 +1,5 @@
-**Romans 8:18**
+**Revelation 18:4**
 
-18 For I reckon that the sufferings of this present time are not worthy to be compared with the glory which shall be revealed in us.
+4 And I heard another voice from heaven, saying, Come out of her, my people, that ye be not partakers of her sins, and that ye receive not of her plagues.
 
-[Thursday 20-April, 2023](https://t.me/s/daily_scripture)
+[Friday 21-April, 2023](https://t.me/s/daily_scripture)
