@@ -1,5 +1,5 @@
-**Revelation 18:4**
+**Jeremiah 10:23**
 
-4 And I heard another voice from heaven, saying, Come out of her, my people, that ye be not partakers of her sins, and that ye receive not of her plagues.
+23 O Lord, I know that the way of man is not in himself: it is not in man that walketh to direct his steps.
 
-[Friday 21-April, 2023](https://t.me/s/daily_scripture)
+[Saturday 22-April, 2023](https://t.me/s/daily_scripture)
