@@ -1,5 +1,5 @@
-**Jeremiah 10:23**
+**Ecclesiastes 12:14**
 
-23 O Lord, I know that the way of man is not in himself: it is not in man that walketh to direct his steps.
+14 For God shall bring every work into judgment, with every secret thing, whether it be good, or whether it be evil.  
 
-[Saturday 22-April, 2023](https://t.me/s/daily_scripture)
+[Sunday 23-April, 2023](https://t.me/s/daily_scripture)
