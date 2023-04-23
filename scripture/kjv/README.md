@@ -1,5 +1,5 @@
-**Ecclesiastes 12:14**
+**John 12:48**
 
-14 For God shall bring every work into judgment, with every secret thing, whether it be good, or whether it be evil.  
+48 He that rejecteth me, and receiveth not my words, hath one that judgeth him: the word that I have spoken, the same shall judge him in the last day.
 
-[Sunday 23-April, 2023](https://t.me/s/daily_scripture)
+[Monday 24-April, 2023](https://t.me/s/daily_scripture)
