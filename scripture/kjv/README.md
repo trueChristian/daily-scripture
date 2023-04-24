@@ -1,5 +1,5 @@
-**John 12:48**
+**James 1:25**
 
-48 He that rejecteth me, and receiveth not my words, hath one that judgeth him: the word that I have spoken, the same shall judge him in the last day.
+25 But whoso looketh into the perfect law of liberty, and continueth therein, he being not a forgetful hearer, but a doer of the work, this man shall be blessed in his deed.
 
-[Monday 24-April, 2023](https://t.me/s/daily_scripture)
+[Tuesday 25-April, 2023](https://t.me/s/daily_scripture)
