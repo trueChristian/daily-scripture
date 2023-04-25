@@ -1,5 +1,5 @@
-**James 1:25**
+**Proverbs 31:20**
 
-25 But whoso looketh into the perfect law of liberty, and continueth therein, he being not a forgetful hearer, but a doer of the work, this man shall be blessed in his deed.
+20 She stretcheth out her hand to the poor; yea, she reacheth forth her hands to the needy.
 
-[Tuesday 25-April, 2023](https://t.me/s/daily_scripture)
+[Wednesday 26-April, 2023](https://t.me/s/daily_scripture)
