@@ -1,10 +1,14 @@
 {
-  "date": "Wednesday 26-April, 2023",
-  "name": "Proverbs 31:20",
+  "date": "Thursday 27-April, 2023",
+  "name": "1 Corinthians 3:3-4",
   "scripture": [
     {
-      "nr": "20",
-      "text": "She stretcheth out her hand to the poor; yea, she reacheth forth her hands to the needy."
+      "nr": "3",
+      "text": "For ye are yet carnal: for whereas there is among you envying, and strife, and divisions, are ye not carnal, and walk as men?"
+    },
+    {
+      "nr": "4",
+      "text": "For while one saith, I am of Paul; and another, I am of Apollos; are ye not carnal?"
     }
   ],
   "source": "https://github.com/trueChristian/daily-scripture",
