@@ -1,14 +1,26 @@
 {
-  "date": "Thursday 27-April, 2023",
-  "name": "1 Corinthians 3:3-4",
+  "date": "Friday 28-April, 2023",
+  "name": "Mark 5:25-29",
   "scripture": [
     {
-      "nr": "3",
-      "text": "For ye are yet carnal: for whereas there is among you envying, and strife, and divisions, are ye not carnal, and walk as men?"
+      "nr": "25",
+      "text": "And a certain woman, which had an issue of blood twelve years,"
     },
     {
-      "nr": "4",
-      "text": "For while one saith, I am of Paul; and another, I am of Apollos; are ye not carnal?"
+      "nr": "26",
+      "text": "And had suffered many things of many physicians, and had spent all that she had, and was nothing bettered, but rather grew worse,"
+    },
+    {
+      "nr": "27",
+      "text": "When she had heard of Jesus, came in the press behind, and touched his garment."
+    },
+    {
+      "nr": "28",
+      "text": "For she said, If I may touch but his clothes, I shall be whole."
+    },
+    {
+      "nr": "29",
+      "text": "And straightway the fountain of her blood was dried up; and she felt in her body that she was healed of that plague."
     }
   ],
   "source": "https://github.com/trueChristian/daily-scripture",
