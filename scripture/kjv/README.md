@@ -1,5 +1,5 @@
-**Mark 5:25-29**
+**Proverbs 24:32**
 
-25 And a certain woman, which had an issue of blood twelve years, 26 And had suffered many things of many physicians, and had spent all that she had, and was nothing bettered, but rather grew worse, 27 When she had heard of Jesus, came in the press behind, and touched his garment. 28 For she said, If I may touch but his clothes, I shall be whole. 29 And straightway the fountain of her blood was dried up; and she felt in her body that she was healed of that plague.
+32 Then I saw, and considered it well: I looked upon it, and received instruction.
 
-[Friday 28-April, 2023](https://t.me/s/daily_scripture)
+[Saturday 29-April, 2023](https://t.me/s/daily_scripture)
