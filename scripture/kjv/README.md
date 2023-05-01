@@ -1,5 +1,5 @@
-**Hebrews 11:8**
+**Psalms 55:21**
 
-8 By faith Abraham, when he was called to go out into a place which he should after receive for an inheritance, obeyed; and he went out, not knowing whither he went.
+21 The words of his mouth were smoother than butter, but war was in his heart: his words were softer than oil, yet were they drawn swords.
 
-[Monday 01-May, 2023](https://t.me/s/daily_scripture)
+[Tuesday 02-May, 2023](https://t.me/s/daily_scripture)
