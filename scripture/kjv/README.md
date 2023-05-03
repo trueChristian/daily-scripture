@@ -1,5 +1,5 @@
-**Exodus 14:14**
+**John 21:16**
 
-14 The Lord shall fight for you, and ye shall hold your peace.
+16 He saith to him again the second time, Simon, son of Jonas, lovest thou me? He saith unto him, Yea, Lord; thou knowest that I love thee. He saith unto him, Feed my sheep.
 
-[Wednesday 03-May, 2023](https://t.me/s/daily_scripture)
+[Thursday 04-May, 2023](https://t.me/s/daily_scripture)
