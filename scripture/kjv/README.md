@@ -1,5 +1,5 @@
-**John 21:16**
+**Romans 1:3-4**
 
-16 He saith to him again the second time, Simon, son of Jonas, lovest thou me? He saith unto him, Yea, Lord; thou knowest that I love thee. He saith unto him, Feed my sheep.
+3 Concerning his Son Jesus Christ our Lord, which was made of the seed of David according to the flesh; 4 And declared to be the Son of God with power, according to the spirit of holiness, by the resurrection from the dead:
 
-[Thursday 04-May, 2023](https://t.me/s/daily_scripture)
+[Friday 05-May, 2023](https://t.me/s/daily_scripture)
