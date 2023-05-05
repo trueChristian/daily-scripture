@@ -1,5 +1,5 @@
-**Romans 1:3-4**
+**Luke 19:34**
 
-3 Concerning his Son Jesus Christ our Lord, which was made of the seed of David according to the flesh; 4 And declared to be the Son of God with power, according to the spirit of holiness, by the resurrection from the dead:
+34 And they said, The Lord hath need of him.
 
-[Friday 05-May, 2023](https://t.me/s/daily_scripture)
+[Saturday 06-May, 2023](https://t.me/s/daily_scripture)
