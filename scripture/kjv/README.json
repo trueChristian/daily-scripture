@@ -1,10 +1,14 @@
 {
-  "date": "Saturday 06-May, 2023",
-  "name": "Luke 19:34",
+  "date": "Sunday 07-May, 2023",
+  "name": "Psalms 30:6-7",
   "scripture": [
     {
-      "nr": "34",
-      "text": "And they said, The Lord hath need of him."
+      "nr": "6",
+      "text": "And in my prosperity I said, I shall never be moved."
+    },
+    {
+      "nr": "7",
+      "text": "Lord, by thy favour thou hast made my mountain to stand strong: thou didst hide thy face, and I was troubled."
     }
   ],
   "source": "https://github.com/trueChristian/daily-scripture",

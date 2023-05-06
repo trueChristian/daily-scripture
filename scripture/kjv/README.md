@@ -1,5 +1,5 @@
-**Luke 19:34**
+**Psalms 30:6-7**
 
-34 And they said, The Lord hath need of him.
+6 And in my prosperity I said, I shall never be moved. 7 Lord, by thy favour thou hast made my mountain to stand strong: thou didst hide thy face, and I was troubled.
 
-[Saturday 06-May, 2023](https://t.me/s/daily_scripture)
+[Sunday 07-May, 2023](https://t.me/s/daily_scripture)
