@@ -1,5 +1,5 @@
-**Psalms 30:6-7**
+**Luke 16:10**
 
-6 And in my prosperity I said, I shall never be moved. 7 Lord, by thy favour thou hast made my mountain to stand strong: thou didst hide thy face, and I was troubled.
+10 He that is faithful in that which is least is faithful also in much: and he that is unjust in the least is unjust also in much.
 
-[Sunday 07-May, 2023](https://t.me/s/daily_scripture)
+[Monday 08-May, 2023](https://t.me/s/daily_scripture)

@@ -1,14 +1,10 @@
 {
-  "date": "Sunday 07-May, 2023",
-  "name": "Psalms 30:6-7",
+  "date": "Monday 08-May, 2023",
+  "name": "Luke 16:10",
   "scripture": [
     {
-      "nr": "6",
-      "text": "And in my prosperity I said, I shall never be moved."
-    },
-    {
-      "nr": "7",
-      "text": "Lord, by thy favour thou hast made my mountain to stand strong: thou didst hide thy face, and I was troubled."
+      "nr": "10",
+      "text": "He that is faithful in that which is least is faithful also in much: and he that is unjust in the least is unjust also in much."
     }
   ],
   "source": "https://github.com/trueChristian/daily-scripture",
