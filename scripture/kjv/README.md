@@ -1,5 +1,5 @@
-**Luke 16:10**
+**Revelation 3:20**
 
-10 He that is faithful in that which is least is faithful also in much: and he that is unjust in the least is unjust also in much.
+20 Behold, I stand at the door, and knock: if any man hear my voice, and open the door, I will come in to him, and will sup with him, and he with me.
 
-[Monday 08-May, 2023](https://t.me/s/daily_scripture)
+[Tuesday 09-May, 2023](https://t.me/s/daily_scripture)
