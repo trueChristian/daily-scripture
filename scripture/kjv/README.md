@@ -1,5 +1,5 @@
-**Revelation 3:20**
+**Luke 14:33**
 
-20 Behold, I stand at the door, and knock: if any man hear my voice, and open the door, I will come in to him, and will sup with him, and he with me.
+33 So likewise, whosoever he be of you that forsaketh not all that he hath, he cannot be my disciple.
 
-[Tuesday 09-May, 2023](https://t.me/s/daily_scripture)
+[Wednesday 10-May, 2023](https://t.me/s/daily_scripture)
