@@ -1,5 +1,5 @@
-**2 Corinthians 5:9**
+**Ephesians 4:25**
 
-9 Wherefore we labour, that, whether present or absent, we may be accepted of him.
+25 Wherefore putting away lying, speak every man truth with his neighbour: for we are members one of another.
 
-[Saturday 13-May, 2023](https://t.me/s/daily_scripture)
+[Sunday 14-May, 2023](https://t.me/s/daily_scripture)
