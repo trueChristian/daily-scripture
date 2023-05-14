@@ -1,5 +1,5 @@
-**Ephesians 4:25**
+**Hebrews 12:11-12**
 
-25 Wherefore putting away lying, speak every man truth with his neighbour: for we are members one of another.
+11 Now no chastening for the present seemeth to be joyous, but grievous: nevertheless afterward it yieldeth the peaceable fruit of righteousness unto them which are exercised thereby. 12 Wherefore lift up the hands which hang down, and the feeble knees;
 
-[Sunday 14-May, 2023](https://t.me/s/daily_scripture)
+[Monday 15-May, 2023](https://t.me/s/daily_scripture)

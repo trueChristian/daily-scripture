@@ -1,10 +1,14 @@
 {
-  "date": "Sunday 14-May, 2023",
-  "name": "Ephesians 4:25",
+  "date": "Monday 15-May, 2023",
+  "name": "Hebrews 12:11-12",
   "scripture": [
     {
-      "nr": "25",
-      "text": "Wherefore putting away lying, speak every man truth with his neighbour: for we are members one of another."
+      "nr": "11",
+      "text": "Now no chastening for the present seemeth to be joyous, but grievous: nevertheless afterward it yieldeth the peaceable fruit of righteousness unto them which are exercised thereby."
+    },
+    {
+      "nr": "12",
+      "text": "Wherefore lift up the hands which hang down, and the feeble knees;"
     }
   ],
   "source": "https://github.com/trueChristian/daily-scripture",
