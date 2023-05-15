@@ -1,5 +1,5 @@
-**Hebrews 12:11-12**
+**Colossians 4:3**
 
-11 Now no chastening for the present seemeth to be joyous, but grievous: nevertheless afterward it yieldeth the peaceable fruit of righteousness unto them which are exercised thereby. 12 Wherefore lift up the hands which hang down, and the feeble knees;
+3 Withal praying also for us, that God would open unto us a door of utterance, to speak the mystery of Christ, for which I am also in bonds:
 
-[Monday 15-May, 2023](https://t.me/s/daily_scripture)
+[Tuesday 16-May, 2023](https://t.me/s/daily_scripture)
