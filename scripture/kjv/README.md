@@ -1,5 +1,5 @@
-**Colossians 4:3**
+**Colossians 3:21**
 
-3 Withal praying also for us, that God would open unto us a door of utterance, to speak the mystery of Christ, for which I am also in bonds:
+21 Fathers, provoke not your children to anger, lest they be discouraged.
 
-[Tuesday 16-May, 2023](https://t.me/s/daily_scripture)
+[Wednesday 17-May, 2023](https://t.me/s/daily_scripture)
