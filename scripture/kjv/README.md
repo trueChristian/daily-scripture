@@ -1,5 +1,5 @@
-**Colossians 3:21**
+**John 13:17**
 
-21 Fathers, provoke not your children to anger, lest they be discouraged.
+17 If ye know these things, happy are ye if ye do them.
 
-[Wednesday 17-May, 2023](https://t.me/s/daily_scripture)
+[Thursday 18-May, 2023](https://t.me/s/daily_scripture)
