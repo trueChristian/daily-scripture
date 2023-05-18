@@ -1,5 +1,5 @@
-**John 13:17**
+**Colossians 2:13-14**
 
-17 If ye know these things, happy are ye if ye do them.
+13 And you, being dead in your sins and the uncircumcision of your flesh, hath he quickened together with him, having forgiven you all trespasses; 14 Blotting out the handwriting of ordinances that was against us, which was contrary to us, and took it out of the way, nailing it to his cross;
 
-[Thursday 18-May, 2023](https://t.me/s/daily_scripture)
+[Friday 19-May, 2023](https://t.me/s/daily_scripture)

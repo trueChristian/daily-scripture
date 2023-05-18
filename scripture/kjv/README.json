@@ -1,10 +1,14 @@
 {
-  "date": "Thursday 18-May, 2023",
-  "name": "John 13:17",
+  "date": "Friday 19-May, 2023",
+  "name": "Colossians 2:13-14",
   "scripture": [
     {
-      "nr": "17",
-      "text": "If ye know these things, happy are ye if ye do them."
+      "nr": "13",
+      "text": "And you, being dead in your sins and the uncircumcision of your flesh, hath he quickened together with him, having forgiven you all trespasses;"
+    },
+    {
+      "nr": "14",
+      "text": "Blotting out the handwriting of ordinances that was against us, which was contrary to us, and took it out of the way, nailing it to his cross;"
     }
   ],
   "source": "https://github.com/trueChristian/daily-scripture",
