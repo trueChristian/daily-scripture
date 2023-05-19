@@ -1,5 +1,5 @@
-**Colossians 2:13-14**
+**Proverbs 20:3**
 
-13 And you, being dead in your sins and the uncircumcision of your flesh, hath he quickened together with him, having forgiven you all trespasses; 14 Blotting out the handwriting of ordinances that was against us, which was contrary to us, and took it out of the way, nailing it to his cross;
+3 It is an honour for a man to cease from strife: but every fool will be meddling.
 
-[Friday 19-May, 2023](https://t.me/s/daily_scripture)
+[Saturday 20-May, 2023](https://t.me/s/daily_scripture)
