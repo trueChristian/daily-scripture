@@ -1,5 +1,5 @@
-**Proverbs 20:3**
+**Psalms 23:1-3**
 
-3 It is an honour for a man to cease from strife: but every fool will be meddling.
+1 The Lord is my shepherd; I shall not want. 2 He maketh me to lie down in green pastures: he leadeth me beside the still waters. 3 He restoreth my soul: he leadeth me in the paths of righteousness for his name’s sake.
 
-[Saturday 20-May, 2023](https://t.me/s/daily_scripture)
+[Sunday 21-May, 2023](https://t.me/s/daily_scripture)
