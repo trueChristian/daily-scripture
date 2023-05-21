@@ -1,5 +1,5 @@
-**Psalms 23:1-3**
+**John 15:12**
 
-1 The Lord is my shepherd; I shall not want. 2 He maketh me to lie down in green pastures: he leadeth me beside the still waters. 3 He restoreth my soul: he leadeth me in the paths of righteousness for his name’s sake.
+12 This is my commandment, That ye love one another, as I have loved you.
 
-[Sunday 21-May, 2023](https://t.me/s/daily_scripture)
+[Monday 22-May, 2023](https://t.me/s/daily_scripture)
