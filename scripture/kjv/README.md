@@ -1,5 +1,5 @@
-**John 15:12**
+**James 1:9**
 
-12 This is my commandment, That ye love one another, as I have loved you.
+9 Let the brother of low degree rejoice in that he is exalted:
 
-[Monday 22-May, 2023](https://t.me/s/daily_scripture)
+[Tuesday 23-May, 2023](https://t.me/s/daily_scripture)
