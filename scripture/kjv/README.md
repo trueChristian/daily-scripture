@@ -1,5 +1,5 @@
-**James 1:9**
+**Proverbs 28:13**
 
-9 Let the brother of low degree rejoice in that he is exalted:
+13 He that covereth his sins shall not prosper: but whoso confesseth and forsaketh them shall have mercy.
 
-[Tuesday 23-May, 2023](https://t.me/s/daily_scripture)
+[Wednesday 24-May, 2023](https://t.me/s/daily_scripture)
