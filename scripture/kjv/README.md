@@ -1,5 +1,5 @@
-**Proverbs 28:13**
+**Hebrews 11:6**
 
-13 He that covereth his sins shall not prosper: but whoso confesseth and forsaketh them shall have mercy.
+6 But without faith it is impossible to please him: for he that cometh to God must believe that he is, and that he is a rewarder of them that diligently seek him.
 
-[Wednesday 24-May, 2023](https://t.me/s/daily_scripture)
+[Thursday 25-May, 2023](https://t.me/s/daily_scripture)
