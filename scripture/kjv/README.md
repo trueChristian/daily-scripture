@@ -1,5 +1,5 @@
-**Psalms 50:20-22**
+**Luke 17:26-30**
 
-20 Thou sittest and speakest against thy brother; thou slanderest thine own mother’s son. 21 These things hast thou done, and I kept silence; thou thoughtest that I was altogether such an one as thyself: but I will reprove thee, and set them in order before thine eyes. 22 Now consider this, ye that forget God, lest I tear you in pieces, and there be none to deliver.
+26 And as it was in the days of Noe, so shall it be also in the days of the Son of man. 27 They did eat, they drank, they married wives, they were given in marriage, until the day that Noe entered into the ark, and the flood came, and destroyed them all. 28 Likewise also as it was in the days of Lot; they did eat, they drank, they bought, they sold, they planted, they builded; 29 But the same day that Lot went out of Sodom it rained fire and brimstone from heaven, and destroyed them all. 30 Even thus shall it be in the day when the Son of man is revealed.
 
-[Friday 26-May, 2023](https://t.me/s/daily_scripture)
+[Saturday 27-May, 2023](https://t.me/s/daily_scripture)
