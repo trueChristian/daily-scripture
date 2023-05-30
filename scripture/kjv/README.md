@@ -1,5 +1,5 @@
-**1 Timothy 4:13**
+**Romans 12:16**
 
-13 Till I come, give attendance to reading, to exhortation, to doctrine.
+16 Be of the same mind one toward another. Mind not high things, but condescend to men of low estate. Be not wise in your own conceits.
 
-[Tuesday 30-May, 2023](https://t.me/s/daily_scripture)
+[Wednesday 31-May, 2023](https://t.me/s/daily_scripture)
