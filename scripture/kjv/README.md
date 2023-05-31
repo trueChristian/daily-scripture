@@ -1,5 +1,5 @@
-**Romans 12:16**
+**Isaiah 57:10**
 
-16 Be of the same mind one toward another. Mind not high things, but condescend to men of low estate. Be not wise in your own conceits.
+10 Thou art wearied in the greatness of thy way; yet saidst thou not, There is no hope: thou hast found the life of thine hand; therefore thou wast not grieved.
 
-[Wednesday 31-May, 2023](https://t.me/s/daily_scripture)
+[Thursday 01-June, 2023](https://t.me/s/daily_scripture)
