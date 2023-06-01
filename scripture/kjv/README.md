@@ -1,5 +1,5 @@
-**Isaiah 57:10**
+**Luke 17:3**
 
-10 Thou art wearied in the greatness of thy way; yet saidst thou not, There is no hope: thou hast found the life of thine hand; therefore thou wast not grieved.
+3 Take heed to yourselves: If thy brother trespass against thee, rebuke him; and if he repent, forgive him.
 
-[Thursday 01-June, 2023](https://t.me/s/daily_scripture)
+[Friday 02-June, 2023](https://t.me/s/daily_scripture)
