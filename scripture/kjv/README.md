@@ -1,5 +1,5 @@
-**Philippians 4:7**
+**Proverbs 12:27**
 
-7 And the peace of God, which passeth all understanding, shall keep your hearts and minds through Christ Jesus.
+27 The slothful man roasteth not that which he took in hunting: but the substance of a diligent man is precious.
 
-[Saturday 03-June, 2023](https://t.me/s/daily_scripture)
+[Sunday 04-June, 2023](https://t.me/s/daily_scripture)
