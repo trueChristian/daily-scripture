@@ -1,5 +1,5 @@
-**Proverbs 12:27**
+**Titus 2:1**
 
-27 The slothful man roasteth not that which he took in hunting: but the substance of a diligent man is precious.
+1 But speak thou the things which become sound doctrine:
 
-[Sunday 04-June, 2023](https://t.me/s/daily_scripture)
+[Monday 05-June, 2023](https://t.me/s/daily_scripture)
