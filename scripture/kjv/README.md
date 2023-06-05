@@ -1,5 +1,5 @@
-**Titus 2:1**
+**John 12:46**
 
-1 But speak thou the things which become sound doctrine:
+46 I am come a light into the world, that whosoever believeth on me should not abide in darkness.
 
-[Monday 05-June, 2023](https://t.me/s/daily_scripture)
+[Tuesday 06-June, 2023](https://t.me/s/daily_scripture)
