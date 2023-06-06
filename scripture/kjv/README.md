@@ -1,5 +1,5 @@
-**John 12:46**
+**Acts 4:14**
 
-46 I am come a light into the world, that whosoever believeth on me should not abide in darkness.
+14 And beholding the man which was healed standing with them, they could say nothing against it.
 
-[Tuesday 06-June, 2023](https://t.me/s/daily_scripture)
+[Wednesday 07-June, 2023](https://t.me/s/daily_scripture)
