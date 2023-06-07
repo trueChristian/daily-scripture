@@ -1,10 +1,14 @@
 {
-  "date": "Wednesday 07-June, 2023",
-  "name": "Acts 4:14",
+  "date": "Thursday 08-June, 2023",
+  "name": "Colossians 2:16-17",
   "scripture": [
     {
-      "nr": "14",
-      "text": "And beholding the man which was healed standing with them, they could say nothing against it."
+      "nr": "16",
+      "text": "Let no man therefore judge you in meat, or in drink, or in respect of an holyday, or of the new moon, or of the sabbath days:"
+    },
+    {
+      "nr": "17",
+      "text": "Which are a shadow of things to come; but the body is of Christ."
     }
   ],
   "source": "https://github.com/trueChristian/daily-scripture",
