@@ -1,14 +1,14 @@
 {
-  "date": "Thursday 08-June, 2023",
-  "name": "Colossians 2:16-17",
+  "date": "Friday 09-June, 2023",
+  "name": "Psalms 37:1-2",
   "scripture": [
     {
-      "nr": "16",
-      "text": "Let no man therefore judge you in meat, or in drink, or in respect of an holyday, or of the new moon, or of the sabbath days:"
+      "nr": "1",
+      "text": "Fret not thyself because of evildoers, neither be thou envious against the workers of iniquity."
     },
     {
-      "nr": "17",
-      "text": "Which are a shadow of things to come; but the body is of Christ."
+      "nr": "2",
+      "text": "For they shall soon be cut down like the grass, and wither as the green herb."
     }
   ],
   "source": "https://github.com/trueChristian/daily-scripture",
