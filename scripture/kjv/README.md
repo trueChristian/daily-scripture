@@ -1,5 +1,5 @@
-**Psalms 37:1-2**
+**Acts 15:36**
 
-1 Fret not thyself because of evildoers, neither be thou envious against the workers of iniquity. 2 For they shall soon be cut down like the grass, and wither as the green herb.
+36 And some days after Paul said unto Barnabas, Let us go again and visit our brethren in every city where we have preached the word of the Lord, and see how they do.
 
-[Friday 09-June, 2023](https://t.me/s/daily_scripture)
+[Saturday 10-June, 2023](https://t.me/s/daily_scripture)
