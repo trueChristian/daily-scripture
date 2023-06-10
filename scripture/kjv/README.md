@@ -1,5 +1,5 @@
-**Acts 15:36**
+**Hosea 8:5**
 
-36 And some days after Paul said unto Barnabas, Let us go again and visit our brethren in every city where we have preached the word of the Lord, and see how they do.
+5 Thy calf, O Samaria, hath cast thee off; mine anger is kindled against them: how long will it be ere they attain to innocency?
 
-[Saturday 10-June, 2023](https://t.me/s/daily_scripture)
+[Sunday 11-June, 2023](https://t.me/s/daily_scripture)
