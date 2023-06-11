@@ -1,5 +1,5 @@
-**Hosea 8:5**
+**Luke 22:31-32**
 
-5 Thy calf, O Samaria, hath cast thee off; mine anger is kindled against them: how long will it be ere they attain to innocency?
+31 And the Lord said, Simon, Simon, behold, Satan hath desired to have you, that he may sift you as wheat: 32 But I have prayed for thee, that thy faith fail not: and when thou art converted, strengthen thy brethren.
 
-[Sunday 11-June, 2023](https://t.me/s/daily_scripture)
+[Monday 12-June, 2023](https://t.me/s/daily_scripture)
