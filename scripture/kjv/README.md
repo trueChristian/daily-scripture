@@ -1,5 +1,5 @@
-**Luke 22:31-32**
+**Job 34:11-12**
 
-31 And the Lord said, Simon, Simon, behold, Satan hath desired to have you, that he may sift you as wheat: 32 But I have prayed for thee, that thy faith fail not: and when thou art converted, strengthen thy brethren.
+11 For the work of a man shall he render unto him, and cause every man to find according to his ways. 12 Yea, surely God will not do wickedly, neither will the Almighty pervert judgment.
 
-[Monday 12-June, 2023](https://t.me/s/daily_scripture)
+[Tuesday 13-June, 2023](https://t.me/s/daily_scripture)
