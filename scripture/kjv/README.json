@@ -1,14 +1,42 @@
 {
-  "date": "Tuesday 13-June, 2023",
-  "name": "Job 34:11-12",
+  "date": "Wednesday 14-June, 2023",
+  "name": "Job 31:1-9",
   "scripture": [
     {
-      "nr": "11",
-      "text": "For the work of a man shall he render unto him, and cause every man to find according to his ways."
+      "nr": "1",
+      "text": "I made a covenant with mine eyes; why then should I think upon a maid?"
     },
     {
-      "nr": "12",
-      "text": "Yea, surely God will not do wickedly, neither will the Almighty pervert judgment."
+      "nr": "2",
+      "text": "For what portion of God is there from above? and what inheritance of the Almighty from on high?"
+    },
+    {
+      "nr": "3",
+      "text": "Is not destruction to the wicked? and a strange punishment to the workers of iniquity?"
+    },
+    {
+      "nr": "4",
+      "text": "Doth not he see my ways, and count all my steps?"
+    },
+    {
+      "nr": "5",
+      "text": "If I have walked with vanity, or if my foot hath hasted to deceit;"
+    },
+    {
+      "nr": "6",
+      "text": "Let me be weighed in an even balance, that God may know mine integrity."
+    },
+    {
+      "nr": "7",
+      "text": "If my step hath turned out of the way, and mine heart walked after mine eyes, and if any blot hath cleaved to mine hands;"
+    },
+    {
+      "nr": "8",
+      "text": "Then let me sow, and let another eat; yea, let my offspring be rooted out."
+    },
+    {
+      "nr": "9",
+      "text": "If mine heart have been deceived by a woman, or if I have laid wait at my neighbour’s door;"
     }
   ],
   "source": "https://github.com/trueChristian/daily-scripture",
