@@ -1,5 +1,5 @@
-**Job 31:1-9**
+**James 3:1-2**
 
-1 I made a covenant with mine eyes; why then should I think upon a maid? 2 For what portion of God is there from above? and what inheritance of the Almighty from on high? 3 Is not destruction to the wicked? and a strange punishment to the workers of iniquity? 4 Doth not he see my ways, and count all my steps? 5 If I have walked with vanity, or if my foot hath hasted to deceit; 6 Let me be weighed in an even balance, that God may know mine integrity. 7 If my step hath turned out of the way, and mine heart walked after mine eyes, and if any blot hath cleaved to mine hands; 8 Then let me sow, and let another eat; yea, let my offspring be rooted out. 9 If mine heart have been deceived by a woman, or if I have laid wait at my neighbour’s door;
+1 My brethren, be not many masters, knowing that we shall receive the greater condemnation. 2 For in many things we offend all. If any man offend not in word, the same is a perfect man, and able also to bridle the whole body.
 
-[Wednesday 14-June, 2023](https://t.me/s/daily_scripture)
+[Thursday 15-June, 2023](https://t.me/s/daily_scripture)
