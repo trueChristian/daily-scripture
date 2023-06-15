@@ -1,5 +1,5 @@
-**James 3:1-2**
+**1 Timothy 5:8**
 
-1 My brethren, be not many masters, knowing that we shall receive the greater condemnation. 2 For in many things we offend all. If any man offend not in word, the same is a perfect man, and able also to bridle the whole body.
+8 But if any provide not for his own, and specially for those of his own house, he hath denied the faith, and is worse than an infidel.
 
-[Thursday 15-June, 2023](https://t.me/s/daily_scripture)
+[Friday 16-June, 2023](https://t.me/s/daily_scripture)

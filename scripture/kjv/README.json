@@ -1,14 +1,10 @@
 {
-  "date": "Thursday 15-June, 2023",
-  "name": "James 3:1-2",
+  "date": "Friday 16-June, 2023",
+  "name": "1 Timothy 5:8",
   "scripture": [
     {
-      "nr": "1",
-      "text": "My brethren, be not many masters, knowing that we shall receive the greater condemnation."
-    },
-    {
-      "nr": "2",
-      "text": "For in many things we offend all. If any man offend not in word, the same is a perfect man, and able also to bridle the whole body."
+      "nr": "8",
+      "text": "But if any provide not for his own, and specially for those of his own house, he hath denied the faith, and is worse than an infidel."
     }
   ],
   "source": "https://github.com/trueChristian/daily-scripture",
