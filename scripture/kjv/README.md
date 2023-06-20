@@ -1,5 +1,5 @@
-**Romans 6:12**
+**2 Corinthians 10:4-5**
 
-12 Let not sin therefore reign in your mortal body, that ye should obey it in the lusts thereof.
+4 (For the weapons of our warfare are not carnal, but mighty through God to the pulling down of strong holds;) 5 Casting down imaginations, and every high thing that exalteth itself against the knowledge of God, and bringing into captivity every thought to the obedience of Christ;
 
-[Tuesday 20-June, 2023](https://t.me/s/daily_scripture)
+[Wednesday 21-June, 2023](https://t.me/s/daily_scripture)
