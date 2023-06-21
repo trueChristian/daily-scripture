@@ -1,14 +1,18 @@
 {
-  "date": "Wednesday 21-June, 2023",
-  "name": "2 Corinthians 10:4-5",
+  "date": "Thursday 22-June, 2023",
+  "name": "Revelation 3:17-19",
   "scripture": [
     {
-      "nr": "4",
-      "text": "(For the weapons of our warfare are not carnal, but mighty through God to the pulling down of strong holds;)"
+      "nr": "17",
+      "text": "Because thou sayest, I am rich, and increased with goods, and have need of nothing; and knowest not that thou art wretched, and miserable, and poor, and blind, and naked:"
     },
     {
-      "nr": "5",
-      "text": "Casting down imaginations, and every high thing that exalteth itself against the knowledge of God, and bringing into captivity every thought to the obedience of Christ;"
+      "nr": "18",
+      "text": "I counsel thee to buy of me gold tried in the fire, that thou mayest be rich; and white raiment, that thou mayest be clothed, and that the shame of thy nakedness do not appear; and anoint thine eyes with eyesalve, that thou mayest see."
+    },
+    {
+      "nr": "19",
+      "text": "As many as I love, I rebuke and chasten: be zealous therefore, and repent."
     }
   ],
   "source": "https://github.com/trueChristian/daily-scripture",
