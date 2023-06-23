@@ -1,10 +1,14 @@
 {
-  "date": "Friday 23-June, 2023",
-  "name": "Hebrews 4:11",
+  "date": "Saturday 24-June, 2023",
+  "name": "Matthew 9:12-13",
   "scripture": [
     {
-      "nr": "11",
-      "text": "Let us labour therefore to enter into that rest, lest any man fall after the same example of unbelief."
+      "nr": "12",
+      "text": "But when Jesus heard that, he said unto them, They that be whole need not a physician, but they that are sick."
+    },
+    {
+      "nr": "13",
+      "text": "But go ye and learn what that meaneth, I will have mercy, and not sacrifice: for I am not come to call the righteous, but sinners to repentance."
     }
   ],
   "source": "https://github.com/trueChristian/daily-scripture",

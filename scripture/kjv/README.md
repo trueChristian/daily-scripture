@@ -1,5 +1,5 @@
-**Hebrews 4:11**
+**Matthew 9:12-13**
 
-11 Let us labour therefore to enter into that rest, lest any man fall after the same example of unbelief.
+12 But when Jesus heard that, he said unto them, They that be whole need not a physician, but they that are sick. 13 But go ye and learn what that meaneth, I will have mercy, and not sacrifice: for I am not come to call the righteous, but sinners to repentance.
 
-[Friday 23-June, 2023](https://t.me/s/daily_scripture)
+[Saturday 24-June, 2023](https://t.me/s/daily_scripture)
