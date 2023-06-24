@@ -1,14 +1,14 @@
 {
-  "date": "Saturday 24-June, 2023",
-  "name": "Matthew 9:12-13",
+  "date": "Sunday 25-June, 2023",
+  "name": "Revelation 2:4-5",
   "scripture": [
     {
-      "nr": "12",
-      "text": "But when Jesus heard that, he said unto them, They that be whole need not a physician, but they that are sick."
+      "nr": "4",
+      "text": "Nevertheless I have somewhat against thee, because thou hast left thy first love."
     },
     {
-      "nr": "13",
-      "text": "But go ye and learn what that meaneth, I will have mercy, and not sacrifice: for I am not come to call the righteous, but sinners to repentance."
+      "nr": "5",
+      "text": "Remember therefore from whence thou art fallen, and repent, and do the first works; or else I will come unto thee quickly, and will remove thy candlestick out of his place, except thou repent."
     }
   ],
   "source": "https://github.com/trueChristian/daily-scripture",
