@@ -1,5 +1,5 @@
-**Revelation 2:4-5**
+**Isaiah 54:7-8**
 
-4 Nevertheless I have somewhat against thee, because thou hast left thy first love. 5 Remember therefore from whence thou art fallen, and repent, and do the first works; or else I will come unto thee quickly, and will remove thy candlestick out of his place, except thou repent.
+7 For a small moment have I forsaken thee; but with great mercies will I gather thee. 8 In a little wrath I hid my face from thee for a moment; but with everlasting kindness will I have mercy on thee, saith the Lord thy Redeemer.
 
-[Sunday 25-June, 2023](https://t.me/s/daily_scripture)
+[Monday 26-June, 2023](https://t.me/s/daily_scripture)

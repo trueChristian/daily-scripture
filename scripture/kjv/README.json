@@ -1,14 +1,14 @@
 {
-  "date": "Sunday 25-June, 2023",
-  "name": "Revelation 2:4-5",
+  "date": "Monday 26-June, 2023",
+  "name": "Isaiah 54:7-8",
   "scripture": [
     {
-      "nr": "4",
-      "text": "Nevertheless I have somewhat against thee, because thou hast left thy first love."
+      "nr": "7",
+      "text": "For a small moment have I forsaken thee; but with great mercies will I gather thee."
     },
     {
-      "nr": "5",
-      "text": "Remember therefore from whence thou art fallen, and repent, and do the first works; or else I will come unto thee quickly, and will remove thy candlestick out of his place, except thou repent."
+      "nr": "8",
+      "text": "In a little wrath I hid my face from thee for a moment; but with everlasting kindness will I have mercy on thee, saith the Lord thy Redeemer."
     }
   ],
   "source": "https://github.com/trueChristian/daily-scripture",
