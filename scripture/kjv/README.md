@@ -1,5 +1,5 @@
-**Isaiah 54:7-8**
+**Luke 19:8-9**
 
-7 For a small moment have I forsaken thee; but with great mercies will I gather thee. 8 In a little wrath I hid my face from thee for a moment; but with everlasting kindness will I have mercy on thee, saith the Lord thy Redeemer.
+8 And Zacchæus stood, and said unto the Lord; Behold, Lord, the half of my goods I give to the poor; and if I have taken any thing from any man by false accusation, I restore him fourfold. 9 And Jesus said unto him, This day is salvation come to this house, forsomuch as he also is a son of Abraham.
 
-[Monday 26-June, 2023](https://t.me/s/daily_scripture)
+[Tuesday 27-June, 2023](https://t.me/s/daily_scripture)
