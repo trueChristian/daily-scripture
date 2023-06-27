@@ -1,5 +1,5 @@
-**Luke 19:8-9**
+**Luke 14:12-14**
 
-8 And Zacchæus stood, and said unto the Lord; Behold, Lord, the half of my goods I give to the poor; and if I have taken any thing from any man by false accusation, I restore him fourfold. 9 And Jesus said unto him, This day is salvation come to this house, forsomuch as he also is a son of Abraham.
+12 Then said he also to him that bade him, When thou makest a dinner or a supper, call not thy friends, nor thy brethren, neither thy kinsmen, nor thy rich neighbours; lest they also bid thee again, and a recompence be made thee. 13 But when thou makest a feast, call the poor, the maimed, the lame, the blind: 14 And thou shalt be blessed; for they cannot recompense thee: for thou shalt be recompensed at the resurrection of the just.
 
-[Tuesday 27-June, 2023](https://t.me/s/daily_scripture)
+[Wednesday 28-June, 2023](https://t.me/s/daily_scripture)
