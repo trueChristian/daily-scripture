@@ -1,18 +1,14 @@
 {
-  "date": "Wednesday 28-June, 2023",
-  "name": "Luke 14:12-14",
+  "date": "Thursday 29-June, 2023",
+  "name": "Job 42:7-8",
   "scripture": [
     {
-      "nr": "12",
-      "text": "Then said he also to him that bade him, When thou makest a dinner or a supper, call not thy friends, nor thy brethren, neither thy kinsmen, nor thy rich neighbours; lest they also bid thee again, and a recompence be made thee."
+      "nr": "7",
+      "text": "And it was so, that after the Lord had spoken these words unto Job, the Lord said to Eliphaz the Temanite, My wrath is kindled against thee, and against thy two friends: for ye have not spoken of me the thing that is right, as my servant Job hath."
     },
     {
-      "nr": "13",
-      "text": "But when thou makest a feast, call the poor, the maimed, the lame, the blind:"
-    },
-    {
-      "nr": "14",
-      "text": "And thou shalt be blessed; for they cannot recompense thee: for thou shalt be recompensed at the resurrection of the just."
+      "nr": "8",
+      "text": "Therefore take unto you now seven bullocks and seven rams, and go to my servant Job, and offer up for yourselves a burnt offering; and my servant Job shall pray for you: for him will I accept: lest I deal with you after your folly, in that ye have not spoken of me the thing which is right, like my servant Job."
     }
   ],
   "source": "https://github.com/trueChristian/daily-scripture",

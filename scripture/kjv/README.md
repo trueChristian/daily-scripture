@@ -1,5 +1,5 @@
-**Luke 14:12-14**
+**Job 42:7-8**
 
-12 Then said he also to him that bade him, When thou makest a dinner or a supper, call not thy friends, nor thy brethren, neither thy kinsmen, nor thy rich neighbours; lest they also bid thee again, and a recompence be made thee. 13 But when thou makest a feast, call the poor, the maimed, the lame, the blind: 14 And thou shalt be blessed; for they cannot recompense thee: for thou shalt be recompensed at the resurrection of the just.
+7 And it was so, that after the Lord had spoken these words unto Job, the Lord said to Eliphaz the Temanite, My wrath is kindled against thee, and against thy two friends: for ye have not spoken of me the thing that is right, as my servant Job hath. 8 Therefore take unto you now seven bullocks and seven rams, and go to my servant Job, and offer up for yourselves a burnt offering; and my servant Job shall pray for you: for him will I accept: lest I deal with you after your folly, in that ye have not spoken of me the thing which is right, like my servant Job.
 
-[Wednesday 28-June, 2023](https://t.me/s/daily_scripture)
+[Thursday 29-June, 2023](https://t.me/s/daily_scripture)
