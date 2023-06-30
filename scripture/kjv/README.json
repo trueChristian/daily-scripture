@@ -1,10 +1,14 @@
 {
-  "date": "Friday 30-June, 2023",
-  "name": "1 Corinthians 9:25",
+  "date": "Saturday 01-July, 2023",
+  "name": "Ephesians 4:31-32",
   "scripture": [
     {
-      "nr": "25",
-      "text": "And every man that striveth for the mastery is temperate in all things. Now they do it to obtain a corruptible crown; but we an incorruptible."
+      "nr": "31",
+      "text": "Let all bitterness, and wrath, and anger, and clamour, and evil speaking, be put away from you, with all malice:"
+    },
+    {
+      "nr": "32",
+      "text": "And be ye kind one to another, tenderhearted, forgiving one another, even as God for Christ’s sake hath forgiven you. "
     }
   ],
   "source": "https://github.com/trueChristian/daily-scripture",

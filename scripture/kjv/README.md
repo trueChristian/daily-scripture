@@ -1,5 +1,5 @@
-**1 Corinthians 9:25**
+**Ephesians 4:31-32**
 
-25 And every man that striveth for the mastery is temperate in all things. Now they do it to obtain a corruptible crown; but we an incorruptible.
+31 Let all bitterness, and wrath, and anger, and clamour, and evil speaking, be put away from you, with all malice: 32 And be ye kind one to another, tenderhearted, forgiving one another, even as God for Christ’s sake hath forgiven you. 
 
-[Friday 30-June, 2023](https://t.me/s/daily_scripture)
+[Saturday 01-July, 2023](https://t.me/s/daily_scripture)
