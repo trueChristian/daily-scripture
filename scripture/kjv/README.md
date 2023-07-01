@@ -1,5 +1,5 @@
-**Ephesians 4:31-32**
+**Psalms 145:10-12**
 
-31 Let all bitterness, and wrath, and anger, and clamour, and evil speaking, be put away from you, with all malice: 32 And be ye kind one to another, tenderhearted, forgiving one another, even as God for Christ’s sake hath forgiven you. 
+10 All thy works shall praise thee, O Lord; and thy saints shall bless thee. 11 They shall speak of the glory of thy kingdom, and talk of thy power; 12 To make known to the sons of men his mighty acts, and the glorious majesty of his kingdom.
 
-[Saturday 01-July, 2023](https://t.me/s/daily_scripture)
+[Sunday 02-July, 2023](https://t.me/s/daily_scripture)

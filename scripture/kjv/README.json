@@ -1,14 +1,18 @@
 {
-  "date": "Saturday 01-July, 2023",
-  "name": "Ephesians 4:31-32",
+  "date": "Sunday 02-July, 2023",
+  "name": "Psalms 145:10-12",
   "scripture": [
     {
-      "nr": "31",
-      "text": "Let all bitterness, and wrath, and anger, and clamour, and evil speaking, be put away from you, with all malice:"
+      "nr": "10",
+      "text": "All thy works shall praise thee, O Lord; and thy saints shall bless thee."
     },
     {
-      "nr": "32",
-      "text": "And be ye kind one to another, tenderhearted, forgiving one another, even as God for Christ’s sake hath forgiven you. "
+      "nr": "11",
+      "text": "They shall speak of the glory of thy kingdom, and talk of thy power;"
+    },
+    {
+      "nr": "12",
+      "text": "To make known to the sons of men his mighty acts, and the glorious majesty of his kingdom."
     }
   ],
   "source": "https://github.com/trueChristian/daily-scripture",
