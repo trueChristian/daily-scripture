@@ -1,5 +1,5 @@
-**Psalms 145:10-12**
+**Revelation 3:2**
 
-10 All thy works shall praise thee, O Lord; and thy saints shall bless thee. 11 They shall speak of the glory of thy kingdom, and talk of thy power; 12 To make known to the sons of men his mighty acts, and the glorious majesty of his kingdom.
+2 Be watchful, and strengthen the things which remain, that are ready to die: for I have not found thy works perfect before God.
 
-[Sunday 02-July, 2023](https://t.me/s/daily_scripture)
+[Monday 03-July, 2023](https://t.me/s/daily_scripture)
