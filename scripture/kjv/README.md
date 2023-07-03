@@ -1,5 +1,5 @@
-**Revelation 3:2**
+**Isaiah 44:22**
 
-2 Be watchful, and strengthen the things which remain, that are ready to die: for I have not found thy works perfect before God.
+22 I have blotted out, as a thick cloud, thy transgressions, and, as a cloud, thy sins: return unto me; for I have redeemed thee.
 
-[Monday 03-July, 2023](https://t.me/s/daily_scripture)
+[Tuesday 04-July, 2023](https://t.me/s/daily_scripture)
