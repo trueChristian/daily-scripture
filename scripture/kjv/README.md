@@ -1,5 +1,5 @@
-**Isaiah 44:22**
+**Isaiah 66:5**
 
-22 I have blotted out, as a thick cloud, thy transgressions, and, as a cloud, thy sins: return unto me; for I have redeemed thee.
+5 Hear the word of the Lord, ye that tremble at his word; Your brethren that hated you, that cast you out for my name’s sake, said, Let the Lord be glorified: but he shall appear to your joy, and they shall be ashamed.
 
-[Tuesday 04-July, 2023](https://t.me/s/daily_scripture)
+[Wednesday 05-July, 2023](https://t.me/s/daily_scripture)
