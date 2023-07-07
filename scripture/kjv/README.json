@@ -1,58 +1,34 @@
 {
-  "date": "Friday 07-July, 2023",
-  "name": "Luke 16:19-31",
+  "date": "Saturday 08-July, 2023",
+  "name": "Leviticus 21:16-22",
   "scripture": [
     {
+      "nr": "16",
+      "text": "And the Lord spake unto Moses, saying,"
+    },
+    {
+      "nr": "17",
+      "text": "Speak unto Aaron, saying, Whosoever he be of thy seed in their generations that hath any blemish, let him not approach to offer the bread of his God."
+    },
+    {
+      "nr": "18",
+      "text": "For whatsoever man he be that hath a blemish, he shall not approach: a blind man, or a lame, or he that hath a flat nose, or any thing superfluous,"
+    },
+    {
       "nr": "19",
-      "text": "There was a certain rich man, which was clothed in purple and fine linen, and fared sumptuously every day:"
+      "text": "Or a man that is brokenfooted, or brokenhanded,"
     },
     {
       "nr": "20",
-      "text": "And there was a certain beggar named Lazarus, which was laid at his gate, full of sores,"
+      "text": "Or crookbackt, or a dwarf, or that hath a blemish in his eye, or be scurvy, or scabbed, or hath his stones broken;"
     },
     {
       "nr": "21",
-      "text": "And desiring to be fed with the crumbs which fell from the rich man’s table: moreover the dogs came and licked his sores."
+      "text": "No man that hath a blemish of the seed of Aaron the priest shall come nigh to offer the offerings of the Lord made by fire: he hath a blemish; he shall not come nigh to offer the bread of his God."
     },
     {
       "nr": "22",
-      "text": "And it came to pass, that the beggar died, and was carried by the angels into Abraham’s bosom: the rich man also died, and was buried;"
-    },
-    {
-      "nr": "23",
-      "text": "And in hell he lift up his eyes, being in torments, and seeth Abraham afar off, and Lazarus in his bosom."
-    },
-    {
-      "nr": "24",
-      "text": "And he cried and said, Father Abraham, have mercy on me, and send Lazarus, that he may dip the tip of his finger in water, and cool my tongue; for I am tormented in this flame."
-    },
-    {
-      "nr": "25",
-      "text": "But Abraham said, Son, remember that thou in thy lifetime receivedst thy good things, and likewise Lazarus evil things: but now he is comforted, and thou art tormented."
-    },
-    {
-      "nr": "26",
-      "text": "And beside all this, between us and you there is a great gulf fixed: so that they which would pass from hence to you cannot; neither can they pass to us, that would come from thence."
-    },
-    {
-      "nr": "27",
-      "text": "Then he said, I pray thee therefore, father, that thou wouldest send him to my father’s house:"
-    },
-    {
-      "nr": "28",
-      "text": "For I have five brethren; that he may testify unto them, lest they also come into this place of torment."
-    },
-    {
-      "nr": "29",
-      "text": "Abraham saith unto him, They have Moses and the prophets; let them hear them."
-    },
-    {
-      "nr": "30",
-      "text": "And he said, Nay, father Abraham: but if one went unto them from the dead, they will repent."
-    },
-    {
-      "nr": "31",
-      "text": "And he said unto him, If they hear not Moses and the prophets, neither will they be persuaded, though one rose from the dead. "
+      "text": "He shall eat the bread of his God, both of the most holy, and of the holy."
     }
   ],
   "source": "https://github.com/trueChristian/daily-scripture",
