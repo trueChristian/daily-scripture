@@ -1,5 +1,5 @@
-**Leviticus 21:16-22**
+**Luke 1:16**
 
-16 And the Lord spake unto Moses, saying, 17 Speak unto Aaron, saying, Whosoever he be of thy seed in their generations that hath any blemish, let him not approach to offer the bread of his God. 18 For whatsoever man he be that hath a blemish, he shall not approach: a blind man, or a lame, or he that hath a flat nose, or any thing superfluous, 19 Or a man that is brokenfooted, or brokenhanded, 20 Or crookbackt, or a dwarf, or that hath a blemish in his eye, or be scurvy, or scabbed, or hath his stones broken; 21 No man that hath a blemish of the seed of Aaron the priest shall come nigh to offer the offerings of the Lord made by fire: he hath a blemish; he shall not come nigh to offer the bread of his God. 22 He shall eat the bread of his God, both of the most holy, and of the holy.
+16 And many of the children of Israel shall he turn to the Lord their God.
 
-[Saturday 08-July, 2023](https://t.me/s/daily_scripture)
+[Sunday 09-July, 2023](https://t.me/s/daily_scripture)
