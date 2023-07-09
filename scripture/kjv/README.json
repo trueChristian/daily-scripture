@@ -1,10 +1,22 @@
 {
-  "date": "Sunday 09-July, 2023",
-  "name": "Luke 1:16",
+  "date": "Monday 10-July, 2023",
+  "name": "John 6:66-69",
   "scripture": [
     {
-      "nr": "16",
-      "text": "And many of the children of Israel shall he turn to the Lord their God."
+      "nr": "66",
+      "text": "From that time many of his disciples went back, and walked no more with him."
+    },
+    {
+      "nr": "67",
+      "text": "Then said Jesus unto the twelve, Will ye also go away?"
+    },
+    {
+      "nr": "68",
+      "text": "Then Simon Peter answered him, Lord, to whom shall we go? thou hast the words of eternal life."
+    },
+    {
+      "nr": "69",
+      "text": "And we believe and are sure that thou art that Christ, the Son of the living God."
     }
   ],
   "source": "https://github.com/trueChristian/daily-scripture",
