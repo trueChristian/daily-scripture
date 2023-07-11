@@ -1,5 +1,5 @@
-**Psalms 31:24**
+**1 Corinthians 14:32-33**
 
-24 Be of good courage, and he shall strengthen your heart, all ye that hope in the Lord. 
+32 And the spirits of the prophets are subject to the prophets. 33 For God is not the author of confusion, but of peace, as in all churches of the saints.
 
-[Tuesday 11-July, 2023](https://t.me/s/daily_scripture)
+[Wednesday 12-July, 2023](https://t.me/s/daily_scripture)

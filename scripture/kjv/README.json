@@ -1,10 +1,14 @@
 {
-  "date": "Tuesday 11-July, 2023",
-  "name": "Psalms 31:24",
+  "date": "Wednesday 12-July, 2023",
+  "name": "1 Corinthians 14:32-33",
   "scripture": [
     {
-      "nr": "24",
-      "text": "Be of good courage, and he shall strengthen your heart, all ye that hope in the Lord. "
+      "nr": "32",
+      "text": "And the spirits of the prophets are subject to the prophets."
+    },
+    {
+      "nr": "33",
+      "text": "For God is not the author of confusion, but of peace, as in all churches of the saints."
     }
   ],
   "source": "https://github.com/trueChristian/daily-scripture",
