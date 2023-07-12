@@ -1,5 +1,5 @@
-**1 Corinthians 14:32-33**
+**Psalms 27:14**
 
-32 And the spirits of the prophets are subject to the prophets. 33 For God is not the author of confusion, but of peace, as in all churches of the saints.
+14 Wait on the Lord: be of good courage, and he shall strengthen thine heart: wait, I say, on the Lord. 
 
-[Wednesday 12-July, 2023](https://t.me/s/daily_scripture)
+[Thursday 13-July, 2023](https://t.me/s/daily_scripture)

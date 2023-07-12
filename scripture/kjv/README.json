@@ -1,14 +1,10 @@
 {
-  "date": "Wednesday 12-July, 2023",
-  "name": "1 Corinthians 14:32-33",
+  "date": "Thursday 13-July, 2023",
+  "name": "Psalms 27:14",
   "scripture": [
     {
-      "nr": "32",
-      "text": "And the spirits of the prophets are subject to the prophets."
-    },
-    {
-      "nr": "33",
-      "text": "For God is not the author of confusion, but of peace, as in all churches of the saints."
+      "nr": "14",
+      "text": "Wait on the Lord: be of good courage, and he shall strengthen thine heart: wait, I say, on the Lord. "
     }
   ],
   "source": "https://github.com/trueChristian/daily-scripture",
