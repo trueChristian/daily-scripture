@@ -1,5 +1,5 @@
-**Proverbs 1:10**
+**Luke 16:16**
 
-10 My son, if sinners entice thee, consent thou not.
+16 The law and the prophets were until John: since that time the kingdom of God is preached, and every man presseth into it.
 
-[Friday 14-July, 2023](https://t.me/s/daily_scripture)
+[Saturday 15-July, 2023](https://t.me/s/daily_scripture)
