@@ -1,5 +1,5 @@
-**Psalms 25:16**
+**1 John 2:12**
 
-16 Turn thee unto me, and have mercy upon me; for I am desolate and afflicted.
+12 I write unto you, little children, because your sins are forgiven you for his name’s sake.
 
-[Sunday 16-July, 2023](https://t.me/s/daily_scripture)
+[Monday 17-July, 2023](https://t.me/s/daily_scripture)
