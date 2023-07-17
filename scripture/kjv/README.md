@@ -1,5 +1,5 @@
-**1 John 2:12**
+**Romans 6:23**
 
-12 I write unto you, little children, because your sins are forgiven you for his name’s sake.
+23 For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord. 
 
-[Monday 17-July, 2023](https://t.me/s/daily_scripture)
+[Tuesday 18-July, 2023](https://t.me/s/daily_scripture)
