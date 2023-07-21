@@ -1,5 +1,5 @@
-**Psalms 86:11**
+**Jeremiah 6:6**
 
-11 Teach me thy way, O Lord; I will walk in thy truth: unite my heart to fear thy name.
+6 For thus hath the Lord of hosts said, Hew ye down trees, and cast a mount against Jerusalem: this is the city to be visited; she is wholly oppression in the midst of her.
 
-[Friday 21-July, 2023](https://t.me/s/daily_scripture)
+[Saturday 22-July, 2023](https://t.me/s/daily_scripture)
