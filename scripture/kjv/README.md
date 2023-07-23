@@ -1,5 +1,5 @@
-**Matthew 19:26**
+**Amos 3:8**
 
-26 But Jesus beheld them, and said unto them, With men this is impossible; but with God all things are possible.
+8 The lion hath roared, who will not fear? the Lord God hath spoken, who can but prophesy?
 
-[Sunday 23-July, 2023](https://t.me/s/daily_scripture)
+[Monday 24-July, 2023](https://t.me/s/daily_scripture)
