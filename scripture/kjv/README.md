@@ -1,5 +1,5 @@
-**Amos 3:8**
+**Psalms 119:20**
 
-8 The lion hath roared, who will not fear? the Lord God hath spoken, who can but prophesy?
+20 My soul breaketh for the longing that it hath unto thy judgments at all times.
 
-[Monday 24-July, 2023](https://t.me/s/daily_scripture)
+[Tuesday 25-July, 2023](https://t.me/s/daily_scripture)
