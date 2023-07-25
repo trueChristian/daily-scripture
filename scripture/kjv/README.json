@@ -1,13 +1,17 @@
 {
-  "date": "Tuesday 25-July, 2023",
-  "name": "Psalms 119:20",
+  "book": "Proverbs",
+  "chapter": "28",
+  "date": "Wednesday 26-July, 2023",
+  "getbible": "https://getbible.net/kjv/Proverbs/28/21",
+  "name": "Proverbs 28:21",
   "scripture": [
     {
-      "nr": "20",
-      "text": "My soul breaketh for the longing that it hath unto thy judgments at all times."
+      "nr": "21",
+      "text": "To have respect of persons is not good: for for a piece of bread that man will transgress."
     }
   ],
-  "source": "https://github.com/trueChristian/daily-scripture",
+  "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
+  "verse": "21",
   "version": "kjv"
 }
