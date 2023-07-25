@@ -134,13 +134,25 @@ fi
 TODAY_S_SCRIPTURE_TEXT=$(bash <(curl -s https://raw.githubusercontent.com/getbible/getverse/master/src/chapter.sh) -s="${TODAY_S_SCRIPTURE}" -v="${VERSION}" )
 
 #███████████████████████████████████████████████████████ GET SCRIPTURE NAME ███
-# Get the verses name from the getBible API
-NAME=$(bash <(curl -s https://raw.githubusercontent.com/getbible/getverse/master/src/name.sh) -s="${TODAY_S_SCRIPTURE}" -v="${VERSION}" )
+# get the book number
+BOOK_NUMBER=$(echo "$TODAY_S_SCRIPTURE" | cut -d' ' -f1)
+# get the list of books from the API to get the book number
+BOOKS=$(curl -s "https://api.getbible.net/v2/${VERSION}/books.json")
+BOOK_NAME=$(echo "$BOOKS" | jq -r ".[] | select(.nr == ${BOOK_NUMBER}) | .name")
+# get the chapter
+CHAPTER=$(echo "$TODAY_S_SCRIPTURE" | cut -d' ' -f2 | cut -d':' -f1)
+# get the verses
+VERSES=$(echo "$TODAY_S_SCRIPTURE" | cut -d' ' -f2 | cut -d':' -f2)
+# Set the passage name
+NAME="${BOOK_NAME} ${CHAPTER}:${VERSES}"
+#███████████████████████████████████████████████████████████ GET BIBLE LINK ███
+# We set the GetBible link for this verse
+GETBIBLE_LINK="https://getbible.net/${VERSION}/${BOOK_NAME}/${CHAPTER}/${VERSES}"
 
 #████████████████████████████████████████████ SET TODAY'S SCRIPTURE IN HTML ███
 HTML="<strong>${NAME}</strong><br />
 ${TODAY_S_SCRIPTURE_TEXT//$'\n'/ }<br /><br />
-<a id=\"daily-scripture-link\" href=\"https://t.me/s/daily_scripture\">${TODAY}</a>"
+<a id=\"daily-scripture-link\" href=\"${GETBIBLE_LINK}\">${TODAY}</a>"
 
 #████████████████████████████████████████████ SET TODAY'S SCRIPTURE IN JSON ███
 # convert text to json
@@ -167,15 +179,23 @@ JSON='{}';  JSON="$(
       --arg name "${NAME}" \
       --argjson scripture "${TODAY_S_SCRIPTURE_JSON}"  \
       --arg version "${VERSION}" \
+      --arg book "${BOOK_NAME}" \
+      --arg chapter "${CHAPTER}" \
+      --arg verse "${VERSES}" \
       --arg date "${TODAY}" \
       --arg telegram "daily_scripture" \
-      --arg source "https://github.com/trueChristian/daily-scripture" '
+      --arg getbible "${GETBIBLE_LINK}" \
+      --arg source "https://git.vdm.dev/christian/daily-scripture" '
       {
         name: $name,
         scripture: $scripture,
         version: $version,
+        book: $book,
+        chapter: $chapter,
+        verse: $verse,
         date: $date,
         telegram: $telegram,
+        getbible: $getbible,
         source: $source
       }
     '
@@ -185,14 +205,14 @@ JSON='{}';  JSON="$(
 TG="<strong>${NAME}</strong>
 ${TODAY_S_SCRIPTURE_TEXT//$'\n'/ }
 
-<a id=\"daily-scripture-link\" href=\"https://t.me/daily_scripture\">${TODAY}</a>"
+<a id=\"daily-scripture-link\" href=\"${GETBIBLE_LINK}\">${TODAY}</a>"
 
 #████████████████████████████████████████ SET TODAY'S SCRIPTURE IN MARKDOWN ███
 MARKDOWN="**${NAME}**
 
 ${TODAY_S_SCRIPTURE_TEXT//$'\n'/ }
 
-[${TODAY}](https://t.me/s/daily_scripture)"
+[${TODAY}](${GETBIBLE_LINK})"
 
 #███████████████████████████████████████████████████████████████ SET FILES ███
 
