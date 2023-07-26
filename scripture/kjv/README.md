@@ -1,5 +1,5 @@
-**Proverbs 28:21**
+**Proverbs 24:26**
 
-21 To have respect of persons is not good: for for a piece of bread that man will transgress.
+26 Every man shall kiss his lips that giveth a right answer.
 
-[Wednesday 26-July, 2023](https://getbible.net/kjv/Proverbs/28/21)
+[Thursday 27-July, 2023](https://getbible.net/kjv/Proverbs/24/26)
