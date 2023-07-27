@@ -1,17 +1,17 @@
 {
   "book": "Proverbs",
-  "chapter": "24",
-  "date": "Thursday 27-July, 2023",
-  "getbible": "https://getbible.net/kjv/Proverbs/24/26",
-  "name": "Proverbs 24:26",
+  "chapter": "20",
+  "date": "Friday 28-July, 2023",
+  "getbible": "https://getbible.net/kjv/Proverbs/20/18",
+  "name": "Proverbs 20:18",
   "scripture": [
     {
-      "nr": "26",
-      "text": "Every man shall kiss his lips that giveth a right answer."
+      "nr": "18",
+      "text": "Every purpose is established by counsel: and with good advice make war."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "26",
+  "verse": "18",
   "version": "kjv"
 }

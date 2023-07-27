@@ -1,5 +1,5 @@
-**Proverbs 24:26**
+**Proverbs 20:18**
 
-26 Every man shall kiss his lips that giveth a right answer.
+18 Every purpose is established by counsel: and with good advice make war.
 
-[Thursday 27-July, 2023](https://getbible.net/kjv/Proverbs/24/26)
+[Friday 28-July, 2023](https://getbible.net/kjv/Proverbs/20/18)
