@@ -1,17 +1,33 @@
 {
-  "book": "Proverbs",
-  "chapter": "20",
-  "date": "Friday 28-July, 2023",
-  "getbible": "https://getbible.net/kjv/Proverbs/20/18",
-  "name": "Proverbs 20:18",
+  "book": "Matthew",
+  "chapter": "12",
+  "date": "Saturday 29-July, 2023",
+  "getbible": "https://getbible.net/kjv/Matthew/12/46-50",
+  "name": "Matthew 12:46-50",
   "scripture": [
     {
-      "nr": "18",
-      "text": "Every purpose is established by counsel: and with good advice make war."
+      "nr": "46",
+      "text": "While he yet talked to the people, behold, his mother and his brethren stood without, desiring to speak with him."
+    },
+    {
+      "nr": "47",
+      "text": "Then one said unto him, Behold, thy mother and thy brethren stand without, desiring to speak with thee."
+    },
+    {
+      "nr": "48",
+      "text": "But he answered and said unto him that told him, Who is my mother? and who are my brethren?"
+    },
+    {
+      "nr": "49",
+      "text": "And he stretched forth his hand toward his disciples, and said, Behold my mother and my brethren!"
+    },
+    {
+      "nr": "50",
+      "text": "For whosoever shall do the will of my Father which is in heaven, the same is my brother, and sister, and mother. "
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "18",
+  "verse": "46-50",
   "version": "kjv"
 }

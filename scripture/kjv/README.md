@@ -1,5 +1,5 @@
-**Proverbs 20:18**
+**Matthew 12:46-50**
 
-18 Every purpose is established by counsel: and with good advice make war.
+46 While he yet talked to the people, behold, his mother and his brethren stood without, desiring to speak with him. 47 Then one said unto him, Behold, thy mother and thy brethren stand without, desiring to speak with thee. 48 But he answered and said unto him that told him, Who is my mother? and who are my brethren? 49 And he stretched forth his hand toward his disciples, and said, Behold my mother and my brethren! 50 For whosoever shall do the will of my Father which is in heaven, the same is my brother, and sister, and mother. 
 
-[Friday 28-July, 2023](https://getbible.net/kjv/Proverbs/20/18)
+[Saturday 29-July, 2023](https://getbible.net/kjv/Matthew/12/46-50)
