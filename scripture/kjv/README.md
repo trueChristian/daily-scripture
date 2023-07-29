@@ -1,5 +1,5 @@
-**Matthew 12:46-50**
+**Luke 8:1-3**
 
-46 While he yet talked to the people, behold, his mother and his brethren stood without, desiring to speak with him. 47 Then one said unto him, Behold, thy mother and thy brethren stand without, desiring to speak with thee. 48 But he answered and said unto him that told him, Who is my mother? and who are my brethren? 49 And he stretched forth his hand toward his disciples, and said, Behold my mother and my brethren! 50 For whosoever shall do the will of my Father which is in heaven, the same is my brother, and sister, and mother. 
+1 And it came to pass afterward, that he went throughout every city and village, preaching and shewing the glad tidings of the kingdom of God: and the twelve were with him, 2 And certain women, which had been healed of evil spirits and infirmities, Mary called Magdalene, out of whom went seven devils, 3 And Joanna the wife of Chuza Herod’s steward, and Susanna, and many others, which ministered unto him of their substance.
 
-[Saturday 29-July, 2023](https://getbible.net/kjv/Matthew/12/46-50)
+[Sunday 30-July, 2023](https://getbible.net/kjv/Luke/8/1-3)

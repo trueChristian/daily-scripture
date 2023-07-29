@@ -1,33 +1,25 @@
 {
-  "book": "Matthew",
-  "chapter": "12",
-  "date": "Saturday 29-July, 2023",
-  "getbible": "https://getbible.net/kjv/Matthew/12/46-50",
-  "name": "Matthew 12:46-50",
+  "book": "Luke",
+  "chapter": "8",
+  "date": "Sunday 30-July, 2023",
+  "getbible": "https://getbible.net/kjv/Luke/8/1-3",
+  "name": "Luke 8:1-3",
   "scripture": [
     {
-      "nr": "46",
-      "text": "While he yet talked to the people, behold, his mother and his brethren stood without, desiring to speak with him."
+      "nr": "1",
+      "text": "And it came to pass afterward, that he went throughout every city and village, preaching and shewing the glad tidings of the kingdom of God: and the twelve were with him,"
     },
     {
-      "nr": "47",
-      "text": "Then one said unto him, Behold, thy mother and thy brethren stand without, desiring to speak with thee."
+      "nr": "2",
+      "text": "And certain women, which had been healed of evil spirits and infirmities, Mary called Magdalene, out of whom went seven devils,"
     },
     {
-      "nr": "48",
-      "text": "But he answered and said unto him that told him, Who is my mother? and who are my brethren?"
-    },
-    {
-      "nr": "49",
-      "text": "And he stretched forth his hand toward his disciples, and said, Behold my mother and my brethren!"
-    },
-    {
-      "nr": "50",
-      "text": "For whosoever shall do the will of my Father which is in heaven, the same is my brother, and sister, and mother. "
+      "nr": "3",
+      "text": "And Joanna the wife of Chuza Herod’s steward, and Susanna, and many others, which ministered unto him of their substance."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "46-50",
+  "verse": "1-3",
   "version": "kjv"
 }
