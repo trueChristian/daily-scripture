@@ -1,17 +1,25 @@
 {
-  "book": "Ephesians",
-  "chapter": "6",
-  "date": "Monday 31-July, 2023",
-  "getbible": "https://getbible.net/kjv/Ephesians/6/14",
-  "name": "Ephesians 6:14",
+  "book": "Galatians",
+  "chapter": "5",
+  "date": "Tuesday 01-August, 2023",
+  "getbible": "https://getbible.net/kjv/Galatians/5/19-21",
+  "name": "Galatians 5:19-21",
   "scripture": [
     {
-      "nr": "14",
-      "text": "Stand therefore, having your loins girt about with truth, and having on the breastplate of righteousness;"
+      "nr": "19",
+      "text": "Now the works of the flesh are manifest, which are these; Adultery, fornication, uncleanness, lasciviousness,"
+    },
+    {
+      "nr": "20",
+      "text": "Idolatry, witchcraft, hatred, variance, emulations, wrath, strife, seditions, heresies,"
+    },
+    {
+      "nr": "21",
+      "text": "Envyings, murders, drunkenness, revellings, and such like: of the which I tell you before, as I have also told you in time past, that they which do such things shall not inherit the kingdom of God."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "14",
+  "verse": "19-21",
   "version": "kjv"
 }
