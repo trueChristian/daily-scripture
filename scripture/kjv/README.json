@@ -1,25 +1,17 @@
 {
-  "book": "Galatians",
-  "chapter": "5",
-  "date": "Tuesday 01-August, 2023",
-  "getbible": "https://getbible.net/kjv/Galatians/5/19-21",
-  "name": "Galatians 5:19-21",
+  "book": "2 Corinthians",
+  "chapter": "8",
+  "date": "Wednesday 02-August, 2023",
+  "getbible": "https://getbible.net/kjv/2 Corinthians/8/8",
+  "name": "2 Corinthians 8:8",
   "scripture": [
     {
-      "nr": "19",
-      "text": "Now the works of the flesh are manifest, which are these; Adultery, fornication, uncleanness, lasciviousness,"
-    },
-    {
-      "nr": "20",
-      "text": "Idolatry, witchcraft, hatred, variance, emulations, wrath, strife, seditions, heresies,"
-    },
-    {
-      "nr": "21",
-      "text": "Envyings, murders, drunkenness, revellings, and such like: of the which I tell you before, as I have also told you in time past, that they which do such things shall not inherit the kingdom of God."
+      "nr": "8",
+      "text": "I speak not by commandment, but by occasion of the forwardness of others, and to prove the sincerity of your love."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "19-21",
+  "verse": "8",
   "version": "kjv"
 }
