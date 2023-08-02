@@ -1,5 +1,5 @@
-**2 Corinthians 8:8**
+**Philippians 1:22-23**
 
-8 I speak not by commandment, but by occasion of the forwardness of others, and to prove the sincerity of your love.
+22 But if I live in the flesh, this is the fruit of my labour: yet what I shall choose I wot not. 23 For I am in a strait betwixt two, having a desire to depart, and to be with Christ; which is far better:
 
-[Wednesday 02-August, 2023](https://getbible.net/kjv/2 Corinthians/8/8)
+[Thursday 03-August, 2023](https://getbible.net/kjv/Philippians/1/22-23)
