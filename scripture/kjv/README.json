@@ -1,21 +1,17 @@
 {
-  "book": "Philippians",
-  "chapter": "1",
-  "date": "Thursday 03-August, 2023",
-  "getbible": "https://getbible.net/kjv/Philippians/1/22-23",
-  "name": "Philippians 1:22-23",
+  "book": "Psalms",
+  "chapter": "12",
+  "date": "Friday 04-August, 2023",
+  "getbible": "https://getbible.net/kjv/Psalms/12/5",
+  "name": "Psalms 12:5",
   "scripture": [
     {
-      "nr": "22",
-      "text": "But if I live in the flesh, this is the fruit of my labour: yet what I shall choose I wot not."
-    },
-    {
-      "nr": "23",
-      "text": "For I am in a strait betwixt two, having a desire to depart, and to be with Christ; which is far better:"
+      "nr": "5",
+      "text": "For the oppression of the poor, for the sighing of the needy, now will I arise, saith the Lord; I will set him in safety from him that puffeth at him."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "22-23",
+  "verse": "5",
   "version": "kjv"
 }

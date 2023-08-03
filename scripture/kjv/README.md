@@ -1,5 +1,5 @@
-**Philippians 1:22-23**
+**Psalms 12:5**
 
-22 But if I live in the flesh, this is the fruit of my labour: yet what I shall choose I wot not. 23 For I am in a strait betwixt two, having a desire to depart, and to be with Christ; which is far better:
+5 For the oppression of the poor, for the sighing of the needy, now will I arise, saith the Lord; I will set him in safety from him that puffeth at him.
 
-[Thursday 03-August, 2023](https://getbible.net/kjv/Philippians/1/22-23)
+[Friday 04-August, 2023](https://getbible.net/kjv/Psalms/12/5)
