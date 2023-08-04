@@ -1,5 +1,5 @@
-**Psalms 12:5**
+**Romans 9:33**
 
-5 For the oppression of the poor, for the sighing of the needy, now will I arise, saith the Lord; I will set him in safety from him that puffeth at him.
+33 As it is written, Behold, I lay in Sion a stumblingstone and rock of offence: and whosoever believeth on him shall not be ashamed. 
 
-[Friday 04-August, 2023](https://getbible.net/kjv/Psalms/12/5)
+[Saturday 05-August, 2023](https://getbible.net/kjv/Romans/9/33)
