@@ -1,5 +1,5 @@
-**Romans 9:33**
+**Ephesians 5:25**
 
-33 As it is written, Behold, I lay in Sion a stumblingstone and rock of offence: and whosoever believeth on him shall not be ashamed. 
+25 Husbands, love your wives, even as Christ also loved the church, and gave himself for it;
 
-[Saturday 05-August, 2023](https://getbible.net/kjv/Romans/9/33)
+[Sunday 06-August, 2023](https://getbible.net/kjv/Ephesians/5/25)

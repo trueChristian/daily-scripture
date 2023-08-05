@@ -1,17 +1,17 @@
 {
-  "book": "Romans",
-  "chapter": "9",
-  "date": "Saturday 05-August, 2023",
-  "getbible": "https://getbible.net/kjv/Romans/9/33",
-  "name": "Romans 9:33",
+  "book": "Ephesians",
+  "chapter": "5",
+  "date": "Sunday 06-August, 2023",
+  "getbible": "https://getbible.net/kjv/Ephesians/5/25",
+  "name": "Ephesians 5:25",
   "scripture": [
     {
-      "nr": "33",
-      "text": "As it is written, Behold, I lay in Sion a stumblingstone and rock of offence: and whosoever believeth on him shall not be ashamed. "
+      "nr": "25",
+      "text": "Husbands, love your wives, even as Christ also loved the church, and gave himself for it;"
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "33",
+  "verse": "25",
   "version": "kjv"
 }
