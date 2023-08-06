@@ -1,17 +1,21 @@
 {
-  "book": "Ephesians",
-  "chapter": "5",
-  "date": "Sunday 06-August, 2023",
-  "getbible": "https://getbible.net/kjv/Ephesians/5/25",
-  "name": "Ephesians 5:25",
+  "book": "Isaiah",
+  "chapter": "59",
+  "date": "Monday 07-August, 2023",
+  "getbible": "https://getbible.net/kjv/Isaiah/59/1-2",
+  "name": "Isaiah 59:1-2",
   "scripture": [
     {
-      "nr": "25",
-      "text": "Husbands, love your wives, even as Christ also loved the church, and gave himself for it;"
+      "nr": "1",
+      "text": "Behold, the Lord’s hand is not shortened, that it cannot save; neither his ear heavy, that it cannot hear:"
+    },
+    {
+      "nr": "2",
+      "text": "But your iniquities have separated between you and your God, and your sins have hid his face from you, that he will not hear."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "25",
+  "verse": "1-2",
   "version": "kjv"
 }
