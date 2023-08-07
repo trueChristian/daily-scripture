@@ -1,21 +1,17 @@
 {
-  "book": "Isaiah",
-  "chapter": "59",
-  "date": "Monday 07-August, 2023",
-  "getbible": "https://getbible.net/kjv/Isaiah/59/1-2",
-  "name": "Isaiah 59:1-2",
+  "book": "1 John",
+  "chapter": "4",
+  "date": "Tuesday 08-August, 2023",
+  "getbible": "https://getbible.net/kjv/1 John/4/15",
+  "name": "1 John 4:15",
   "scripture": [
     {
-      "nr": "1",
-      "text": "Behold, the Lord’s hand is not shortened, that it cannot save; neither his ear heavy, that it cannot hear:"
-    },
-    {
-      "nr": "2",
-      "text": "But your iniquities have separated between you and your God, and your sins have hid his face from you, that he will not hear."
+      "nr": "15",
+      "text": "Whosoever shall confess that Jesus is the Son of God, God dwelleth in him, and he in God."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "1-2",
+  "verse": "15",
   "version": "kjv"
 }
