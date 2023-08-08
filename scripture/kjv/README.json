@@ -1,17 +1,21 @@
 {
-  "book": "1 John",
-  "chapter": "4",
-  "date": "Tuesday 08-August, 2023",
-  "getbible": "https://getbible.net/kjv/1 John/4/15",
-  "name": "1 John 4:15",
+  "book": "1 Thessalonians",
+  "chapter": "5",
+  "date": "Wednesday 09-August, 2023",
+  "getbible": "https://getbible.net/kjv/1 Thessalonians/5/23-24",
+  "name": "1 Thessalonians 5:23-24",
   "scripture": [
     {
-      "nr": "15",
-      "text": "Whosoever shall confess that Jesus is the Son of God, God dwelleth in him, and he in God."
+      "nr": "23",
+      "text": "And the very God of peace sanctify you wholly; and I pray God your whole spirit and soul and body be preserved blameless unto the coming of our Lord Jesus Christ."
+    },
+    {
+      "nr": "24",
+      "text": "Faithful is he that calleth you, who also will do it."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "15",
+  "verse": "23-24",
   "version": "kjv"
 }
