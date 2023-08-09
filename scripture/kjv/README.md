@@ -1,5 +1,5 @@
-**1 Thessalonians 5:23-24**
+**John 7:43**
 
-23 And the very God of peace sanctify you wholly; and I pray God your whole spirit and soul and body be preserved blameless unto the coming of our Lord Jesus Christ. 24 Faithful is he that calleth you, who also will do it.
+43 So there was a division among the people because of him.
 
-[Wednesday 09-August, 2023](https://getbible.net/kjv/1 Thessalonians/5/23-24)
+[Thursday 10-August, 2023](https://getbible.net/kjv/John/7/43)
