@@ -1,17 +1,17 @@
 {
-  "book": "John",
-  "chapter": "7",
-  "date": "Thursday 10-August, 2023",
-  "getbible": "https://getbible.net/kjv/John/7/43",
-  "name": "John 7:43",
+  "book": "Psalms",
+  "chapter": "22",
+  "date": "Friday 11-August, 2023",
+  "getbible": "https://getbible.net/kjv/Psalms/22/21",
+  "name": "Psalms 22:21",
   "scripture": [
     {
-      "nr": "43",
-      "text": "So there was a division among the people because of him."
+      "nr": "21",
+      "text": "Save me from the lion’s mouth: for thou hast heard me from the horns of the unicorns."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "43",
+  "verse": "21",
   "version": "kjv"
 }

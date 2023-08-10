@@ -1,5 +1,5 @@
-**John 7:43**
+**Psalms 22:21**
 
-43 So there was a division among the people because of him.
+21 Save me from the lion’s mouth: for thou hast heard me from the horns of the unicorns.
 
-[Thursday 10-August, 2023](https://getbible.net/kjv/John/7/43)
+[Friday 11-August, 2023](https://getbible.net/kjv/Psalms/22/21)
