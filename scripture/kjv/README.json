@@ -1,17 +1,17 @@
 {
   "book": "Psalms",
-  "chapter": "22",
-  "date": "Friday 11-August, 2023",
-  "getbible": "https://getbible.net/kjv/Psalms/22/21",
-  "name": "Psalms 22:21",
+  "chapter": "120",
+  "date": "Saturday 12-August, 2023",
+  "getbible": "https://getbible.net/kjv/Psalms/120/7",
+  "name": "Psalms 120:7",
   "scripture": [
     {
-      "nr": "21",
-      "text": "Save me from the lion’s mouth: for thou hast heard me from the horns of the unicorns."
+      "nr": "7",
+      "text": "I am for peace: but when I speak, they are for war. "
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "21",
+  "verse": "7",
   "version": "kjv"
 }

@@ -1,5 +1,5 @@
-**Psalms 22:21**
+**Psalms 120:7**
 
-21 Save me from the lion’s mouth: for thou hast heard me from the horns of the unicorns.
+7 I am for peace: but when I speak, they are for war. 
 
-[Friday 11-August, 2023](https://getbible.net/kjv/Psalms/22/21)
+[Saturday 12-August, 2023](https://getbible.net/kjv/Psalms/120/7)
