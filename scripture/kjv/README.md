@@ -1,5 +1,5 @@
-**Psalms 120:7**
+**John 9:34**
 
-7 I am for peace: but when I speak, they are for war. 
+34 They answered and said unto him, Thou wast altogether born in sins, and dost thou teach us? And they cast him out.
 
-[Saturday 12-August, 2023](https://getbible.net/kjv/Psalms/120/7)
+[Sunday 13-August, 2023](https://getbible.net/kjv/John/9/34)

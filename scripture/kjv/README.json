@@ -1,17 +1,17 @@
 {
-  "book": "Psalms",
-  "chapter": "120",
-  "date": "Saturday 12-August, 2023",
-  "getbible": "https://getbible.net/kjv/Psalms/120/7",
-  "name": "Psalms 120:7",
+  "book": "John",
+  "chapter": "9",
+  "date": "Sunday 13-August, 2023",
+  "getbible": "https://getbible.net/kjv/John/9/34",
+  "name": "John 9:34",
   "scripture": [
     {
-      "nr": "7",
-      "text": "I am for peace: but when I speak, they are for war. "
+      "nr": "34",
+      "text": "They answered and said unto him, Thou wast altogether born in sins, and dost thou teach us? And they cast him out."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "7",
+  "verse": "34",
   "version": "kjv"
 }
