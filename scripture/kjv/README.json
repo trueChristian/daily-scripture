@@ -1,17 +1,17 @@
 {
-  "book": "John",
-  "chapter": "9",
-  "date": "Sunday 13-August, 2023",
-  "getbible": "https://getbible.net/kjv/John/9/34",
-  "name": "John 9:34",
+  "book": "2 Thessalonians",
+  "chapter": "3",
+  "date": "Monday 14-August, 2023",
+  "getbible": "https://getbible.net/kjv/2 Thessalonians/3/16",
+  "name": "2 Thessalonians 3:16",
   "scripture": [
     {
-      "nr": "34",
-      "text": "They answered and said unto him, Thou wast altogether born in sins, and dost thou teach us? And they cast him out."
+      "nr": "16",
+      "text": "Now the Lord of peace himself give you peace always by all means. The Lord be with you all."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "34",
+  "verse": "16",
   "version": "kjv"
 }
