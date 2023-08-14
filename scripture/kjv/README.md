@@ -1,5 +1,5 @@
-**2 Thessalonians 3:16**
+**John 8:7**
 
-16 Now the Lord of peace himself give you peace always by all means. The Lord be with you all.
+7 So when they continued asking him, he lifted up himself, and said unto them, He that is without sin among you, let him first cast a stone at her.
 
-[Monday 14-August, 2023](https://getbible.net/kjv/2 Thessalonians/3/16)
+[Tuesday 15-August, 2023](https://getbible.net/kjv/John/8/7)
