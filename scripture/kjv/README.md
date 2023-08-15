@@ -1,5 +1,5 @@
-**John 8:7**
+**Proverbs 13:10**
 
-7 So when they continued asking him, he lifted up himself, and said unto them, He that is without sin among you, let him first cast a stone at her.
+10 Only by pride cometh contention: but with the well advised is wisdom.
 
-[Tuesday 15-August, 2023](https://getbible.net/kjv/John/8/7)
+[Wednesday 16-August, 2023](https://getbible.net/kjv/Proverbs/13/10)

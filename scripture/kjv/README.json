@@ -1,17 +1,17 @@
 {
-  "book": "John",
-  "chapter": "8",
-  "date": "Tuesday 15-August, 2023",
-  "getbible": "https://getbible.net/kjv/John/8/7",
-  "name": "John 8:7",
+  "book": "Proverbs",
+  "chapter": "13",
+  "date": "Wednesday 16-August, 2023",
+  "getbible": "https://getbible.net/kjv/Proverbs/13/10",
+  "name": "Proverbs 13:10",
   "scripture": [
     {
-      "nr": "7",
-      "text": "So when they continued asking him, he lifted up himself, and said unto them, He that is without sin among you, let him first cast a stone at her."
+      "nr": "10",
+      "text": "Only by pride cometh contention: but with the well advised is wisdom."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "7",
+  "verse": "10",
   "version": "kjv"
 }
