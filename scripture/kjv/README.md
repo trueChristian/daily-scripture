@@ -1,5 +1,5 @@
-**Proverbs 13:10**
+**Ezekiel 11:19-20**
 
-10 Only by pride cometh contention: but with the well advised is wisdom.
+19 And I will give them one heart, and I will put a new spirit within you; and I will take the stony heart out of their flesh, and will give them an heart of flesh: 20 That they may walk in my statutes, and keep mine ordinances, and do them: and they shall be my people, and I will be their God.
 
-[Wednesday 16-August, 2023](https://getbible.net/kjv/Proverbs/13/10)
+[Thursday 17-August, 2023](https://getbible.net/kjv/Ezekiel/11/19-20)
