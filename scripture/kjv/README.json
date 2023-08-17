@@ -1,21 +1,17 @@
 {
-  "book": "Ezekiel",
-  "chapter": "11",
-  "date": "Thursday 17-August, 2023",
-  "getbible": "https://getbible.net/kjv/Ezekiel/11/19-20",
-  "name": "Ezekiel 11:19-20",
+  "book": "Daniel",
+  "chapter": "7",
+  "date": "Friday 18-August, 2023",
+  "getbible": "https://getbible.net/kjv/Daniel/7/18",
+  "name": "Daniel 7:18",
   "scripture": [
     {
-      "nr": "19",
-      "text": "And I will give them one heart, and I will put a new spirit within you; and I will take the stony heart out of their flesh, and will give them an heart of flesh:"
-    },
-    {
-      "nr": "20",
-      "text": "That they may walk in my statutes, and keep mine ordinances, and do them: and they shall be my people, and I will be their God."
+      "nr": "18",
+      "text": "But the saints of the most High shall take the kingdom, and possess the kingdom for ever, even for ever and ever."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "19-20",
+  "verse": "18",
   "version": "kjv"
 }

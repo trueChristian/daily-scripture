@@ -1,5 +1,5 @@
-**Ezekiel 11:19-20**
+**Daniel 7:18**
 
-19 And I will give them one heart, and I will put a new spirit within you; and I will take the stony heart out of their flesh, and will give them an heart of flesh: 20 That they may walk in my statutes, and keep mine ordinances, and do them: and they shall be my people, and I will be their God.
+18 But the saints of the most High shall take the kingdom, and possess the kingdom for ever, even for ever and ever.
 
-[Thursday 17-August, 2023](https://getbible.net/kjv/Ezekiel/11/19-20)
+[Friday 18-August, 2023](https://getbible.net/kjv/Daniel/7/18)
