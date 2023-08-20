@@ -1,5 +1,5 @@
-**Ephesians 1:3**
+**Luke 14:25-27**
 
-3 Blessed be the God and Father of our Lord Jesus Christ, who hath blessed us with all spiritual blessings in heavenly places in Christ:
+25 And there went great multitudes with him: and he turned, and said unto them, 26 If any man come to me, and hate not his father, and mother, and wife, and children, and brethren, and sisters, yea, and his own life also, he cannot be my disciple. 27 And whosoever doth not bear his cross, and come after me, cannot be my disciple.
 
-[Sunday 20-August, 2023](https://getbible.net/kjv/Ephesians/1/3)
+[Monday 21-August, 2023](https://getbible.net/kjv/Luke/14/25-27)
