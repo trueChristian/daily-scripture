@@ -1,5 +1,5 @@
-**Luke 14:25-27**
+**2 Corinthians 9:8**
 
-25 And there went great multitudes with him: and he turned, and said unto them, 26 If any man come to me, and hate not his father, and mother, and wife, and children, and brethren, and sisters, yea, and his own life also, he cannot be my disciple. 27 And whosoever doth not bear his cross, and come after me, cannot be my disciple.
+8 And God is able to make all grace abound toward you; that ye, always having all sufficiency in all things, may abound to every good work:
 
-[Monday 21-August, 2023](https://getbible.net/kjv/Luke/14/25-27)
+[Tuesday 22-August, 2023](https://getbible.net/kjv/2 Corinthians/9/8)

@@ -1,25 +1,17 @@
 {
-  "book": "Luke",
-  "chapter": "14",
-  "date": "Monday 21-August, 2023",
-  "getbible": "https://getbible.net/kjv/Luke/14/25-27",
-  "name": "Luke 14:25-27",
+  "book": "2 Corinthians",
+  "chapter": "9",
+  "date": "Tuesday 22-August, 2023",
+  "getbible": "https://getbible.net/kjv/2 Corinthians/9/8",
+  "name": "2 Corinthians 9:8",
   "scripture": [
     {
-      "nr": "25",
-      "text": "And there went great multitudes with him: and he turned, and said unto them,"
-    },
-    {
-      "nr": "26",
-      "text": "If any man come to me, and hate not his father, and mother, and wife, and children, and brethren, and sisters, yea, and his own life also, he cannot be my disciple."
-    },
-    {
-      "nr": "27",
-      "text": "And whosoever doth not bear his cross, and come after me, cannot be my disciple."
+      "nr": "8",
+      "text": "And God is able to make all grace abound toward you; that ye, always having all sufficiency in all things, may abound to every good work:"
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "25-27",
+  "verse": "8",
   "version": "kjv"
 }
