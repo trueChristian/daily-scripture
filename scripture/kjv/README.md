@@ -1,5 +1,5 @@
-**2 Corinthians 9:8**
+**Luke 23:9**
 
-8 And God is able to make all grace abound toward you; that ye, always having all sufficiency in all things, may abound to every good work:
+9 Then he questioned with him in many words; but he answered him nothing.
 
-[Tuesday 22-August, 2023](https://getbible.net/kjv/2 Corinthians/9/8)
+[Wednesday 23-August, 2023](https://getbible.net/kjv/Luke/23/9)
