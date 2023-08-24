@@ -1,17 +1,17 @@
 {
-  "book": "Zechariah",
-  "chapter": "9",
-  "date": "Thursday 24-August, 2023",
-  "getbible": "https://getbible.net/kjv/Zechariah/9/9",
-  "name": "Zechariah 9:9",
+  "book": "Luke",
+  "chapter": "16",
+  "date": "Friday 25-August, 2023",
+  "getbible": "https://getbible.net/kjv/Luke/16/13",
+  "name": "Luke 16:13",
   "scripture": [
     {
-      "nr": "9",
-      "text": "Rejoice greatly, O daughter of Zion; shout, O daughter of Jerusalem: behold, thy King cometh unto thee: he is just, and having salvation; lowly, and riding upon an ass, and upon a colt the foal of an ass."
+      "nr": "13",
+      "text": "No servant can serve two masters: for either he will hate the one, and love the other; or else he will hold to the one, and despise the other. Ye cannot serve God and mammon."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "9",
+  "verse": "13",
   "version": "kjv"
 }

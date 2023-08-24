@@ -1,5 +1,5 @@
-**Zechariah 9:9**
+**Luke 16:13**
 
-9 Rejoice greatly, O daughter of Zion; shout, O daughter of Jerusalem: behold, thy King cometh unto thee: he is just, and having salvation; lowly, and riding upon an ass, and upon a colt the foal of an ass.
+13 No servant can serve two masters: for either he will hate the one, and love the other; or else he will hold to the one, and despise the other. Ye cannot serve God and mammon.
 
-[Thursday 24-August, 2023](https://getbible.net/kjv/Zechariah/9/9)
+[Friday 25-August, 2023](https://getbible.net/kjv/Luke/16/13)
