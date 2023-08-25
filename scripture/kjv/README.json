@@ -1,17 +1,21 @@
 {
-  "book": "Luke",
-  "chapter": "16",
-  "date": "Friday 25-August, 2023",
-  "getbible": "https://getbible.net/kjv/Luke/16/13",
-  "name": "Luke 16:13",
+  "book": "Ezekiel",
+  "chapter": "47",
+  "date": "Saturday 26-August, 2023",
+  "getbible": "https://getbible.net/kjv/Ezekiel/47/10-11",
+  "name": "Ezekiel 47:10-11",
   "scripture": [
     {
-      "nr": "13",
-      "text": "No servant can serve two masters: for either he will hate the one, and love the other; or else he will hold to the one, and despise the other. Ye cannot serve God and mammon."
+      "nr": "10",
+      "text": "And it shall come to pass, that the fishers shall stand upon it from En–gedi even unto En–eglaim; they shall be a place to spread forth nets; their fish shall be according to their kinds, as the fish of the great sea, exceeding many."
+    },
+    {
+      "nr": "11",
+      "text": "But the miry places thereof and the marishes thereof shall not be healed; they shall be given to salt."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "13",
+  "verse": "10-11",
   "version": "kjv"
 }
