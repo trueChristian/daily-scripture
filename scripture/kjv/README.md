@@ -1,5 +1,5 @@
-**Ezekiel 47:10-11**
+**2 John 1:12**
 
-10 And it shall come to pass, that the fishers shall stand upon it from En–gedi even unto En–eglaim; they shall be a place to spread forth nets; their fish shall be according to their kinds, as the fish of the great sea, exceeding many. 11 But the miry places thereof and the marishes thereof shall not be healed; they shall be given to salt.
+12 Having many things to write unto you, I would not write with paper and ink: but I trust to come unto you, and speak face to face, that our joy may be full.
 
-[Saturday 26-August, 2023](https://getbible.net/kjv/Ezekiel/47/10-11)
+[Sunday 27-August, 2023](https://getbible.net/kjv/2 John/1/12)
