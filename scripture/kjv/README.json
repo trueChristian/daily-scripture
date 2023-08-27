@@ -1,17 +1,21 @@
 {
-  "book": "2 John",
-  "chapter": "1",
-  "date": "Sunday 27-August, 2023",
-  "getbible": "https://getbible.net/kjv/2 John/1/12",
-  "name": "2 John 1:12",
+  "book": "Ephesians",
+  "chapter": "5",
+  "date": "Monday 28-August, 2023",
+  "getbible": "https://getbible.net/kjv/Ephesians/5/31-32",
+  "name": "Ephesians 5:31-32",
   "scripture": [
     {
-      "nr": "12",
-      "text": "Having many things to write unto you, I would not write with paper and ink: but I trust to come unto you, and speak face to face, that our joy may be full."
+      "nr": "31",
+      "text": "For this cause shall a man leave his father and mother, and shall be joined unto his wife, and they two shall be one flesh."
+    },
+    {
+      "nr": "32",
+      "text": "This is a great mystery: but I speak concerning Christ and the church."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "12",
+  "verse": "31-32",
   "version": "kjv"
 }

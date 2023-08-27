@@ -1,5 +1,5 @@
-**2 John 1:12**
+**Ephesians 5:31-32**
 
-12 Having many things to write unto you, I would not write with paper and ink: but I trust to come unto you, and speak face to face, that our joy may be full.
+31 For this cause shall a man leave his father and mother, and shall be joined unto his wife, and they two shall be one flesh. 32 This is a great mystery: but I speak concerning Christ and the church.
 
-[Sunday 27-August, 2023](https://getbible.net/kjv/2 John/1/12)
+[Monday 28-August, 2023](https://getbible.net/kjv/Ephesians/5/31-32)
