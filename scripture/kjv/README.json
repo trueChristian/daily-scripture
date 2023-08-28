@@ -1,21 +1,17 @@
 {
-  "book": "Ephesians",
-  "chapter": "5",
-  "date": "Monday 28-August, 2023",
-  "getbible": "https://getbible.net/kjv/Ephesians/5/31-32",
-  "name": "Ephesians 5:31-32",
+  "book": "Revelation",
+  "chapter": "14",
+  "date": "Tuesday 29-August, 2023",
+  "getbible": "https://getbible.net/kjv/Revelation/14/5",
+  "name": "Revelation 14:5",
   "scripture": [
     {
-      "nr": "31",
-      "text": "For this cause shall a man leave his father and mother, and shall be joined unto his wife, and they two shall be one flesh."
-    },
-    {
-      "nr": "32",
-      "text": "This is a great mystery: but I speak concerning Christ and the church."
+      "nr": "5",
+      "text": "And in their mouth was found no guile: for they are without fault before the throne of God."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "31-32",
+  "verse": "5",
   "version": "kjv"
 }
