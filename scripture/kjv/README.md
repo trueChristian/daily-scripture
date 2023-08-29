@@ -1,5 +1,5 @@
-**Revelation 14:5**
+**1 Timothy 1:12**
 
-5 And in their mouth was found no guile: for they are without fault before the throne of God.
+12 And I thank Christ Jesus our Lord, who hath enabled me, for that he counted me faithful, putting me into the ministry;
 
-[Tuesday 29-August, 2023](https://getbible.net/kjv/Revelation/14/5)
+[Wednesday 30-August, 2023](https://getbible.net/kjv/1 Timothy/1/12)

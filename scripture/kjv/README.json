@@ -1,17 +1,17 @@
 {
-  "book": "Revelation",
-  "chapter": "14",
-  "date": "Tuesday 29-August, 2023",
-  "getbible": "https://getbible.net/kjv/Revelation/14/5",
-  "name": "Revelation 14:5",
+  "book": "1 Timothy",
+  "chapter": "1",
+  "date": "Wednesday 30-August, 2023",
+  "getbible": "https://getbible.net/kjv/1 Timothy/1/12",
+  "name": "1 Timothy 1:12",
   "scripture": [
     {
-      "nr": "5",
-      "text": "And in their mouth was found no guile: for they are without fault before the throne of God."
+      "nr": "12",
+      "text": "And I thank Christ Jesus our Lord, who hath enabled me, for that he counted me faithful, putting me into the ministry;"
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "5",
+  "verse": "12",
   "version": "kjv"
 }
