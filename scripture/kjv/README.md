@@ -1,5 +1,5 @@
-**1 Timothy 1:12**
+**Exodus 27:20**
 
-12 And I thank Christ Jesus our Lord, who hath enabled me, for that he counted me faithful, putting me into the ministry;
+20 And thou shalt command the children of Israel, that they bring thee pure oil olive beaten for the light, to cause the lamp to burn always.
 
-[Wednesday 30-August, 2023](https://getbible.net/kjv/1 Timothy/1/12)
+[Thursday 31-August, 2023](https://getbible.net/kjv/Exodus/27/20)
