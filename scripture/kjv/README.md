@@ -1,5 +1,5 @@
-**Exodus 27:20**
+**2 Corinthians 5:17**
 
-20 And thou shalt command the children of Israel, that they bring thee pure oil olive beaten for the light, to cause the lamp to burn always.
+17 Therefore if any man be in Christ, he is a new creature: old things are passed away; behold, all things are become new.
 
-[Thursday 31-August, 2023](https://getbible.net/kjv/Exodus/27/20)
+[Friday 01-September, 2023](https://getbible.net/kjv/2 Corinthians/5/17)

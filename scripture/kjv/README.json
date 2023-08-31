@@ -1,17 +1,17 @@
 {
-  "book": "Exodus",
-  "chapter": "27",
-  "date": "Thursday 31-August, 2023",
-  "getbible": "https://getbible.net/kjv/Exodus/27/20",
-  "name": "Exodus 27:20",
+  "book": "2 Corinthians",
+  "chapter": "5",
+  "date": "Friday 01-September, 2023",
+  "getbible": "https://getbible.net/kjv/2 Corinthians/5/17",
+  "name": "2 Corinthians 5:17",
   "scripture": [
     {
-      "nr": "20",
-      "text": "And thou shalt command the children of Israel, that they bring thee pure oil olive beaten for the light, to cause the lamp to burn always."
+      "nr": "17",
+      "text": "Therefore if any man be in Christ, he is a new creature: old things are passed away; behold, all things are become new."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "20",
+  "verse": "17",
   "version": "kjv"
 }
