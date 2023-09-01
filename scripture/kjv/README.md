@@ -1,5 +1,5 @@
-**2 Corinthians 5:17**
+**Proverbs 3:3-4**
 
-17 Therefore if any man be in Christ, he is a new creature: old things are passed away; behold, all things are become new.
+3 Let not mercy and truth forsake thee: bind them about thy neck; write them upon the table of thine heart: 4 So shalt thou find favour and good understanding in the sight of God and man.
 
-[Friday 01-September, 2023](https://getbible.net/kjv/2 Corinthians/5/17)
+[Saturday 02-September, 2023](https://getbible.net/kjv/Proverbs/3/3-4)
