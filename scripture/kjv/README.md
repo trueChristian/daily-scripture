@@ -1,5 +1,5 @@
-**Proverbs 3:3-4**
+**Daniel 9:18**
 
-3 Let not mercy and truth forsake thee: bind them about thy neck; write them upon the table of thine heart: 4 So shalt thou find favour and good understanding in the sight of God and man.
+18 O my God, incline thine ear, and hear; open thine eyes, and behold our desolations, and the city which is called by thy name: for we do not present our supplications before thee for our righteousnesses, but for thy great mercies.
 
-[Saturday 02-September, 2023](https://getbible.net/kjv/Proverbs/3/3-4)
+[Sunday 03-September, 2023](https://getbible.net/kjv/Daniel/9/18)
