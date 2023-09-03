@@ -1,5 +1,5 @@
-**Daniel 9:18**
+**Acts 1:14**
 
-18 O my God, incline thine ear, and hear; open thine eyes, and behold our desolations, and the city which is called by thy name: for we do not present our supplications before thee for our righteousnesses, but for thy great mercies.
+14 These all continued with one accord in prayer and supplication, with the women, and Mary the mother of Jesus, and with his brethren.
 
-[Sunday 03-September, 2023](https://getbible.net/kjv/Daniel/9/18)
+[Monday 04-September, 2023](https://getbible.net/kjv/Acts/1/14)
