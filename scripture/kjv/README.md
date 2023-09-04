@@ -1,5 +1,5 @@
-**Acts 1:14**
+**John 13:5**
 
-14 These all continued with one accord in prayer and supplication, with the women, and Mary the mother of Jesus, and with his brethren.
+5 After that he poureth water into a bason, and began to wash the disciples’ feet, and to wipe them with the towel wherewith he was girded.
 
-[Monday 04-September, 2023](https://getbible.net/kjv/Acts/1/14)
+[Tuesday 05-September, 2023](https://getbible.net/kjv/John/13/5)
