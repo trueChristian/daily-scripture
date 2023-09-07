@@ -1,25 +1,17 @@
 {
-  "book": "Hebrews",
-  "chapter": "12",
-  "date": "Thursday 07-September, 2023",
-  "getbible": "https://getbible.net/kjv/Hebrews/12/2-4",
-  "name": "Hebrews 12:2-4",
+  "book": "Romans",
+  "chapter": "14",
+  "date": "Friday 08-September, 2023",
+  "getbible": "https://getbible.net/kjv/Romans/14/23",
+  "name": "Romans 14:23",
   "scripture": [
     {
-      "nr": "2",
-      "text": "Looking unto Jesus the author and finisher of our faith; who for the joy that was set before him endured the cross, despising the shame, and is set down at the right hand of the throne of God."
-    },
-    {
-      "nr": "3",
-      "text": "For consider him that endured such contradiction of sinners against himself, lest ye be wearied and faint in your minds."
-    },
-    {
-      "nr": "4",
-      "text": "Ye have not yet resisted unto blood, striving against sin."
+      "nr": "23",
+      "text": "And he that doubteth is damned if he eat, because he eateth not of faith: for whatsoever is not of faith is sin. "
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "2-4",
+  "verse": "23",
   "version": "kjv"
 }
