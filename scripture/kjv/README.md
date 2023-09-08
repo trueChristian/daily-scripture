@@ -1,5 +1,5 @@
-**Romans 14:23**
+**1 Corinthians 12:24**
 
-23 And he that doubteth is damned if he eat, because he eateth not of faith: for whatsoever is not of faith is sin. 
+24 For our comely parts have no need: but God hath tempered the body together, having given more abundant honour to that part which lacked:
 
-[Friday 08-September, 2023](https://getbible.net/kjv/Romans/14/23)
+[Saturday 09-September, 2023](https://getbible.net/kjv/1 Corinthians/12/24)

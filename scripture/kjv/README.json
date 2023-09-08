@@ -1,17 +1,17 @@
 {
-  "book": "Romans",
-  "chapter": "14",
-  "date": "Friday 08-September, 2023",
-  "getbible": "https://getbible.net/kjv/Romans/14/23",
-  "name": "Romans 14:23",
+  "book": "1 Corinthians",
+  "chapter": "12",
+  "date": "Saturday 09-September, 2023",
+  "getbible": "https://getbible.net/kjv/1 Corinthians/12/24",
+  "name": "1 Corinthians 12:24",
   "scripture": [
     {
-      "nr": "23",
-      "text": "And he that doubteth is damned if he eat, because he eateth not of faith: for whatsoever is not of faith is sin. "
+      "nr": "24",
+      "text": "For our comely parts have no need: but God hath tempered the body together, having given more abundant honour to that part which lacked:"
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "23",
+  "verse": "24",
   "version": "kjv"
 }
