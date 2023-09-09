@@ -1,17 +1,17 @@
 {
-  "book": "1 Corinthians",
-  "chapter": "12",
-  "date": "Saturday 09-September, 2023",
-  "getbible": "https://getbible.net/kjv/1 Corinthians/12/24",
-  "name": "1 Corinthians 12:24",
+  "book": "1 Timothy",
+  "chapter": "2",
+  "date": "Sunday 10-September, 2023",
+  "getbible": "https://getbible.net/kjv/1 Timothy/2/15",
+  "name": "1 Timothy 2:15",
   "scripture": [
     {
-      "nr": "24",
-      "text": "For our comely parts have no need: but God hath tempered the body together, having given more abundant honour to that part which lacked:"
+      "nr": "15",
+      "text": "Notwithstanding she shall be saved in childbearing, if they continue in faith and charity and holiness with sobriety. "
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "24",
+  "verse": "15",
   "version": "kjv"
 }

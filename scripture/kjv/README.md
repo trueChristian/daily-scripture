@@ -1,5 +1,5 @@
-**1 Corinthians 12:24**
+**1 Timothy 2:15**
 
-24 For our comely parts have no need: but God hath tempered the body together, having given more abundant honour to that part which lacked:
+15 Notwithstanding she shall be saved in childbearing, if they continue in faith and charity and holiness with sobriety. 
 
-[Saturday 09-September, 2023](https://getbible.net/kjv/1 Corinthians/12/24)
+[Sunday 10-September, 2023](https://getbible.net/kjv/1 Timothy/2/15)
