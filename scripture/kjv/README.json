@@ -1,17 +1,17 @@
 {
-  "book": "1 Timothy",
-  "chapter": "2",
-  "date": "Sunday 10-September, 2023",
-  "getbible": "https://getbible.net/kjv/1 Timothy/2/15",
-  "name": "1 Timothy 2:15",
+  "book": "John",
+  "chapter": "4",
+  "date": "Monday 11-September, 2023",
+  "getbible": "https://getbible.net/kjv/John/4/50",
+  "name": "John 4:50",
   "scripture": [
     {
-      "nr": "15",
-      "text": "Notwithstanding she shall be saved in childbearing, if they continue in faith and charity and holiness with sobriety. "
+      "nr": "50",
+      "text": "Jesus saith unto him, Go thy way; thy son liveth. And the man believed the word that Jesus had spoken unto him, and he went his way."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "15",
+  "verse": "50",
   "version": "kjv"
 }

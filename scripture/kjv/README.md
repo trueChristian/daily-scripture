@@ -1,5 +1,5 @@
-**1 Timothy 2:15**
+**John 4:50**
 
-15 Notwithstanding she shall be saved in childbearing, if they continue in faith and charity and holiness with sobriety. 
+50 Jesus saith unto him, Go thy way; thy son liveth. And the man believed the word that Jesus had spoken unto him, and he went his way.
 
-[Sunday 10-September, 2023](https://getbible.net/kjv/1 Timothy/2/15)
+[Monday 11-September, 2023](https://getbible.net/kjv/John/4/50)
