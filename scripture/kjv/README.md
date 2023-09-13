@@ -1,5 +1,5 @@
-**2 Kings 20:5-6**
+**Isaiah 41:17-20**
 
-5 Turn again, and tell Hezekiah the captain of my people, Thus saith the Lord, the God of David thy father, I have heard thy prayer, I have seen thy tears: behold, I will heal thee: on the third day thou shalt go up unto the house of the Lord. 6 And I will add unto thy days fifteen years; and I will deliver thee and this city out of the hand of the king of Assyria; and I will defend this city for mine own sake, and for my servant David’s sake.
+17 When the poor and needy seek water, and there is none, and their tongue faileth for thirst, I the Lord will hear them, I the God of Israel will not forsake them. 18 I will open rivers in high places, and fountains in the midst of the valleys: I will make the wilderness a pool of water, and the dry land springs of water. 19 I will plant in the wilderness the cedar, the shittah tree, and the myrtle, and the oil tree; I will set in the desert the fir tree, and the pine, and the box tree together: 20 That they may see, and know, and consider, and understand together, that the hand of the Lord hath done this, and the Holy One of Israel hath created it.
 
-[Wednesday 13-September, 2023](https://getbible.net/kjv/2 Kings/20/5-6)
+[Thursday 14-September, 2023](https://getbible.net/kjv/Isaiah/41/17-20)
