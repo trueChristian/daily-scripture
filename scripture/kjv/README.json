@@ -1,29 +1,21 @@
 {
-  "book": "Isaiah",
-  "chapter": "41",
-  "date": "Thursday 14-September, 2023",
-  "getbible": "https://getbible.net/kjv/Isaiah/41/17-20",
-  "name": "Isaiah 41:17-20",
+  "book": "Matthew",
+  "chapter": "13",
+  "date": "Friday 15-September, 2023",
+  "getbible": "https://getbible.net/kjv/Matthew/13/16-17",
+  "name": "Matthew 13:16-17",
   "scripture": [
     {
+      "nr": "16",
+      "text": "But blessed are your eyes, for they see: and your ears, for they hear."
+    },
+    {
       "nr": "17",
-      "text": "When the poor and needy seek water, and there is none, and their tongue faileth for thirst, I the Lord will hear them, I the God of Israel will not forsake them."
-    },
-    {
-      "nr": "18",
-      "text": "I will open rivers in high places, and fountains in the midst of the valleys: I will make the wilderness a pool of water, and the dry land springs of water."
-    },
-    {
-      "nr": "19",
-      "text": "I will plant in the wilderness the cedar, the shittah tree, and the myrtle, and the oil tree; I will set in the desert the fir tree, and the pine, and the box tree together:"
-    },
-    {
-      "nr": "20",
-      "text": "That they may see, and know, and consider, and understand together, that the hand of the Lord hath done this, and the Holy One of Israel hath created it."
+      "text": "For verily I say unto you, That many prophets and righteous men have desired to see those things which ye see, and have not seen them; and to hear those things which ye hear, and have not heard them."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "17-20",
+  "verse": "16-17",
   "version": "kjv"
 }
