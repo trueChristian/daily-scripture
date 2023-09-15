@@ -1,21 +1,17 @@
 {
-  "book": "Matthew",
-  "chapter": "13",
-  "date": "Friday 15-September, 2023",
-  "getbible": "https://getbible.net/kjv/Matthew/13/16-17",
-  "name": "Matthew 13:16-17",
+  "book": "Colossians",
+  "chapter": "1",
+  "date": "Saturday 16-September, 2023",
+  "getbible": "https://getbible.net/kjv/Colossians/1/12",
+  "name": "Colossians 1:12",
   "scripture": [
     {
-      "nr": "16",
-      "text": "But blessed are your eyes, for they see: and your ears, for they hear."
-    },
-    {
-      "nr": "17",
-      "text": "For verily I say unto you, That many prophets and righteous men have desired to see those things which ye see, and have not seen them; and to hear those things which ye hear, and have not heard them."
+      "nr": "12",
+      "text": "Giving thanks unto the Father, which hath made us meet to be partakers of the inheritance of the saints in light:"
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "16-17",
+  "verse": "12",
   "version": "kjv"
 }
