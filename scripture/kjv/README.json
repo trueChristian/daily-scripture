@@ -1,17 +1,21 @@
 {
-  "book": "Colossians",
-  "chapter": "1",
-  "date": "Saturday 16-September, 2023",
-  "getbible": "https://getbible.net/kjv/Colossians/1/12",
-  "name": "Colossians 1:12",
+  "book": "1 John",
+  "chapter": "4",
+  "date": "Sunday 17-September, 2023",
+  "getbible": "https://getbible.net/kjv/1 John/4/10-11",
+  "name": "1 John 4:10-11",
   "scripture": [
     {
-      "nr": "12",
-      "text": "Giving thanks unto the Father, which hath made us meet to be partakers of the inheritance of the saints in light:"
+      "nr": "10",
+      "text": "Herein is love, not that we loved God, but that he loved us, and sent his Son to be the propitiation for our sins."
+    },
+    {
+      "nr": "11",
+      "text": "Beloved, if God so loved us, we ought also to love one another."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "12",
+  "verse": "10-11",
   "version": "kjv"
 }
