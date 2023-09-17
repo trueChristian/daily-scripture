@@ -1,21 +1,21 @@
 {
-  "book": "1 John",
-  "chapter": "4",
-  "date": "Sunday 17-September, 2023",
-  "getbible": "https://getbible.net/kjv/1 John/4/10-11",
-  "name": "1 John 4:10-11",
+  "book": "Matthew",
+  "chapter": "14",
+  "date": "Monday 18-September, 2023",
+  "getbible": "https://getbible.net/kjv/Matthew/14/30-31",
+  "name": "Matthew 14:30-31",
   "scripture": [
     {
-      "nr": "10",
-      "text": "Herein is love, not that we loved God, but that he loved us, and sent his Son to be the propitiation for our sins."
+      "nr": "30",
+      "text": "But when he saw the wind boisterous, he was afraid; and beginning to sink, he cried, saying, Lord, save me."
     },
     {
-      "nr": "11",
-      "text": "Beloved, if God so loved us, we ought also to love one another."
+      "nr": "31",
+      "text": "And immediately Jesus stretched forth his hand, and caught him, and said unto him, O thou of little faith, wherefore didst thou doubt?"
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "10-11",
+  "verse": "30-31",
   "version": "kjv"
 }
