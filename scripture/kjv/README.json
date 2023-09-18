@@ -1,21 +1,17 @@
 {
-  "book": "Matthew",
-  "chapter": "14",
-  "date": "Monday 18-September, 2023",
-  "getbible": "https://getbible.net/kjv/Matthew/14/30-31",
-  "name": "Matthew 14:30-31",
+  "book": "Ezra",
+  "chapter": "7",
+  "date": "Tuesday 19-September, 2023",
+  "getbible": "https://getbible.net/kjv/Ezra/7/26",
+  "name": "Ezra 7:26",
   "scripture": [
     {
-      "nr": "30",
-      "text": "But when he saw the wind boisterous, he was afraid; and beginning to sink, he cried, saying, Lord, save me."
-    },
-    {
-      "nr": "31",
-      "text": "And immediately Jesus stretched forth his hand, and caught him, and said unto him, O thou of little faith, wherefore didst thou doubt?"
+      "nr": "26",
+      "text": "And whosoever will not do the law of thy God, and the law of the king, let judgment be executed speedily upon him, whether it be unto death, or to banishment, or to confiscation of goods, or to imprisonment."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "30-31",
+  "verse": "26",
   "version": "kjv"
 }

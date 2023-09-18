@@ -1,5 +1,5 @@
-**Matthew 14:30-31**
+**Ezra 7:26**
 
-30 But when he saw the wind boisterous, he was afraid; and beginning to sink, he cried, saying, Lord, save me. 31 And immediately Jesus stretched forth his hand, and caught him, and said unto him, O thou of little faith, wherefore didst thou doubt?
+26 And whosoever will not do the law of thy God, and the law of the king, let judgment be executed speedily upon him, whether it be unto death, or to banishment, or to confiscation of goods, or to imprisonment.
 
-[Monday 18-September, 2023](https://getbible.net/kjv/Matthew/14/30-31)
+[Tuesday 19-September, 2023](https://getbible.net/kjv/Ezra/7/26)
