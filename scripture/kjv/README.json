@@ -1,17 +1,21 @@
 {
-  "book": "Ezra",
-  "chapter": "7",
-  "date": "Tuesday 19-September, 2023",
-  "getbible": "https://getbible.net/kjv/Ezra/7/26",
-  "name": "Ezra 7:26",
+  "book": "James",
+  "chapter": "1",
+  "date": "Wednesday 20-September, 2023",
+  "getbible": "https://getbible.net/kjv/James/1/16-17",
+  "name": "James 1:16-17",
   "scripture": [
     {
-      "nr": "26",
-      "text": "And whosoever will not do the law of thy God, and the law of the king, let judgment be executed speedily upon him, whether it be unto death, or to banishment, or to confiscation of goods, or to imprisonment."
+      "nr": "16",
+      "text": "Do not err, my beloved brethren."
+    },
+    {
+      "nr": "17",
+      "text": "Every good gift and every perfect gift is from above, and cometh down from the Father of lights, with whom is no variableness, neither shadow of turning."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "26",
+  "verse": "16-17",
   "version": "kjv"
 }

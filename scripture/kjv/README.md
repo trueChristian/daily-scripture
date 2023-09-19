@@ -1,5 +1,5 @@
-**Ezra 7:26**
+**James 1:16-17**
 
-26 And whosoever will not do the law of thy God, and the law of the king, let judgment be executed speedily upon him, whether it be unto death, or to banishment, or to confiscation of goods, or to imprisonment.
+16 Do not err, my beloved brethren. 17 Every good gift and every perfect gift is from above, and cometh down from the Father of lights, with whom is no variableness, neither shadow of turning.
 
-[Tuesday 19-September, 2023](https://getbible.net/kjv/Ezra/7/26)
+[Wednesday 20-September, 2023](https://getbible.net/kjv/James/1/16-17)
