@@ -1,5 +1,5 @@
-**James 1:16-17**
+**John 4:35**
 
-16 Do not err, my beloved brethren. 17 Every good gift and every perfect gift is from above, and cometh down from the Father of lights, with whom is no variableness, neither shadow of turning.
+35 Say not ye, There are yet four months, and then cometh harvest? behold, I say unto you, Lift up your eyes, and look on the fields; for they are white already to harvest.
 
-[Wednesday 20-September, 2023](https://getbible.net/kjv/James/1/16-17)
+[Thursday 21-September, 2023](https://getbible.net/kjv/John/4/35)

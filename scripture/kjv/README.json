@@ -1,21 +1,17 @@
 {
-  "book": "James",
-  "chapter": "1",
-  "date": "Wednesday 20-September, 2023",
-  "getbible": "https://getbible.net/kjv/James/1/16-17",
-  "name": "James 1:16-17",
+  "book": "John",
+  "chapter": "4",
+  "date": "Thursday 21-September, 2023",
+  "getbible": "https://getbible.net/kjv/John/4/35",
+  "name": "John 4:35",
   "scripture": [
     {
-      "nr": "16",
-      "text": "Do not err, my beloved brethren."
-    },
-    {
-      "nr": "17",
-      "text": "Every good gift and every perfect gift is from above, and cometh down from the Father of lights, with whom is no variableness, neither shadow of turning."
+      "nr": "35",
+      "text": "Say not ye, There are yet four months, and then cometh harvest? behold, I say unto you, Lift up your eyes, and look on the fields; for they are white already to harvest."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "16-17",
+  "verse": "35",
   "version": "kjv"
 }
