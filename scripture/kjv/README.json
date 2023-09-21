@@ -1,17 +1,17 @@
 {
-  "book": "John",
-  "chapter": "4",
-  "date": "Thursday 21-September, 2023",
-  "getbible": "https://getbible.net/kjv/John/4/35",
-  "name": "John 4:35",
+  "book": "Acts",
+  "chapter": "19",
+  "date": "Friday 22-September, 2023",
+  "getbible": "https://getbible.net/kjv/Acts/19/36",
+  "name": "Acts 19:36",
   "scripture": [
     {
-      "nr": "35",
-      "text": "Say not ye, There are yet four months, and then cometh harvest? behold, I say unto you, Lift up your eyes, and look on the fields; for they are white already to harvest."
+      "nr": "36",
+      "text": "Seeing then that these things cannot be spoken against, ye ought to be quiet, and to do nothing rashly."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "35",
+  "verse": "36",
   "version": "kjv"
 }

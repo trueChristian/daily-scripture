@@ -1,5 +1,5 @@
-**John 4:35**
+**Acts 19:36**
 
-35 Say not ye, There are yet four months, and then cometh harvest? behold, I say unto you, Lift up your eyes, and look on the fields; for they are white already to harvest.
+36 Seeing then that these things cannot be spoken against, ye ought to be quiet, and to do nothing rashly.
 
-[Thursday 21-September, 2023](https://getbible.net/kjv/John/4/35)
+[Friday 22-September, 2023](https://getbible.net/kjv/Acts/19/36)
