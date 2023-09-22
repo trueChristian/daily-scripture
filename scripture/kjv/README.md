@@ -1,5 +1,5 @@
-**Acts 19:36**
+**Proverbs 27:6**
 
-36 Seeing then that these things cannot be spoken against, ye ought to be quiet, and to do nothing rashly.
+6 Faithful are the wounds of a friend; but the kisses of an enemy are deceitful.
 
-[Friday 22-September, 2023](https://getbible.net/kjv/Acts/19/36)
+[Saturday 23-September, 2023](https://getbible.net/kjv/Proverbs/27/6)

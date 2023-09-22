@@ -1,17 +1,17 @@
 {
-  "book": "Acts",
-  "chapter": "19",
-  "date": "Friday 22-September, 2023",
-  "getbible": "https://getbible.net/kjv/Acts/19/36",
-  "name": "Acts 19:36",
+  "book": "Proverbs",
+  "chapter": "27",
+  "date": "Saturday 23-September, 2023",
+  "getbible": "https://getbible.net/kjv/Proverbs/27/6",
+  "name": "Proverbs 27:6",
   "scripture": [
     {
-      "nr": "36",
-      "text": "Seeing then that these things cannot be spoken against, ye ought to be quiet, and to do nothing rashly."
+      "nr": "6",
+      "text": "Faithful are the wounds of a friend; but the kisses of an enemy are deceitful."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "36",
+  "verse": "6",
   "version": "kjv"
 }
