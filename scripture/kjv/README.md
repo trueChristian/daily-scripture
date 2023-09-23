@@ -1,5 +1,5 @@
-**Proverbs 27:6**
+**1 Timothy 1:15**
 
-6 Faithful are the wounds of a friend; but the kisses of an enemy are deceitful.
+15 This is a faithful saying, and worthy of all acceptation, that Christ Jesus came into the world to save sinners; of whom I am chief.
 
-[Saturday 23-September, 2023](https://getbible.net/kjv/Proverbs/27/6)
+[Sunday 24-September, 2023](https://getbible.net/kjv/1 Timothy/1/15)
