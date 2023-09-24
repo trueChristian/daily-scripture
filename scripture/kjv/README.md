@@ -1,5 +1,5 @@
-**1 Timothy 1:15**
+**Matthew 7:20-23**
 
-15 This is a faithful saying, and worthy of all acceptation, that Christ Jesus came into the world to save sinners; of whom I am chief.
+20 Wherefore by their fruits ye shall know them. 21 Not every one that saith unto me, Lord, Lord, shall enter into the kingdom of heaven; but he that doeth the will of my Father which is in heaven. 22 Many will say to me in that day, Lord, Lord, have we not prophesied in thy name? and in thy name have cast out devils? and in thy name done many wonderful works? 23 And then will I profess unto them, I never knew you: depart from me, ye that work iniquity.
 
-[Sunday 24-September, 2023](https://getbible.net/kjv/1 Timothy/1/15)
+[Monday 25-September, 2023](https://getbible.net/kjv/Matthew/7/20-23)

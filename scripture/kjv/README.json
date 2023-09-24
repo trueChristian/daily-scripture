@@ -1,17 +1,29 @@
 {
-  "book": "1 Timothy",
-  "chapter": "1",
-  "date": "Sunday 24-September, 2023",
-  "getbible": "https://getbible.net/kjv/1 Timothy/1/15",
-  "name": "1 Timothy 1:15",
+  "book": "Matthew",
+  "chapter": "7",
+  "date": "Monday 25-September, 2023",
+  "getbible": "https://getbible.net/kjv/Matthew/7/20-23",
+  "name": "Matthew 7:20-23",
   "scripture": [
     {
-      "nr": "15",
-      "text": "This is a faithful saying, and worthy of all acceptation, that Christ Jesus came into the world to save sinners; of whom I am chief."
+      "nr": "20",
+      "text": "Wherefore by their fruits ye shall know them."
+    },
+    {
+      "nr": "21",
+      "text": "Not every one that saith unto me, Lord, Lord, shall enter into the kingdom of heaven; but he that doeth the will of my Father which is in heaven."
+    },
+    {
+      "nr": "22",
+      "text": "Many will say to me in that day, Lord, Lord, have we not prophesied in thy name? and in thy name have cast out devils? and in thy name done many wonderful works?"
+    },
+    {
+      "nr": "23",
+      "text": "And then will I profess unto them, I never knew you: depart from me, ye that work iniquity."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "15",
+  "verse": "20-23",
   "version": "kjv"
 }
