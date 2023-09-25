@@ -1,5 +1,5 @@
-**Matthew 7:20-23**
+**Matthew 9:36-38**
 
-20 Wherefore by their fruits ye shall know them. 21 Not every one that saith unto me, Lord, Lord, shall enter into the kingdom of heaven; but he that doeth the will of my Father which is in heaven. 22 Many will say to me in that day, Lord, Lord, have we not prophesied in thy name? and in thy name have cast out devils? and in thy name done many wonderful works? 23 And then will I profess unto them, I never knew you: depart from me, ye that work iniquity.
+36 But when he saw the multitudes, he was moved with compassion on them, because they fainted, and were scattered abroad, as sheep having no shepherd. 37 Then saith he unto his disciples, The harvest truly is plenteous, but the labourers are few; 38 Pray ye therefore the Lord of the harvest, that he will send forth labourers into his harvest. 
 
-[Monday 25-September, 2023](https://getbible.net/kjv/Matthew/7/20-23)
+[Tuesday 26-September, 2023](https://getbible.net/kjv/Matthew/9/36-38)
