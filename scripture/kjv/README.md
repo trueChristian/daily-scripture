@@ -1,5 +1,5 @@
-**John 6:60**
+**Psalms 60:11**
 
-60 Many therefore of his disciples, when they had heard this, said, This is an hard saying; who can hear it?
+11 Give us help from trouble: for vain is the help of man.
 
-[Wednesday 27-September, 2023](https://getbible.net/kjv/John/6/60)
+[Thursday 28-September, 2023](https://getbible.net/kjv/Psalms/60/11)

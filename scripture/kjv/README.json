@@ -1,17 +1,17 @@
 {
-  "book": "John",
-  "chapter": "6",
-  "date": "Wednesday 27-September, 2023",
-  "getbible": "https://getbible.net/kjv/John/6/60",
-  "name": "John 6:60",
+  "book": "Psalms",
+  "chapter": "60",
+  "date": "Thursday 28-September, 2023",
+  "getbible": "https://getbible.net/kjv/Psalms/60/11",
+  "name": "Psalms 60:11",
   "scripture": [
     {
-      "nr": "60",
-      "text": "Many therefore of his disciples, when they had heard this, said, This is an hard saying; who can hear it?"
+      "nr": "11",
+      "text": "Give us help from trouble: for vain is the help of man."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "60",
+  "verse": "11",
   "version": "kjv"
 }
