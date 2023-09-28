@@ -1,5 +1,5 @@
-**Psalms 60:11**
+**Proverbs 22:6**
 
-11 Give us help from trouble: for vain is the help of man.
+6 Train up a child in the way he should go: and when he is old, he will not depart from it.
 
-[Thursday 28-September, 2023](https://getbible.net/kjv/Psalms/60/11)
+[Friday 29-September, 2023](https://getbible.net/kjv/Proverbs/22/6)

@@ -1,17 +1,17 @@
 {
-  "book": "Psalms",
-  "chapter": "60",
-  "date": "Thursday 28-September, 2023",
-  "getbible": "https://getbible.net/kjv/Psalms/60/11",
-  "name": "Psalms 60:11",
+  "book": "Proverbs",
+  "chapter": "22",
+  "date": "Friday 29-September, 2023",
+  "getbible": "https://getbible.net/kjv/Proverbs/22/6",
+  "name": "Proverbs 22:6",
   "scripture": [
     {
-      "nr": "11",
-      "text": "Give us help from trouble: for vain is the help of man."
+      "nr": "6",
+      "text": "Train up a child in the way he should go: and when he is old, he will not depart from it."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "11",
+  "verse": "6",
   "version": "kjv"
 }
