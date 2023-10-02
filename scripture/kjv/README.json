@@ -1,17 +1,17 @@
 {
-  "book": "Isaiah",
-  "chapter": "49",
-  "date": "Monday 02-October, 2023",
-  "getbible": "https://getbible.net/kjv/Isaiah/49/25",
-  "name": "Isaiah 49:25",
+  "book": "1 John",
+  "chapter": "4",
+  "date": "Tuesday 03-October, 2023",
+  "getbible": "https://getbible.net/kjv/1 John/4/20",
+  "name": "1 John 4:20",
   "scripture": [
     {
-      "nr": "25",
-      "text": "But thus saith the Lord, Even the captives of the mighty shall be taken away, and the prey of the terrible shall be delivered: for I will contend with him that contendeth with thee, and I will save thy children."
+      "nr": "20",
+      "text": "If a man say, I love God, and hateth his brother, he is a liar: for he that loveth not his brother whom he hath seen, how can he love God whom he hath not seen?"
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "25",
+  "verse": "20",
   "version": "kjv"
 }

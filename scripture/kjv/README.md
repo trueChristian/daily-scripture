@@ -1,5 +1,5 @@
-**Isaiah 49:25**
+**1 John 4:20**
 
-25 But thus saith the Lord, Even the captives of the mighty shall be taken away, and the prey of the terrible shall be delivered: for I will contend with him that contendeth with thee, and I will save thy children.
+20 If a man say, I love God, and hateth his brother, he is a liar: for he that loveth not his brother whom he hath seen, how can he love God whom he hath not seen?
 
-[Monday 02-October, 2023](https://getbible.net/kjv/Isaiah/49/25)
+[Tuesday 03-October, 2023](https://getbible.net/kjv/1 John/4/20)
