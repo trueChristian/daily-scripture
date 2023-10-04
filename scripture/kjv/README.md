@@ -1,5 +1,5 @@
-**Hebrews 3:1-2**
+**Colossians 3:16**
 
-1 Wherefore, holy brethren, partakers of the heavenly calling, consider the Apostle and High Priest of our profession, Christ Jesus; 2 Who was faithful to him that appointed him, as also Moses was faithful in all his house.
+16 Let the word of Christ dwell in you richly in all wisdom; teaching and admonishing one another in psalms and hymns and spiritual songs, singing with grace in your hearts to the Lord.
 
-[Wednesday 04-October, 2023](https://getbible.net/kjv/Hebrews/3/1-2)
+[Thursday 05-October, 2023](https://getbible.net/kjv/Colossians/3/16)

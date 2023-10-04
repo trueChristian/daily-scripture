@@ -1,21 +1,17 @@
 {
-  "book": "Hebrews",
+  "book": "Colossians",
   "chapter": "3",
-  "date": "Wednesday 04-October, 2023",
-  "getbible": "https://getbible.net/kjv/Hebrews/3/1-2",
-  "name": "Hebrews 3:1-2",
+  "date": "Thursday 05-October, 2023",
+  "getbible": "https://getbible.net/kjv/Colossians/3/16",
+  "name": "Colossians 3:16",
   "scripture": [
     {
-      "nr": "1",
-      "text": "Wherefore, holy brethren, partakers of the heavenly calling, consider the Apostle and High Priest of our profession, Christ Jesus;"
-    },
-    {
-      "nr": "2",
-      "text": "Who was faithful to him that appointed him, as also Moses was faithful in all his house."
+      "nr": "16",
+      "text": "Let the word of Christ dwell in you richly in all wisdom; teaching and admonishing one another in psalms and hymns and spiritual songs, singing with grace in your hearts to the Lord."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "1-2",
+  "verse": "16",
   "version": "kjv"
 }
