@@ -1,5 +1,5 @@
-**Colossians 3:16**
+**Philippians 2:3**
 
-16 Let the word of Christ dwell in you richly in all wisdom; teaching and admonishing one another in psalms and hymns and spiritual songs, singing with grace in your hearts to the Lord.
+3 Let nothing be done through strife or vainglory; but in lowliness of mind let each esteem other better than themselves.
 
-[Thursday 05-October, 2023](https://getbible.net/kjv/Colossians/3/16)
+[Friday 06-October, 2023](https://getbible.net/kjv/Philippians/2/3)
