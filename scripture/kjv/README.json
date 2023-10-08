@@ -1,17 +1,17 @@
 {
-  "book": "Proverbs",
-  "chapter": "18",
-  "date": "Sunday 08-October, 2023",
-  "getbible": "https://getbible.net/kjv/Proverbs/18/24",
-  "name": "Proverbs 18:24",
+  "book": "Judges",
+  "chapter": "13",
+  "date": "Monday 09-October, 2023",
+  "getbible": "https://getbible.net/kjv/Judges/13/25",
+  "name": "Judges 13:25",
   "scripture": [
     {
-      "nr": "24",
-      "text": "A man that hath friends must shew himself friendly: and there is a friend that sticketh closer than a brother. "
+      "nr": "25",
+      "text": "And the Spirit of the Lord began to move him at times in the camp of Dan between Zorah and Eshtaol. "
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "24",
+  "verse": "25",
   "version": "kjv"
 }

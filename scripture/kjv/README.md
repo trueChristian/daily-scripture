@@ -1,5 +1,5 @@
-**Proverbs 18:24**
+**Judges 13:25**
 
-24 A man that hath friends must shew himself friendly: and there is a friend that sticketh closer than a brother. 
+25 And the Spirit of the Lord began to move him at times in the camp of Dan between Zorah and Eshtaol. 
 
-[Sunday 08-October, 2023](https://getbible.net/kjv/Proverbs/18/24)
+[Monday 09-October, 2023](https://getbible.net/kjv/Judges/13/25)
