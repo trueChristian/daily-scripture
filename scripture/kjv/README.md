@@ -1,5 +1,5 @@
-**Judges 13:25**
+**Mark 1:35**
 
-25 And the Spirit of the Lord began to move him at times in the camp of Dan between Zorah and Eshtaol. 
+35 And in the morning, rising up a great while before day, he went out, and departed into a solitary place, and there prayed.
 
-[Monday 09-October, 2023](https://getbible.net/kjv/Judges/13/25)
+[Tuesday 10-October, 2023](https://getbible.net/kjv/Mark/1/35)

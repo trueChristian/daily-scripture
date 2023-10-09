@@ -1,17 +1,17 @@
 {
-  "book": "Judges",
-  "chapter": "13",
-  "date": "Monday 09-October, 2023",
-  "getbible": "https://getbible.net/kjv/Judges/13/25",
-  "name": "Judges 13:25",
+  "book": "Mark",
+  "chapter": "1",
+  "date": "Tuesday 10-October, 2023",
+  "getbible": "https://getbible.net/kjv/Mark/1/35",
+  "name": "Mark 1:35",
   "scripture": [
     {
-      "nr": "25",
-      "text": "And the Spirit of the Lord began to move him at times in the camp of Dan between Zorah and Eshtaol. "
+      "nr": "35",
+      "text": "And in the morning, rising up a great while before day, he went out, and departed into a solitary place, and there prayed."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "25",
+  "verse": "35",
   "version": "kjv"
 }
