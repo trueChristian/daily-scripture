@@ -1,17 +1,17 @@
 {
-  "book": "Isaiah",
-  "chapter": "30",
-  "date": "Wednesday 11-October, 2023",
-  "getbible": "https://getbible.net/kjv/Isaiah/30/26",
-  "name": "Isaiah 30:26",
+  "book": "Psalms",
+  "chapter": "115",
+  "date": "Thursday 12-October, 2023",
+  "getbible": "https://getbible.net/kjv/Psalms/115/1",
+  "name": "Psalms 115:1",
   "scripture": [
     {
-      "nr": "26",
-      "text": "Moreover the light of the moon shall be as the light of the sun, and the light of the sun shall be sevenfold, as the light of seven days, in the day that the Lord bindeth up the breach of his people, and healeth the stroke of their wound."
+      "nr": "1",
+      "text": "Not unto us, O Lord, not unto us, but unto thy name give glory, for thy mercy, and for thy truth’s sake."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "26",
+  "verse": "1",
   "version": "kjv"
 }
