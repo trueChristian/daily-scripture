@@ -1,5 +1,5 @@
-**Psalms 115:1**
+**Revelation 1:5**
 
-1 Not unto us, O Lord, not unto us, but unto thy name give glory, for thy mercy, and for thy truth’s sake.
+5 And from Jesus Christ, who is the faithful witness, and the first begotten of the dead, and the prince of the kings of the earth. Unto him that loved us, and washed us from our sins in his own blood,
 
-[Thursday 12-October, 2023](https://getbible.net/kjv/Psalms/115/1)
+[Friday 13-October, 2023](https://getbible.net/kjv/Revelation/1/5)

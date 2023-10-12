@@ -1,17 +1,17 @@
 {
-  "book": "Psalms",
-  "chapter": "115",
-  "date": "Thursday 12-October, 2023",
-  "getbible": "https://getbible.net/kjv/Psalms/115/1",
-  "name": "Psalms 115:1",
+  "book": "Revelation",
+  "chapter": "1",
+  "date": "Friday 13-October, 2023",
+  "getbible": "https://getbible.net/kjv/Revelation/1/5",
+  "name": "Revelation 1:5",
   "scripture": [
     {
-      "nr": "1",
-      "text": "Not unto us, O Lord, not unto us, but unto thy name give glory, for thy mercy, and for thy truth’s sake."
+      "nr": "5",
+      "text": "And from Jesus Christ, who is the faithful witness, and the first begotten of the dead, and the prince of the kings of the earth. Unto him that loved us, and washed us from our sins in his own blood,"
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "1",
+  "verse": "5",
   "version": "kjv"
 }
