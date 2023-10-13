@@ -1,5 +1,5 @@
-**Revelation 1:5**
+**1 Corinthians 6:18**
 
-5 And from Jesus Christ, who is the faithful witness, and the first begotten of the dead, and the prince of the kings of the earth. Unto him that loved us, and washed us from our sins in his own blood,
+18 Flee fornication. Every sin that a man doeth is without the body; but he that committeth fornication sinneth against his own body.
 
-[Friday 13-October, 2023](https://getbible.net/kjv/Revelation/1/5)
+[Saturday 14-October, 2023](https://getbible.net/kjv/1 Corinthians/6/18)
