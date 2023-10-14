@@ -1,5 +1,5 @@
-**1 Corinthians 6:18**
+**Philippians 4:4**
 
-18 Flee fornication. Every sin that a man doeth is without the body; but he that committeth fornication sinneth against his own body.
+4 Rejoice in the Lord alway: and again I say, Rejoice.
 
-[Saturday 14-October, 2023](https://getbible.net/kjv/1 Corinthians/6/18)
+[Sunday 15-October, 2023](https://getbible.net/kjv/Philippians/4/4)
