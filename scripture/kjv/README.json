@@ -1,17 +1,17 @@
 {
-  "book": "Philippians",
-  "chapter": "4",
-  "date": "Sunday 15-October, 2023",
-  "getbible": "https://getbible.net/kjv/Philippians/4/4",
-  "name": "Philippians 4:4",
+  "book": "1 John",
+  "chapter": "2",
+  "date": "Monday 16-October, 2023",
+  "getbible": "https://getbible.net/kjv/1 John/2/20",
+  "name": "1 John 2:20",
   "scripture": [
     {
-      "nr": "4",
-      "text": "Rejoice in the Lord alway: and again I say, Rejoice."
+      "nr": "20",
+      "text": "But ye have an unction from the Holy One, and ye know all things."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "4",
+  "verse": "20",
   "version": "kjv"
 }

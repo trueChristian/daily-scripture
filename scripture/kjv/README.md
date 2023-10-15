@@ -1,5 +1,5 @@
-**Philippians 4:4**
+**1 John 2:20**
 
-4 Rejoice in the Lord alway: and again I say, Rejoice.
+20 But ye have an unction from the Holy One, and ye know all things.
 
-[Sunday 15-October, 2023](https://getbible.net/kjv/Philippians/4/4)
+[Monday 16-October, 2023](https://getbible.net/kjv/1 John/2/20)
