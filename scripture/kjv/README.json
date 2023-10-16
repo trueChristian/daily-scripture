@@ -1,17 +1,17 @@
 {
-  "book": "1 John",
-  "chapter": "2",
-  "date": "Monday 16-October, 2023",
-  "getbible": "https://getbible.net/kjv/1 John/2/20",
-  "name": "1 John 2:20",
+  "book": "1 Corinthians",
+  "chapter": "7",
+  "date": "Tuesday 17-October, 2023",
+  "getbible": "https://getbible.net/kjv/1 Corinthians/7/9",
+  "name": "1 Corinthians 7:9",
   "scripture": [
     {
-      "nr": "20",
-      "text": "But ye have an unction from the Holy One, and ye know all things."
+      "nr": "9",
+      "text": "But if they cannot contain, let them marry: for it is better to marry than to burn."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "20",
+  "verse": "9",
   "version": "kjv"
 }

@@ -1,5 +1,5 @@
-**1 John 2:20**
+**1 Corinthians 7:9**
 
-20 But ye have an unction from the Holy One, and ye know all things.
+9 But if they cannot contain, let them marry: for it is better to marry than to burn.
 
-[Monday 16-October, 2023](https://getbible.net/kjv/1 John/2/20)
+[Tuesday 17-October, 2023](https://getbible.net/kjv/1 Corinthians/7/9)
