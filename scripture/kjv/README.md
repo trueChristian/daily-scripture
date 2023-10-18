@@ -1,5 +1,5 @@
-**1 John 3:16-18**
+**Proverbs 26:12**
 
-16 Hereby perceive we the love of God, because he laid down his life for us: and we ought to lay down our lives for the brethren. 17 But whoso hath this world’s good, and seeth his brother have need, and shutteth up his bowels of compassion from him, how dwelleth the love of God in him? 18 My little children, let us not love in word, neither in tongue; but in deed and in truth.
+12 Seest thou a man wise in his own conceit? there is more hope of a fool than of him.
 
-[Wednesday 18-October, 2023](https://getbible.net/kjv/1 John/3/16-18)
+[Thursday 19-October, 2023](https://getbible.net/kjv/Proverbs/26/12)

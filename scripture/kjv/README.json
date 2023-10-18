@@ -1,25 +1,17 @@
 {
-  "book": "1 John",
-  "chapter": "3",
-  "date": "Wednesday 18-October, 2023",
-  "getbible": "https://getbible.net/kjv/1 John/3/16-18",
-  "name": "1 John 3:16-18",
+  "book": "Proverbs",
+  "chapter": "26",
+  "date": "Thursday 19-October, 2023",
+  "getbible": "https://getbible.net/kjv/Proverbs/26/12",
+  "name": "Proverbs 26:12",
   "scripture": [
     {
-      "nr": "16",
-      "text": "Hereby perceive we the love of God, because he laid down his life for us: and we ought to lay down our lives for the brethren."
-    },
-    {
-      "nr": "17",
-      "text": "But whoso hath this world’s good, and seeth his brother have need, and shutteth up his bowels of compassion from him, how dwelleth the love of God in him?"
-    },
-    {
-      "nr": "18",
-      "text": "My little children, let us not love in word, neither in tongue; but in deed and in truth."
+      "nr": "12",
+      "text": "Seest thou a man wise in his own conceit? there is more hope of a fool than of him."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "16-18",
+  "verse": "12",
   "version": "kjv"
 }
