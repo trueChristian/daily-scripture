@@ -1,17 +1,17 @@
 {
-  "book": "Proverbs",
-  "chapter": "26",
-  "date": "Thursday 19-October, 2023",
-  "getbible": "https://getbible.net/kjv/Proverbs/26/12",
-  "name": "Proverbs 26:12",
+  "book": "John",
+  "chapter": "3",
+  "date": "Friday 20-October, 2023",
+  "getbible": "https://getbible.net/kjv/John/3/11",
+  "name": "John 3:11",
   "scripture": [
     {
-      "nr": "12",
-      "text": "Seest thou a man wise in his own conceit? there is more hope of a fool than of him."
+      "nr": "11",
+      "text": "Verily, verily, I say unto thee, We speak that we do know, and testify that we have seen; and ye receive not our witness."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "12",
+  "verse": "11",
   "version": "kjv"
 }

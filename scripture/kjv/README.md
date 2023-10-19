@@ -1,5 +1,5 @@
-**Proverbs 26:12**
+**John 3:11**
 
-12 Seest thou a man wise in his own conceit? there is more hope of a fool than of him.
+11 Verily, verily, I say unto thee, We speak that we do know, and testify that we have seen; and ye receive not our witness.
 
-[Thursday 19-October, 2023](https://getbible.net/kjv/Proverbs/26/12)
+[Friday 20-October, 2023](https://getbible.net/kjv/John/3/11)
