@@ -1,17 +1,21 @@
 {
-  "book": "John",
-  "chapter": "3",
-  "date": "Friday 20-October, 2023",
-  "getbible": "https://getbible.net/kjv/John/3/11",
-  "name": "John 3:11",
+  "book": "James",
+  "chapter": "5",
+  "date": "Saturday 21-October, 2023",
+  "getbible": "https://getbible.net/kjv/James/5/10-11",
+  "name": "James 5:10-11",
   "scripture": [
     {
+      "nr": "10",
+      "text": "Take, my brethren, the prophets, who have spoken in the name of the Lord, for an example of suffering affliction, and of patience."
+    },
+    {
       "nr": "11",
-      "text": "Verily, verily, I say unto thee, We speak that we do know, and testify that we have seen; and ye receive not our witness."
+      "text": "Behold, we count them happy which endure. Ye have heard of the patience of Job, and have seen the end of the Lord; that the Lord is very pitiful, and of tender mercy."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "11",
+  "verse": "10-11",
   "version": "kjv"
 }
