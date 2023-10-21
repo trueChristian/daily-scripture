@@ -1,21 +1,17 @@
 {
-  "book": "James",
-  "chapter": "5",
-  "date": "Saturday 21-October, 2023",
-  "getbible": "https://getbible.net/kjv/James/5/10-11",
-  "name": "James 5:10-11",
+  "book": "Proverbs",
+  "chapter": "3",
+  "date": "Sunday 22-October, 2023",
+  "getbible": "https://getbible.net/kjv/Proverbs/3/27",
+  "name": "Proverbs 3:27",
   "scripture": [
     {
-      "nr": "10",
-      "text": "Take, my brethren, the prophets, who have spoken in the name of the Lord, for an example of suffering affliction, and of patience."
-    },
-    {
-      "nr": "11",
-      "text": "Behold, we count them happy which endure. Ye have heard of the patience of Job, and have seen the end of the Lord; that the Lord is very pitiful, and of tender mercy."
+      "nr": "27",
+      "text": "Withhold not good from them to whom it is due, when it is in the power of thine hand to do it."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "10-11",
+  "verse": "27",
   "version": "kjv"
 }

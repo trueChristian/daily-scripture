@@ -1,5 +1,5 @@
-**James 5:10-11**
+**Proverbs 3:27**
 
-10 Take, my brethren, the prophets, who have spoken in the name of the Lord, for an example of suffering affliction, and of patience. 11 Behold, we count them happy which endure. Ye have heard of the patience of Job, and have seen the end of the Lord; that the Lord is very pitiful, and of tender mercy.
+27 Withhold not good from them to whom it is due, when it is in the power of thine hand to do it.
 
-[Saturday 21-October, 2023](https://getbible.net/kjv/James/5/10-11)
+[Sunday 22-October, 2023](https://getbible.net/kjv/Proverbs/3/27)
