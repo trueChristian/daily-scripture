@@ -1,5 +1,5 @@
-**Proverbs 3:27**
+**John 15:11**
 
-27 Withhold not good from them to whom it is due, when it is in the power of thine hand to do it.
+11 These things have I spoken unto you, that my joy might remain in you, and that your joy might be full.
 
-[Sunday 22-October, 2023](https://getbible.net/kjv/Proverbs/3/27)
+[Monday 23-October, 2023](https://getbible.net/kjv/John/15/11)

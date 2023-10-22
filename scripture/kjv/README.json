@@ -1,17 +1,17 @@
 {
-  "book": "Proverbs",
-  "chapter": "3",
-  "date": "Sunday 22-October, 2023",
-  "getbible": "https://getbible.net/kjv/Proverbs/3/27",
-  "name": "Proverbs 3:27",
+  "book": "John",
+  "chapter": "15",
+  "date": "Monday 23-October, 2023",
+  "getbible": "https://getbible.net/kjv/John/15/11",
+  "name": "John 15:11",
   "scripture": [
     {
-      "nr": "27",
-      "text": "Withhold not good from them to whom it is due, when it is in the power of thine hand to do it."
+      "nr": "11",
+      "text": "These things have I spoken unto you, that my joy might remain in you, and that your joy might be full."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "27",
+  "verse": "11",
   "version": "kjv"
 }
