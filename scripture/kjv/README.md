@@ -1,5 +1,5 @@
-**John 15:11**
+**Luke 23:5**
 
-11 These things have I spoken unto you, that my joy might remain in you, and that your joy might be full.
+5 And they were the more fierce, saying, He stirreth up the people, teaching throughout all Jewry, beginning from Galilee to this place.
 
-[Monday 23-October, 2023](https://getbible.net/kjv/John/15/11)
+[Tuesday 24-October, 2023](https://getbible.net/kjv/Luke/23/5)
