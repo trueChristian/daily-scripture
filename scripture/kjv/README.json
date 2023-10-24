@@ -1,17 +1,17 @@
 {
-  "book": "Luke",
-  "chapter": "23",
-  "date": "Tuesday 24-October, 2023",
-  "getbible": "https://getbible.net/kjv/Luke/23/5",
-  "name": "Luke 23:5",
+  "book": "Psalms",
+  "chapter": "18",
+  "date": "Wednesday 25-October, 2023",
+  "getbible": "https://getbible.net/kjv/Psalms/18/21",
+  "name": "Psalms 18:21",
   "scripture": [
     {
-      "nr": "5",
-      "text": "And they were the more fierce, saying, He stirreth up the people, teaching throughout all Jewry, beginning from Galilee to this place."
+      "nr": "21",
+      "text": "For I have kept the ways of the Lord, and have not wickedly departed from my God."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "5",
+  "verse": "21",
   "version": "kjv"
 }

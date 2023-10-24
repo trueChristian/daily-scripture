@@ -1,5 +1,5 @@
-**Luke 23:5**
+**Psalms 18:21**
 
-5 And they were the more fierce, saying, He stirreth up the people, teaching throughout all Jewry, beginning from Galilee to this place.
+21 For I have kept the ways of the Lord, and have not wickedly departed from my God.
 
-[Tuesday 24-October, 2023](https://getbible.net/kjv/Luke/23/5)
+[Wednesday 25-October, 2023](https://getbible.net/kjv/Psalms/18/21)
