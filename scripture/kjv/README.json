@@ -1,17 +1,25 @@
 {
-  "book": "Psalms",
-  "chapter": "18",
-  "date": "Wednesday 25-October, 2023",
-  "getbible": "https://getbible.net/kjv/Psalms/18/21",
-  "name": "Psalms 18:21",
+  "book": "Hebrews",
+  "chapter": "12",
+  "date": "Thursday 26-October, 2023",
+  "getbible": "https://getbible.net/kjv/Hebrews/12/22-24",
+  "name": "Hebrews 12:22-24",
   "scripture": [
     {
-      "nr": "21",
-      "text": "For I have kept the ways of the Lord, and have not wickedly departed from my God."
+      "nr": "22",
+      "text": "But ye are come unto mount Sion, and unto the city of the living God, the heavenly Jerusalem, and to an innumerable company of angels,"
+    },
+    {
+      "nr": "23",
+      "text": "To the general assembly and church of the firstborn, which are written in heaven, and to God the Judge of all, and to the spirits of just men made perfect,"
+    },
+    {
+      "nr": "24",
+      "text": "And to Jesus the mediator of the new covenant, and to the blood of sprinkling, that speaketh better things than that of Abel."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "21",
+  "verse": "22-24",
   "version": "kjv"
 }
