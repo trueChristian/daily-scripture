@@ -1,25 +1,37 @@
 {
-  "book": "Hebrews",
-  "chapter": "12",
-  "date": "Thursday 26-October, 2023",
-  "getbible": "https://getbible.net/kjv/Hebrews/12/22-24",
-  "name": "Hebrews 12:22-24",
+  "book": "James",
+  "chapter": "3",
+  "date": "Friday 27-October, 2023",
+  "getbible": "https://getbible.net/kjv/James/3/13-18",
+  "name": "James 3:13-18",
   "scripture": [
     {
-      "nr": "22",
-      "text": "But ye are come unto mount Sion, and unto the city of the living God, the heavenly Jerusalem, and to an innumerable company of angels,"
+      "nr": "13",
+      "text": "Who is a wise man and endued with knowledge among you? let him shew out of a good conversation his works with meekness of wisdom."
     },
     {
-      "nr": "23",
-      "text": "To the general assembly and church of the firstborn, which are written in heaven, and to God the Judge of all, and to the spirits of just men made perfect,"
+      "nr": "14",
+      "text": "But if ye have bitter envying and strife in your hearts, glory not, and lie not against the truth."
     },
     {
-      "nr": "24",
-      "text": "And to Jesus the mediator of the new covenant, and to the blood of sprinkling, that speaketh better things than that of Abel."
+      "nr": "15",
+      "text": "This wisdom descendeth not from above, but is earthly, sensual, devilish."
+    },
+    {
+      "nr": "16",
+      "text": "For where envying and strife is, there is confusion and every evil work."
+    },
+    {
+      "nr": "17",
+      "text": "But the wisdom that is from above is first pure, then peaceable, gentle, and easy to be intreated, full of mercy and good fruits, without partiality, and without hypocrisy."
+    },
+    {
+      "nr": "18",
+      "text": "And the fruit of righteousness is sown in peace of them that make peace. "
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "22-24",
+  "verse": "13-18",
   "version": "kjv"
 }
