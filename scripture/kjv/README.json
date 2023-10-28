@@ -1,17 +1,17 @@
 {
-  "book": "Luke",
-  "chapter": "13",
-  "date": "Saturday 28-October, 2023",
-  "getbible": "https://getbible.net/kjv/Luke/13/30",
-  "name": "Luke 13:30",
+  "book": "Proverbs",
+  "chapter": "20",
+  "date": "Sunday 29-October, 2023",
+  "getbible": "https://getbible.net/kjv/Proverbs/20/6",
+  "name": "Proverbs 20:6",
   "scripture": [
     {
-      "nr": "30",
-      "text": "And, behold, there are last which shall be first, and there are first which shall be last."
+      "nr": "6",
+      "text": "Most men will proclaim every one his own goodness: but a faithful man who can find?"
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "30",
+  "verse": "6",
   "version": "kjv"
 }
