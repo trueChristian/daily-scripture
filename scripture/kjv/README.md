@@ -1,5 +1,5 @@
-**Hebrews 6:1-2**
+**Proverbs 10:18**
 
-1 Therefore leaving the principles of the doctrine of Christ, let us go on unto perfection; not laying again the foundation of repentance from dead works, and of faith toward God, 2 Of the doctrine of baptisms, and of laying on of hands, and of resurrection of the dead, and of eternal judgment.
+18 He that hideth hatred with lying lips, and he that uttereth a slander, is a fool.
 
-[Monday 30-October, 2023](https://getbible.net/kjv/Hebrews/6/1-2)
+[Tuesday 31-October, 2023](https://getbible.net/kjv/Proverbs/10/18)
