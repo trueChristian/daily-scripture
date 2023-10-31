@@ -1,17 +1,17 @@
 {
-  "book": "Proverbs",
-  "chapter": "10",
-  "date": "Tuesday 31-October, 2023",
-  "getbible": "https://getbible.net/kjv/Proverbs/10/18",
-  "name": "Proverbs 10:18",
+  "book": "Ezekiel",
+  "chapter": "12",
+  "date": "Wednesday 01-November, 2023",
+  "getbible": "https://getbible.net/kjv/Ezekiel/12/24",
+  "name": "Ezekiel 12:24",
   "scripture": [
     {
-      "nr": "18",
-      "text": "He that hideth hatred with lying lips, and he that uttereth a slander, is a fool."
+      "nr": "24",
+      "text": "For there shall be no more any vain vision nor flattering divination within the house of Israel."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "18",
+  "verse": "24",
   "version": "kjv"
 }

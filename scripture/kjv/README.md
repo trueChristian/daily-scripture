@@ -1,5 +1,5 @@
-**Proverbs 10:18**
+**Ezekiel 12:24**
 
-18 He that hideth hatred with lying lips, and he that uttereth a slander, is a fool.
+24 For there shall be no more any vain vision nor flattering divination within the house of Israel.
 
-[Tuesday 31-October, 2023](https://getbible.net/kjv/Proverbs/10/18)
+[Wednesday 01-November, 2023](https://getbible.net/kjv/Ezekiel/12/24)
