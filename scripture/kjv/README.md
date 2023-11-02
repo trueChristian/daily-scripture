@@ -1,5 +1,5 @@
-**Joshua 21:44-45**
+**Psalms 43:3-4**
 
-44 And the Lord gave them rest round about, according to all that he sware unto their fathers: and there stood not a man of all their enemies before them; the Lord delivered all their enemies into their hand. 45 There failed not ought of any good thing which the Lord had spoken unto the house of Israel; all came to pass. 
+3 O send out thy light and thy truth: let them lead me; let them bring me unto thy holy hill, and to thy tabernacles. 4 Then will I go unto the altar of God, unto God my exceeding joy: yea, upon the harp will I praise thee, O God my God.
 
-[Thursday 02-November, 2023](https://getbible.net/kjv/Joshua/21/44-45)
+[Friday 03-November, 2023](https://getbible.net/kjv/Psalms/43/3-4)
