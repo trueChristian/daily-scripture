@@ -1,5 +1,5 @@
-**Ephesians 4:11-13**
+**Mark 16:17-18**
 
-11 And he gave some, apostles; and some, prophets; and some, evangelists; and some, pastors and teachers; 12 For the perfecting of the saints, for the work of the ministry, for the edifying of the body of Christ: 13 Till we all come in the unity of the faith, and of the knowledge of the Son of God, unto a perfect man, unto the measure of the stature of the fulness of Christ:
+17 And these signs shall follow them that believe; In my name shall they cast out devils; they shall speak with new tongues; 18 They shall take up serpents; and if they drink any deadly thing, it shall not hurt them; they shall lay hands on the sick, and they shall recover.
 
-[Saturday 04-November, 2023](https://getbible.net/kjv/Ephesians/4/11-13)
+[Sunday 05-November, 2023](https://getbible.net/kjv/Mark/16/17-18)

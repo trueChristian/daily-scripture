@@ -1,25 +1,21 @@
 {
-  "book": "Ephesians",
-  "chapter": "4",
-  "date": "Saturday 04-November, 2023",
-  "getbible": "https://getbible.net/kjv/Ephesians/4/11-13",
-  "name": "Ephesians 4:11-13",
+  "book": "Mark",
+  "chapter": "16",
+  "date": "Sunday 05-November, 2023",
+  "getbible": "https://getbible.net/kjv/Mark/16/17-18",
+  "name": "Mark 16:17-18",
   "scripture": [
     {
-      "nr": "11",
-      "text": "And he gave some, apostles; and some, prophets; and some, evangelists; and some, pastors and teachers;"
+      "nr": "17",
+      "text": "And these signs shall follow them that believe; In my name shall they cast out devils; they shall speak with new tongues;"
     },
     {
-      "nr": "12",
-      "text": "For the perfecting of the saints, for the work of the ministry, for the edifying of the body of Christ:"
-    },
-    {
-      "nr": "13",
-      "text": "Till we all come in the unity of the faith, and of the knowledge of the Son of God, unto a perfect man, unto the measure of the stature of the fulness of Christ:"
+      "nr": "18",
+      "text": "They shall take up serpents; and if they drink any deadly thing, it shall not hurt them; they shall lay hands on the sick, and they shall recover."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "11-13",
+  "verse": "17-18",
   "version": "kjv"
 }
