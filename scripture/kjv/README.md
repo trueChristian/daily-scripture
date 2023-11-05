@@ -1,5 +1,5 @@
-**Mark 16:17-18**
+**Haggai 2:8**
 
-17 And these signs shall follow them that believe; In my name shall they cast out devils; they shall speak with new tongues; 18 They shall take up serpents; and if they drink any deadly thing, it shall not hurt them; they shall lay hands on the sick, and they shall recover.
+8 The silver is mine, and the gold is mine, saith the Lord of hosts.
 
-[Sunday 05-November, 2023](https://getbible.net/kjv/Mark/16/17-18)
+[Monday 06-November, 2023](https://getbible.net/kjv/Haggai/2/8)

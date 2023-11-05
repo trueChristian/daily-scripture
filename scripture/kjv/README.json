@@ -1,21 +1,17 @@
 {
-  "book": "Mark",
-  "chapter": "16",
-  "date": "Sunday 05-November, 2023",
-  "getbible": "https://getbible.net/kjv/Mark/16/17-18",
-  "name": "Mark 16:17-18",
+  "book": "Haggai",
+  "chapter": "2",
+  "date": "Monday 06-November, 2023",
+  "getbible": "https://getbible.net/kjv/Haggai/2/8",
+  "name": "Haggai 2:8",
   "scripture": [
     {
-      "nr": "17",
-      "text": "And these signs shall follow them that believe; In my name shall they cast out devils; they shall speak with new tongues;"
-    },
-    {
-      "nr": "18",
-      "text": "They shall take up serpents; and if they drink any deadly thing, it shall not hurt them; they shall lay hands on the sick, and they shall recover."
+      "nr": "8",
+      "text": "The silver is mine, and the gold is mine, saith the Lord of hosts."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "17-18",
+  "verse": "8",
   "version": "kjv"
 }
