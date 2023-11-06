@@ -1,17 +1,17 @@
 {
-  "book": "Haggai",
-  "chapter": "2",
-  "date": "Monday 06-November, 2023",
-  "getbible": "https://getbible.net/kjv/Haggai/2/8",
-  "name": "Haggai 2:8",
+  "book": "Psalms",
+  "chapter": "34",
+  "date": "Tuesday 07-November, 2023",
+  "getbible": "https://getbible.net/kjv/Psalms/34/18",
+  "name": "Psalms 34:18",
   "scripture": [
     {
-      "nr": "8",
-      "text": "The silver is mine, and the gold is mine, saith the Lord of hosts."
+      "nr": "18",
+      "text": "The Lord is nigh unto them that are of a broken heart; and saveth such as be of a contrite spirit."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "8",
+  "verse": "18",
   "version": "kjv"
 }

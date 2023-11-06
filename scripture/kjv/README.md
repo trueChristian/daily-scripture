@@ -1,5 +1,5 @@
-**Haggai 2:8**
+**Psalms 34:18**
 
-8 The silver is mine, and the gold is mine, saith the Lord of hosts.
+18 The Lord is nigh unto them that are of a broken heart; and saveth such as be of a contrite spirit.
 
-[Monday 06-November, 2023](https://getbible.net/kjv/Haggai/2/8)
+[Tuesday 07-November, 2023](https://getbible.net/kjv/Psalms/34/18)
