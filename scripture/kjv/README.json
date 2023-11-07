@@ -1,17 +1,17 @@
 {
-  "book": "Psalms",
-  "chapter": "34",
-  "date": "Tuesday 07-November, 2023",
-  "getbible": "https://getbible.net/kjv/Psalms/34/18",
-  "name": "Psalms 34:18",
+  "book": "2 Timothy",
+  "chapter": "2",
+  "date": "Wednesday 08-November, 2023",
+  "getbible": "https://getbible.net/kjv/2 Timothy/2/19",
+  "name": "2 Timothy 2:19",
   "scripture": [
     {
-      "nr": "18",
-      "text": "The Lord is nigh unto them that are of a broken heart; and saveth such as be of a contrite spirit."
+      "nr": "19",
+      "text": "Nevertheless the foundation of God standeth sure, having this seal, The Lord knoweth them that are his. And, Let every one that nameth the name of Christ depart from iniquity."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "18",
+  "verse": "19",
   "version": "kjv"
 }

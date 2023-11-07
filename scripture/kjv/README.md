@@ -1,5 +1,5 @@
-**Psalms 34:18**
+**2 Timothy 2:19**
 
-18 The Lord is nigh unto them that are of a broken heart; and saveth such as be of a contrite spirit.
+19 Nevertheless the foundation of God standeth sure, having this seal, The Lord knoweth them that are his. And, Let every one that nameth the name of Christ depart from iniquity.
 
-[Tuesday 07-November, 2023](https://getbible.net/kjv/Psalms/34/18)
+[Wednesday 08-November, 2023](https://getbible.net/kjv/2 Timothy/2/19)
