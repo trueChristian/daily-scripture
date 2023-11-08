@@ -1,5 +1,5 @@
-**2 Timothy 2:19**
+**Proverbs 24:10**
 
-19 Nevertheless the foundation of God standeth sure, having this seal, The Lord knoweth them that are his. And, Let every one that nameth the name of Christ depart from iniquity.
+10 If thou faint in the day of adversity, thy strength is small.
 
-[Wednesday 08-November, 2023](https://getbible.net/kjv/2 Timothy/2/19)
+[Thursday 09-November, 2023](https://getbible.net/kjv/Proverbs/24/10)
