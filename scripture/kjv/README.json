@@ -1,17 +1,17 @@
 {
-  "book": "Proverbs",
-  "chapter": "24",
-  "date": "Thursday 09-November, 2023",
-  "getbible": "https://getbible.net/kjv/Proverbs/24/10",
-  "name": "Proverbs 24:10",
+  "book": "Psalms",
+  "chapter": "68",
+  "date": "Friday 10-November, 2023",
+  "getbible": "https://getbible.net/kjv/Psalms/68/18",
+  "name": "Psalms 68:18",
   "scripture": [
     {
-      "nr": "10",
-      "text": "If thou faint in the day of adversity, thy strength is small."
+      "nr": "18",
+      "text": "Thou hast ascended on high, thou hast led captivity captive: thou hast received gifts for men; yea, for the rebellious also, that the Lord God might dwell among them."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "10",
+  "verse": "18",
   "version": "kjv"
 }
