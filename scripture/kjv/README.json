@@ -1,17 +1,17 @@
 {
-  "book": "Psalms",
-  "chapter": "68",
-  "date": "Friday 10-November, 2023",
-  "getbible": "https://getbible.net/kjv/Psalms/68/18",
-  "name": "Psalms 68:18",
+  "book": "Isaiah",
+  "chapter": "3",
+  "date": "Saturday 11-November, 2023",
+  "getbible": "https://getbible.net/kjv/Isaiah/3/11",
+  "name": "Isaiah 3:11",
   "scripture": [
     {
-      "nr": "18",
-      "text": "Thou hast ascended on high, thou hast led captivity captive: thou hast received gifts for men; yea, for the rebellious also, that the Lord God might dwell among them."
+      "nr": "11",
+      "text": "Woe unto the wicked! it shall be ill with him: for the reward of his hands shall be given him."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "18",
+  "verse": "11",
   "version": "kjv"
 }
