@@ -1,17 +1,17 @@
 {
-  "book": "Isaiah",
-  "chapter": "3",
-  "date": "Saturday 11-November, 2023",
-  "getbible": "https://getbible.net/kjv/Isaiah/3/11",
-  "name": "Isaiah 3:11",
+  "book": "1 Corinthians",
+  "chapter": "15",
+  "date": "Sunday 12-November, 2023",
+  "getbible": "https://getbible.net/kjv/1 Corinthians/15/10",
+  "name": "1 Corinthians 15:10",
   "scripture": [
     {
-      "nr": "11",
-      "text": "Woe unto the wicked! it shall be ill with him: for the reward of his hands shall be given him."
+      "nr": "10",
+      "text": "But by the grace of God I am what I am: and his grace which was bestowed upon me was not in vain; but I laboured more abundantly than they all: yet not I, but the grace of God which was with me."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "11",
+  "verse": "10",
   "version": "kjv"
 }
