@@ -1,5 +1,5 @@
-**1 Corinthians 15:10**
+**Luke 23:12**
 
-10 But by the grace of God I am what I am: and his grace which was bestowed upon me was not in vain; but I laboured more abundantly than they all: yet not I, but the grace of God which was with me.
+12 And the same day Pilate and Herod were made friends together: for before they were at enmity between themselves.
 
-[Sunday 12-November, 2023](https://getbible.net/kjv/1 Corinthians/15/10)
+[Monday 13-November, 2023](https://getbible.net/kjv/Luke/23/12)
