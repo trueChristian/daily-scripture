@@ -1,5 +1,5 @@
-**Luke 23:12**
+**Romans 6:1-2**
 
-12 And the same day Pilate and Herod were made friends together: for before they were at enmity between themselves.
+1 What shall we say then? Shall we continue in sin, that grace may abound? 2 God forbid. How shall we, that are dead to sin, live any longer therein?
 
-[Monday 13-November, 2023](https://getbible.net/kjv/Luke/23/12)
+[Tuesday 14-November, 2023](https://getbible.net/kjv/Romans/6/1-2)

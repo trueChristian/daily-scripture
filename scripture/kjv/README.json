@@ -1,17 +1,21 @@
 {
-  "book": "Luke",
-  "chapter": "23",
-  "date": "Monday 13-November, 2023",
-  "getbible": "https://getbible.net/kjv/Luke/23/12",
-  "name": "Luke 23:12",
+  "book": "Romans",
+  "chapter": "6",
+  "date": "Tuesday 14-November, 2023",
+  "getbible": "https://getbible.net/kjv/Romans/6/1-2",
+  "name": "Romans 6:1-2",
   "scripture": [
     {
-      "nr": "12",
-      "text": "And the same day Pilate and Herod were made friends together: for before they were at enmity between themselves."
+      "nr": "1",
+      "text": "What shall we say then? Shall we continue in sin, that grace may abound?"
+    },
+    {
+      "nr": "2",
+      "text": "God forbid. How shall we, that are dead to sin, live any longer therein?"
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "12",
+  "verse": "1-2",
   "version": "kjv"
 }
