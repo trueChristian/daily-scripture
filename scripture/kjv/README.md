@@ -1,5 +1,5 @@
-**Romans 6:1-2**
+**Luke 2:27**
 
-1 What shall we say then? Shall we continue in sin, that grace may abound? 2 God forbid. How shall we, that are dead to sin, live any longer therein?
+27 And he came by the Spirit into the temple: and when the parents brought in the child Jesus, to do for him after the custom of the law,
 
-[Tuesday 14-November, 2023](https://getbible.net/kjv/Romans/6/1-2)
+[Wednesday 15-November, 2023](https://getbible.net/kjv/Luke/2/27)
