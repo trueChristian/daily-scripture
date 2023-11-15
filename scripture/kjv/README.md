@@ -1,5 +1,5 @@
-**Luke 2:27**
+**Daniel 4:26**
 
-27 And he came by the Spirit into the temple: and when the parents brought in the child Jesus, to do for him after the custom of the law,
+26 And whereas they commanded to leave the stump of the tree roots; thy kingdom shall be sure unto thee, after that thou shalt have known that the heavens do rule.
 
-[Wednesday 15-November, 2023](https://getbible.net/kjv/Luke/2/27)
+[Thursday 16-November, 2023](https://getbible.net/kjv/Daniel/4/26)
