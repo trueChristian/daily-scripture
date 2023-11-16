@@ -1,17 +1,17 @@
 {
-  "book": "Daniel",
-  "chapter": "4",
-  "date": "Thursday 16-November, 2023",
-  "getbible": "https://getbible.net/kjv/Daniel/4/26",
-  "name": "Daniel 4:26",
+  "book": "Romans",
+  "chapter": "13",
+  "date": "Friday 17-November, 2023",
+  "getbible": "https://getbible.net/kjv/Romans/13/14",
+  "name": "Romans 13:14",
   "scripture": [
     {
-      "nr": "26",
-      "text": "And whereas they commanded to leave the stump of the tree roots; thy kingdom shall be sure unto thee, after that thou shalt have known that the heavens do rule."
+      "nr": "14",
+      "text": "But put ye on the Lord Jesus Christ, and make not provision for the flesh, to fulfil the lusts thereof. "
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "26",
+  "verse": "14",
   "version": "kjv"
 }

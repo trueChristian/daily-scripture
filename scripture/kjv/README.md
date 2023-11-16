@@ -1,5 +1,5 @@
-**Daniel 4:26**
+**Romans 13:14**
 
-26 And whereas they commanded to leave the stump of the tree roots; thy kingdom shall be sure unto thee, after that thou shalt have known that the heavens do rule.
+14 But put ye on the Lord Jesus Christ, and make not provision for the flesh, to fulfil the lusts thereof. 
 
-[Thursday 16-November, 2023](https://getbible.net/kjv/Daniel/4/26)
+[Friday 17-November, 2023](https://getbible.net/kjv/Romans/13/14)
