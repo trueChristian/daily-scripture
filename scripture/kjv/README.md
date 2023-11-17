@@ -1,5 +1,5 @@
-**Romans 13:14**
+**Proverbs 18:14**
 
-14 But put ye on the Lord Jesus Christ, and make not provision for the flesh, to fulfil the lusts thereof. 
+14 The spirit of a man will sustain his infirmity; but a wounded spirit who can bear?
 
-[Friday 17-November, 2023](https://getbible.net/kjv/Romans/13/14)
+[Saturday 18-November, 2023](https://getbible.net/kjv/Proverbs/18/14)

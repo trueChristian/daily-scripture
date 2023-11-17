@@ -1,13 +1,13 @@
 {
-  "book": "Romans",
-  "chapter": "13",
-  "date": "Friday 17-November, 2023",
-  "getbible": "https://getbible.net/kjv/Romans/13/14",
-  "name": "Romans 13:14",
+  "book": "Proverbs",
+  "chapter": "18",
+  "date": "Saturday 18-November, 2023",
+  "getbible": "https://getbible.net/kjv/Proverbs/18/14",
+  "name": "Proverbs 18:14",
   "scripture": [
     {
       "nr": "14",
-      "text": "But put ye on the Lord Jesus Christ, and make not provision for the flesh, to fulfil the lusts thereof. "
+      "text": "The spirit of a man will sustain his infirmity; but a wounded spirit who can bear?"
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
