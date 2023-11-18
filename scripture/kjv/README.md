@@ -1,5 +1,5 @@
-**Proverbs 18:14**
+**James 4:1**
 
-14 The spirit of a man will sustain his infirmity; but a wounded spirit who can bear?
+1 From whence come wars and fightings among you? come they not hence, even of your lusts that war in your members?
 
-[Saturday 18-November, 2023](https://getbible.net/kjv/Proverbs/18/14)
+[Sunday 19-November, 2023](https://getbible.net/kjv/James/4/1)
