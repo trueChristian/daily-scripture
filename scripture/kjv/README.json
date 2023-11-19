@@ -1,17 +1,21 @@
 {
-  "book": "James",
-  "chapter": "4",
-  "date": "Sunday 19-November, 2023",
-  "getbible": "https://getbible.net/kjv/James/4/1",
-  "name": "James 4:1",
+  "book": "Revelation",
+  "chapter": "17",
+  "date": "Monday 20-November, 2023",
+  "getbible": "https://getbible.net/kjv/Revelation/17/13-14",
+  "name": "Revelation 17:13-14",
   "scripture": [
     {
-      "nr": "1",
-      "text": "From whence come wars and fightings among you? come they not hence, even of your lusts that war in your members?"
+      "nr": "13",
+      "text": "These have one mind, and shall give their power and strength unto the beast."
+    },
+    {
+      "nr": "14",
+      "text": "These shall make war with the Lamb, and the Lamb shall overcome them: for he is Lord of lords, and King of kings: and they that are with him are called, and chosen, and faithful."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "1",
+  "verse": "13-14",
   "version": "kjv"
 }

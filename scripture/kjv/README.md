@@ -1,5 +1,5 @@
-**James 4:1**
+**Revelation 17:13-14**
 
-1 From whence come wars and fightings among you? come they not hence, even of your lusts that war in your members?
+13 These have one mind, and shall give their power and strength unto the beast. 14 These shall make war with the Lamb, and the Lamb shall overcome them: for he is Lord of lords, and King of kings: and they that are with him are called, and chosen, and faithful.
 
-[Sunday 19-November, 2023](https://getbible.net/kjv/James/4/1)
+[Monday 20-November, 2023](https://getbible.net/kjv/Revelation/17/13-14)
