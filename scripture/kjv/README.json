@@ -1,21 +1,25 @@
 {
-  "book": "Revelation",
-  "chapter": "17",
-  "date": "Monday 20-November, 2023",
-  "getbible": "https://getbible.net/kjv/Revelation/17/13-14",
-  "name": "Revelation 17:13-14",
+  "book": "Colossians",
+  "chapter": "1",
+  "date": "Tuesday 21-November, 2023",
+  "getbible": "https://getbible.net/kjv/Colossians/1/21-23",
+  "name": "Colossians 1:21-23",
   "scripture": [
     {
-      "nr": "13",
-      "text": "These have one mind, and shall give their power and strength unto the beast."
+      "nr": "21",
+      "text": "And you, that were sometime alienated and enemies in your mind by wicked works, yet now hath he reconciled"
     },
     {
-      "nr": "14",
-      "text": "These shall make war with the Lamb, and the Lamb shall overcome them: for he is Lord of lords, and King of kings: and they that are with him are called, and chosen, and faithful."
+      "nr": "22",
+      "text": "In the body of his flesh through death, to present you holy and unblameable and unreproveable in his sight:"
+    },
+    {
+      "nr": "23",
+      "text": "If ye continue in the faith grounded and settled, and be not moved away from the hope of the gospel, which ye have heard, and which was preached to every creature which is under heaven; whereof I Paul am made a minister;"
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "13-14",
+  "verse": "21-23",
   "version": "kjv"
 }

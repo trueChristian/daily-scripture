@@ -1,5 +1,5 @@
-**Revelation 17:13-14**
+**Colossians 1:21-23**
 
-13 These have one mind, and shall give their power and strength unto the beast. 14 These shall make war with the Lamb, and the Lamb shall overcome them: for he is Lord of lords, and King of kings: and they that are with him are called, and chosen, and faithful.
+21 And you, that were sometime alienated and enemies in your mind by wicked works, yet now hath he reconciled 22 In the body of his flesh through death, to present you holy and unblameable and unreproveable in his sight: 23 If ye continue in the faith grounded and settled, and be not moved away from the hope of the gospel, which ye have heard, and which was preached to every creature which is under heaven; whereof I Paul am made a minister;
 
-[Monday 20-November, 2023](https://getbible.net/kjv/Revelation/17/13-14)
+[Tuesday 21-November, 2023](https://getbible.net/kjv/Colossians/1/21-23)
