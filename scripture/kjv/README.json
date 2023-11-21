@@ -1,25 +1,17 @@
 {
-  "book": "Colossians",
-  "chapter": "1",
-  "date": "Tuesday 21-November, 2023",
-  "getbible": "https://getbible.net/kjv/Colossians/1/21-23",
-  "name": "Colossians 1:21-23",
+  "book": "Isaiah",
+  "chapter": "56",
+  "date": "Wednesday 22-November, 2023",
+  "getbible": "https://getbible.net/kjv/Isaiah/56/8",
+  "name": "Isaiah 56:8",
   "scripture": [
     {
-      "nr": "21",
-      "text": "And you, that were sometime alienated and enemies in your mind by wicked works, yet now hath he reconciled"
-    },
-    {
-      "nr": "22",
-      "text": "In the body of his flesh through death, to present you holy and unblameable and unreproveable in his sight:"
-    },
-    {
-      "nr": "23",
-      "text": "If ye continue in the faith grounded and settled, and be not moved away from the hope of the gospel, which ye have heard, and which was preached to every creature which is under heaven; whereof I Paul am made a minister;"
+      "nr": "8",
+      "text": "The Lord God which gathereth the outcasts of Israel saith, Yet will I gather others to him, beside those that are gathered unto him."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "21-23",
+  "verse": "8",
   "version": "kjv"
 }
