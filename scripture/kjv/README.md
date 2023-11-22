@@ -1,5 +1,5 @@
-**Isaiah 56:8**
+**Proverbs 21:1**
 
-8 The Lord God which gathereth the outcasts of Israel saith, Yet will I gather others to him, beside those that are gathered unto him.
+1 The king’s heart is in the hand of the Lord, as the rivers of water: he turneth it whithersoever he will.
 
-[Wednesday 22-November, 2023](https://getbible.net/kjv/Isaiah/56/8)
+[Thursday 23-November, 2023](https://getbible.net/kjv/Proverbs/21/1)

@@ -1,17 +1,17 @@
 {
-  "book": "Isaiah",
-  "chapter": "56",
-  "date": "Wednesday 22-November, 2023",
-  "getbible": "https://getbible.net/kjv/Isaiah/56/8",
-  "name": "Isaiah 56:8",
+  "book": "Proverbs",
+  "chapter": "21",
+  "date": "Thursday 23-November, 2023",
+  "getbible": "https://getbible.net/kjv/Proverbs/21/1",
+  "name": "Proverbs 21:1",
   "scripture": [
     {
-      "nr": "8",
-      "text": "The Lord God which gathereth the outcasts of Israel saith, Yet will I gather others to him, beside those that are gathered unto him."
+      "nr": "1",
+      "text": "The king’s heart is in the hand of the Lord, as the rivers of water: he turneth it whithersoever he will."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "8",
+  "verse": "1",
   "version": "kjv"
 }
