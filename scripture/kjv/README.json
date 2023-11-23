@@ -1,17 +1,17 @@
 {
-  "book": "Proverbs",
-  "chapter": "21",
-  "date": "Thursday 23-November, 2023",
-  "getbible": "https://getbible.net/kjv/Proverbs/21/1",
-  "name": "Proverbs 21:1",
+  "book": "John",
+  "chapter": "7",
+  "date": "Friday 24-November, 2023",
+  "getbible": "https://getbible.net/kjv/John/7/6",
+  "name": "John 7:6",
   "scripture": [
     {
-      "nr": "1",
-      "text": "The king’s heart is in the hand of the Lord, as the rivers of water: he turneth it whithersoever he will."
+      "nr": "6",
+      "text": "Then Jesus said unto them, My time is not yet come: but your time is alway ready."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "1",
+  "verse": "6",
   "version": "kjv"
 }

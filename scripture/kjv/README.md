@@ -1,5 +1,5 @@
-**Proverbs 21:1**
+**John 7:6**
 
-1 The king’s heart is in the hand of the Lord, as the rivers of water: he turneth it whithersoever he will.
+6 Then Jesus said unto them, My time is not yet come: but your time is alway ready.
 
-[Thursday 23-November, 2023](https://getbible.net/kjv/Proverbs/21/1)
+[Friday 24-November, 2023](https://getbible.net/kjv/John/7/6)
