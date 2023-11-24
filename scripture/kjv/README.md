@@ -1,5 +1,5 @@
-**John 7:6**
+**Proverbs 3:28**
 
-6 Then Jesus said unto them, My time is not yet come: but your time is alway ready.
+28 Say not unto thy neighbour, Go, and come again, and to morrow I will give; when thou hast it by thee.
 
-[Friday 24-November, 2023](https://getbible.net/kjv/John/7/6)
+[Saturday 25-November, 2023](https://getbible.net/kjv/Proverbs/3/28)
