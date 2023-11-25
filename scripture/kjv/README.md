@@ -1,5 +1,5 @@
-**Proverbs 3:28**
+**Jude 1:20-21**
 
-28 Say not unto thy neighbour, Go, and come again, and to morrow I will give; when thou hast it by thee.
+20 But ye, beloved, building up yourselves on your most holy faith, praying in the Holy Ghost, 21 Keep yourselves in the love of God, looking for the mercy of our Lord Jesus Christ unto eternal life.
 
-[Saturday 25-November, 2023](https://getbible.net/kjv/Proverbs/3/28)
+[Sunday 26-November, 2023](https://getbible.net/kjv/Jude/1/20-21)
