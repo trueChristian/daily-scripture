@@ -1,21 +1,17 @@
 {
-  "book": "Jude",
-  "chapter": "1",
-  "date": "Sunday 26-November, 2023",
-  "getbible": "https://getbible.net/kjv/Jude/1/20-21",
-  "name": "Jude 1:20-21",
+  "book": "John",
+  "chapter": "3",
+  "date": "Monday 27-November, 2023",
+  "getbible": "https://getbible.net/kjv/John/3/34",
+  "name": "John 3:34",
   "scripture": [
     {
-      "nr": "20",
-      "text": "But ye, beloved, building up yourselves on your most holy faith, praying in the Holy Ghost,"
-    },
-    {
-      "nr": "21",
-      "text": "Keep yourselves in the love of God, looking for the mercy of our Lord Jesus Christ unto eternal life."
+      "nr": "34",
+      "text": "For he whom God hath sent speaketh the words of God: for God giveth not the Spirit by measure unto him. "
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "20-21",
+  "verse": "34",
   "version": "kjv"
 }

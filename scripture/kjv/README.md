@@ -1,5 +1,5 @@
-**Jude 1:20-21**
+**John 3:34**
 
-20 But ye, beloved, building up yourselves on your most holy faith, praying in the Holy Ghost, 21 Keep yourselves in the love of God, looking for the mercy of our Lord Jesus Christ unto eternal life.
+34 For he whom God hath sent speaketh the words of God: for God giveth not the Spirit by measure unto him. 
 
-[Sunday 26-November, 2023](https://getbible.net/kjv/Jude/1/20-21)
+[Monday 27-November, 2023](https://getbible.net/kjv/John/3/34)
