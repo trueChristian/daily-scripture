@@ -1,5 +1,5 @@
-**John 3:34**
+**Ephesians 2:10**
 
-34 For he whom God hath sent speaketh the words of God: for God giveth not the Spirit by measure unto him. 
+10 For we are his workmanship, created in Christ Jesus unto good works, which God hath before ordained that we should walk in them.
 
-[Monday 27-November, 2023](https://getbible.net/kjv/John/3/34)
+[Tuesday 28-November, 2023](https://getbible.net/kjv/Ephesians/2/10)

@@ -1,17 +1,17 @@
 {
-  "book": "John",
-  "chapter": "3",
-  "date": "Monday 27-November, 2023",
-  "getbible": "https://getbible.net/kjv/John/3/34",
-  "name": "John 3:34",
+  "book": "Ephesians",
+  "chapter": "2",
+  "date": "Tuesday 28-November, 2023",
+  "getbible": "https://getbible.net/kjv/Ephesians/2/10",
+  "name": "Ephesians 2:10",
   "scripture": [
     {
-      "nr": "34",
-      "text": "For he whom God hath sent speaketh the words of God: for God giveth not the Spirit by measure unto him. "
+      "nr": "10",
+      "text": "For we are his workmanship, created in Christ Jesus unto good works, which God hath before ordained that we should walk in them."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "34",
+  "verse": "10",
   "version": "kjv"
 }
