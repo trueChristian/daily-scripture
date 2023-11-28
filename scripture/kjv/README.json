@@ -1,17 +1,17 @@
 {
-  "book": "Ephesians",
-  "chapter": "2",
-  "date": "Tuesday 28-November, 2023",
-  "getbible": "https://getbible.net/kjv/Ephesians/2/10",
-  "name": "Ephesians 2:10",
+  "book": "Revelation",
+  "chapter": "22",
+  "date": "Wednesday 29-November, 2023",
+  "getbible": "https://getbible.net/kjv/Revelation/22/5",
+  "name": "Revelation 22:5",
   "scripture": [
     {
-      "nr": "10",
-      "text": "For we are his workmanship, created in Christ Jesus unto good works, which God hath before ordained that we should walk in them."
+      "nr": "5",
+      "text": "And there shall be no night there; and they need no candle, neither light of the sun; for the Lord God giveth them light: and they shall reign for ever and ever."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "10",
+  "verse": "5",
   "version": "kjv"
 }

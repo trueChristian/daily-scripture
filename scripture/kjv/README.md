@@ -1,5 +1,5 @@
-**Ephesians 2:10**
+**Revelation 22:5**
 
-10 For we are his workmanship, created in Christ Jesus unto good works, which God hath before ordained that we should walk in them.
+5 And there shall be no night there; and they need no candle, neither light of the sun; for the Lord God giveth them light: and they shall reign for ever and ever.
 
-[Tuesday 28-November, 2023](https://getbible.net/kjv/Ephesians/2/10)
+[Wednesday 29-November, 2023](https://getbible.net/kjv/Revelation/22/5)
