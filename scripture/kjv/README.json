@@ -1,17 +1,17 @@
 {
-  "book": "Revelation",
-  "chapter": "22",
-  "date": "Wednesday 29-November, 2023",
-  "getbible": "https://getbible.net/kjv/Revelation/22/5",
-  "name": "Revelation 22:5",
+  "book": "2 Kings",
+  "chapter": "25",
+  "date": "Thursday 30-November, 2023",
+  "getbible": "https://getbible.net/kjv/2 Kings/25/30",
+  "name": "2 Kings 25:30",
   "scripture": [
     {
-      "nr": "5",
-      "text": "And there shall be no night there; and they need no candle, neither light of the sun; for the Lord God giveth them light: and they shall reign for ever and ever."
+      "nr": "30",
+      "text": "And his allowance was a continual allowance given him of the king, a daily rate for every day, all the days of his life.  "
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "5",
+  "verse": "30",
   "version": "kjv"
 }

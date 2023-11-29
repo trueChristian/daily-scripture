@@ -1,5 +1,5 @@
-**Revelation 22:5**
+**2 Kings 25:30**
 
-5 And there shall be no night there; and they need no candle, neither light of the sun; for the Lord God giveth them light: and they shall reign for ever and ever.
+30 And his allowance was a continual allowance given him of the king, a daily rate for every day, all the days of his life.  
 
-[Wednesday 29-November, 2023](https://getbible.net/kjv/Revelation/22/5)
+[Thursday 30-November, 2023](https://getbible.net/kjv/2 Kings/25/30)
