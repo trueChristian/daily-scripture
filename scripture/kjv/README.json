@@ -1,17 +1,17 @@
 {
-  "book": "2 Kings",
+  "book": "Psalms",
   "chapter": "25",
-  "date": "Thursday 30-November, 2023",
-  "getbible": "https://getbible.net/kjv/2 Kings/25/30",
-  "name": "2 Kings 25:30",
+  "date": "Friday 01-December, 2023",
+  "getbible": "https://getbible.net/kjv/Psalms/25/5",
+  "name": "Psalms 25:5",
   "scripture": [
     {
-      "nr": "30",
-      "text": "And his allowance was a continual allowance given him of the king, a daily rate for every day, all the days of his life.  "
+      "nr": "5",
+      "text": "Lead me in thy truth, and teach me: for thou art the God of my salvation; on thee do I wait all the day."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "30",
+  "verse": "5",
   "version": "kjv"
 }

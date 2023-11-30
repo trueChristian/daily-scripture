@@ -1,5 +1,5 @@
-**2 Kings 25:30**
+**Psalms 25:5**
 
-30 And his allowance was a continual allowance given him of the king, a daily rate for every day, all the days of his life.  
+5 Lead me in thy truth, and teach me: for thou art the God of my salvation; on thee do I wait all the day.
 
-[Thursday 30-November, 2023](https://getbible.net/kjv/2 Kings/25/30)
+[Friday 01-December, 2023](https://getbible.net/kjv/Psalms/25/5)
