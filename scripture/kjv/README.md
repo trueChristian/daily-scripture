@@ -1,5 +1,5 @@
-**Psalms 25:5**
+**Psalms 50:14**
 
-5 Lead me in thy truth, and teach me: for thou art the God of my salvation; on thee do I wait all the day.
+14 Offer unto God thanksgiving; and pay thy vows unto the most High:
 
-[Friday 01-December, 2023](https://getbible.net/kjv/Psalms/25/5)
+[Saturday 02-December, 2023](https://getbible.net/kjv/Psalms/50/14)

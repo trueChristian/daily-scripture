@@ -1,17 +1,17 @@
 {
   "book": "Psalms",
-  "chapter": "25",
-  "date": "Friday 01-December, 2023",
-  "getbible": "https://getbible.net/kjv/Psalms/25/5",
-  "name": "Psalms 25:5",
+  "chapter": "50",
+  "date": "Saturday 02-December, 2023",
+  "getbible": "https://getbible.net/kjv/Psalms/50/14",
+  "name": "Psalms 50:14",
   "scripture": [
     {
-      "nr": "5",
-      "text": "Lead me in thy truth, and teach me: for thou art the God of my salvation; on thee do I wait all the day."
+      "nr": "14",
+      "text": "Offer unto God thanksgiving; and pay thy vows unto the most High:"
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "5",
+  "verse": "14",
   "version": "kjv"
 }
