@@ -1,17 +1,17 @@
 {
-  "book": "Psalms",
-  "chapter": "50",
-  "date": "Saturday 02-December, 2023",
-  "getbible": "https://getbible.net/kjv/Psalms/50/14",
-  "name": "Psalms 50:14",
+  "book": "Luke",
+  "chapter": "21",
+  "date": "Sunday 03-December, 2023",
+  "getbible": "https://getbible.net/kjv/Luke/21/13",
+  "name": "Luke 21:13",
   "scripture": [
     {
-      "nr": "14",
-      "text": "Offer unto God thanksgiving; and pay thy vows unto the most High:"
+      "nr": "13",
+      "text": "And it shall turn to you for a testimony."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "14",
+  "verse": "13",
   "version": "kjv"
 }

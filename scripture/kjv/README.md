@@ -1,5 +1,5 @@
-**Psalms 50:14**
+**Luke 21:13**
 
-14 Offer unto God thanksgiving; and pay thy vows unto the most High:
+13 And it shall turn to you for a testimony.
 
-[Saturday 02-December, 2023](https://getbible.net/kjv/Psalms/50/14)
+[Sunday 03-December, 2023](https://getbible.net/kjv/Luke/21/13)
