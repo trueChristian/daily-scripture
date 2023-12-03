@@ -1,17 +1,17 @@
 {
-  "book": "Luke",
-  "chapter": "21",
-  "date": "Sunday 03-December, 2023",
-  "getbible": "https://getbible.net/kjv/Luke/21/13",
-  "name": "Luke 21:13",
+  "book": "1 John",
+  "chapter": "5",
+  "date": "Monday 04-December, 2023",
+  "getbible": "https://getbible.net/kjv/1 John/5/18",
+  "name": "1 John 5:18",
   "scripture": [
     {
-      "nr": "13",
-      "text": "And it shall turn to you for a testimony."
+      "nr": "18",
+      "text": "We know that whosoever is born of God sinneth not; but he that is begotten of God keepeth himself, and that wicked one toucheth him not."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "13",
+  "verse": "18",
   "version": "kjv"
 }

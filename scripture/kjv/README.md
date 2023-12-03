@@ -1,5 +1,5 @@
-**Luke 21:13**
+**1 John 5:18**
 
-13 And it shall turn to you for a testimony.
+18 We know that whosoever is born of God sinneth not; but he that is begotten of God keepeth himself, and that wicked one toucheth him not.
 
-[Sunday 03-December, 2023](https://getbible.net/kjv/Luke/21/13)
+[Monday 04-December, 2023](https://getbible.net/kjv/1 John/5/18)
