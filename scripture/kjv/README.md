@@ -1,5 +1,5 @@
-**1 John 5:18**
+**Ruth 3:10**
 
-18 We know that whosoever is born of God sinneth not; but he that is begotten of God keepeth himself, and that wicked one toucheth him not.
+10 And he said, Blessed be thou of the Lord, my daughter: for thou hast shewed more kindness in the latter end than at the beginning, inasmuch as thou followedst not young men, whether poor or rich.
 
-[Monday 04-December, 2023](https://getbible.net/kjv/1 John/5/18)
+[Tuesday 05-December, 2023](https://getbible.net/kjv/Ruth/3/10)
