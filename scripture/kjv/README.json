@@ -1,17 +1,33 @@
 {
-  "book": "Ruth",
-  "chapter": "3",
-  "date": "Tuesday 05-December, 2023",
-  "getbible": "https://getbible.net/kjv/Ruth/3/10",
-  "name": "Ruth 3:10",
+  "book": "Psalms",
+  "chapter": "107",
+  "date": "Wednesday 06-December, 2023",
+  "getbible": "https://getbible.net/kjv/Psalms/107/10-14",
+  "name": "Psalms 107:10-14",
   "scripture": [
     {
       "nr": "10",
-      "text": "And he said, Blessed be thou of the Lord, my daughter: for thou hast shewed more kindness in the latter end than at the beginning, inasmuch as thou followedst not young men, whether poor or rich."
+      "text": "Such as sit in darkness and in the shadow of death, being bound in affliction and iron;"
+    },
+    {
+      "nr": "11",
+      "text": "Because they rebelled against the words of God, and contemned the counsel of the most High:"
+    },
+    {
+      "nr": "12",
+      "text": "Therefore he brought down their heart with labour; they fell down, and there was none to help."
+    },
+    {
+      "nr": "13",
+      "text": "Then they cried unto the Lord in their trouble, and he saved them out of their distresses."
+    },
+    {
+      "nr": "14",
+      "text": "He brought them out of darkness and the shadow of death, and brake their bands in sunder."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "10",
+  "verse": "10-14",
   "version": "kjv"
 }

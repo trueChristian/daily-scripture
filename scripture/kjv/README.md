@@ -1,5 +1,5 @@
-**Ruth 3:10**
+**Psalms 107:10-14**
 
-10 And he said, Blessed be thou of the Lord, my daughter: for thou hast shewed more kindness in the latter end than at the beginning, inasmuch as thou followedst not young men, whether poor or rich.
+10 Such as sit in darkness and in the shadow of death, being bound in affliction and iron; 11 Because they rebelled against the words of God, and contemned the counsel of the most High: 12 Therefore he brought down their heart with labour; they fell down, and there was none to help. 13 Then they cried unto the Lord in their trouble, and he saved them out of their distresses. 14 He brought them out of darkness and the shadow of death, and brake their bands in sunder.
 
-[Tuesday 05-December, 2023](https://getbible.net/kjv/Ruth/3/10)
+[Wednesday 06-December, 2023](https://getbible.net/kjv/Psalms/107/10-14)
