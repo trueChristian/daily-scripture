@@ -1,33 +1,21 @@
 {
-  "book": "Psalms",
-  "chapter": "107",
-  "date": "Wednesday 06-December, 2023",
-  "getbible": "https://getbible.net/kjv/Psalms/107/10-14",
-  "name": "Psalms 107:10-14",
+  "book": "Ezekiel",
+  "chapter": "3",
+  "date": "Thursday 07-December, 2023",
+  "getbible": "https://getbible.net/kjv/Ezekiel/3/26-27",
+  "name": "Ezekiel 3:26-27",
   "scripture": [
     {
-      "nr": "10",
-      "text": "Such as sit in darkness and in the shadow of death, being bound in affliction and iron;"
+      "nr": "26",
+      "text": "And I will make thy tongue cleave to the roof of thy mouth, that thou shalt be dumb, and shalt not be to them a reprover: for they are a rebellious house."
     },
     {
-      "nr": "11",
-      "text": "Because they rebelled against the words of God, and contemned the counsel of the most High:"
-    },
-    {
-      "nr": "12",
-      "text": "Therefore he brought down their heart with labour; they fell down, and there was none to help."
-    },
-    {
-      "nr": "13",
-      "text": "Then they cried unto the Lord in their trouble, and he saved them out of their distresses."
-    },
-    {
-      "nr": "14",
-      "text": "He brought them out of darkness and the shadow of death, and brake their bands in sunder."
+      "nr": "27",
+      "text": "But when I speak with thee, I will open thy mouth, and thou shalt say unto them, Thus saith the Lord God; He that heareth, let him hear; and he that forbeareth, let him forbear: for they are a rebellious house. "
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "10-14",
+  "verse": "26-27",
   "version": "kjv"
 }

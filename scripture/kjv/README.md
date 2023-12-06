@@ -1,5 +1,5 @@
-**Psalms 107:10-14**
+**Ezekiel 3:26-27**
 
-10 Such as sit in darkness and in the shadow of death, being bound in affliction and iron; 11 Because they rebelled against the words of God, and contemned the counsel of the most High: 12 Therefore he brought down their heart with labour; they fell down, and there was none to help. 13 Then they cried unto the Lord in their trouble, and he saved them out of their distresses. 14 He brought them out of darkness and the shadow of death, and brake their bands in sunder.
+26 And I will make thy tongue cleave to the roof of thy mouth, that thou shalt be dumb, and shalt not be to them a reprover: for they are a rebellious house. 27 But when I speak with thee, I will open thy mouth, and thou shalt say unto them, Thus saith the Lord God; He that heareth, let him hear; and he that forbeareth, let him forbear: for they are a rebellious house. 
 
-[Wednesday 06-December, 2023](https://getbible.net/kjv/Psalms/107/10-14)
+[Thursday 07-December, 2023](https://getbible.net/kjv/Ezekiel/3/26-27)
