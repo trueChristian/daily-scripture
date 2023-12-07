@@ -1,21 +1,17 @@
 {
-  "book": "Ezekiel",
-  "chapter": "3",
-  "date": "Thursday 07-December, 2023",
-  "getbible": "https://getbible.net/kjv/Ezekiel/3/26-27",
-  "name": "Ezekiel 3:26-27",
+  "book": "Proverbs",
+  "chapter": "17",
+  "date": "Friday 08-December, 2023",
+  "getbible": "https://getbible.net/kjv/Proverbs/17/10",
+  "name": "Proverbs 17:10",
   "scripture": [
     {
-      "nr": "26",
-      "text": "And I will make thy tongue cleave to the roof of thy mouth, that thou shalt be dumb, and shalt not be to them a reprover: for they are a rebellious house."
-    },
-    {
-      "nr": "27",
-      "text": "But when I speak with thee, I will open thy mouth, and thou shalt say unto them, Thus saith the Lord God; He that heareth, let him hear; and he that forbeareth, let him forbear: for they are a rebellious house. "
+      "nr": "10",
+      "text": "A reproof entereth more into a wise man than an hundred stripes into a fool."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "26-27",
+  "verse": "10",
   "version": "kjv"
 }

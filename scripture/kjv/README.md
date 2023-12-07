@@ -1,5 +1,5 @@
-**Ezekiel 3:26-27**
+**Proverbs 17:10**
 
-26 And I will make thy tongue cleave to the roof of thy mouth, that thou shalt be dumb, and shalt not be to them a reprover: for they are a rebellious house. 27 But when I speak with thee, I will open thy mouth, and thou shalt say unto them, Thus saith the Lord God; He that heareth, let him hear; and he that forbeareth, let him forbear: for they are a rebellious house. 
+10 A reproof entereth more into a wise man than an hundred stripes into a fool.
 
-[Thursday 07-December, 2023](https://getbible.net/kjv/Ezekiel/3/26-27)
+[Friday 08-December, 2023](https://getbible.net/kjv/Proverbs/17/10)
