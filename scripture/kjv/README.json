@@ -1,17 +1,17 @@
 {
-  "book": "Proverbs",
-  "chapter": "17",
-  "date": "Friday 08-December, 2023",
-  "getbible": "https://getbible.net/kjv/Proverbs/17/10",
-  "name": "Proverbs 17:10",
+  "book": "Acts",
+  "chapter": "9",
+  "date": "Saturday 09-December, 2023",
+  "getbible": "https://getbible.net/kjv/Acts/9/11",
+  "name": "Acts 9:11",
   "scripture": [
     {
-      "nr": "10",
-      "text": "A reproof entereth more into a wise man than an hundred stripes into a fool."
+      "nr": "11",
+      "text": "And the Lord said unto him, Arise, and go into the street which is called Straight, and enquire in the house of Judas for one called Saul, of Tarsus: for, behold, he prayeth,"
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "10",
+  "verse": "11",
   "version": "kjv"
 }

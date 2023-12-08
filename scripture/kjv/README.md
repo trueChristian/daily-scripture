@@ -1,5 +1,5 @@
-**Proverbs 17:10**
+**Acts 9:11**
 
-10 A reproof entereth more into a wise man than an hundred stripes into a fool.
+11 And the Lord said unto him, Arise, and go into the street which is called Straight, and enquire in the house of Judas for one called Saul, of Tarsus: for, behold, he prayeth,
 
-[Friday 08-December, 2023](https://getbible.net/kjv/Proverbs/17/10)
+[Saturday 09-December, 2023](https://getbible.net/kjv/Acts/9/11)
