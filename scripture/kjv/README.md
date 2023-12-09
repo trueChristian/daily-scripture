@@ -1,5 +1,5 @@
-**Acts 9:11**
+**Luke 17:32**
 
-11 And the Lord said unto him, Arise, and go into the street which is called Straight, and enquire in the house of Judas for one called Saul, of Tarsus: for, behold, he prayeth,
+32 Remember Lot’s wife.
 
-[Saturday 09-December, 2023](https://getbible.net/kjv/Acts/9/11)
+[Sunday 10-December, 2023](https://getbible.net/kjv/Luke/17/32)

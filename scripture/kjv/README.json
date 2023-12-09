@@ -1,17 +1,17 @@
 {
-  "book": "Acts",
-  "chapter": "9",
-  "date": "Saturday 09-December, 2023",
-  "getbible": "https://getbible.net/kjv/Acts/9/11",
-  "name": "Acts 9:11",
+  "book": "Luke",
+  "chapter": "17",
+  "date": "Sunday 10-December, 2023",
+  "getbible": "https://getbible.net/kjv/Luke/17/32",
+  "name": "Luke 17:32",
   "scripture": [
     {
-      "nr": "11",
-      "text": "And the Lord said unto him, Arise, and go into the street which is called Straight, and enquire in the house of Judas for one called Saul, of Tarsus: for, behold, he prayeth,"
+      "nr": "32",
+      "text": "Remember Lot’s wife."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "11",
+  "verse": "32",
   "version": "kjv"
 }
