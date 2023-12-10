@@ -1,17 +1,17 @@
 {
-  "book": "Luke",
-  "chapter": "17",
-  "date": "Sunday 10-December, 2023",
-  "getbible": "https://getbible.net/kjv/Luke/17/32",
-  "name": "Luke 17:32",
+  "book": "Proverbs",
+  "chapter": "28",
+  "date": "Monday 11-December, 2023",
+  "getbible": "https://getbible.net/kjv/Proverbs/28/1",
+  "name": "Proverbs 28:1",
   "scripture": [
     {
-      "nr": "32",
-      "text": "Remember Lot’s wife."
+      "nr": "1",
+      "text": "The wicked flee when no man pursueth: but the righteous are bold as a lion."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "32",
+  "verse": "1",
   "version": "kjv"
 }

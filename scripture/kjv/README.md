@@ -1,5 +1,5 @@
-**Luke 17:32**
+**Proverbs 28:1**
 
-32 Remember Lot’s wife.
+1 The wicked flee when no man pursueth: but the righteous are bold as a lion.
 
-[Sunday 10-December, 2023](https://getbible.net/kjv/Luke/17/32)
+[Monday 11-December, 2023](https://getbible.net/kjv/Proverbs/28/1)
