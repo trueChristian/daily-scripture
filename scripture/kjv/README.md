@@ -1,5 +1,5 @@
-**Proverbs 28:1**
+**John 16:27**
 
-1 The wicked flee when no man pursueth: but the righteous are bold as a lion.
+27 For the Father himself loveth you, because ye have loved me, and have believed that I came out from God.
 
-[Monday 11-December, 2023](https://getbible.net/kjv/Proverbs/28/1)
+[Tuesday 12-December, 2023](https://getbible.net/kjv/John/16/27)
