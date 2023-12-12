@@ -1,5 +1,5 @@
-**John 16:27**
+**Luke 12:29-31**
 
-27 For the Father himself loveth you, because ye have loved me, and have believed that I came out from God.
+29 And seek not ye what ye shall eat, or what ye shall drink, neither be ye of doubtful mind. 30 For all these things do the nations of the world seek after: and your Father knoweth that ye have need of these things. 31 But rather seek ye the kingdom of God; and all these things shall be added unto you.
 
-[Tuesday 12-December, 2023](https://getbible.net/kjv/John/16/27)
+[Wednesday 13-December, 2023](https://getbible.net/kjv/Luke/12/29-31)

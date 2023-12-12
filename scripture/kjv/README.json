@@ -1,17 +1,25 @@
 {
-  "book": "John",
-  "chapter": "16",
-  "date": "Tuesday 12-December, 2023",
-  "getbible": "https://getbible.net/kjv/John/16/27",
-  "name": "John 16:27",
+  "book": "Luke",
+  "chapter": "12",
+  "date": "Wednesday 13-December, 2023",
+  "getbible": "https://getbible.net/kjv/Luke/12/29-31",
+  "name": "Luke 12:29-31",
   "scripture": [
     {
-      "nr": "27",
-      "text": "For the Father himself loveth you, because ye have loved me, and have believed that I came out from God."
+      "nr": "29",
+      "text": "And seek not ye what ye shall eat, or what ye shall drink, neither be ye of doubtful mind."
+    },
+    {
+      "nr": "30",
+      "text": "For all these things do the nations of the world seek after: and your Father knoweth that ye have need of these things."
+    },
+    {
+      "nr": "31",
+      "text": "But rather seek ye the kingdom of God; and all these things shall be added unto you."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "27",
+  "verse": "29-31",
   "version": "kjv"
 }
