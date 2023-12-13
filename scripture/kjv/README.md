@@ -1,5 +1,5 @@
-**Luke 12:29-31**
+**Proverbs 22:9**
 
-29 And seek not ye what ye shall eat, or what ye shall drink, neither be ye of doubtful mind. 30 For all these things do the nations of the world seek after: and your Father knoweth that ye have need of these things. 31 But rather seek ye the kingdom of God; and all these things shall be added unto you.
+9 He that hath a bountiful eye shall be blessed; for he giveth of his bread to the poor.
 
-[Wednesday 13-December, 2023](https://getbible.net/kjv/Luke/12/29-31)
+[Thursday 14-December, 2023](https://getbible.net/kjv/Proverbs/22/9)

@@ -1,25 +1,17 @@
 {
-  "book": "Luke",
-  "chapter": "12",
-  "date": "Wednesday 13-December, 2023",
-  "getbible": "https://getbible.net/kjv/Luke/12/29-31",
-  "name": "Luke 12:29-31",
+  "book": "Proverbs",
+  "chapter": "22",
+  "date": "Thursday 14-December, 2023",
+  "getbible": "https://getbible.net/kjv/Proverbs/22/9",
+  "name": "Proverbs 22:9",
   "scripture": [
     {
-      "nr": "29",
-      "text": "And seek not ye what ye shall eat, or what ye shall drink, neither be ye of doubtful mind."
-    },
-    {
-      "nr": "30",
-      "text": "For all these things do the nations of the world seek after: and your Father knoweth that ye have need of these things."
-    },
-    {
-      "nr": "31",
-      "text": "But rather seek ye the kingdom of God; and all these things shall be added unto you."
+      "nr": "9",
+      "text": "He that hath a bountiful eye shall be blessed; for he giveth of his bread to the poor."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "29-31",
+  "verse": "9",
   "version": "kjv"
 }
