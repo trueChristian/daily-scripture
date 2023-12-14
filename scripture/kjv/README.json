@@ -1,17 +1,21 @@
 {
-  "book": "Proverbs",
-  "chapter": "22",
-  "date": "Thursday 14-December, 2023",
-  "getbible": "https://getbible.net/kjv/Proverbs/22/9",
-  "name": "Proverbs 22:9",
+  "book": "Ezra",
+  "chapter": "8",
+  "date": "Friday 15-December, 2023",
+  "getbible": "https://getbible.net/kjv/Ezra/8/22-23",
+  "name": "Ezra 8:22-23",
   "scripture": [
     {
-      "nr": "9",
-      "text": "He that hath a bountiful eye shall be blessed; for he giveth of his bread to the poor."
+      "nr": "22",
+      "text": "For I was ashamed to require of the king a band of soldiers and horsemen to help us against the enemy in the way: because we had spoken unto the king, saying, The hand of our God is upon all them for good that seek him; but his power and his wrath is against all them that forsake him."
+    },
+    {
+      "nr": "23",
+      "text": "So we fasted and besought our God for this: and he was intreated of us."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "9",
+  "verse": "22-23",
   "version": "kjv"
 }
