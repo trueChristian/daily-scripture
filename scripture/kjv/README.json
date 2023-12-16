@@ -1,17 +1,17 @@
 {
-  "book": "Job",
-  "chapter": "42",
-  "date": "Saturday 16-December, 2023",
-  "getbible": "https://getbible.net/kjv/Job/42/3",
-  "name": "Job 42:3",
+  "book": "John",
+  "chapter": "15",
+  "date": "Sunday 17-December, 2023",
+  "getbible": "https://getbible.net/kjv/John/15/16",
+  "name": "John 15:16",
   "scripture": [
     {
-      "nr": "3",
-      "text": "Who is he that hideth counsel without knowledge? therefore have I uttered that I understood not; things too wonderful for me, which I knew not."
+      "nr": "16",
+      "text": "Ye have not chosen me, but I have chosen you, and ordained you, that ye should go and bring forth fruit, and that your fruit should remain: that whatsoever ye shall ask of the Father in my name, he may give it you."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "3",
+  "verse": "16",
   "version": "kjv"
 }
