@@ -1,5 +1,5 @@
-**John 15:16**
+**Psalms 42:5**
 
-16 Ye have not chosen me, but I have chosen you, and ordained you, that ye should go and bring forth fruit, and that your fruit should remain: that whatsoever ye shall ask of the Father in my name, he may give it you.
+5 Why art thou cast down, O my soul? and why art thou disquieted in me? hope thou in God: for I shall yet praise him for the help of his countenance.
 
-[Sunday 17-December, 2023](https://getbible.net/kjv/John/15/16)
+[Monday 18-December, 2023](https://getbible.net/kjv/Psalms/42/5)
