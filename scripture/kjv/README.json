@@ -1,17 +1,21 @@
 {
-  "book": "Psalms",
-  "chapter": "42",
-  "date": "Monday 18-December, 2023",
-  "getbible": "https://getbible.net/kjv/Psalms/42/5",
-  "name": "Psalms 42:5",
+  "book": "Ephesians",
+  "chapter": "2",
+  "date": "Tuesday 19-December, 2023",
+  "getbible": "https://getbible.net/kjv/Ephesians/2/6-7",
+  "name": "Ephesians 2:6-7",
   "scripture": [
     {
-      "nr": "5",
-      "text": "Why art thou cast down, O my soul? and why art thou disquieted in me? hope thou in God: for I shall yet praise him for the help of his countenance."
+      "nr": "6",
+      "text": "And hath raised us up together, and made us sit together in heavenly places in Christ Jesus:"
+    },
+    {
+      "nr": "7",
+      "text": "That in the ages to come he might shew the exceeding riches of his grace in his kindness toward us through Christ Jesus."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "5",
+  "verse": "6-7",
   "version": "kjv"
 }

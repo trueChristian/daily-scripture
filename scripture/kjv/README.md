@@ -1,5 +1,5 @@
-**Psalms 42:5**
+**Ephesians 2:6-7**
 
-5 Why art thou cast down, O my soul? and why art thou disquieted in me? hope thou in God: for I shall yet praise him for the help of his countenance.
+6 And hath raised us up together, and made us sit together in heavenly places in Christ Jesus: 7 That in the ages to come he might shew the exceeding riches of his grace in his kindness toward us through Christ Jesus.
 
-[Monday 18-December, 2023](https://getbible.net/kjv/Psalms/42/5)
+[Tuesday 19-December, 2023](https://getbible.net/kjv/Ephesians/2/6-7)
