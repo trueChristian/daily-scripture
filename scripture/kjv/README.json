@@ -1,21 +1,17 @@
 {
-  "book": "Ephesians",
-  "chapter": "2",
-  "date": "Tuesday 19-December, 2023",
-  "getbible": "https://getbible.net/kjv/Ephesians/2/6-7",
-  "name": "Ephesians 2:6-7",
+  "book": "Psalms",
+  "chapter": "46",
+  "date": "Wednesday 20-December, 2023",
+  "getbible": "https://getbible.net/kjv/Psalms/46/7",
+  "name": "Psalms 46:7",
   "scripture": [
     {
-      "nr": "6",
-      "text": "And hath raised us up together, and made us sit together in heavenly places in Christ Jesus:"
-    },
-    {
       "nr": "7",
-      "text": "That in the ages to come he might shew the exceeding riches of his grace in his kindness toward us through Christ Jesus."
+      "text": "The Lord of hosts is with us; the God of Jacob is our refuge. Selah."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "6-7",
+  "verse": "7",
   "version": "kjv"
 }
