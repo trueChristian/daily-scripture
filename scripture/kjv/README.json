@@ -1,17 +1,21 @@
 {
   "book": "Psalms",
-  "chapter": "46",
-  "date": "Wednesday 20-December, 2023",
-  "getbible": "https://getbible.net/kjv/Psalms/46/7",
-  "name": "Psalms 46:7",
+  "chapter": "10",
+  "date": "Thursday 21-December, 2023",
+  "getbible": "https://getbible.net/kjv/Psalms/10/17-18",
+  "name": "Psalms 10:17-18",
   "scripture": [
     {
-      "nr": "7",
-      "text": "The Lord of hosts is with us; the God of Jacob is our refuge. Selah."
+      "nr": "17",
+      "text": "Lord, thou hast heard the desire of the humble: thou wilt prepare their heart, thou wilt cause thine ear to hear:"
+    },
+    {
+      "nr": "18",
+      "text": "To judge the fatherless and the oppressed, that the man of the earth may no more oppress. "
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "7",
+  "verse": "17-18",
   "version": "kjv"
 }
