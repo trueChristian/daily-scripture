@@ -1,21 +1,17 @@
 {
-  "book": "Psalms",
-  "chapter": "10",
-  "date": "Thursday 21-December, 2023",
-  "getbible": "https://getbible.net/kjv/Psalms/10/17-18",
-  "name": "Psalms 10:17-18",
+  "book": "Mark",
+  "chapter": "14",
+  "date": "Friday 22-December, 2023",
+  "getbible": "https://getbible.net/kjv/Mark/14/38",
+  "name": "Mark 14:38",
   "scripture": [
     {
-      "nr": "17",
-      "text": "Lord, thou hast heard the desire of the humble: thou wilt prepare their heart, thou wilt cause thine ear to hear:"
-    },
-    {
-      "nr": "18",
-      "text": "To judge the fatherless and the oppressed, that the man of the earth may no more oppress. "
+      "nr": "38",
+      "text": "Watch ye and pray, lest ye enter into temptation. The spirit truly is ready, but the flesh is weak."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "17-18",
+  "verse": "38",
   "version": "kjv"
 }
