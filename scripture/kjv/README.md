@@ -1,5 +1,5 @@
-**Mark 14:38**
+**Proverbs 4:22**
 
-38 Watch ye and pray, lest ye enter into temptation. The spirit truly is ready, but the flesh is weak.
+22 For they are life unto those that find them, and health to all their flesh.
 
-[Friday 22-December, 2023](https://getbible.net/kjv/Mark/14/38)
+[Saturday 23-December, 2023](https://getbible.net/kjv/Proverbs/4/22)

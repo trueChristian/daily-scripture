@@ -1,17 +1,17 @@
 {
-  "book": "Mark",
-  "chapter": "14",
-  "date": "Friday 22-December, 2023",
-  "getbible": "https://getbible.net/kjv/Mark/14/38",
-  "name": "Mark 14:38",
+  "book": "Proverbs",
+  "chapter": "4",
+  "date": "Saturday 23-December, 2023",
+  "getbible": "https://getbible.net/kjv/Proverbs/4/22",
+  "name": "Proverbs 4:22",
   "scripture": [
     {
-      "nr": "38",
-      "text": "Watch ye and pray, lest ye enter into temptation. The spirit truly is ready, but the flesh is weak."
+      "nr": "22",
+      "text": "For they are life unto those that find them, and health to all their flesh."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "38",
+  "verse": "22",
   "version": "kjv"
 }
