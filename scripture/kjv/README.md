@@ -1,5 +1,5 @@
-**Proverbs 4:22**
+**Ephesians 6:9**
 
-22 For they are life unto those that find them, and health to all their flesh.
+9 And, ye masters, do the same things unto them, forbearing threatening: knowing that your Master also is in heaven; neither is there respect of persons with him.
 
-[Saturday 23-December, 2023](https://getbible.net/kjv/Proverbs/4/22)
+[Sunday 24-December, 2023](https://getbible.net/kjv/Ephesians/6/9)

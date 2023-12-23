@@ -1,17 +1,17 @@
 {
-  "book": "Proverbs",
-  "chapter": "4",
-  "date": "Saturday 23-December, 2023",
-  "getbible": "https://getbible.net/kjv/Proverbs/4/22",
-  "name": "Proverbs 4:22",
+  "book": "Ephesians",
+  "chapter": "6",
+  "date": "Sunday 24-December, 2023",
+  "getbible": "https://getbible.net/kjv/Ephesians/6/9",
+  "name": "Ephesians 6:9",
   "scripture": [
     {
-      "nr": "22",
-      "text": "For they are life unto those that find them, and health to all their flesh."
+      "nr": "9",
+      "text": "And, ye masters, do the same things unto them, forbearing threatening: knowing that your Master also is in heaven; neither is there respect of persons with him."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "22",
+  "verse": "9",
   "version": "kjv"
 }
