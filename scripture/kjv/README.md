@@ -1,5 +1,5 @@
-**Ephesians 6:9**
+**Proverbs 22:17-18**
 
-9 And, ye masters, do the same things unto them, forbearing threatening: knowing that your Master also is in heaven; neither is there respect of persons with him.
+17 Bow down thine ear, and hear the words of the wise, and apply thine heart unto my knowledge. 18 For it is a pleasant thing if thou keep them within thee; they shall withal be fitted in thy lips.
 
-[Sunday 24-December, 2023](https://getbible.net/kjv/Ephesians/6/9)
+[Monday 25-December, 2023](https://getbible.net/kjv/Proverbs/22/17-18)
