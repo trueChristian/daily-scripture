@@ -1,5 +1,5 @@
-**Proverbs 22:17-18**
+**Luke 21:9**
 
-17 Bow down thine ear, and hear the words of the wise, and apply thine heart unto my knowledge. 18 For it is a pleasant thing if thou keep them within thee; they shall withal be fitted in thy lips.
+9 But when ye shall hear of wars and commotions, be not terrified: for these things must first come to pass; but the end is not by and by.
 
-[Monday 25-December, 2023](https://getbible.net/kjv/Proverbs/22/17-18)
+[Tuesday 26-December, 2023](https://getbible.net/kjv/Luke/21/9)
