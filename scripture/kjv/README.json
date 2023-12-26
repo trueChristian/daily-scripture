@@ -1,17 +1,17 @@
 {
-  "book": "Luke",
-  "chapter": "21",
-  "date": "Tuesday 26-December, 2023",
-  "getbible": "https://getbible.net/kjv/Luke/21/9",
-  "name": "Luke 21:9",
+  "book": "Psalms",
+  "chapter": "3",
+  "date": "Wednesday 27-December, 2023",
+  "getbible": "https://getbible.net/kjv/Psalms/3/6",
+  "name": "Psalms 3:6",
   "scripture": [
     {
-      "nr": "9",
-      "text": "But when ye shall hear of wars and commotions, be not terrified: for these things must first come to pass; but the end is not by and by."
+      "nr": "6",
+      "text": "I will not be afraid of ten thousands of people, that have set themselves against me round about."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "9",
+  "verse": "6",
   "version": "kjv"
 }

@@ -1,5 +1,5 @@
-**Luke 21:9**
+**Psalms 3:6**
 
-9 But when ye shall hear of wars and commotions, be not terrified: for these things must first come to pass; but the end is not by and by.
+6 I will not be afraid of ten thousands of people, that have set themselves against me round about.
 
-[Tuesday 26-December, 2023](https://getbible.net/kjv/Luke/21/9)
+[Wednesday 27-December, 2023](https://getbible.net/kjv/Psalms/3/6)
