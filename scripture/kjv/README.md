@@ -1,5 +1,5 @@
-**Psalms 3:6**
+**Ezekiel 18:31**
 
-6 I will not be afraid of ten thousands of people, that have set themselves against me round about.
+31 Cast away from you all your transgressions, whereby ye have transgressed; and make you a new heart and a new spirit: for why will ye die, O house of Israel?
 
-[Wednesday 27-December, 2023](https://getbible.net/kjv/Psalms/3/6)
+[Thursday 28-December, 2023](https://getbible.net/kjv/Ezekiel/18/31)

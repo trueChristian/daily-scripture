@@ -1,17 +1,17 @@
 {
-  "book": "Psalms",
-  "chapter": "3",
-  "date": "Wednesday 27-December, 2023",
-  "getbible": "https://getbible.net/kjv/Psalms/3/6",
-  "name": "Psalms 3:6",
+  "book": "Ezekiel",
+  "chapter": "18",
+  "date": "Thursday 28-December, 2023",
+  "getbible": "https://getbible.net/kjv/Ezekiel/18/31",
+  "name": "Ezekiel 18:31",
   "scripture": [
     {
-      "nr": "6",
-      "text": "I will not be afraid of ten thousands of people, that have set themselves against me round about."
+      "nr": "31",
+      "text": "Cast away from you all your transgressions, whereby ye have transgressed; and make you a new heart and a new spirit: for why will ye die, O house of Israel?"
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "6",
+  "verse": "31",
   "version": "kjv"
 }
