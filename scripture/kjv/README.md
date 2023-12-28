@@ -1,5 +1,5 @@
-**Ezekiel 18:31**
+**Luke 12:49**
 
-31 Cast away from you all your transgressions, whereby ye have transgressed; and make you a new heart and a new spirit: for why will ye die, O house of Israel?
+49 I am come to send fire on the earth; and what will I, if it be already kindled?
 
-[Thursday 28-December, 2023](https://getbible.net/kjv/Ezekiel/18/31)
+[Friday 29-December, 2023](https://getbible.net/kjv/Luke/12/49)
