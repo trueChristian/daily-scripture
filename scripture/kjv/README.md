@@ -1,5 +1,5 @@
-**Ezekiel 6:1**
+**1 Corinthians 13:6**
 
-1 And the word of the Lord came unto me, saying,
+6 Rejoiceth not in iniquity, but rejoiceth in the truth;
 
-[Sunday 31-December, 2023](https://getbible.net/kjv/Ezekiel/6/1)
+[Monday 01-January, 2024](https://getbible.net/kjv/1 Corinthians/13/6)
