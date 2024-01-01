@@ -1,17 +1,25 @@
 {
-  "book": "1 Corinthians",
-  "chapter": "13",
-  "date": "Monday 01-January, 2024",
-  "getbible": "https://getbible.net/kjv/1 Corinthians/13/6",
-  "name": "1 Corinthians 13:6",
+  "book": "James",
+  "chapter": "1",
+  "date": "Tuesday 02-January, 2024",
+  "getbible": "https://getbible.net/kjv/James/1/22-24",
+  "name": "James 1:22-24",
   "scripture": [
     {
-      "nr": "6",
-      "text": "Rejoiceth not in iniquity, but rejoiceth in the truth;"
+      "nr": "22",
+      "text": "But be ye doers of the word, and not hearers only, deceiving your own selves."
+    },
+    {
+      "nr": "23",
+      "text": "For if any be a hearer of the word, and not a doer, he is like unto a man beholding his natural face in a glass:"
+    },
+    {
+      "nr": "24",
+      "text": "For he beholdeth himself, and goeth his way, and straightway forgetteth what manner of man he was."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "6",
+  "verse": "22-24",
   "version": "kjv"
 }

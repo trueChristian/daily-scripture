@@ -1,5 +1,5 @@
-**1 Corinthians 13:6**
+**James 1:22-24**
 
-6 Rejoiceth not in iniquity, but rejoiceth in the truth;
+22 But be ye doers of the word, and not hearers only, deceiving your own selves. 23 For if any be a hearer of the word, and not a doer, he is like unto a man beholding his natural face in a glass: 24 For he beholdeth himself, and goeth his way, and straightway forgetteth what manner of man he was.
 
-[Monday 01-January, 2024](https://getbible.net/kjv/1 Corinthians/13/6)
+[Tuesday 02-January, 2024](https://getbible.net/kjv/James/1/22-24)
