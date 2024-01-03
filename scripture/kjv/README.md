@@ -1,5 +1,5 @@
-**Psalms 119:63**
+**John 6:40**
 
-63 I am a companion of all them that fear thee, and of them that keep thy precepts.
+40 And this is the will of him that sent me, that every one which seeth the Son, and believeth on him, may have everlasting life: and I will raise him up at the last day.
 
-[Wednesday 03-January, 2024](https://getbible.net/kjv/Psalms/119/63)
+[Thursday 04-January, 2024](https://getbible.net/kjv/John/6/40)
