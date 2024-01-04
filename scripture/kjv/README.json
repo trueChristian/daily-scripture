@@ -1,17 +1,29 @@
 {
-  "book": "John",
-  "chapter": "6",
-  "date": "Thursday 04-January, 2024",
-  "getbible": "https://getbible.net/kjv/John/6/40",
-  "name": "John 6:40",
+  "book": "1 Samuel",
+  "chapter": "1",
+  "date": "Friday 05-January, 2024",
+  "getbible": "https://getbible.net/kjv/1 Samuel/1/14-17",
+  "name": "1 Samuel 1:14-17",
   "scripture": [
     {
-      "nr": "40",
-      "text": "And this is the will of him that sent me, that every one which seeth the Son, and believeth on him, may have everlasting life: and I will raise him up at the last day."
+      "nr": "14",
+      "text": "And Eli said unto her, How long wilt thou be drunken? put away thy wine from thee."
+    },
+    {
+      "nr": "15",
+      "text": "And Hannah answered and said, No, my lord, I am a woman of a sorrowful spirit: I have drunk neither wine nor strong drink, but have poured out my soul before the Lord."
+    },
+    {
+      "nr": "16",
+      "text": "Count not thine handmaid for a daughter of Belial: for out of the abundance of my complaint and grief have I spoken hitherto."
+    },
+    {
+      "nr": "17",
+      "text": "Then Eli answered and said, Go in peace: and the God of Israel grant thee thy petition that thou hast asked of him."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "40",
+  "verse": "14-17",
   "version": "kjv"
 }
