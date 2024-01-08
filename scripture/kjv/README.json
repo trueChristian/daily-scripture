@@ -1,17 +1,29 @@
 {
-  "book": "Proverbs",
-  "chapter": "27",
-  "date": "Monday 08-January, 2024",
-  "getbible": "https://getbible.net/kjv/Proverbs/27/11",
-  "name": "Proverbs 27:11",
+  "book": "Matthew",
+  "chapter": "4",
+  "date": "Tuesday 09-January, 2024",
+  "getbible": "https://getbible.net/kjv/Matthew/4/8-11",
+  "name": "Matthew 4:8-11",
   "scripture": [
     {
+      "nr": "8",
+      "text": "Again, the devil taketh him up into an exceeding high mountain, and sheweth him all the kingdoms of the world, and the glory of them;"
+    },
+    {
+      "nr": "9",
+      "text": "And saith unto him, All these things will I give thee, if thou wilt fall down and worship me."
+    },
+    {
+      "nr": "10",
+      "text": "Then saith Jesus unto him, Get thee hence, Satan: for it is written, Thou shalt worship the Lord thy God, and him only shalt thou serve."
+    },
+    {
       "nr": "11",
-      "text": "My son, be wise, and make my heart glad, that I may answer him that reproacheth me."
+      "text": "Then the devil leaveth him, and, behold, angels came and ministered unto him."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "11",
+  "verse": "8-11",
   "version": "kjv"
 }
