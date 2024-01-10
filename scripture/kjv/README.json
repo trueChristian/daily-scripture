@@ -1,17 +1,21 @@
 {
-  "book": "John",
-  "chapter": "13",
-  "date": "Wednesday 10-January, 2024",
-  "getbible": "https://getbible.net/kjv/John/13/17",
-  "name": "John 13:17",
+  "book": "Psalms",
+  "chapter": "37",
+  "date": "Thursday 11-January, 2024",
+  "getbible": "https://getbible.net/kjv/Psalms/37/1-2",
+  "name": "Psalms 37:1-2",
   "scripture": [
     {
-      "nr": "17",
-      "text": "If ye know these things, happy are ye if ye do them."
+      "nr": "1",
+      "text": "Fret not thyself because of evildoers, neither be thou envious against the workers of iniquity."
+    },
+    {
+      "nr": "2",
+      "text": "For they shall soon be cut down like the grass, and wither as the green herb."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "17",
+  "verse": "1-2",
   "version": "kjv"
 }

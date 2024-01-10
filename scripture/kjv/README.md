@@ -1,5 +1,5 @@
-**John 13:17**
+**Psalms 37:1-2**
 
-17 If ye know these things, happy are ye if ye do them.
+1 Fret not thyself because of evildoers, neither be thou envious against the workers of iniquity. 2 For they shall soon be cut down like the grass, and wither as the green herb.
 
-[Wednesday 10-January, 2024](https://getbible.net/kjv/John/13/17)
+[Thursday 11-January, 2024](https://getbible.net/kjv/Psalms/37/1-2)
