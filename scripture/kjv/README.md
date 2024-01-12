@@ -1,5 +1,5 @@
-**2 Timothy 4:2**
+**Romans 9:20**
 
-2 Preach the word; be instant in season, out of season; reprove, rebuke, exhort with all longsuffering and doctrine.
+20 Nay but, O man, who art thou that repliest against God? Shall the thing formed say to him that formed it, Why hast thou made me thus?
 
-[Friday 12-January, 2024](https://getbible.net/kjv/2 Timothy/4/2)
+[Saturday 13-January, 2024](https://getbible.net/kjv/Romans/9/20)
