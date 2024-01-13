@@ -1,5 +1,5 @@
-**Romans 9:20**
+**Psalms 119:34-35**
 
-20 Nay but, O man, who art thou that repliest against God? Shall the thing formed say to him that formed it, Why hast thou made me thus?
+34 Give me understanding, and I shall keep thy law; yea, I shall observe it with my whole heart. 35 Make me to go in the path of thy commandments; for therein do I delight.
 
-[Saturday 13-January, 2024](https://getbible.net/kjv/Romans/9/20)
+[Sunday 14-January, 2024](https://getbible.net/kjv/Psalms/119/34-35)

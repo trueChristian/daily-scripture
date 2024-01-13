@@ -1,17 +1,21 @@
 {
-  "book": "Romans",
-  "chapter": "9",
-  "date": "Saturday 13-January, 2024",
-  "getbible": "https://getbible.net/kjv/Romans/9/20",
-  "name": "Romans 9:20",
+  "book": "Psalms",
+  "chapter": "119",
+  "date": "Sunday 14-January, 2024",
+  "getbible": "https://getbible.net/kjv/Psalms/119/34-35",
+  "name": "Psalms 119:34-35",
   "scripture": [
     {
-      "nr": "20",
-      "text": "Nay but, O man, who art thou that repliest against God? Shall the thing formed say to him that formed it, Why hast thou made me thus?"
+      "nr": "34",
+      "text": "Give me understanding, and I shall keep thy law; yea, I shall observe it with my whole heart."
+    },
+    {
+      "nr": "35",
+      "text": "Make me to go in the path of thy commandments; for therein do I delight."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "20",
+  "verse": "34-35",
   "version": "kjv"
 }
