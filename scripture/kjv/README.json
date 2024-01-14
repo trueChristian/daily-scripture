@@ -1,21 +1,17 @@
 {
-  "book": "Psalms",
-  "chapter": "119",
-  "date": "Sunday 14-January, 2024",
-  "getbible": "https://getbible.net/kjv/Psalms/119/34-35",
-  "name": "Psalms 119:34-35",
+  "book": "Revelation",
+  "chapter": "20",
+  "date": "Monday 15-January, 2024",
+  "getbible": "https://getbible.net/kjv/Revelation/20/4",
+  "name": "Revelation 20:4",
   "scripture": [
     {
-      "nr": "34",
-      "text": "Give me understanding, and I shall keep thy law; yea, I shall observe it with my whole heart."
-    },
-    {
-      "nr": "35",
-      "text": "Make me to go in the path of thy commandments; for therein do I delight."
+      "nr": "4",
+      "text": "And I saw thrones, and they sat upon them, and judgment was given unto them: and I saw the souls of them that were beheaded for the witness of Jesus, and for the word of God, and which had not worshipped the beast, neither his image, neither had received his mark upon their foreheads, or in their hands; and they lived and reigned with Christ a thousand years."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "34-35",
+  "verse": "4",
   "version": "kjv"
 }

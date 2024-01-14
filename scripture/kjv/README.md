@@ -1,5 +1,5 @@
-**Psalms 119:34-35**
+**Revelation 20:4**
 
-34 Give me understanding, and I shall keep thy law; yea, I shall observe it with my whole heart. 35 Make me to go in the path of thy commandments; for therein do I delight.
+4 And I saw thrones, and they sat upon them, and judgment was given unto them: and I saw the souls of them that were beheaded for the witness of Jesus, and for the word of God, and which had not worshipped the beast, neither his image, neither had received his mark upon their foreheads, or in their hands; and they lived and reigned with Christ a thousand years.
 
-[Sunday 14-January, 2024](https://getbible.net/kjv/Psalms/119/34-35)
+[Monday 15-January, 2024](https://getbible.net/kjv/Revelation/20/4)
