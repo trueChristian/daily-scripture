@@ -1,17 +1,17 @@
 {
-  "book": "Revelation",
+  "book": "2 Chronicles",
   "chapter": "20",
-  "date": "Monday 15-January, 2024",
-  "getbible": "https://getbible.net/kjv/Revelation/20/4",
-  "name": "Revelation 20:4",
+  "date": "Tuesday 16-January, 2024",
+  "getbible": "https://getbible.net/kjv/2 Chronicles/20/20",
+  "name": "2 Chronicles 20:20",
   "scripture": [
     {
-      "nr": "4",
-      "text": "And I saw thrones, and they sat upon them, and judgment was given unto them: and I saw the souls of them that were beheaded for the witness of Jesus, and for the word of God, and which had not worshipped the beast, neither his image, neither had received his mark upon their foreheads, or in their hands; and they lived and reigned with Christ a thousand years."
+      "nr": "20",
+      "text": "And they rose early in the morning, and went forth into the wilderness of Tekoa: and as they went forth, Jehoshaphat stood and said, Hear me, O Judah, and ye inhabitants of Jerusalem; Believe in the Lord your God, so shall ye be established; believe his prophets, so shall ye prosper."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "4",
+  "verse": "20",
   "version": "kjv"
 }
