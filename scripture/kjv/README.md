@@ -1,5 +1,5 @@
-**2 Chronicles 20:20**
+**Ecclesiastes 4:13**
 
-20 And they rose early in the morning, and went forth into the wilderness of Tekoa: and as they went forth, Jehoshaphat stood and said, Hear me, O Judah, and ye inhabitants of Jerusalem; Believe in the Lord your God, so shall ye be established; believe his prophets, so shall ye prosper.
+13 Better is a poor and a wise child than an old and foolish king, who will no more be admonished.
 
-[Tuesday 16-January, 2024](https://getbible.net/kjv/2 Chronicles/20/20)
+[Wednesday 17-January, 2024](https://getbible.net/kjv/Ecclesiastes/4/13)

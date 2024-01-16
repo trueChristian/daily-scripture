@@ -1,17 +1,17 @@
 {
-  "book": "2 Chronicles",
-  "chapter": "20",
-  "date": "Tuesday 16-January, 2024",
-  "getbible": "https://getbible.net/kjv/2 Chronicles/20/20",
-  "name": "2 Chronicles 20:20",
+  "book": "Ecclesiastes",
+  "chapter": "4",
+  "date": "Wednesday 17-January, 2024",
+  "getbible": "https://getbible.net/kjv/Ecclesiastes/4/13",
+  "name": "Ecclesiastes 4:13",
   "scripture": [
     {
-      "nr": "20",
-      "text": "And they rose early in the morning, and went forth into the wilderness of Tekoa: and as they went forth, Jehoshaphat stood and said, Hear me, O Judah, and ye inhabitants of Jerusalem; Believe in the Lord your God, so shall ye be established; believe his prophets, so shall ye prosper."
+      "nr": "13",
+      "text": "Better is a poor and a wise child than an old and foolish king, who will no more be admonished."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "20",
+  "verse": "13",
   "version": "kjv"
 }
