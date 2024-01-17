@@ -1,17 +1,17 @@
 {
-  "book": "Ecclesiastes",
-  "chapter": "4",
-  "date": "Wednesday 17-January, 2024",
-  "getbible": "https://getbible.net/kjv/Ecclesiastes/4/13",
-  "name": "Ecclesiastes 4:13",
+  "book": "Zechariah",
+  "chapter": "1",
+  "date": "Thursday 18-January, 2024",
+  "getbible": "https://getbible.net/kjv/Zechariah/1/17",
+  "name": "Zechariah 1:17",
   "scripture": [
     {
-      "nr": "13",
-      "text": "Better is a poor and a wise child than an old and foolish king, who will no more be admonished."
+      "nr": "17",
+      "text": "Cry yet, saying, Thus saith the Lord of hosts; My cities through prosperity shall yet be spread abroad; and the Lord shall yet comfort Zion, and shall yet choose Jerusalem."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "13",
+  "verse": "17",
   "version": "kjv"
 }

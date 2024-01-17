@@ -1,5 +1,5 @@
-**Ecclesiastes 4:13**
+**Zechariah 1:17**
 
-13 Better is a poor and a wise child than an old and foolish king, who will no more be admonished.
+17 Cry yet, saying, Thus saith the Lord of hosts; My cities through prosperity shall yet be spread abroad; and the Lord shall yet comfort Zion, and shall yet choose Jerusalem.
 
-[Wednesday 17-January, 2024](https://getbible.net/kjv/Ecclesiastes/4/13)
+[Thursday 18-January, 2024](https://getbible.net/kjv/Zechariah/1/17)
