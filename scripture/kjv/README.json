@@ -1,17 +1,17 @@
 {
-  "book": "Zechariah",
-  "chapter": "1",
-  "date": "Thursday 18-January, 2024",
-  "getbible": "https://getbible.net/kjv/Zechariah/1/17",
-  "name": "Zechariah 1:17",
+  "book": "Proverbs",
+  "chapter": "21",
+  "date": "Friday 19-January, 2024",
+  "getbible": "https://getbible.net/kjv/Proverbs/21/23",
+  "name": "Proverbs 21:23",
   "scripture": [
     {
-      "nr": "17",
-      "text": "Cry yet, saying, Thus saith the Lord of hosts; My cities through prosperity shall yet be spread abroad; and the Lord shall yet comfort Zion, and shall yet choose Jerusalem."
+      "nr": "23",
+      "text": "Whoso keepeth his mouth and his tongue keepeth his soul from troubles."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "17",
+  "verse": "23",
   "version": "kjv"
 }

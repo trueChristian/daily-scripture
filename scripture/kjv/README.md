@@ -1,5 +1,5 @@
-**Zechariah 1:17**
+**Proverbs 21:23**
 
-17 Cry yet, saying, Thus saith the Lord of hosts; My cities through prosperity shall yet be spread abroad; and the Lord shall yet comfort Zion, and shall yet choose Jerusalem.
+23 Whoso keepeth his mouth and his tongue keepeth his soul from troubles.
 
-[Thursday 18-January, 2024](https://getbible.net/kjv/Zechariah/1/17)
+[Friday 19-January, 2024](https://getbible.net/kjv/Proverbs/21/23)
