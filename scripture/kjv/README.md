@@ -1,5 +1,5 @@
-**Proverbs 21:23**
+**Philippians 4:23**
 
-23 Whoso keepeth his mouth and his tongue keepeth his soul from troubles.
+23 The grace of our Lord Jesus Christ be with you all. Amen.  It was written to the Philippians from Rome by Epaphroditus. 
 
-[Friday 19-January, 2024](https://getbible.net/kjv/Proverbs/21/23)
+[Saturday 20-January, 2024](https://getbible.net/kjv/Philippians/4/23)
