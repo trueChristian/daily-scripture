@@ -1,5 +1,5 @@
-**Philippians 4:23**
+**Hebrews 12:11-12**
 
-23 The grace of our Lord Jesus Christ be with you all. Amen.  It was written to the Philippians from Rome by Epaphroditus. 
+11 Now no chastening for the present seemeth to be joyous, but grievous: nevertheless afterward it yieldeth the peaceable fruit of righteousness unto them which are exercised thereby. 12 Wherefore lift up the hands which hang down, and the feeble knees;
 
-[Saturday 20-January, 2024](https://getbible.net/kjv/Philippians/4/23)
+[Sunday 21-January, 2024](https://getbible.net/kjv/Hebrews/12/11-12)
