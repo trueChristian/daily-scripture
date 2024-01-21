@@ -1,5 +1,5 @@
-**Hebrews 12:11-12**
+**1 Corinthians 15:33**
 
-11 Now no chastening for the present seemeth to be joyous, but grievous: nevertheless afterward it yieldeth the peaceable fruit of righteousness unto them which are exercised thereby. 12 Wherefore lift up the hands which hang down, and the feeble knees;
+33 Be not deceived: evil communications corrupt good manners.
 
-[Sunday 21-January, 2024](https://getbible.net/kjv/Hebrews/12/11-12)
+[Monday 22-January, 2024](https://getbible.net/kjv/1 Corinthians/15/33)
