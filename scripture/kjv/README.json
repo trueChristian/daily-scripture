@@ -1,17 +1,17 @@
 {
-  "book": "1 Corinthians",
-  "chapter": "15",
-  "date": "Monday 22-January, 2024",
-  "getbible": "https://getbible.net/kjv/1 Corinthians/15/33",
-  "name": "1 Corinthians 15:33",
+  "book": "Proverbs",
+  "chapter": "21",
+  "date": "Tuesday 23-January, 2024",
+  "getbible": "https://getbible.net/kjv/Proverbs/21/26",
+  "name": "Proverbs 21:26",
   "scripture": [
     {
-      "nr": "33",
-      "text": "Be not deceived: evil communications corrupt good manners."
+      "nr": "26",
+      "text": "He coveteth greedily all the day long: but the righteous giveth and spareth not."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "33",
+  "verse": "26",
   "version": "kjv"
 }

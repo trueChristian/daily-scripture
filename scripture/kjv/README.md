@@ -1,5 +1,5 @@
-**1 Corinthians 15:33**
+**Proverbs 21:26**
 
-33 Be not deceived: evil communications corrupt good manners.
+26 He coveteth greedily all the day long: but the righteous giveth and spareth not.
 
-[Monday 22-January, 2024](https://getbible.net/kjv/1 Corinthians/15/33)
+[Tuesday 23-January, 2024](https://getbible.net/kjv/Proverbs/21/26)
