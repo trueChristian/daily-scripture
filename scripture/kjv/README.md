@@ -1,5 +1,5 @@
-**Proverbs 21:26**
+**Daniel 9:19**
 
-26 He coveteth greedily all the day long: but the righteous giveth and spareth not.
+19 O Lord, hear; O Lord, forgive; O Lord, hearken and do; defer not, for thine own sake, O my God: for thy city and thy people are called by thy name.
 
-[Tuesday 23-January, 2024](https://getbible.net/kjv/Proverbs/21/26)
+[Wednesday 24-January, 2024](https://getbible.net/kjv/Daniel/9/19)

@@ -1,17 +1,17 @@
 {
-  "book": "Proverbs",
-  "chapter": "21",
-  "date": "Tuesday 23-January, 2024",
-  "getbible": "https://getbible.net/kjv/Proverbs/21/26",
-  "name": "Proverbs 21:26",
+  "book": "Daniel",
+  "chapter": "9",
+  "date": "Wednesday 24-January, 2024",
+  "getbible": "https://getbible.net/kjv/Daniel/9/19",
+  "name": "Daniel 9:19",
   "scripture": [
     {
-      "nr": "26",
-      "text": "He coveteth greedily all the day long: but the righteous giveth and spareth not."
+      "nr": "19",
+      "text": "O Lord, hear; O Lord, forgive; O Lord, hearken and do; defer not, for thine own sake, O my God: for thy city and thy people are called by thy name."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "26",
+  "verse": "19",
   "version": "kjv"
 }
