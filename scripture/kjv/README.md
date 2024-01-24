@@ -1,5 +1,5 @@
-**Daniel 9:19**
+**Isaiah 26:3**
 
-19 O Lord, hear; O Lord, forgive; O Lord, hearken and do; defer not, for thine own sake, O my God: for thy city and thy people are called by thy name.
+3 Thou wilt keep him in perfect peace, whose mind is stayed on thee: because he trusteth in thee.
 
-[Wednesday 24-January, 2024](https://getbible.net/kjv/Daniel/9/19)
+[Thursday 25-January, 2024](https://getbible.net/kjv/Isaiah/26/3)

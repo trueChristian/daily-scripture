@@ -1,17 +1,17 @@
 {
-  "book": "Daniel",
-  "chapter": "9",
-  "date": "Wednesday 24-January, 2024",
-  "getbible": "https://getbible.net/kjv/Daniel/9/19",
-  "name": "Daniel 9:19",
+  "book": "Isaiah",
+  "chapter": "26",
+  "date": "Thursday 25-January, 2024",
+  "getbible": "https://getbible.net/kjv/Isaiah/26/3",
+  "name": "Isaiah 26:3",
   "scripture": [
     {
-      "nr": "19",
-      "text": "O Lord, hear; O Lord, forgive; O Lord, hearken and do; defer not, for thine own sake, O my God: for thy city and thy people are called by thy name."
+      "nr": "3",
+      "text": "Thou wilt keep him in perfect peace, whose mind is stayed on thee: because he trusteth in thee."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "19",
+  "verse": "3",
   "version": "kjv"
 }
