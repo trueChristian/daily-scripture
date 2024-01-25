@@ -1,5 +1,5 @@
-**Isaiah 26:3**
+**Psalms 31:15**
 
-3 Thou wilt keep him in perfect peace, whose mind is stayed on thee: because he trusteth in thee.
+15 My times are in thy hand: deliver me from the hand of mine enemies, and from them that persecute me.
 
-[Thursday 25-January, 2024](https://getbible.net/kjv/Isaiah/26/3)
+[Friday 26-January, 2024](https://getbible.net/kjv/Psalms/31/15)
