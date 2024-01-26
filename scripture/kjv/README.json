@@ -1,17 +1,17 @@
 {
-  "book": "Psalms",
-  "chapter": "31",
-  "date": "Friday 26-January, 2024",
-  "getbible": "https://getbible.net/kjv/Psalms/31/15",
-  "name": "Psalms 31:15",
+  "book": "2 Corinthians",
+  "chapter": "2",
+  "date": "Saturday 27-January, 2024",
+  "getbible": "https://getbible.net/kjv/2 Corinthians/2/14",
+  "name": "2 Corinthians 2:14",
   "scripture": [
     {
-      "nr": "15",
-      "text": "My times are in thy hand: deliver me from the hand of mine enemies, and from them that persecute me."
+      "nr": "14",
+      "text": "Now thanks be unto God, which always causeth us to triumph in Christ, and maketh manifest the savour of his knowledge by us in every place."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "15",
+  "verse": "14",
   "version": "kjv"
 }

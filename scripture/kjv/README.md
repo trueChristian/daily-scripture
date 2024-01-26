@@ -1,5 +1,5 @@
-**Psalms 31:15**
+**2 Corinthians 2:14**
 
-15 My times are in thy hand: deliver me from the hand of mine enemies, and from them that persecute me.
+14 Now thanks be unto God, which always causeth us to triumph in Christ, and maketh manifest the savour of his knowledge by us in every place.
 
-[Friday 26-January, 2024](https://getbible.net/kjv/Psalms/31/15)
+[Saturday 27-January, 2024](https://getbible.net/kjv/2 Corinthians/2/14)
