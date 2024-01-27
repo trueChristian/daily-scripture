@@ -1,17 +1,21 @@
 {
-  "book": "2 Corinthians",
-  "chapter": "2",
-  "date": "Saturday 27-January, 2024",
-  "getbible": "https://getbible.net/kjv/2 Corinthians/2/14",
-  "name": "2 Corinthians 2:14",
+  "book": "Ezekiel",
+  "chapter": "21",
+  "date": "Sunday 28-January, 2024",
+  "getbible": "https://getbible.net/kjv/Ezekiel/21/16-17",
+  "name": "Ezekiel 21:16-17",
   "scripture": [
     {
-      "nr": "14",
-      "text": "Now thanks be unto God, which always causeth us to triumph in Christ, and maketh manifest the savour of his knowledge by us in every place."
+      "nr": "16",
+      "text": "Go thee one way or other, either on the right hand, or on the left, whithersoever thy face is set."
+    },
+    {
+      "nr": "17",
+      "text": "I will also smite mine hands together, and I will cause my fury to rest: I the Lord have said it."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "14",
+  "verse": "16-17",
   "version": "kjv"
 }

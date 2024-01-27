@@ -1,5 +1,5 @@
-**2 Corinthians 2:14**
+**Ezekiel 21:16-17**
 
-14 Now thanks be unto God, which always causeth us to triumph in Christ, and maketh manifest the savour of his knowledge by us in every place.
+16 Go thee one way or other, either on the right hand, or on the left, whithersoever thy face is set. 17 I will also smite mine hands together, and I will cause my fury to rest: I the Lord have said it.
 
-[Saturday 27-January, 2024](https://getbible.net/kjv/2 Corinthians/2/14)
+[Sunday 28-January, 2024](https://getbible.net/kjv/Ezekiel/21/16-17)
