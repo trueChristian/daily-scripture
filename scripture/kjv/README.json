@@ -1,21 +1,17 @@
 {
-  "book": "Ezekiel",
-  "chapter": "21",
-  "date": "Sunday 28-January, 2024",
-  "getbible": "https://getbible.net/kjv/Ezekiel/21/16-17",
-  "name": "Ezekiel 21:16-17",
+  "book": "Proverbs",
+  "chapter": "13",
+  "date": "Monday 29-January, 2024",
+  "getbible": "https://getbible.net/kjv/Proverbs/13/20",
+  "name": "Proverbs 13:20",
   "scripture": [
     {
-      "nr": "16",
-      "text": "Go thee one way or other, either on the right hand, or on the left, whithersoever thy face is set."
-    },
-    {
-      "nr": "17",
-      "text": "I will also smite mine hands together, and I will cause my fury to rest: I the Lord have said it."
+      "nr": "20",
+      "text": "He that walketh with wise men shall be wise: but a companion of fools shall be destroyed."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "16-17",
+  "verse": "20",
   "version": "kjv"
 }

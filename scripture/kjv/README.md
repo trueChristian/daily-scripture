@@ -1,5 +1,5 @@
-**Ezekiel 21:16-17**
+**Proverbs 13:20**
 
-16 Go thee one way or other, either on the right hand, or on the left, whithersoever thy face is set. 17 I will also smite mine hands together, and I will cause my fury to rest: I the Lord have said it.
+20 He that walketh with wise men shall be wise: but a companion of fools shall be destroyed.
 
-[Sunday 28-January, 2024](https://getbible.net/kjv/Ezekiel/21/16-17)
+[Monday 29-January, 2024](https://getbible.net/kjv/Proverbs/13/20)
