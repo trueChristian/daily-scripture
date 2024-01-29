@@ -1,5 +1,5 @@
-**Proverbs 13:20**
+**Romans 12:12**
 
-20 He that walketh with wise men shall be wise: but a companion of fools shall be destroyed.
+12 Rejoicing in hope; patient in tribulation; continuing instant in prayer;
 
-[Monday 29-January, 2024](https://getbible.net/kjv/Proverbs/13/20)
+[Tuesday 30-January, 2024](https://getbible.net/kjv/Romans/12/12)

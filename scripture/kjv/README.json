@@ -1,17 +1,17 @@
 {
-  "book": "Proverbs",
-  "chapter": "13",
-  "date": "Monday 29-January, 2024",
-  "getbible": "https://getbible.net/kjv/Proverbs/13/20",
-  "name": "Proverbs 13:20",
+  "book": "Romans",
+  "chapter": "12",
+  "date": "Tuesday 30-January, 2024",
+  "getbible": "https://getbible.net/kjv/Romans/12/12",
+  "name": "Romans 12:12",
   "scripture": [
     {
-      "nr": "20",
-      "text": "He that walketh with wise men shall be wise: but a companion of fools shall be destroyed."
+      "nr": "12",
+      "text": "Rejoicing in hope; patient in tribulation; continuing instant in prayer;"
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "20",
+  "verse": "12",
   "version": "kjv"
 }
