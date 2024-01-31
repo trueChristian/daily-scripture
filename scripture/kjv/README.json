@@ -1,25 +1,17 @@
 {
   "book": "Psalms",
-  "chapter": "69",
-  "date": "Wednesday 31-January, 2024",
-  "getbible": "https://getbible.net/kjv/Psalms/69/1-3",
-  "name": "Psalms 69:1-3",
+  "chapter": "115",
+  "date": "Thursday 01-February, 2024",
+  "getbible": "https://getbible.net/kjv/Psalms/115/14",
+  "name": "Psalms 115:14",
   "scripture": [
     {
-      "nr": "1",
-      "text": "Save me, O God; for the waters are come in unto my soul."
-    },
-    {
-      "nr": "2",
-      "text": "I sink in deep mire, where there is no standing: I am come into deep waters, where the floods overflow me."
-    },
-    {
-      "nr": "3",
-      "text": "I am weary of my crying: my throat is dried: mine eyes fail while I wait for my God."
+      "nr": "14",
+      "text": "The Lord shall increase you more and more, you and your children."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "1-3",
+  "verse": "14",
   "version": "kjv"
 }
