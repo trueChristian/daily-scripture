@@ -1,5 +1,5 @@
-**Psalms 115:14**
+**Revelation 1:7**
 
-14 The Lord shall increase you more and more, you and your children.
+7 Behold, he cometh with clouds; and every eye shall see him, and they also which pierced him: and all kindreds of the earth shall wail because of him. Even so, Amen.
 
-[Thursday 01-February, 2024](https://getbible.net/kjv/Psalms/115/14)
+[Friday 02-February, 2024](https://getbible.net/kjv/Revelation/1/7)
