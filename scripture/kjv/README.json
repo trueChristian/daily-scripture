@@ -1,17 +1,17 @@
 {
-  "book": "Revelation",
-  "chapter": "1",
-  "date": "Friday 02-February, 2024",
-  "getbible": "https://getbible.net/kjv/Revelation/1/7",
-  "name": "Revelation 1:7",
+  "book": "2 Corinthians",
+  "chapter": "6",
+  "date": "Saturday 03-February, 2024",
+  "getbible": "https://getbible.net/kjv/2 Corinthians/6/2",
+  "name": "2 Corinthians 6:2",
   "scripture": [
     {
-      "nr": "7",
-      "text": "Behold, he cometh with clouds; and every eye shall see him, and they also which pierced him: and all kindreds of the earth shall wail because of him. Even so, Amen."
+      "nr": "2",
+      "text": "(For he saith, I have heard thee in a time accepted, and in the day of salvation have I succoured thee: behold, now is the accepted time; behold, now is the day of salvation.)"
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "7",
+  "verse": "2",
   "version": "kjv"
 }
