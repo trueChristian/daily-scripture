@@ -1,5 +1,5 @@
-**2 Corinthians 6:2**
+**Job 27:5-6**
 
-2 (For he saith, I have heard thee in a time accepted, and in the day of salvation have I succoured thee: behold, now is the accepted time; behold, now is the day of salvation.)
+5 God forbid that I should justify you: till I die I will not remove mine integrity from me. 6 My righteousness I hold fast, and will not let it go: my heart shall not reproach me so long as I live.
 
-[Saturday 03-February, 2024](https://getbible.net/kjv/2 Corinthians/6/2)
+[Sunday 04-February, 2024](https://getbible.net/kjv/Job/27/5-6)
