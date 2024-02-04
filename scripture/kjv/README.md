@@ -1,5 +1,5 @@
-**Job 27:5-6**
+**Hebrews 4:11**
 
-5 God forbid that I should justify you: till I die I will not remove mine integrity from me. 6 My righteousness I hold fast, and will not let it go: my heart shall not reproach me so long as I live.
+11 Let us labour therefore to enter into that rest, lest any man fall after the same example of unbelief.
 
-[Sunday 04-February, 2024](https://getbible.net/kjv/Job/27/5-6)
+[Monday 05-February, 2024](https://getbible.net/kjv/Hebrews/4/11)
