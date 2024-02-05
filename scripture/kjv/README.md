@@ -1,5 +1,5 @@
-**Hebrews 4:11**
+**Proverbs 3:1-2**
 
-11 Let us labour therefore to enter into that rest, lest any man fall after the same example of unbelief.
+1 My son, forget not my law; but let thine heart keep my commandments: 2 For length of days, and long life, and peace, shall they add to thee.
 
-[Monday 05-February, 2024](https://getbible.net/kjv/Hebrews/4/11)
+[Tuesday 06-February, 2024](https://getbible.net/kjv/Proverbs/3/1-2)
