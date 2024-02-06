@@ -1,21 +1,17 @@
 {
-  "book": "Proverbs",
-  "chapter": "3",
-  "date": "Tuesday 06-February, 2024",
-  "getbible": "https://getbible.net/kjv/Proverbs/3/1-2",
-  "name": "Proverbs 3:1-2",
+  "book": "2 Corinthians",
+  "chapter": "5",
+  "date": "Wednesday 07-February, 2024",
+  "getbible": "https://getbible.net/kjv/2 Corinthians/5/11",
+  "name": "2 Corinthians 5:11",
   "scripture": [
     {
-      "nr": "1",
-      "text": "My son, forget not my law; but let thine heart keep my commandments:"
-    },
-    {
-      "nr": "2",
-      "text": "For length of days, and long life, and peace, shall they add to thee."
+      "nr": "11",
+      "text": "Knowing therefore the terror of the Lord, we persuade men; but we are made manifest unto God; and I trust also are made manifest in your consciences."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "1-2",
+  "verse": "11",
   "version": "kjv"
 }
