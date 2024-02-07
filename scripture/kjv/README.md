@@ -1,5 +1,5 @@
-**2 Corinthians 5:11**
+**Malachi 4:2-3**
 
-11 Knowing therefore the terror of the Lord, we persuade men; but we are made manifest unto God; and I trust also are made manifest in your consciences.
+2 But unto you that fear my name shall the Sun of righteousness arise with healing in his wings; and ye shall go forth, and grow up as calves of the stall. 3 And ye shall tread down the wicked; for they shall be ashes under the soles of your feet in the day that I shall do this, saith the Lord of hosts.
 
-[Wednesday 07-February, 2024](https://getbible.net/kjv/2 Corinthians/5/11)
+[Thursday 08-February, 2024](https://getbible.net/kjv/Malachi/4/2-3)

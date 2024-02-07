@@ -1,17 +1,21 @@
 {
-  "book": "2 Corinthians",
-  "chapter": "5",
-  "date": "Wednesday 07-February, 2024",
-  "getbible": "https://getbible.net/kjv/2 Corinthians/5/11",
-  "name": "2 Corinthians 5:11",
+  "book": "Malachi",
+  "chapter": "4",
+  "date": "Thursday 08-February, 2024",
+  "getbible": "https://getbible.net/kjv/Malachi/4/2-3",
+  "name": "Malachi 4:2-3",
   "scripture": [
     {
-      "nr": "11",
-      "text": "Knowing therefore the terror of the Lord, we persuade men; but we are made manifest unto God; and I trust also are made manifest in your consciences."
+      "nr": "2",
+      "text": "But unto you that fear my name shall the Sun of righteousness arise with healing in his wings; and ye shall go forth, and grow up as calves of the stall."
+    },
+    {
+      "nr": "3",
+      "text": "And ye shall tread down the wicked; for they shall be ashes under the soles of your feet in the day that I shall do this, saith the Lord of hosts."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "11",
+  "verse": "2-3",
   "version": "kjv"
 }
