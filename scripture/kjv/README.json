@@ -1,21 +1,17 @@
 {
-  "book": "Malachi",
+  "book": "2 Corinthians",
   "chapter": "4",
-  "date": "Thursday 08-February, 2024",
-  "getbible": "https://getbible.net/kjv/Malachi/4/2-3",
-  "name": "Malachi 4:2-3",
+  "date": "Friday 09-February, 2024",
+  "getbible": "https://getbible.net/kjv/2 Corinthians/4/10",
+  "name": "2 Corinthians 4:10",
   "scripture": [
     {
-      "nr": "2",
-      "text": "But unto you that fear my name shall the Sun of righteousness arise with healing in his wings; and ye shall go forth, and grow up as calves of the stall."
-    },
-    {
-      "nr": "3",
-      "text": "And ye shall tread down the wicked; for they shall be ashes under the soles of your feet in the day that I shall do this, saith the Lord of hosts."
+      "nr": "10",
+      "text": "Always bearing about in the body the dying of the Lord Jesus, that the life also of Jesus might be made manifest in our body."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "2-3",
+  "verse": "10",
   "version": "kjv"
 }
