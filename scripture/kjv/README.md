@@ -1,5 +1,5 @@
-**2 Corinthians 4:10**
+**Psalms 37:4**
 
-10 Always bearing about in the body the dying of the Lord Jesus, that the life also of Jesus might be made manifest in our body.
+4 Delight thyself also in the Lord; and he shall give thee the desires of thine heart.
 
-[Friday 09-February, 2024](https://getbible.net/kjv/2 Corinthians/4/10)
+[Saturday 10-February, 2024](https://getbible.net/kjv/Psalms/37/4)

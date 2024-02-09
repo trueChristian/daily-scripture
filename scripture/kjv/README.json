@@ -1,17 +1,17 @@
 {
-  "book": "2 Corinthians",
-  "chapter": "4",
-  "date": "Friday 09-February, 2024",
-  "getbible": "https://getbible.net/kjv/2 Corinthians/4/10",
-  "name": "2 Corinthians 4:10",
+  "book": "Psalms",
+  "chapter": "37",
+  "date": "Saturday 10-February, 2024",
+  "getbible": "https://getbible.net/kjv/Psalms/37/4",
+  "name": "Psalms 37:4",
   "scripture": [
     {
-      "nr": "10",
-      "text": "Always bearing about in the body the dying of the Lord Jesus, that the life also of Jesus might be made manifest in our body."
+      "nr": "4",
+      "text": "Delight thyself also in the Lord; and he shall give thee the desires of thine heart."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "10",
+  "verse": "4",
   "version": "kjv"
 }
