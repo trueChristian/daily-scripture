@@ -1,5 +1,5 @@
-**Psalms 37:4**
+**Hosea 8:11-12**
 
-4 Delight thyself also in the Lord; and he shall give thee the desires of thine heart.
+11 Because Ephraim hath made many altars to sin, altars shall be unto him to sin. 12 I have written to him the great things of my law, but they were counted as a strange thing.
 
-[Saturday 10-February, 2024](https://getbible.net/kjv/Psalms/37/4)
+[Sunday 11-February, 2024](https://getbible.net/kjv/Hosea/8/11-12)
