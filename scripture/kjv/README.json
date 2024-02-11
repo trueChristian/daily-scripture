@@ -1,21 +1,17 @@
 {
-  "book": "Hosea",
-  "chapter": "8",
-  "date": "Sunday 11-February, 2024",
-  "getbible": "https://getbible.net/kjv/Hosea/8/11-12",
-  "name": "Hosea 8:11-12",
+  "book": "Job",
+  "chapter": "6",
+  "date": "Monday 12-February, 2024",
+  "getbible": "https://getbible.net/kjv/Job/6/14",
+  "name": "Job 6:14",
   "scripture": [
     {
-      "nr": "11",
-      "text": "Because Ephraim hath made many altars to sin, altars shall be unto him to sin."
-    },
-    {
-      "nr": "12",
-      "text": "I have written to him the great things of my law, but they were counted as a strange thing."
+      "nr": "14",
+      "text": "To him that is afflicted pity should be shewed from his friend; but he forsaketh the fear of the Almighty."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "11-12",
+  "verse": "14",
   "version": "kjv"
 }

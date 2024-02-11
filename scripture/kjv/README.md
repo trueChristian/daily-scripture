@@ -1,5 +1,5 @@
-**Hosea 8:11-12**
+**Job 6:14**
 
-11 Because Ephraim hath made many altars to sin, altars shall be unto him to sin. 12 I have written to him the great things of my law, but they were counted as a strange thing.
+14 To him that is afflicted pity should be shewed from his friend; but he forsaketh the fear of the Almighty.
 
-[Sunday 11-February, 2024](https://getbible.net/kjv/Hosea/8/11-12)
+[Monday 12-February, 2024](https://getbible.net/kjv/Job/6/14)
