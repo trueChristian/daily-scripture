@@ -1,5 +1,5 @@
-**Job 6:14**
+**Psalms 12:5**
 
-14 To him that is afflicted pity should be shewed from his friend; but he forsaketh the fear of the Almighty.
+5 For the oppression of the poor, for the sighing of the needy, now will I arise, saith the Lord; I will set him in safety from him that puffeth at him.
 
-[Monday 12-February, 2024](https://getbible.net/kjv/Job/6/14)
+[Tuesday 13-February, 2024](https://getbible.net/kjv/Psalms/12/5)

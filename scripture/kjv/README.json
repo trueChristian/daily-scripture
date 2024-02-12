@@ -1,17 +1,17 @@
 {
-  "book": "Job",
-  "chapter": "6",
-  "date": "Monday 12-February, 2024",
-  "getbible": "https://getbible.net/kjv/Job/6/14",
-  "name": "Job 6:14",
+  "book": "Psalms",
+  "chapter": "12",
+  "date": "Tuesday 13-February, 2024",
+  "getbible": "https://getbible.net/kjv/Psalms/12/5",
+  "name": "Psalms 12:5",
   "scripture": [
     {
-      "nr": "14",
-      "text": "To him that is afflicted pity should be shewed from his friend; but he forsaketh the fear of the Almighty."
+      "nr": "5",
+      "text": "For the oppression of the poor, for the sighing of the needy, now will I arise, saith the Lord; I will set him in safety from him that puffeth at him."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "14",
+  "verse": "5",
   "version": "kjv"
 }
