@@ -1,17 +1,21 @@
 {
-  "book": "John",
+  "book": "1 Corinthians",
   "chapter": "12",
-  "date": "Wednesday 14-February, 2024",
-  "getbible": "https://getbible.net/kjv/John/12/26",
-  "name": "John 12:26",
+  "date": "Thursday 15-February, 2024",
+  "getbible": "https://getbible.net/kjv/1 Corinthians/12/15-16",
+  "name": "1 Corinthians 12:15-16",
   "scripture": [
     {
-      "nr": "26",
-      "text": "If any man serve me, let him follow me; and where I am, there shall also my servant be: if any man serve me, him will my Father honour."
+      "nr": "15",
+      "text": "If the foot shall say, Because I am not the hand, I am not of the body; is it therefore not of the body?"
+    },
+    {
+      "nr": "16",
+      "text": "And if the ear shall say, Because I am not the eye, I am not of the body; is it therefore not of the body?"
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "26",
+  "verse": "15-16",
   "version": "kjv"
 }
