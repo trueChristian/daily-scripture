@@ -1,5 +1,5 @@
-**1 Corinthians 12:15-16**
+**2 Corinthians 4:16**
 
-15 If the foot shall say, Because I am not the hand, I am not of the body; is it therefore not of the body? 16 And if the ear shall say, Because I am not the eye, I am not of the body; is it therefore not of the body?
+16 For which cause we faint not; but though our outward man perish, yet the inward man is renewed day by day.
 
-[Thursday 15-February, 2024](https://getbible.net/kjv/1 Corinthians/12/15-16)
+[Friday 16-February, 2024](https://getbible.net/kjv/2 Corinthians/4/16)

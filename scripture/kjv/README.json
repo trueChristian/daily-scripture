@@ -1,21 +1,17 @@
 {
-  "book": "1 Corinthians",
-  "chapter": "12",
-  "date": "Thursday 15-February, 2024",
-  "getbible": "https://getbible.net/kjv/1 Corinthians/12/15-16",
-  "name": "1 Corinthians 12:15-16",
+  "book": "2 Corinthians",
+  "chapter": "4",
+  "date": "Friday 16-February, 2024",
+  "getbible": "https://getbible.net/kjv/2 Corinthians/4/16",
+  "name": "2 Corinthians 4:16",
   "scripture": [
     {
-      "nr": "15",
-      "text": "If the foot shall say, Because I am not the hand, I am not of the body; is it therefore not of the body?"
-    },
-    {
       "nr": "16",
-      "text": "And if the ear shall say, Because I am not the eye, I am not of the body; is it therefore not of the body?"
+      "text": "For which cause we faint not; but though our outward man perish, yet the inward man is renewed day by day."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "15-16",
+  "verse": "16",
   "version": "kjv"
 }
