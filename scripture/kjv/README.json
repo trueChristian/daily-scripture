@@ -1,17 +1,17 @@
 {
-  "book": "1 Corinthians",
-  "chapter": "14",
-  "date": "Saturday 17-February, 2024",
-  "getbible": "https://getbible.net/kjv/1 Corinthians/14/1",
-  "name": "1 Corinthians 14:1",
+  "book": "Jeremiah",
+  "chapter": "32",
+  "date": "Sunday 18-February, 2024",
+  "getbible": "https://getbible.net/kjv/Jeremiah/32/27",
+  "name": "Jeremiah 32:27",
   "scripture": [
     {
-      "nr": "1",
-      "text": "Follow after charity, and desire spiritual gifts, but rather that ye may prophesy."
+      "nr": "27",
+      "text": "Behold, I am the Lord, the God of all flesh: is there any thing too hard for me?"
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "1",
+  "verse": "27",
   "version": "kjv"
 }

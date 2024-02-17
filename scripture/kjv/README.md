@@ -1,5 +1,5 @@
-**1 Corinthians 14:1**
+**Jeremiah 32:27**
 
-1 Follow after charity, and desire spiritual gifts, but rather that ye may prophesy.
+27 Behold, I am the Lord, the God of all flesh: is there any thing too hard for me?
 
-[Saturday 17-February, 2024](https://getbible.net/kjv/1 Corinthians/14/1)
+[Sunday 18-February, 2024](https://getbible.net/kjv/Jeremiah/32/27)
