@@ -1,17 +1,17 @@
 {
-  "book": "Jeremiah",
-  "chapter": "32",
-  "date": "Sunday 18-February, 2024",
-  "getbible": "https://getbible.net/kjv/Jeremiah/32/27",
-  "name": "Jeremiah 32:27",
+  "book": "Ezekiel",
+  "chapter": "33",
+  "date": "Monday 19-February, 2024",
+  "getbible": "https://getbible.net/kjv/Ezekiel/33/15",
+  "name": "Ezekiel 33:15",
   "scripture": [
     {
-      "nr": "27",
-      "text": "Behold, I am the Lord, the God of all flesh: is there any thing too hard for me?"
+      "nr": "15",
+      "text": "If the wicked restore the pledge, give again that he had robbed, walk in the statutes of life, without committing iniquity; he shall surely live, he shall not die."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "27",
+  "verse": "15",
   "version": "kjv"
 }
