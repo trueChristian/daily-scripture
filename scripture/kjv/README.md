@@ -1,5 +1,5 @@
-**Job 28:28**
+**Romans 5:8**
 
-28 And unto man he said, Behold, the fear of the Lord, that is wisdom; and to depart from evil is understanding. 
+8 But God commendeth his love toward us, in that, while we were yet sinners, Christ died for us.
 
-[Tuesday 20-February, 2024](https://getbible.net/kjv/Job/28/28)
+[Wednesday 21-February, 2024](https://getbible.net/kjv/Romans/5/8)

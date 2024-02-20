@@ -1,17 +1,17 @@
 {
-  "book": "Job",
-  "chapter": "28",
-  "date": "Tuesday 20-February, 2024",
-  "getbible": "https://getbible.net/kjv/Job/28/28",
-  "name": "Job 28:28",
+  "book": "Romans",
+  "chapter": "5",
+  "date": "Wednesday 21-February, 2024",
+  "getbible": "https://getbible.net/kjv/Romans/5/8",
+  "name": "Romans 5:8",
   "scripture": [
     {
-      "nr": "28",
-      "text": "And unto man he said, Behold, the fear of the Lord, that is wisdom; and to depart from evil is understanding. "
+      "nr": "8",
+      "text": "But God commendeth his love toward us, in that, while we were yet sinners, Christ died for us."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "28",
+  "verse": "8",
   "version": "kjv"
 }
