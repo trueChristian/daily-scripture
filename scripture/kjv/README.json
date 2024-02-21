@@ -1,17 +1,17 @@
 {
-  "book": "Romans",
-  "chapter": "5",
-  "date": "Wednesday 21-February, 2024",
-  "getbible": "https://getbible.net/kjv/Romans/5/8",
-  "name": "Romans 5:8",
+  "book": "Luke",
+  "chapter": "22",
+  "date": "Thursday 22-February, 2024",
+  "getbible": "https://getbible.net/kjv/Luke/22/44",
+  "name": "Luke 22:44",
   "scripture": [
     {
-      "nr": "8",
-      "text": "But God commendeth his love toward us, in that, while we were yet sinners, Christ died for us."
+      "nr": "44",
+      "text": "And being in an agony he prayed more earnestly: and his sweat was as it were great drops of blood falling down to the ground."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "8",
+  "verse": "44",
   "version": "kjv"
 }

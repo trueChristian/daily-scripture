@@ -1,5 +1,5 @@
-**Romans 5:8**
+**Luke 22:44**
 
-8 But God commendeth his love toward us, in that, while we were yet sinners, Christ died for us.
+44 And being in an agony he prayed more earnestly: and his sweat was as it were great drops of blood falling down to the ground.
 
-[Wednesday 21-February, 2024](https://getbible.net/kjv/Romans/5/8)
+[Thursday 22-February, 2024](https://getbible.net/kjv/Luke/22/44)
