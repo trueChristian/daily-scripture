@@ -1,5 +1,5 @@
-**Luke 22:44**
+**Jonah 1:3**
 
-44 And being in an agony he prayed more earnestly: and his sweat was as it were great drops of blood falling down to the ground.
+3 But Jonah rose up to flee unto Tarshish from the presence of the Lord, and went down to Joppa; and he found a ship going to Tarshish: so he paid the fare thereof, and went down into it, to go with them unto Tarshish from the presence of the Lord.
 
-[Thursday 22-February, 2024](https://getbible.net/kjv/Luke/22/44)
+[Friday 23-February, 2024](https://getbible.net/kjv/Jonah/1/3)
