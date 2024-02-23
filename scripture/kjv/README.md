@@ -1,5 +1,5 @@
-**Jonah 1:3**
+**Psalms 40:1-3**
 
-3 But Jonah rose up to flee unto Tarshish from the presence of the Lord, and went down to Joppa; and he found a ship going to Tarshish: so he paid the fare thereof, and went down into it, to go with them unto Tarshish from the presence of the Lord.
+1 I waited patiently for the Lord; and he inclined unto me, and heard my cry. 2 He brought me up also out of an horrible pit, out of the miry clay, and set my feet upon a rock, and established my goings. 3 And he hath put a new song in my mouth, even praise unto our God: many shall see it, and fear, and shall trust in the Lord.
 
-[Friday 23-February, 2024](https://getbible.net/kjv/Jonah/1/3)
+[Saturday 24-February, 2024](https://getbible.net/kjv/Psalms/40/1-3)
