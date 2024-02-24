@@ -1,25 +1,17 @@
 {
-  "book": "Psalms",
-  "chapter": "40",
-  "date": "Saturday 24-February, 2024",
-  "getbible": "https://getbible.net/kjv/Psalms/40/1-3",
-  "name": "Psalms 40:1-3",
+  "book": "Proverbs",
+  "chapter": "19",
+  "date": "Sunday 25-February, 2024",
+  "getbible": "https://getbible.net/kjv/Proverbs/19/11",
+  "name": "Proverbs 19:11",
   "scripture": [
     {
-      "nr": "1",
-      "text": "I waited patiently for the Lord; and he inclined unto me, and heard my cry."
-    },
-    {
-      "nr": "2",
-      "text": "He brought me up also out of an horrible pit, out of the miry clay, and set my feet upon a rock, and established my goings."
-    },
-    {
-      "nr": "3",
-      "text": "And he hath put a new song in my mouth, even praise unto our God: many shall see it, and fear, and shall trust in the Lord."
+      "nr": "11",
+      "text": "The discretion of a man deferreth his anger; and it is his glory to pass over a transgression."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "1-3",
+  "verse": "11",
   "version": "kjv"
 }

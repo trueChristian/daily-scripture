@@ -1,5 +1,5 @@
-**Psalms 40:1-3**
+**Proverbs 19:11**
 
-1 I waited patiently for the Lord; and he inclined unto me, and heard my cry. 2 He brought me up also out of an horrible pit, out of the miry clay, and set my feet upon a rock, and established my goings. 3 And he hath put a new song in my mouth, even praise unto our God: many shall see it, and fear, and shall trust in the Lord.
+11 The discretion of a man deferreth his anger; and it is his glory to pass over a transgression.
 
-[Saturday 24-February, 2024](https://getbible.net/kjv/Psalms/40/1-3)
+[Sunday 25-February, 2024](https://getbible.net/kjv/Proverbs/19/11)
