@@ -1,5 +1,5 @@
-**Proverbs 19:11**
+**Ephesians 6:24**
 
-11 The discretion of a man deferreth his anger; and it is his glory to pass over a transgression.
+24 Grace be with all them that love our Lord Jesus Christ in sincerity. Amen.  Written from Rome unto the Ephesians by Tychicus. 
 
-[Sunday 25-February, 2024](https://getbible.net/kjv/Proverbs/19/11)
+[Monday 26-February, 2024](https://getbible.net/kjv/Ephesians/6/24)

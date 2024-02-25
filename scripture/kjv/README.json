@@ -1,17 +1,17 @@
 {
-  "book": "Proverbs",
-  "chapter": "19",
-  "date": "Sunday 25-February, 2024",
-  "getbible": "https://getbible.net/kjv/Proverbs/19/11",
-  "name": "Proverbs 19:11",
+  "book": "Ephesians",
+  "chapter": "6",
+  "date": "Monday 26-February, 2024",
+  "getbible": "https://getbible.net/kjv/Ephesians/6/24",
+  "name": "Ephesians 6:24",
   "scripture": [
     {
-      "nr": "11",
-      "text": "The discretion of a man deferreth his anger; and it is his glory to pass over a transgression."
+      "nr": "24",
+      "text": "Grace be with all them that love our Lord Jesus Christ in sincerity. Amen.  Written from Rome unto the Ephesians by Tychicus. "
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "11",
+  "verse": "24",
   "version": "kjv"
 }
