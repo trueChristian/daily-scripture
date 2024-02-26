@@ -1,5 +1,5 @@
-**Ephesians 6:24**
+**1 Timothy 3:16**
 
-24 Grace be with all them that love our Lord Jesus Christ in sincerity. Amen.  Written from Rome unto the Ephesians by Tychicus. 
+16 And without controversy great is the mystery of godliness: God was manifest in the flesh, justified in the Spirit, seen of angels, preached unto the Gentiles, believed on in the world, received up into glory. 
 
-[Monday 26-February, 2024](https://getbible.net/kjv/Ephesians/6/24)
+[Tuesday 27-February, 2024](https://getbible.net/kjv/1 Timothy/3/16)

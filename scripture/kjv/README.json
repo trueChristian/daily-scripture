@@ -1,17 +1,17 @@
 {
-  "book": "Ephesians",
-  "chapter": "6",
-  "date": "Monday 26-February, 2024",
-  "getbible": "https://getbible.net/kjv/Ephesians/6/24",
-  "name": "Ephesians 6:24",
+  "book": "1 Timothy",
+  "chapter": "3",
+  "date": "Tuesday 27-February, 2024",
+  "getbible": "https://getbible.net/kjv/1 Timothy/3/16",
+  "name": "1 Timothy 3:16",
   "scripture": [
     {
-      "nr": "24",
-      "text": "Grace be with all them that love our Lord Jesus Christ in sincerity. Amen.  Written from Rome unto the Ephesians by Tychicus. "
+      "nr": "16",
+      "text": "And without controversy great is the mystery of godliness: God was manifest in the flesh, justified in the Spirit, seen of angels, preached unto the Gentiles, believed on in the world, received up into glory. "
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "24",
+  "verse": "16",
   "version": "kjv"
 }
