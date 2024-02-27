@@ -1,17 +1,21 @@
 {
-  "book": "1 Timothy",
-  "chapter": "3",
-  "date": "Tuesday 27-February, 2024",
-  "getbible": "https://getbible.net/kjv/1 Timothy/3/16",
-  "name": "1 Timothy 3:16",
+  "book": "Psalms",
+  "chapter": "26",
+  "date": "Wednesday 28-February, 2024",
+  "getbible": "https://getbible.net/kjv/Psalms/26/4-5",
+  "name": "Psalms 26:4-5",
   "scripture": [
     {
-      "nr": "16",
-      "text": "And without controversy great is the mystery of godliness: God was manifest in the flesh, justified in the Spirit, seen of angels, preached unto the Gentiles, believed on in the world, received up into glory. "
+      "nr": "4",
+      "text": "I have not sat with vain persons, neither will I go in with dissemblers."
+    },
+    {
+      "nr": "5",
+      "text": "I have hated the congregation of evil doers; and will not sit with the wicked."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "16",
+  "verse": "4-5",
   "version": "kjv"
 }
