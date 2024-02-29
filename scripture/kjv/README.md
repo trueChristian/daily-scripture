@@ -1,5 +1,5 @@
-**Daniel 4:30-31**
+**Psalms 30:5**
 
-30 The king spake, and said, Is not this great Babylon, that I have built for the house of the kingdom by the might of my power, and for the honour of my majesty? 31 While the word was in the king’s mouth, there fell a voice from heaven, saying, O king Nebuchadnezzar, to thee it is spoken; The kingdom is departed from thee.
+5 For his anger endureth but a moment; in his favour is life: weeping may endure for a night, but joy cometh in the morning.
 
-[Thursday 29-February, 2024](https://getbible.net/kjv/Daniel/4/30-31)
+[Friday 01-March, 2024](https://getbible.net/kjv/Psalms/30/5)

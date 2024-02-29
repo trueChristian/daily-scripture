@@ -1,21 +1,17 @@
 {
-  "book": "Daniel",
-  "chapter": "4",
-  "date": "Thursday 29-February, 2024",
-  "getbible": "https://getbible.net/kjv/Daniel/4/30-31",
-  "name": "Daniel 4:30-31",
+  "book": "Psalms",
+  "chapter": "30",
+  "date": "Friday 01-March, 2024",
+  "getbible": "https://getbible.net/kjv/Psalms/30/5",
+  "name": "Psalms 30:5",
   "scripture": [
     {
-      "nr": "30",
-      "text": "The king spake, and said, Is not this great Babylon, that I have built for the house of the kingdom by the might of my power, and for the honour of my majesty?"
-    },
-    {
-      "nr": "31",
-      "text": "While the word was in the king’s mouth, there fell a voice from heaven, saying, O king Nebuchadnezzar, to thee it is spoken; The kingdom is departed from thee."
+      "nr": "5",
+      "text": "For his anger endureth but a moment; in his favour is life: weeping may endure for a night, but joy cometh in the morning."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "30-31",
+  "verse": "5",
   "version": "kjv"
 }
