@@ -1,17 +1,25 @@
 {
-  "book": "Proverbs",
-  "chapter": "31",
-  "date": "Sunday 03-March, 2024",
-  "getbible": "https://getbible.net/kjv/Proverbs/31/20",
-  "name": "Proverbs 31:20",
+  "book": "Daniel",
+  "chapter": "9",
+  "date": "Monday 04-March, 2024",
+  "getbible": "https://getbible.net/kjv/Daniel/9/20-22",
+  "name": "Daniel 9:20-22",
   "scripture": [
     {
       "nr": "20",
-      "text": "She stretcheth out her hand to the poor; yea, she reacheth forth her hands to the needy."
+      "text": "And whiles I was speaking, and praying, and confessing my sin and the sin of my people Israel, and presenting my supplication before the Lord my God for the holy mountain of my God;"
+    },
+    {
+      "nr": "21",
+      "text": "Yea, whiles I was speaking in prayer, even the man Gabriel, whom I had seen in the vision at the beginning, being caused to fly swiftly, touched me about the time of the evening oblation."
+    },
+    {
+      "nr": "22",
+      "text": "And he informed me, and talked with me, and said, O Daniel, I am now come forth to give thee skill and understanding."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "20",
+  "verse": "20-22",
   "version": "kjv"
 }
