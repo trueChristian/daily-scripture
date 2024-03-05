@@ -1,17 +1,17 @@
 {
-  "book": "Philippians",
-  "chapter": "1",
-  "date": "Tuesday 05-March, 2024",
-  "getbible": "https://getbible.net/kjv/Philippians/1/27",
-  "name": "Philippians 1:27",
+  "book": "1 Timothy",
+  "chapter": "4",
+  "date": "Wednesday 06-March, 2024",
+  "getbible": "https://getbible.net/kjv/1 Timothy/4/13",
+  "name": "1 Timothy 4:13",
   "scripture": [
     {
-      "nr": "27",
-      "text": "Only let your conversation be as it becometh the gospel of Christ: that whether I come and see you, or else be absent, I may hear of your affairs, that ye stand fast in one spirit, with one mind striving together for the faith of the gospel;"
+      "nr": "13",
+      "text": "Till I come, give attendance to reading, to exhortation, to doctrine."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "27",
+  "verse": "13",
   "version": "kjv"
 }

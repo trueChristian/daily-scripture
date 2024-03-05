@@ -1,5 +1,5 @@
-**Philippians 1:27**
+**1 Timothy 4:13**
 
-27 Only let your conversation be as it becometh the gospel of Christ: that whether I come and see you, or else be absent, I may hear of your affairs, that ye stand fast in one spirit, with one mind striving together for the faith of the gospel;
+13 Till I come, give attendance to reading, to exhortation, to doctrine.
 
-[Tuesday 05-March, 2024](https://getbible.net/kjv/Philippians/1/27)
+[Wednesday 06-March, 2024](https://getbible.net/kjv/1 Timothy/4/13)
