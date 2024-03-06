@@ -1,17 +1,17 @@
 {
-  "book": "1 Timothy",
-  "chapter": "4",
-  "date": "Wednesday 06-March, 2024",
-  "getbible": "https://getbible.net/kjv/1 Timothy/4/13",
-  "name": "1 Timothy 4:13",
+  "book": "Acts",
+  "chapter": "1",
+  "date": "Thursday 07-March, 2024",
+  "getbible": "https://getbible.net/kjv/Acts/1/8",
+  "name": "Acts 1:8",
   "scripture": [
     {
-      "nr": "13",
-      "text": "Till I come, give attendance to reading, to exhortation, to doctrine."
+      "nr": "8",
+      "text": "But ye shall receive power, after that the Holy Ghost is come upon you: and ye shall be witnesses unto me both in Jerusalem, and in all Judea, and in Samaria, and unto the uttermost part of the earth."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "13",
+  "verse": "8",
   "version": "kjv"
 }

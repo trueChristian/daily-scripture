@@ -1,5 +1,5 @@
-**1 Timothy 4:13**
+**Acts 1:8**
 
-13 Till I come, give attendance to reading, to exhortation, to doctrine.
+8 But ye shall receive power, after that the Holy Ghost is come upon you: and ye shall be witnesses unto me both in Jerusalem, and in all Judea, and in Samaria, and unto the uttermost part of the earth.
 
-[Wednesday 06-March, 2024](https://getbible.net/kjv/1 Timothy/4/13)
+[Thursday 07-March, 2024](https://getbible.net/kjv/Acts/1/8)
