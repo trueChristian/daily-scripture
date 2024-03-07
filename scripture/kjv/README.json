@@ -1,17 +1,25 @@
 {
-  "book": "Acts",
-  "chapter": "1",
-  "date": "Thursday 07-March, 2024",
-  "getbible": "https://getbible.net/kjv/Acts/1/8",
-  "name": "Acts 1:8",
+  "book": "1 Corinthians",
+  "chapter": "9",
+  "date": "Friday 08-March, 2024",
+  "getbible": "https://getbible.net/kjv/1 Corinthians/9/20-22",
+  "name": "1 Corinthians 9:20-22",
   "scripture": [
     {
-      "nr": "8",
-      "text": "But ye shall receive power, after that the Holy Ghost is come upon you: and ye shall be witnesses unto me both in Jerusalem, and in all Judea, and in Samaria, and unto the uttermost part of the earth."
+      "nr": "20",
+      "text": "And unto the Jews I became as a Jew, that I might gain the Jews; to them that are under the law, as under the law, that I might gain them that are under the law;"
+    },
+    {
+      "nr": "21",
+      "text": "To them that are without law, as without law, (being not without law to God, but under the law to Christ,) that I might gain them that are without law."
+    },
+    {
+      "nr": "22",
+      "text": "To the weak became I as weak, that I might gain the weak: I am made all things to all men, that I might by all means save some."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "8",
+  "verse": "20-22",
   "version": "kjv"
 }
