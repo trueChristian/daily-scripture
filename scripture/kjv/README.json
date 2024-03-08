@@ -1,25 +1,17 @@
 {
-  "book": "1 Corinthians",
-  "chapter": "9",
-  "date": "Friday 08-March, 2024",
-  "getbible": "https://getbible.net/kjv/1 Corinthians/9/20-22",
-  "name": "1 Corinthians 9:20-22",
+  "book": "Psalms",
+  "chapter": "27",
+  "date": "Saturday 09-March, 2024",
+  "getbible": "https://getbible.net/kjv/Psalms/27/4",
+  "name": "Psalms 27:4",
   "scripture": [
     {
-      "nr": "20",
-      "text": "And unto the Jews I became as a Jew, that I might gain the Jews; to them that are under the law, as under the law, that I might gain them that are under the law;"
-    },
-    {
-      "nr": "21",
-      "text": "To them that are without law, as without law, (being not without law to God, but under the law to Christ,) that I might gain them that are without law."
-    },
-    {
-      "nr": "22",
-      "text": "To the weak became I as weak, that I might gain the weak: I am made all things to all men, that I might by all means save some."
+      "nr": "4",
+      "text": "One thing have I desired of the Lord, that will I seek after; that I may dwell in the house of the Lord all the days of my life, to behold the beauty of the Lord, and to enquire in his temple."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "20-22",
+  "verse": "4",
   "version": "kjv"
 }

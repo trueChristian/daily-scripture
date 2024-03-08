@@ -1,5 +1,5 @@
-**1 Corinthians 9:20-22**
+**Psalms 27:4**
 
-20 And unto the Jews I became as a Jew, that I might gain the Jews; to them that are under the law, as under the law, that I might gain them that are under the law; 21 To them that are without law, as without law, (being not without law to God, but under the law to Christ,) that I might gain them that are without law. 22 To the weak became I as weak, that I might gain the weak: I am made all things to all men, that I might by all means save some.
+4 One thing have I desired of the Lord, that will I seek after; that I may dwell in the house of the Lord all the days of my life, to behold the beauty of the Lord, and to enquire in his temple.
 
-[Friday 08-March, 2024](https://getbible.net/kjv/1 Corinthians/9/20-22)
+[Saturday 09-March, 2024](https://getbible.net/kjv/Psalms/27/4)
