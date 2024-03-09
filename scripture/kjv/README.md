@@ -1,5 +1,5 @@
-**Psalms 27:4**
+**Daniel 6:4**
 
-4 One thing have I desired of the Lord, that will I seek after; that I may dwell in the house of the Lord all the days of my life, to behold the beauty of the Lord, and to enquire in his temple.
+4 Then the presidents and princes sought to find occasion against Daniel concerning the kingdom; but they could find none occasion nor fault; forasmuch as he was faithful, neither was there any error or fault found in him.
 
-[Saturday 09-March, 2024](https://getbible.net/kjv/Psalms/27/4)
+[Sunday 10-March, 2024](https://getbible.net/kjv/Daniel/6/4)
