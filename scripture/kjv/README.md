@@ -1,5 +1,5 @@
-**Daniel 6:4**
+**Proverbs 16:3**
 
-4 Then the presidents and princes sought to find occasion against Daniel concerning the kingdom; but they could find none occasion nor fault; forasmuch as he was faithful, neither was there any error or fault found in him.
+3 Commit thy works unto the Lord, and thy thoughts shall be established.
 
-[Sunday 10-March, 2024](https://getbible.net/kjv/Daniel/6/4)
+[Monday 11-March, 2024](https://getbible.net/kjv/Proverbs/16/3)
