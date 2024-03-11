@@ -1,17 +1,29 @@
 {
-  "book": "Proverbs",
-  "chapter": "16",
-  "date": "Monday 11-March, 2024",
-  "getbible": "https://getbible.net/kjv/Proverbs/16/3",
-  "name": "Proverbs 16:3",
+  "book": "Psalms",
+  "chapter": "119",
+  "date": "Tuesday 12-March, 2024",
+  "getbible": "https://getbible.net/kjv/Psalms/119/25-28",
+  "name": "Psalms 119:25-28",
   "scripture": [
     {
-      "nr": "3",
-      "text": "Commit thy works unto the Lord, and thy thoughts shall be established."
+      "nr": "25",
+      "text": " My soul cleaveth unto the dust: quicken thou me according to thy word."
+    },
+    {
+      "nr": "26",
+      "text": "I have declared my ways, and thou heardest me: teach me thy statutes."
+    },
+    {
+      "nr": "27",
+      "text": "Make me to understand the way of thy precepts: so shall I talk of thy wondrous works."
+    },
+    {
+      "nr": "28",
+      "text": "My soul melteth for heaviness: strengthen thou me according unto thy word."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "3",
+  "verse": "25-28",
   "version": "kjv"
 }

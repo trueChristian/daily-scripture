@@ -1,5 +1,5 @@
-**Proverbs 16:3**
+**Psalms 119:25-28**
 
-3 Commit thy works unto the Lord, and thy thoughts shall be established.
+25  My soul cleaveth unto the dust: quicken thou me according to thy word. 26 I have declared my ways, and thou heardest me: teach me thy statutes. 27 Make me to understand the way of thy precepts: so shall I talk of thy wondrous works. 28 My soul melteth for heaviness: strengthen thou me according unto thy word.
 
-[Monday 11-March, 2024](https://getbible.net/kjv/Proverbs/16/3)
+[Tuesday 12-March, 2024](https://getbible.net/kjv/Psalms/119/25-28)
