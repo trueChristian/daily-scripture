@@ -1,29 +1,17 @@
 {
-  "book": "Psalms",
-  "chapter": "119",
-  "date": "Tuesday 12-March, 2024",
-  "getbible": "https://getbible.net/kjv/Psalms/119/25-28",
-  "name": "Psalms 119:25-28",
+  "book": "2 Corinthians",
+  "chapter": "8",
+  "date": "Wednesday 13-March, 2024",
+  "getbible": "https://getbible.net/kjv/2 Corinthians/8/8",
+  "name": "2 Corinthians 8:8",
   "scripture": [
     {
-      "nr": "25",
-      "text": " My soul cleaveth unto the dust: quicken thou me according to thy word."
-    },
-    {
-      "nr": "26",
-      "text": "I have declared my ways, and thou heardest me: teach me thy statutes."
-    },
-    {
-      "nr": "27",
-      "text": "Make me to understand the way of thy precepts: so shall I talk of thy wondrous works."
-    },
-    {
-      "nr": "28",
-      "text": "My soul melteth for heaviness: strengthen thou me according unto thy word."
+      "nr": "8",
+      "text": "I speak not by commandment, but by occasion of the forwardness of others, and to prove the sincerity of your love."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "25-28",
+  "verse": "8",
   "version": "kjv"
 }

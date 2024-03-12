@@ -1,5 +1,5 @@
-**Psalms 119:25-28**
+**2 Corinthians 8:8**
 
-25  My soul cleaveth unto the dust: quicken thou me according to thy word. 26 I have declared my ways, and thou heardest me: teach me thy statutes. 27 Make me to understand the way of thy precepts: so shall I talk of thy wondrous works. 28 My soul melteth for heaviness: strengthen thou me according unto thy word.
+8 I speak not by commandment, but by occasion of the forwardness of others, and to prove the sincerity of your love.
 
-[Tuesday 12-March, 2024](https://getbible.net/kjv/Psalms/119/25-28)
+[Wednesday 13-March, 2024](https://getbible.net/kjv/2 Corinthians/8/8)
