@@ -1,17 +1,21 @@
 {
-  "book": "2 Corinthians",
-  "chapter": "8",
-  "date": "Wednesday 13-March, 2024",
-  "getbible": "https://getbible.net/kjv/2 Corinthians/8/8",
-  "name": "2 Corinthians 8:8",
+  "book": "1 Thessalonians",
+  "chapter": "3",
+  "date": "Thursday 14-March, 2024",
+  "getbible": "https://getbible.net/kjv/1 Thessalonians/3/12-13",
+  "name": "1 Thessalonians 3:12-13",
   "scripture": [
     {
-      "nr": "8",
-      "text": "I speak not by commandment, but by occasion of the forwardness of others, and to prove the sincerity of your love."
+      "nr": "12",
+      "text": "And the Lord make you to increase and abound in love one toward another, and toward all men, even as we do toward you:"
+    },
+    {
+      "nr": "13",
+      "text": "To the end he may stablish your hearts unblameable in holiness before God, even our Father, at the coming of our Lord Jesus Christ with all his saints. "
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "8",
+  "verse": "12-13",
   "version": "kjv"
 }
