@@ -1,21 +1,21 @@
 {
-  "book": "1 Thessalonians",
+  "book": "Proverbs",
   "chapter": "3",
-  "date": "Thursday 14-March, 2024",
-  "getbible": "https://getbible.net/kjv/1 Thessalonians/3/12-13",
-  "name": "1 Thessalonians 3:12-13",
+  "date": "Friday 15-March, 2024",
+  "getbible": "https://getbible.net/kjv/Proverbs/3/3-4",
+  "name": "Proverbs 3:3-4",
   "scripture": [
     {
-      "nr": "12",
-      "text": "And the Lord make you to increase and abound in love one toward another, and toward all men, even as we do toward you:"
+      "nr": "3",
+      "text": "Let not mercy and truth forsake thee: bind them about thy neck; write them upon the table of thine heart:"
     },
     {
-      "nr": "13",
-      "text": "To the end he may stablish your hearts unblameable in holiness before God, even our Father, at the coming of our Lord Jesus Christ with all his saints. "
+      "nr": "4",
+      "text": "So shalt thou find favour and good understanding in the sight of God and man."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "12-13",
+  "verse": "3-4",
   "version": "kjv"
 }

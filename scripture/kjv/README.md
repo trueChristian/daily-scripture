@@ -1,5 +1,5 @@
-**1 Thessalonians 3:12-13**
+**Proverbs 3:3-4**
 
-12 And the Lord make you to increase and abound in love one toward another, and toward all men, even as we do toward you: 13 To the end he may stablish your hearts unblameable in holiness before God, even our Father, at the coming of our Lord Jesus Christ with all his saints. 
+3 Let not mercy and truth forsake thee: bind them about thy neck; write them upon the table of thine heart: 4 So shalt thou find favour and good understanding in the sight of God and man.
 
-[Thursday 14-March, 2024](https://getbible.net/kjv/1 Thessalonians/3/12-13)
+[Friday 15-March, 2024](https://getbible.net/kjv/Proverbs/3/3-4)
