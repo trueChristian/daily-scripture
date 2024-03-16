@@ -1,5 +1,5 @@
-**Psalms 68:6**
+**Romans 14:5**
 
-6 God setteth the solitary in families: he bringeth out those which are bound with chains: but the rebellious dwell in a dry land.
+5 One man esteemeth one day above another: another esteemeth every day alike. Let every man be fully persuaded in his own mind.
 
-[Saturday 16-March, 2024](https://getbible.net/kjv/Psalms/68/6)
+[Sunday 17-March, 2024](https://getbible.net/kjv/Romans/14/5)

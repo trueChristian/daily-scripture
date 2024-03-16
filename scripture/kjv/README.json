@@ -1,17 +1,17 @@
 {
-  "book": "Psalms",
-  "chapter": "68",
-  "date": "Saturday 16-March, 2024",
-  "getbible": "https://getbible.net/kjv/Psalms/68/6",
-  "name": "Psalms 68:6",
+  "book": "Romans",
+  "chapter": "14",
+  "date": "Sunday 17-March, 2024",
+  "getbible": "https://getbible.net/kjv/Romans/14/5",
+  "name": "Romans 14:5",
   "scripture": [
     {
-      "nr": "6",
-      "text": "God setteth the solitary in families: he bringeth out those which are bound with chains: but the rebellious dwell in a dry land."
+      "nr": "5",
+      "text": "One man esteemeth one day above another: another esteemeth every day alike. Let every man be fully persuaded in his own mind."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "6",
+  "verse": "5",
   "version": "kjv"
 }
