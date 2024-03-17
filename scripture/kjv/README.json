@@ -1,17 +1,21 @@
 {
-  "book": "Romans",
-  "chapter": "14",
-  "date": "Sunday 17-March, 2024",
-  "getbible": "https://getbible.net/kjv/Romans/14/5",
-  "name": "Romans 14:5",
+  "book": "Hebrews",
+  "chapter": "13",
+  "date": "Monday 18-March, 2024",
+  "getbible": "https://getbible.net/kjv/Hebrews/13/20-21",
+  "name": "Hebrews 13:20-21",
   "scripture": [
     {
-      "nr": "5",
-      "text": "One man esteemeth one day above another: another esteemeth every day alike. Let every man be fully persuaded in his own mind."
+      "nr": "20",
+      "text": "Now the God of peace, that brought again from the dead our Lord Jesus, that great shepherd of the sheep, through the blood of the everlasting covenant,"
+    },
+    {
+      "nr": "21",
+      "text": "Make you perfect in every good work to do his will, working in you that which is wellpleasing in his sight, through Jesus Christ; to whom be glory for ever and ever. Amen."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "5",
+  "verse": "20-21",
   "version": "kjv"
 }

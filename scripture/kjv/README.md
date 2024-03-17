@@ -1,5 +1,5 @@
-**Romans 14:5**
+**Hebrews 13:20-21**
 
-5 One man esteemeth one day above another: another esteemeth every day alike. Let every man be fully persuaded in his own mind.
+20 Now the God of peace, that brought again from the dead our Lord Jesus, that great shepherd of the sheep, through the blood of the everlasting covenant, 21 Make you perfect in every good work to do his will, working in you that which is wellpleasing in his sight, through Jesus Christ; to whom be glory for ever and ever. Amen.
 
-[Sunday 17-March, 2024](https://getbible.net/kjv/Romans/14/5)
+[Monday 18-March, 2024](https://getbible.net/kjv/Hebrews/13/20-21)
