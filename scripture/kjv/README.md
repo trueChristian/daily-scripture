@@ -1,5 +1,5 @@
-**Hebrews 13:20-21**
+**Isaiah 64:1-2**
 
-20 Now the God of peace, that brought again from the dead our Lord Jesus, that great shepherd of the sheep, through the blood of the everlasting covenant, 21 Make you perfect in every good work to do his will, working in you that which is wellpleasing in his sight, through Jesus Christ; to whom be glory for ever and ever. Amen.
+1 Oh that thou wouldest rend the heavens, that thou wouldest come down, that the mountains might flow down at thy presence, 2 As when the melting fire burneth, the fire causeth the waters to boil, to make thy name known to thine adversaries, that the nations may tremble at thy presence!
 
-[Monday 18-March, 2024](https://getbible.net/kjv/Hebrews/13/20-21)
+[Tuesday 19-March, 2024](https://getbible.net/kjv/Isaiah/64/1-2)

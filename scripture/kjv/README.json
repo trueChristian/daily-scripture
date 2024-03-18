@@ -1,21 +1,21 @@
 {
-  "book": "Hebrews",
-  "chapter": "13",
-  "date": "Monday 18-March, 2024",
-  "getbible": "https://getbible.net/kjv/Hebrews/13/20-21",
-  "name": "Hebrews 13:20-21",
+  "book": "Isaiah",
+  "chapter": "64",
+  "date": "Tuesday 19-March, 2024",
+  "getbible": "https://getbible.net/kjv/Isaiah/64/1-2",
+  "name": "Isaiah 64:1-2",
   "scripture": [
     {
-      "nr": "20",
-      "text": "Now the God of peace, that brought again from the dead our Lord Jesus, that great shepherd of the sheep, through the blood of the everlasting covenant,"
+      "nr": "1",
+      "text": "Oh that thou wouldest rend the heavens, that thou wouldest come down, that the mountains might flow down at thy presence,"
     },
     {
-      "nr": "21",
-      "text": "Make you perfect in every good work to do his will, working in you that which is wellpleasing in his sight, through Jesus Christ; to whom be glory for ever and ever. Amen."
+      "nr": "2",
+      "text": "As when the melting fire burneth, the fire causeth the waters to boil, to make thy name known to thine adversaries, that the nations may tremble at thy presence!"
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "20-21",
+  "verse": "1-2",
   "version": "kjv"
 }
