@@ -1,5 +1,5 @@
-**Isaiah 64:1-2**
+**Psalms 39:4-6**
 
-1 Oh that thou wouldest rend the heavens, that thou wouldest come down, that the mountains might flow down at thy presence, 2 As when the melting fire burneth, the fire causeth the waters to boil, to make thy name known to thine adversaries, that the nations may tremble at thy presence!
+4 Lord, make me to know mine end, and the measure of my days, what it is; that I may know how frail I am. 5 Behold, thou hast made my days as an handbreadth; and mine age is as nothing before thee: verily every man at his best state is altogether vanity. Selah. 6 Surely every man walketh in a vain shew: surely they are disquieted in vain: he heapeth up riches, and knoweth not who shall gather them.
 
-[Tuesday 19-March, 2024](https://getbible.net/kjv/Isaiah/64/1-2)
+[Wednesday 20-March, 2024](https://getbible.net/kjv/Psalms/39/4-6)
