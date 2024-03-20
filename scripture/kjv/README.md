@@ -1,5 +1,5 @@
-**Psalms 39:4-6**
+**John 13:5**
 
-4 Lord, make me to know mine end, and the measure of my days, what it is; that I may know how frail I am. 5 Behold, thou hast made my days as an handbreadth; and mine age is as nothing before thee: verily every man at his best state is altogether vanity. Selah. 6 Surely every man walketh in a vain shew: surely they are disquieted in vain: he heapeth up riches, and knoweth not who shall gather them.
+5 After that he poureth water into a bason, and began to wash the disciples’ feet, and to wipe them with the towel wherewith he was girded.
 
-[Wednesday 20-March, 2024](https://getbible.net/kjv/Psalms/39/4-6)
+[Thursday 21-March, 2024](https://getbible.net/kjv/John/13/5)
