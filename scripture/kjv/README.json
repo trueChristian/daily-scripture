@@ -1,17 +1,17 @@
 {
-  "book": "John",
-  "chapter": "13",
-  "date": "Thursday 21-March, 2024",
-  "getbible": "https://getbible.net/kjv/John/13/5",
-  "name": "John 13:5",
+  "book": "1 Corinthians",
+  "chapter": "15",
+  "date": "Friday 22-March, 2024",
+  "getbible": "https://getbible.net/kjv/1 Corinthians/15/58",
+  "name": "1 Corinthians 15:58",
   "scripture": [
     {
-      "nr": "5",
-      "text": "After that he poureth water into a bason, and began to wash the disciples’ feet, and to wipe them with the towel wherewith he was girded."
+      "nr": "58",
+      "text": "Therefore, my beloved brethren, be ye stedfast, unmoveable, always abounding in the work of the Lord, forasmuch as ye know that your labour is not in vain in the Lord. "
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "5",
+  "verse": "58",
   "version": "kjv"
 }
