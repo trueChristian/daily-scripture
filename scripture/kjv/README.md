@@ -1,5 +1,5 @@
-**1 Corinthians 15:58**
+**Revelation 22:14**
 
-58 Therefore, my beloved brethren, be ye stedfast, unmoveable, always abounding in the work of the Lord, forasmuch as ye know that your labour is not in vain in the Lord. 
+14 Blessed are they that do his commandments, that they may have right to the tree of life, and may enter in through the gates into the city.
 
-[Friday 22-March, 2024](https://getbible.net/kjv/1 Corinthians/15/58)
+[Saturday 23-March, 2024](https://getbible.net/kjv/Revelation/22/14)

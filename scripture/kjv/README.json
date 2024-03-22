@@ -1,17 +1,17 @@
 {
-  "book": "1 Corinthians",
-  "chapter": "15",
-  "date": "Friday 22-March, 2024",
-  "getbible": "https://getbible.net/kjv/1 Corinthians/15/58",
-  "name": "1 Corinthians 15:58",
+  "book": "Revelation",
+  "chapter": "22",
+  "date": "Saturday 23-March, 2024",
+  "getbible": "https://getbible.net/kjv/Revelation/22/14",
+  "name": "Revelation 22:14",
   "scripture": [
     {
-      "nr": "58",
-      "text": "Therefore, my beloved brethren, be ye stedfast, unmoveable, always abounding in the work of the Lord, forasmuch as ye know that your labour is not in vain in the Lord. "
+      "nr": "14",
+      "text": "Blessed are they that do his commandments, that they may have right to the tree of life, and may enter in through the gates into the city."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "58",
+  "verse": "14",
   "version": "kjv"
 }
