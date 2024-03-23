@@ -1,5 +1,5 @@
-**Revelation 22:14**
+**Romans 10:21**
 
-14 Blessed are they that do his commandments, that they may have right to the tree of life, and may enter in through the gates into the city.
+21 But to Israel he saith, All day long I have stretched forth my hands unto a disobedient and gainsaying people. 
 
-[Saturday 23-March, 2024](https://getbible.net/kjv/Revelation/22/14)
+[Sunday 24-March, 2024](https://getbible.net/kjv/Romans/10/21)

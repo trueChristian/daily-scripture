@@ -1,17 +1,17 @@
 {
-  "book": "Revelation",
-  "chapter": "22",
-  "date": "Saturday 23-March, 2024",
-  "getbible": "https://getbible.net/kjv/Revelation/22/14",
-  "name": "Revelation 22:14",
+  "book": "Romans",
+  "chapter": "10",
+  "date": "Sunday 24-March, 2024",
+  "getbible": "https://getbible.net/kjv/Romans/10/21",
+  "name": "Romans 10:21",
   "scripture": [
     {
-      "nr": "14",
-      "text": "Blessed are they that do his commandments, that they may have right to the tree of life, and may enter in through the gates into the city."
+      "nr": "21",
+      "text": "But to Israel he saith, All day long I have stretched forth my hands unto a disobedient and gainsaying people. "
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "14",
+  "verse": "21",
   "version": "kjv"
 }
