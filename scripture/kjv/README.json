@@ -1,13 +1,13 @@
 {
-  "book": "Romans",
-  "chapter": "10",
-  "date": "Sunday 24-March, 2024",
-  "getbible": "https://getbible.net/kjv/Romans/10/21",
-  "name": "Romans 10:21",
+  "book": "2 Corinthians",
+  "chapter": "8",
+  "date": "Monday 25-March, 2024",
+  "getbible": "https://getbible.net/kjv/2 Corinthians/8/21",
+  "name": "2 Corinthians 8:21",
   "scripture": [
     {
       "nr": "21",
-      "text": "But to Israel he saith, All day long I have stretched forth my hands unto a disobedient and gainsaying people. "
+      "text": "Providing for honest things, not only in the sight of the Lord, but also in the sight of men."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",

@@ -1,5 +1,5 @@
-**Romans 10:21**
+**2 Corinthians 8:21**
 
-21 But to Israel he saith, All day long I have stretched forth my hands unto a disobedient and gainsaying people. 
+21 Providing for honest things, not only in the sight of the Lord, but also in the sight of men.
 
-[Sunday 24-March, 2024](https://getbible.net/kjv/Romans/10/21)
+[Monday 25-March, 2024](https://getbible.net/kjv/2 Corinthians/8/21)
