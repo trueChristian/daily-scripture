@@ -1,5 +1,5 @@
-**2 Corinthians 8:21**
+**Psalms 23:5**
 
-21 Providing for honest things, not only in the sight of the Lord, but also in the sight of men.
+5 Thou preparest a table before me in the presence of mine enemies: thou anointest my head with oil; my cup runneth over.
 
-[Monday 25-March, 2024](https://getbible.net/kjv/2 Corinthians/8/21)
+[Tuesday 26-March, 2024](https://getbible.net/kjv/Psalms/23/5)
