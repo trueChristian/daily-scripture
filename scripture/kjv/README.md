@@ -1,5 +1,5 @@
-**Psalms 23:5**
+**John 19:6**
 
-5 Thou preparest a table before me in the presence of mine enemies: thou anointest my head with oil; my cup runneth over.
+6 When the chief priests therefore and officers saw him, they cried out, saying, Crucify him, crucify him. Pilate saith unto them, Take ye him, and crucify him: for I find no fault in him.
 
-[Tuesday 26-March, 2024](https://getbible.net/kjv/Psalms/23/5)
+[Wednesday 27-March, 2024](https://getbible.net/kjv/John/19/6)

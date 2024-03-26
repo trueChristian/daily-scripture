@@ -1,17 +1,17 @@
 {
-  "book": "Psalms",
-  "chapter": "23",
-  "date": "Tuesday 26-March, 2024",
-  "getbible": "https://getbible.net/kjv/Psalms/23/5",
-  "name": "Psalms 23:5",
+  "book": "John",
+  "chapter": "19",
+  "date": "Wednesday 27-March, 2024",
+  "getbible": "https://getbible.net/kjv/John/19/6",
+  "name": "John 19:6",
   "scripture": [
     {
-      "nr": "5",
-      "text": "Thou preparest a table before me in the presence of mine enemies: thou anointest my head with oil; my cup runneth over."
+      "nr": "6",
+      "text": "When the chief priests therefore and officers saw him, they cried out, saying, Crucify him, crucify him. Pilate saith unto them, Take ye him, and crucify him: for I find no fault in him."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "5",
+  "verse": "6",
   "version": "kjv"
 }
