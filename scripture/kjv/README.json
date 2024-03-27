@@ -1,17 +1,17 @@
 {
-  "book": "John",
-  "chapter": "19",
-  "date": "Wednesday 27-March, 2024",
-  "getbible": "https://getbible.net/kjv/John/19/6",
-  "name": "John 19:6",
+  "book": "Luke",
+  "chapter": "20",
+  "date": "Thursday 28-March, 2024",
+  "getbible": "https://getbible.net/kjv/Luke/20/23",
+  "name": "Luke 20:23",
   "scripture": [
     {
-      "nr": "6",
-      "text": "When the chief priests therefore and officers saw him, they cried out, saying, Crucify him, crucify him. Pilate saith unto them, Take ye him, and crucify him: for I find no fault in him."
+      "nr": "23",
+      "text": "But he perceived their craftiness, and said unto them, Why tempt ye me?"
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "6",
+  "verse": "23",
   "version": "kjv"
 }

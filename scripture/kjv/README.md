@@ -1,5 +1,5 @@
-**John 19:6**
+**Luke 20:23**
 
-6 When the chief priests therefore and officers saw him, they cried out, saying, Crucify him, crucify him. Pilate saith unto them, Take ye him, and crucify him: for I find no fault in him.
+23 But he perceived their craftiness, and said unto them, Why tempt ye me?
 
-[Wednesday 27-March, 2024](https://getbible.net/kjv/John/19/6)
+[Thursday 28-March, 2024](https://getbible.net/kjv/Luke/20/23)
