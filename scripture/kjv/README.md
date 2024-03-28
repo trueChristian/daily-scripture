@@ -1,5 +1,5 @@
-**Luke 20:23**
+**John 16:21**
 
-23 But he perceived their craftiness, and said unto them, Why tempt ye me?
+21 A woman when she is in travail hath sorrow, because her hour is come: but as soon as she is delivered of the child, she remembereth no more the anguish, for joy that a man is born into the world.
 
-[Thursday 28-March, 2024](https://getbible.net/kjv/Luke/20/23)
+[Friday 29-March, 2024](https://getbible.net/kjv/John/16/21)

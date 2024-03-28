@@ -1,17 +1,17 @@
 {
-  "book": "Luke",
-  "chapter": "20",
-  "date": "Thursday 28-March, 2024",
-  "getbible": "https://getbible.net/kjv/Luke/20/23",
-  "name": "Luke 20:23",
+  "book": "John",
+  "chapter": "16",
+  "date": "Friday 29-March, 2024",
+  "getbible": "https://getbible.net/kjv/John/16/21",
+  "name": "John 16:21",
   "scripture": [
     {
-      "nr": "23",
-      "text": "But he perceived their craftiness, and said unto them, Why tempt ye me?"
+      "nr": "21",
+      "text": "A woman when she is in travail hath sorrow, because her hour is come: but as soon as she is delivered of the child, she remembereth no more the anguish, for joy that a man is born into the world."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "23",
+  "verse": "21",
   "version": "kjv"
 }
