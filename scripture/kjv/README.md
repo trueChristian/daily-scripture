@@ -1,5 +1,5 @@
-**Proverbs 12:15**
+**Psalms 60:11**
 
-15 The way of a fool is right in his own eyes: but he that hearkeneth unto counsel is wise.
+11 Give us help from trouble: for vain is the help of man.
 
-[Saturday 30-March, 2024](https://getbible.net/kjv/Proverbs/12/15)
+[Sunday 31-March, 2024](https://getbible.net/kjv/Psalms/60/11)

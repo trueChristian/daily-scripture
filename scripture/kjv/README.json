@@ -1,17 +1,17 @@
 {
-  "book": "Proverbs",
-  "chapter": "12",
-  "date": "Saturday 30-March, 2024",
-  "getbible": "https://getbible.net/kjv/Proverbs/12/15",
-  "name": "Proverbs 12:15",
+  "book": "Psalms",
+  "chapter": "60",
+  "date": "Sunday 31-March, 2024",
+  "getbible": "https://getbible.net/kjv/Psalms/60/11",
+  "name": "Psalms 60:11",
   "scripture": [
     {
-      "nr": "15",
-      "text": "The way of a fool is right in his own eyes: but he that hearkeneth unto counsel is wise."
+      "nr": "11",
+      "text": "Give us help from trouble: for vain is the help of man."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "15",
+  "verse": "11",
   "version": "kjv"
 }
