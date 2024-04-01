@@ -1,5 +1,5 @@
-**Ezekiel 11:13**
+**Joshua 15:19**
 
-13 And it came to pass, when I prophesied, that Pelatiah the son of Benaiah died. Then fell I down upon my face, and cried with a loud voice, and said, Ah Lord God! wilt thou make a full end of the remnant of Israel?
+19 Who answered, Give me a blessing; for thou hast given me a south land; give me also springs of water. And he gave her the upper springs, and the nether springs.
 
-[Monday 01-April, 2024](https://getbible.net/kjv/Ezekiel/11/13)
+[Tuesday 02-April, 2024](https://getbible.net/kjv/Joshua/15/19)
