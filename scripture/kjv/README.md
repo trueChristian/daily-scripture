@@ -1,5 +1,5 @@
-**Joshua 15:19**
+**Proverbs 15:1**
 
-19 Who answered, Give me a blessing; for thou hast given me a south land; give me also springs of water. And he gave her the upper springs, and the nether springs.
+1 A soft answer turneth away wrath: but grievous words stir up anger.
 
-[Tuesday 02-April, 2024](https://getbible.net/kjv/Joshua/15/19)
+[Wednesday 03-April, 2024](https://getbible.net/kjv/Proverbs/15/1)
