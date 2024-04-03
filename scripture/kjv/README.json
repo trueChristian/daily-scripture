@@ -1,17 +1,17 @@
 {
-  "book": "Proverbs",
-  "chapter": "15",
-  "date": "Wednesday 03-April, 2024",
-  "getbible": "https://getbible.net/kjv/Proverbs/15/1",
-  "name": "Proverbs 15:1",
+  "book": "Daniel",
+  "chapter": "9",
+  "date": "Thursday 04-April, 2024",
+  "getbible": "https://getbible.net/kjv/Daniel/9/18",
+  "name": "Daniel 9:18",
   "scripture": [
     {
-      "nr": "1",
-      "text": "A soft answer turneth away wrath: but grievous words stir up anger."
+      "nr": "18",
+      "text": "O my God, incline thine ear, and hear; open thine eyes, and behold our desolations, and the city which is called by thy name: for we do not present our supplications before thee for our righteousnesses, but for thy great mercies."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "1",
+  "verse": "18",
   "version": "kjv"
 }
