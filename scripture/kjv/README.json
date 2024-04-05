@@ -1,29 +1,17 @@
 {
-  "book": "Matthew",
-  "chapter": "18",
-  "date": "Friday 05-April, 2024",
-  "getbible": "https://getbible.net/kjv/Matthew/18/1-4",
-  "name": "Matthew 18:1-4",
+  "book": "Colossians",
+  "chapter": "3",
+  "date": "Saturday 06-April, 2024",
+  "getbible": "https://getbible.net/kjv/Colossians/3/16",
+  "name": "Colossians 3:16",
   "scripture": [
     {
-      "nr": "1",
-      "text": "At the same time came the disciples unto Jesus, saying, Who is the greatest in the kingdom of heaven?"
-    },
-    {
-      "nr": "2",
-      "text": "And Jesus called a little child unto him, and set him in the midst of them,"
-    },
-    {
-      "nr": "3",
-      "text": "And said, Verily I say unto you, Except ye be converted, and become as little children, ye shall not enter into the kingdom of heaven."
-    },
-    {
-      "nr": "4",
-      "text": "Whosoever therefore shall humble himself as this little child, the same is greatest in the kingdom of heaven."
+      "nr": "16",
+      "text": "Let the word of Christ dwell in you richly in all wisdom; teaching and admonishing one another in psalms and hymns and spiritual songs, singing with grace in your hearts to the Lord."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "1-4",
+  "verse": "16",
   "version": "kjv"
 }

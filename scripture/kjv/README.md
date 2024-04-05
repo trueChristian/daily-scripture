@@ -1,5 +1,5 @@
-**Matthew 18:1-4**
+**Colossians 3:16**
 
-1 At the same time came the disciples unto Jesus, saying, Who is the greatest in the kingdom of heaven? 2 And Jesus called a little child unto him, and set him in the midst of them, 3 And said, Verily I say unto you, Except ye be converted, and become as little children, ye shall not enter into the kingdom of heaven. 4 Whosoever therefore shall humble himself as this little child, the same is greatest in the kingdom of heaven.
+16 Let the word of Christ dwell in you richly in all wisdom; teaching and admonishing one another in psalms and hymns and spiritual songs, singing with grace in your hearts to the Lord.
 
-[Friday 05-April, 2024](https://getbible.net/kjv/Matthew/18/1-4)
+[Saturday 06-April, 2024](https://getbible.net/kjv/Colossians/3/16)
