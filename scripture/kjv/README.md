@@ -1,5 +1,5 @@
-**Colossians 3:16**
+**Amos 3:7**
 
-16 Let the word of Christ dwell in you richly in all wisdom; teaching and admonishing one another in psalms and hymns and spiritual songs, singing with grace in your hearts to the Lord.
+7 Surely the Lord God will do nothing, but he revealeth his secret unto his servants the prophets.
 
-[Saturday 06-April, 2024](https://getbible.net/kjv/Colossians/3/16)
+[Sunday 07-April, 2024](https://getbible.net/kjv/Amos/3/7)

@@ -1,17 +1,17 @@
 {
-  "book": "Colossians",
+  "book": "Amos",
   "chapter": "3",
-  "date": "Saturday 06-April, 2024",
-  "getbible": "https://getbible.net/kjv/Colossians/3/16",
-  "name": "Colossians 3:16",
+  "date": "Sunday 07-April, 2024",
+  "getbible": "https://getbible.net/kjv/Amos/3/7",
+  "name": "Amos 3:7",
   "scripture": [
     {
-      "nr": "16",
-      "text": "Let the word of Christ dwell in you richly in all wisdom; teaching and admonishing one another in psalms and hymns and spiritual songs, singing with grace in your hearts to the Lord."
+      "nr": "7",
+      "text": "Surely the Lord God will do nothing, but he revealeth his secret unto his servants the prophets."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "16",
+  "verse": "7",
   "version": "kjv"
 }
