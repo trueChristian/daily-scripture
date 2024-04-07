@@ -1,17 +1,33 @@
 {
-  "book": "Amos",
-  "chapter": "3",
-  "date": "Sunday 07-April, 2024",
-  "getbible": "https://getbible.net/kjv/Amos/3/7",
-  "name": "Amos 3:7",
+  "book": "Job",
+  "chapter": "33",
+  "date": "Monday 08-April, 2024",
+  "getbible": "https://getbible.net/kjv/Job/33/14-18",
+  "name": "Job 33:14-18",
   "scripture": [
     {
-      "nr": "7",
-      "text": "Surely the Lord God will do nothing, but he revealeth his secret unto his servants the prophets."
+      "nr": "14",
+      "text": "For God speaketh once, yea twice, yet man perceiveth it not."
+    },
+    {
+      "nr": "15",
+      "text": "In a dream, in a vision of the night, when deep sleep falleth upon men, in slumberings upon the bed;"
+    },
+    {
+      "nr": "16",
+      "text": "Then he openeth the ears of men, and sealeth their instruction,"
+    },
+    {
+      "nr": "17",
+      "text": "That he may withdraw man from his purpose, and hide pride from man."
+    },
+    {
+      "nr": "18",
+      "text": "He keepeth back his soul from the pit, and his life from perishing by the sword."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "7",
+  "verse": "14-18",
   "version": "kjv"
 }
