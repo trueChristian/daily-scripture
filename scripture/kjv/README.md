@@ -1,5 +1,5 @@
-**Job 33:14-18**
+**Romans 10:1**
 
-14 For God speaketh once, yea twice, yet man perceiveth it not. 15 In a dream, in a vision of the night, when deep sleep falleth upon men, in slumberings upon the bed; 16 Then he openeth the ears of men, and sealeth their instruction, 17 That he may withdraw man from his purpose, and hide pride from man. 18 He keepeth back his soul from the pit, and his life from perishing by the sword.
+1 Brethren, my heart’s desire and prayer to God for Israel is, that they might be saved.
 
-[Monday 08-April, 2024](https://getbible.net/kjv/Job/33/14-18)
+[Tuesday 09-April, 2024](https://getbible.net/kjv/Romans/10/1)
