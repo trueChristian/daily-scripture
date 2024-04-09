@@ -1,5 +1,5 @@
-**Romans 10:1**
+**Titus 2:14**
 
-1 Brethren, my heart’s desire and prayer to God for Israel is, that they might be saved.
+14 Who gave himself for us, that he might redeem us from all iniquity, and purify unto himself a peculiar people, zealous of good works.
 
-[Tuesday 09-April, 2024](https://getbible.net/kjv/Romans/10/1)
+[Wednesday 10-April, 2024](https://getbible.net/kjv/Titus/2/14)

@@ -1,17 +1,17 @@
 {
-  "book": "Romans",
-  "chapter": "10",
-  "date": "Tuesday 09-April, 2024",
-  "getbible": "https://getbible.net/kjv/Romans/10/1",
-  "name": "Romans 10:1",
+  "book": "Titus",
+  "chapter": "2",
+  "date": "Wednesday 10-April, 2024",
+  "getbible": "https://getbible.net/kjv/Titus/2/14",
+  "name": "Titus 2:14",
   "scripture": [
     {
-      "nr": "1",
-      "text": "Brethren, my heart’s desire and prayer to God for Israel is, that they might be saved."
+      "nr": "14",
+      "text": "Who gave himself for us, that he might redeem us from all iniquity, and purify unto himself a peculiar people, zealous of good works."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "1",
+  "verse": "14",
   "version": "kjv"
 }
