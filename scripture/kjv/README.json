@@ -1,17 +1,17 @@
 {
-  "book": "Titus",
-  "chapter": "2",
-  "date": "Wednesday 10-April, 2024",
-  "getbible": "https://getbible.net/kjv/Titus/2/14",
-  "name": "Titus 2:14",
+  "book": "Job",
+  "chapter": "42",
+  "date": "Thursday 11-April, 2024",
+  "getbible": "https://getbible.net/kjv/Job/42/2",
+  "name": "Job 42:2",
   "scripture": [
     {
-      "nr": "14",
-      "text": "Who gave himself for us, that he might redeem us from all iniquity, and purify unto himself a peculiar people, zealous of good works."
+      "nr": "2",
+      "text": "I know that thou canst do every thing, and that no thought can be withholden from thee."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "14",
+  "verse": "2",
   "version": "kjv"
 }

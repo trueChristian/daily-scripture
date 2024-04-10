@@ -1,5 +1,5 @@
-**Titus 2:14**
+**Job 42:2**
 
-14 Who gave himself for us, that he might redeem us from all iniquity, and purify unto himself a peculiar people, zealous of good works.
+2 I know that thou canst do every thing, and that no thought can be withholden from thee.
 
-[Wednesday 10-April, 2024](https://getbible.net/kjv/Titus/2/14)
+[Thursday 11-April, 2024](https://getbible.net/kjv/Job/42/2)
