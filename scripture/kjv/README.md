@@ -1,5 +1,5 @@
-**Job 42:2**
+**Revelation 3:3**
 
-2 I know that thou canst do every thing, and that no thought can be withholden from thee.
+3 Remember therefore how thou hast received and heard, and hold fast, and repent. If therefore thou shalt not watch, I will come on thee as a thief, and thou shalt not know what hour I will come upon thee.
 
-[Thursday 11-April, 2024](https://getbible.net/kjv/Job/42/2)
+[Friday 12-April, 2024](https://getbible.net/kjv/Revelation/3/3)
