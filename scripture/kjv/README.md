@@ -1,5 +1,5 @@
-**Revelation 3:3**
+**Revelation 20:12**
 
-3 Remember therefore how thou hast received and heard, and hold fast, and repent. If therefore thou shalt not watch, I will come on thee as a thief, and thou shalt not know what hour I will come upon thee.
+12 And I saw the dead, small and great, stand before God; and the books were opened: and another book was opened, which is the book of life: and the dead were judged out of those things which were written in the books, according to their works.
 
-[Friday 12-April, 2024](https://getbible.net/kjv/Revelation/3/3)
+[Saturday 13-April, 2024](https://getbible.net/kjv/Revelation/20/12)
