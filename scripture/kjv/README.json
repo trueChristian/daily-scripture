@@ -1,17 +1,17 @@
 {
-  "book": "John",
-  "chapter": "16",
-  "date": "Sunday 14-April, 2024",
-  "getbible": "https://getbible.net/kjv/John/16/14",
-  "name": "John 16:14",
+  "book": "2 Corinthians",
+  "chapter": "3",
+  "date": "Monday 15-April, 2024",
+  "getbible": "https://getbible.net/kjv/2 Corinthians/3/12",
+  "name": "2 Corinthians 3:12",
   "scripture": [
     {
-      "nr": "14",
-      "text": "He shall glorify me: for he shall receive of mine, and shall shew it unto you."
+      "nr": "12",
+      "text": "Seeing then that we have such hope, we use great plainness of speech:"
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "14",
+  "verse": "12",
   "version": "kjv"
 }

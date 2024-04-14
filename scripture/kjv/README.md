@@ -1,5 +1,5 @@
-**John 16:14**
+**2 Corinthians 3:12**
 
-14 He shall glorify me: for he shall receive of mine, and shall shew it unto you.
+12 Seeing then that we have such hope, we use great plainness of speech:
 
-[Sunday 14-April, 2024](https://getbible.net/kjv/John/16/14)
+[Monday 15-April, 2024](https://getbible.net/kjv/2 Corinthians/3/12)
