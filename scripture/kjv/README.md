@@ -1,5 +1,5 @@
-**2 Corinthians 3:12**
+**1 Timothy 2:8**
 
-12 Seeing then that we have such hope, we use great plainness of speech:
+8 I will therefore that men pray every where, lifting up holy hands, without wrath and doubting.
 
-[Monday 15-April, 2024](https://getbible.net/kjv/2 Corinthians/3/12)
+[Tuesday 16-April, 2024](https://getbible.net/kjv/1 Timothy/2/8)

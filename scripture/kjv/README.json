@@ -1,17 +1,17 @@
 {
-  "book": "2 Corinthians",
-  "chapter": "3",
-  "date": "Monday 15-April, 2024",
-  "getbible": "https://getbible.net/kjv/2 Corinthians/3/12",
-  "name": "2 Corinthians 3:12",
+  "book": "1 Timothy",
+  "chapter": "2",
+  "date": "Tuesday 16-April, 2024",
+  "getbible": "https://getbible.net/kjv/1 Timothy/2/8",
+  "name": "1 Timothy 2:8",
   "scripture": [
     {
-      "nr": "12",
-      "text": "Seeing then that we have such hope, we use great plainness of speech:"
+      "nr": "8",
+      "text": "I will therefore that men pray every where, lifting up holy hands, without wrath and doubting."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "12",
+  "verse": "8",
   "version": "kjv"
 }
