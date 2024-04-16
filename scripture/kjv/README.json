@@ -1,17 +1,17 @@
 {
-  "book": "1 Timothy",
-  "chapter": "2",
-  "date": "Tuesday 16-April, 2024",
-  "getbible": "https://getbible.net/kjv/1 Timothy/2/8",
-  "name": "1 Timothy 2:8",
+  "book": "Deuteronomy",
+  "chapter": "33",
+  "date": "Wednesday 17-April, 2024",
+  "getbible": "https://getbible.net/kjv/Deuteronomy/33/3",
+  "name": "Deuteronomy 33:3",
   "scripture": [
     {
-      "nr": "8",
-      "text": "I will therefore that men pray every where, lifting up holy hands, without wrath and doubting."
+      "nr": "3",
+      "text": "Yea, he loved the people; all his saints are in thy hand: and they sat down at thy feet; every one shall receive of thy words."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "8",
+  "verse": "3",
   "version": "kjv"
 }

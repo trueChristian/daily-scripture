@@ -1,5 +1,5 @@
-**1 Timothy 2:8**
+**Deuteronomy 33:3**
 
-8 I will therefore that men pray every where, lifting up holy hands, without wrath and doubting.
+3 Yea, he loved the people; all his saints are in thy hand: and they sat down at thy feet; every one shall receive of thy words.
 
-[Tuesday 16-April, 2024](https://getbible.net/kjv/1 Timothy/2/8)
+[Wednesday 17-April, 2024](https://getbible.net/kjv/Deuteronomy/33/3)
