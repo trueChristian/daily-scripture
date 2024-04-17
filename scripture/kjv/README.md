@@ -1,5 +1,5 @@
-**Deuteronomy 33:3**
+**John 3:27**
 
-3 Yea, he loved the people; all his saints are in thy hand: and they sat down at thy feet; every one shall receive of thy words.
+27 John answered and said, A man can receive nothing, except it be given him from heaven.
 
-[Wednesday 17-April, 2024](https://getbible.net/kjv/Deuteronomy/33/3)
+[Thursday 18-April, 2024](https://getbible.net/kjv/John/3/27)

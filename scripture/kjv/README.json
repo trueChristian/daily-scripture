@@ -1,17 +1,17 @@
 {
-  "book": "Deuteronomy",
-  "chapter": "33",
-  "date": "Wednesday 17-April, 2024",
-  "getbible": "https://getbible.net/kjv/Deuteronomy/33/3",
-  "name": "Deuteronomy 33:3",
+  "book": "John",
+  "chapter": "3",
+  "date": "Thursday 18-April, 2024",
+  "getbible": "https://getbible.net/kjv/John/3/27",
+  "name": "John 3:27",
   "scripture": [
     {
-      "nr": "3",
-      "text": "Yea, he loved the people; all his saints are in thy hand: and they sat down at thy feet; every one shall receive of thy words."
+      "nr": "27",
+      "text": "John answered and said, A man can receive nothing, except it be given him from heaven."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "3",
+  "verse": "27",
   "version": "kjv"
 }
