@@ -1,5 +1,5 @@
-**John 3:27**
+**1 Peter 5:8-9**
 
-27 John answered and said, A man can receive nothing, except it be given him from heaven.
+8 Be sober, be vigilant; because your adversary the devil, as a roaring lion, walketh about, seeking whom he may devour: 9 Whom resist stedfast in the faith, knowing that the same afflictions are accomplished in your brethren that are in the world.
 
-[Thursday 18-April, 2024](https://getbible.net/kjv/John/3/27)
+[Friday 19-April, 2024](https://getbible.net/kjv/1 Peter/5/8-9)

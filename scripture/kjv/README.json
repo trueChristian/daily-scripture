@@ -1,17 +1,21 @@
 {
-  "book": "John",
-  "chapter": "3",
-  "date": "Thursday 18-April, 2024",
-  "getbible": "https://getbible.net/kjv/John/3/27",
-  "name": "John 3:27",
+  "book": "1 Peter",
+  "chapter": "5",
+  "date": "Friday 19-April, 2024",
+  "getbible": "https://getbible.net/kjv/1 Peter/5/8-9",
+  "name": "1 Peter 5:8-9",
   "scripture": [
     {
-      "nr": "27",
-      "text": "John answered and said, A man can receive nothing, except it be given him from heaven."
+      "nr": "8",
+      "text": "Be sober, be vigilant; because your adversary the devil, as a roaring lion, walketh about, seeking whom he may devour:"
+    },
+    {
+      "nr": "9",
+      "text": "Whom resist stedfast in the faith, knowing that the same afflictions are accomplished in your brethren that are in the world."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "27",
+  "verse": "8-9",
   "version": "kjv"
 }
