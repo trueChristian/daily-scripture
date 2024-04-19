@@ -1,21 +1,17 @@
 {
-  "book": "1 Peter",
-  "chapter": "5",
-  "date": "Friday 19-April, 2024",
-  "getbible": "https://getbible.net/kjv/1 Peter/5/8-9",
-  "name": "1 Peter 5:8-9",
+  "book": "Matthew",
+  "chapter": "13",
+  "date": "Saturday 20-April, 2024",
+  "getbible": "https://getbible.net/kjv/Matthew/13/57",
+  "name": "Matthew 13:57",
   "scripture": [
     {
-      "nr": "8",
-      "text": "Be sober, be vigilant; because your adversary the devil, as a roaring lion, walketh about, seeking whom he may devour:"
-    },
-    {
-      "nr": "9",
-      "text": "Whom resist stedfast in the faith, knowing that the same afflictions are accomplished in your brethren that are in the world."
+      "nr": "57",
+      "text": "And they were offended in him. But Jesus said unto them, A prophet is not without honour, save in his own country, and in his own house."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "8-9",
+  "verse": "57",
   "version": "kjv"
 }
