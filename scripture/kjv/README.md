@@ -1,5 +1,5 @@
-**Matthew 13:57**
+**John 1:16**
 
-57 And they were offended in him. But Jesus said unto them, A prophet is not without honour, save in his own country, and in his own house.
+16 And of his fulness have all we received, and grace for grace.
 
-[Saturday 20-April, 2024](https://getbible.net/kjv/Matthew/13/57)
+[Sunday 21-April, 2024](https://getbible.net/kjv/John/1/16)
