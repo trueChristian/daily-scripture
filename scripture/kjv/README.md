@@ -1,5 +1,5 @@
-**Romans 7:5-6**
+**Isaiah 7:15**
 
-5 For when we were in the flesh, the motions of sins, which were by the law, did work in our members to bring forth fruit unto death. 6 But now we are delivered from the law, that being dead wherein we were held; that we should serve in newness of spirit, and not in the oldness of the letter.
+15 Butter and honey shall he eat, that he may know to refuse the evil, and choose the good.
 
-[Monday 22-April, 2024](https://getbible.net/kjv/Romans/7/5-6)
+[Tuesday 23-April, 2024](https://getbible.net/kjv/Isaiah/7/15)

@@ -1,21 +1,17 @@
 {
-  "book": "Romans",
+  "book": "Isaiah",
   "chapter": "7",
-  "date": "Monday 22-April, 2024",
-  "getbible": "https://getbible.net/kjv/Romans/7/5-6",
-  "name": "Romans 7:5-6",
+  "date": "Tuesday 23-April, 2024",
+  "getbible": "https://getbible.net/kjv/Isaiah/7/15",
+  "name": "Isaiah 7:15",
   "scripture": [
     {
-      "nr": "5",
-      "text": "For when we were in the flesh, the motions of sins, which were by the law, did work in our members to bring forth fruit unto death."
-    },
-    {
-      "nr": "6",
-      "text": "But now we are delivered from the law, that being dead wherein we were held; that we should serve in newness of spirit, and not in the oldness of the letter."
+      "nr": "15",
+      "text": "Butter and honey shall he eat, that he may know to refuse the evil, and choose the good."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "5-6",
+  "verse": "15",
   "version": "kjv"
 }
