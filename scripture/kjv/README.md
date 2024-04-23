@@ -1,5 +1,5 @@
-**Isaiah 7:15**
+**Matthew 24:33**
 
-15 Butter and honey shall he eat, that he may know to refuse the evil, and choose the good.
+33 So likewise ye, when ye shall see all these things, know that it is near, even at the doors.
 
-[Tuesday 23-April, 2024](https://getbible.net/kjv/Isaiah/7/15)
+[Wednesday 24-April, 2024](https://getbible.net/kjv/Matthew/24/33)

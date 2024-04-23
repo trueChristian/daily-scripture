@@ -1,17 +1,17 @@
 {
-  "book": "Isaiah",
-  "chapter": "7",
-  "date": "Tuesday 23-April, 2024",
-  "getbible": "https://getbible.net/kjv/Isaiah/7/15",
-  "name": "Isaiah 7:15",
+  "book": "Matthew",
+  "chapter": "24",
+  "date": "Wednesday 24-April, 2024",
+  "getbible": "https://getbible.net/kjv/Matthew/24/33",
+  "name": "Matthew 24:33",
   "scripture": [
     {
-      "nr": "15",
-      "text": "Butter and honey shall he eat, that he may know to refuse the evil, and choose the good."
+      "nr": "33",
+      "text": "So likewise ye, when ye shall see all these things, know that it is near, even at the doors."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "15",
+  "verse": "33",
   "version": "kjv"
 }
