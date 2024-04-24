@@ -1,5 +1,5 @@
-**Matthew 24:33**
+**Matthew 14:23**
 
-33 So likewise ye, when ye shall see all these things, know that it is near, even at the doors.
+23 And when he had sent the multitudes away, he went up into a mountain apart to pray: and when the evening was come, he was there alone.
 
-[Wednesday 24-April, 2024](https://getbible.net/kjv/Matthew/24/33)
+[Thursday 25-April, 2024](https://getbible.net/kjv/Matthew/14/23)
