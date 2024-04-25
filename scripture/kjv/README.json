@@ -1,17 +1,21 @@
 {
-  "book": "Matthew",
-  "chapter": "14",
-  "date": "Thursday 25-April, 2024",
-  "getbible": "https://getbible.net/kjv/Matthew/14/23",
-  "name": "Matthew 14:23",
+  "book": "Romans",
+  "chapter": "8",
+  "date": "Friday 26-April, 2024",
+  "getbible": "https://getbible.net/kjv/Romans/8/12-13",
+  "name": "Romans 8:12-13",
   "scripture": [
     {
-      "nr": "23",
-      "text": "And when he had sent the multitudes away, he went up into a mountain apart to pray: and when the evening was come, he was there alone."
+      "nr": "12",
+      "text": "Therefore, brethren, we are debtors, not to the flesh, to live after the flesh."
+    },
+    {
+      "nr": "13",
+      "text": "For if ye live after the flesh, ye shall die: but if ye through the Spirit do mortify the deeds of the body, ye shall live."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "23",
+  "verse": "12-13",
   "version": "kjv"
 }

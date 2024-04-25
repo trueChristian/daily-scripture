@@ -1,5 +1,5 @@
-**Matthew 14:23**
+**Romans 8:12-13**
 
-23 And when he had sent the multitudes away, he went up into a mountain apart to pray: and when the evening was come, he was there alone.
+12 Therefore, brethren, we are debtors, not to the flesh, to live after the flesh. 13 For if ye live after the flesh, ye shall die: but if ye through the Spirit do mortify the deeds of the body, ye shall live.
 
-[Thursday 25-April, 2024](https://getbible.net/kjv/Matthew/14/23)
+[Friday 26-April, 2024](https://getbible.net/kjv/Romans/8/12-13)
