@@ -1,21 +1,25 @@
 {
-  "book": "Romans",
-  "chapter": "8",
-  "date": "Friday 26-April, 2024",
-  "getbible": "https://getbible.net/kjv/Romans/8/12-13",
-  "name": "Romans 8:12-13",
+  "book": "Philippians",
+  "chapter": "1",
+  "date": "Saturday 27-April, 2024",
+  "getbible": "https://getbible.net/kjv/Philippians/1/9-11",
+  "name": "Philippians 1:9-11",
   "scripture": [
     {
-      "nr": "12",
-      "text": "Therefore, brethren, we are debtors, not to the flesh, to live after the flesh."
+      "nr": "9",
+      "text": "And this I pray, that your love may abound yet more and more in knowledge and in all judgment;"
     },
     {
-      "nr": "13",
-      "text": "For if ye live after the flesh, ye shall die: but if ye through the Spirit do mortify the deeds of the body, ye shall live."
+      "nr": "10",
+      "text": "That ye may approve things that are excellent; that ye may be sincere and without offence till the day of Christ;"
+    },
+    {
+      "nr": "11",
+      "text": "Being filled with the fruits of righteousness, which are by Jesus Christ, unto the glory and praise of God."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "12-13",
+  "verse": "9-11",
   "version": "kjv"
 }
