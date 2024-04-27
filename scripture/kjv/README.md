@@ -1,5 +1,5 @@
-**Philippians 1:9-11**
+**Micah 2:13**
 
-9 And this I pray, that your love may abound yet more and more in knowledge and in all judgment; 10 That ye may approve things that are excellent; that ye may be sincere and without offence till the day of Christ; 11 Being filled with the fruits of righteousness, which are by Jesus Christ, unto the glory and praise of God.
+13 The breaker is come up before them: they have broken up, and have passed through the gate, and are gone out by it: and their king shall pass before them, and the Lord on the head of them. 
 
-[Saturday 27-April, 2024](https://getbible.net/kjv/Philippians/1/9-11)
+[Sunday 28-April, 2024](https://getbible.net/kjv/Micah/2/13)
