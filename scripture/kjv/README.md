@@ -1,5 +1,5 @@
-**Micah 2:13**
+**Revelation 1:14-15**
 
-13 The breaker is come up before them: they have broken up, and have passed through the gate, and are gone out by it: and their king shall pass before them, and the Lord on the head of them. 
+14 His head and his hairs were white like wool, as white as snow; and his eyes were as a flame of fire; 15 And his feet like unto fine brass, as if they burned in a furnace; and his voice as the sound of many waters.
 
-[Sunday 28-April, 2024](https://getbible.net/kjv/Micah/2/13)
+[Monday 29-April, 2024](https://getbible.net/kjv/Revelation/1/14-15)

@@ -1,17 +1,21 @@
 {
-  "book": "Micah",
-  "chapter": "2",
-  "date": "Sunday 28-April, 2024",
-  "getbible": "https://getbible.net/kjv/Micah/2/13",
-  "name": "Micah 2:13",
+  "book": "Revelation",
+  "chapter": "1",
+  "date": "Monday 29-April, 2024",
+  "getbible": "https://getbible.net/kjv/Revelation/1/14-15",
+  "name": "Revelation 1:14-15",
   "scripture": [
     {
-      "nr": "13",
-      "text": "The breaker is come up before them: they have broken up, and have passed through the gate, and are gone out by it: and their king shall pass before them, and the Lord on the head of them. "
+      "nr": "14",
+      "text": "His head and his hairs were white like wool, as white as snow; and his eyes were as a flame of fire;"
+    },
+    {
+      "nr": "15",
+      "text": "And his feet like unto fine brass, as if they burned in a furnace; and his voice as the sound of many waters."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "13",
+  "verse": "14-15",
   "version": "kjv"
 }
