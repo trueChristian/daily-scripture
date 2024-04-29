@@ -1,21 +1,17 @@
 {
-  "book": "Revelation",
-  "chapter": "1",
-  "date": "Monday 29-April, 2024",
-  "getbible": "https://getbible.net/kjv/Revelation/1/14-15",
-  "name": "Revelation 1:14-15",
+  "book": "John",
+  "chapter": "12",
+  "date": "Tuesday 30-April, 2024",
+  "getbible": "https://getbible.net/kjv/John/12/10",
+  "name": "John 12:10",
   "scripture": [
     {
-      "nr": "14",
-      "text": "His head and his hairs were white like wool, as white as snow; and his eyes were as a flame of fire;"
-    },
-    {
-      "nr": "15",
-      "text": "And his feet like unto fine brass, as if they burned in a furnace; and his voice as the sound of many waters."
+      "nr": "10",
+      "text": "But the chief priests consulted that they might put Lazarus also to death;"
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "14-15",
+  "verse": "10",
   "version": "kjv"
 }

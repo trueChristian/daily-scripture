@@ -1,5 +1,5 @@
-**Revelation 1:14-15**
+**John 12:10**
 
-14 His head and his hairs were white like wool, as white as snow; and his eyes were as a flame of fire; 15 And his feet like unto fine brass, as if they burned in a furnace; and his voice as the sound of many waters.
+10 But the chief priests consulted that they might put Lazarus also to death;
 
-[Monday 29-April, 2024](https://getbible.net/kjv/Revelation/1/14-15)
+[Tuesday 30-April, 2024](https://getbible.net/kjv/John/12/10)
