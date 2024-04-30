@@ -1,5 +1,5 @@
-**John 12:10**
+**Mark 9:23-24**
 
-10 But the chief priests consulted that they might put Lazarus also to death;
+23 Jesus said unto him, If thou canst believe, all things are possible to him that believeth. 24 And straightway the father of the child cried out, and said with tears, Lord, I believe; help thou mine unbelief.
 
-[Tuesday 30-April, 2024](https://getbible.net/kjv/John/12/10)
+[Wednesday 01-May, 2024](https://getbible.net/kjv/Mark/9/23-24)
