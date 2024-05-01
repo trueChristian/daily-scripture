@@ -1,5 +1,5 @@
-**Mark 9:23-24**
+**Proverbs 28:23**
 
-23 Jesus said unto him, If thou canst believe, all things are possible to him that believeth. 24 And straightway the father of the child cried out, and said with tears, Lord, I believe; help thou mine unbelief.
+23 He that rebuketh a man afterwards shall find more favour than he that flattereth with the tongue.
 
-[Wednesday 01-May, 2024](https://getbible.net/kjv/Mark/9/23-24)
+[Thursday 02-May, 2024](https://getbible.net/kjv/Proverbs/28/23)
