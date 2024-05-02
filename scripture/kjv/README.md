@@ -1,5 +1,5 @@
-**Proverbs 28:23**
+**Psalms 107:29-30**
 
-23 He that rebuketh a man afterwards shall find more favour than he that flattereth with the tongue.
+29 He maketh the storm a calm, so that the waves thereof are still. 30 Then are they glad because they be quiet; so he bringeth them unto their desired haven.
 
-[Thursday 02-May, 2024](https://getbible.net/kjv/Proverbs/28/23)
+[Friday 03-May, 2024](https://getbible.net/kjv/Psalms/107/29-30)
