@@ -1,5 +1,5 @@
-**Psalms 107:29-30**
+**Galatians 4:18**
 
-29 He maketh the storm a calm, so that the waves thereof are still. 30 Then are they glad because they be quiet; so he bringeth them unto their desired haven.
+18 But it is good to be zealously affected always in a good thing, and not only when I am present with you.
 
-[Friday 03-May, 2024](https://getbible.net/kjv/Psalms/107/29-30)
+[Saturday 04-May, 2024](https://getbible.net/kjv/Galatians/4/18)
