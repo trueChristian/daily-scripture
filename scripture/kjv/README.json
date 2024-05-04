@@ -1,17 +1,21 @@
 {
-  "book": "Galatians",
-  "chapter": "4",
-  "date": "Saturday 04-May, 2024",
-  "getbible": "https://getbible.net/kjv/Galatians/4/18",
-  "name": "Galatians 4:18",
+  "book": "Jeremiah",
+  "chapter": "23",
+  "date": "Sunday 05-May, 2024",
+  "getbible": "https://getbible.net/kjv/Jeremiah/23/28-29",
+  "name": "Jeremiah 23:28-29",
   "scripture": [
     {
-      "nr": "18",
-      "text": "But it is good to be zealously affected always in a good thing, and not only when I am present with you."
+      "nr": "28",
+      "text": "The prophet that hath a dream, let him tell a dream; and he that hath my word, let him speak my word faithfully. What is the chaff to the wheat? saith the Lord."
+    },
+    {
+      "nr": "29",
+      "text": "Is not my word like as a fire? saith the Lord; and like a hammer that breaketh the rock in pieces?"
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "18",
+  "verse": "28-29",
   "version": "kjv"
 }
