@@ -1,21 +1,17 @@
 {
-  "book": "Jeremiah",
-  "chapter": "23",
-  "date": "Sunday 05-May, 2024",
-  "getbible": "https://getbible.net/kjv/Jeremiah/23/28-29",
-  "name": "Jeremiah 23:28-29",
+  "book": "John",
+  "chapter": "16",
+  "date": "Monday 06-May, 2024",
+  "getbible": "https://getbible.net/kjv/John/16/1",
+  "name": "John 16:1",
   "scripture": [
     {
-      "nr": "28",
-      "text": "The prophet that hath a dream, let him tell a dream; and he that hath my word, let him speak my word faithfully. What is the chaff to the wheat? saith the Lord."
-    },
-    {
-      "nr": "29",
-      "text": "Is not my word like as a fire? saith the Lord; and like a hammer that breaketh the rock in pieces?"
+      "nr": "1",
+      "text": "These things have I spoken unto you, that ye should not be offended."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "28-29",
+  "verse": "1",
   "version": "kjv"
 }
