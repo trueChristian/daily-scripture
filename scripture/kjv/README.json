@@ -1,17 +1,17 @@
 {
-  "book": "John",
-  "chapter": "16",
-  "date": "Monday 06-May, 2024",
-  "getbible": "https://getbible.net/kjv/John/16/1",
-  "name": "John 16:1",
+  "book": "Proverbs",
+  "chapter": "23",
+  "date": "Tuesday 07-May, 2024",
+  "getbible": "https://getbible.net/kjv/Proverbs/23/17",
+  "name": "Proverbs 23:17",
   "scripture": [
     {
-      "nr": "1",
-      "text": "These things have I spoken unto you, that ye should not be offended."
+      "nr": "17",
+      "text": "Let not thine heart envy sinners: but be thou in the fear of the Lord all the day long."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "1",
+  "verse": "17",
   "version": "kjv"
 }

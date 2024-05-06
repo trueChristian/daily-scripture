@@ -1,5 +1,5 @@
-**John 16:1**
+**Proverbs 23:17**
 
-1 These things have I spoken unto you, that ye should not be offended.
+17 Let not thine heart envy sinners: but be thou in the fear of the Lord all the day long.
 
-[Monday 06-May, 2024](https://getbible.net/kjv/John/16/1)
+[Tuesday 07-May, 2024](https://getbible.net/kjv/Proverbs/23/17)
