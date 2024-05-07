@@ -1,17 +1,25 @@
 {
-  "book": "Proverbs",
-  "chapter": "23",
-  "date": "Tuesday 07-May, 2024",
-  "getbible": "https://getbible.net/kjv/Proverbs/23/17",
-  "name": "Proverbs 23:17",
+  "book": "Romans",
+  "chapter": "11",
+  "date": "Wednesday 08-May, 2024",
+  "getbible": "https://getbible.net/kjv/Romans/11/20-22",
+  "name": "Romans 11:20-22",
   "scripture": [
     {
-      "nr": "17",
-      "text": "Let not thine heart envy sinners: but be thou in the fear of the Lord all the day long."
+      "nr": "20",
+      "text": "Well; because of unbelief they were broken off, and thou standest by faith. Be not highminded, but fear:"
+    },
+    {
+      "nr": "21",
+      "text": "For if God spared not the natural branches, take heed lest he also spare not thee."
+    },
+    {
+      "nr": "22",
+      "text": "Behold therefore the goodness and severity of God: on them which fell, severity; but toward thee, goodness, if thou continue in his goodness: otherwise thou also shalt be cut off."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "17",
+  "verse": "20-22",
   "version": "kjv"
 }
