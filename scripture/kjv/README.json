@@ -1,25 +1,25 @@
 {
-  "book": "Romans",
-  "chapter": "11",
-  "date": "Wednesday 08-May, 2024",
-  "getbible": "https://getbible.net/kjv/Romans/11/20-22",
-  "name": "Romans 11:20-22",
+  "book": "1 Timothy",
+  "chapter": "6",
+  "date": "Thursday 09-May, 2024",
+  "getbible": "https://getbible.net/kjv/1 Timothy/6/6-8",
+  "name": "1 Timothy 6:6-8",
   "scripture": [
     {
-      "nr": "20",
-      "text": "Well; because of unbelief they were broken off, and thou standest by faith. Be not highminded, but fear:"
+      "nr": "6",
+      "text": "But godliness with contentment is great gain."
     },
     {
-      "nr": "21",
-      "text": "For if God spared not the natural branches, take heed lest he also spare not thee."
+      "nr": "7",
+      "text": "For we brought nothing into this world, and it is certain we can carry nothing out."
     },
     {
-      "nr": "22",
-      "text": "Behold therefore the goodness and severity of God: on them which fell, severity; but toward thee, goodness, if thou continue in his goodness: otherwise thou also shalt be cut off."
+      "nr": "8",
+      "text": "And having food and raiment let us be therewith content."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "20-22",
+  "verse": "6-8",
   "version": "kjv"
 }
