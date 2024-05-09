@@ -1,5 +1,5 @@
-**1 Timothy 6:6-8**
+**Daniel 4:37**
 
-6 But godliness with contentment is great gain. 7 For we brought nothing into this world, and it is certain we can carry nothing out. 8 And having food and raiment let us be therewith content.
+37 Now I Nebuchadnezzar praise and extol and honour the King of heaven, all whose works are truth, and his ways judgment: and those that walk in pride he is able to abase. 
 
-[Thursday 09-May, 2024](https://getbible.net/kjv/1 Timothy/6/6-8)
+[Friday 10-May, 2024](https://getbible.net/kjv/Daniel/4/37)

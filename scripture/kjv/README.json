@@ -1,25 +1,17 @@
 {
-  "book": "1 Timothy",
-  "chapter": "6",
-  "date": "Thursday 09-May, 2024",
-  "getbible": "https://getbible.net/kjv/1 Timothy/6/6-8",
-  "name": "1 Timothy 6:6-8",
+  "book": "Daniel",
+  "chapter": "4",
+  "date": "Friday 10-May, 2024",
+  "getbible": "https://getbible.net/kjv/Daniel/4/37",
+  "name": "Daniel 4:37",
   "scripture": [
     {
-      "nr": "6",
-      "text": "But godliness with contentment is great gain."
-    },
-    {
-      "nr": "7",
-      "text": "For we brought nothing into this world, and it is certain we can carry nothing out."
-    },
-    {
-      "nr": "8",
-      "text": "And having food and raiment let us be therewith content."
+      "nr": "37",
+      "text": "Now I Nebuchadnezzar praise and extol and honour the King of heaven, all whose works are truth, and his ways judgment: and those that walk in pride he is able to abase. "
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "6-8",
+  "verse": "37",
   "version": "kjv"
 }
