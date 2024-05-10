@@ -1,17 +1,21 @@
 {
-  "book": "Daniel",
-  "chapter": "4",
-  "date": "Friday 10-May, 2024",
-  "getbible": "https://getbible.net/kjv/Daniel/4/37",
-  "name": "Daniel 4:37",
+  "book": "Luke",
+  "chapter": "18",
+  "date": "Saturday 11-May, 2024",
+  "getbible": "https://getbible.net/kjv/Luke/18/26-27",
+  "name": "Luke 18:26-27",
   "scripture": [
     {
-      "nr": "37",
-      "text": "Now I Nebuchadnezzar praise and extol and honour the King of heaven, all whose works are truth, and his ways judgment: and those that walk in pride he is able to abase. "
+      "nr": "26",
+      "text": "And they that heard it said, Who then can be saved?"
+    },
+    {
+      "nr": "27",
+      "text": "And he said, The things which are impossible with men are possible with God."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "37",
+  "verse": "26-27",
   "version": "kjv"
 }

@@ -1,5 +1,5 @@
-**Daniel 4:37**
+**Luke 18:26-27**
 
-37 Now I Nebuchadnezzar praise and extol and honour the King of heaven, all whose works are truth, and his ways judgment: and those that walk in pride he is able to abase. 
+26 And they that heard it said, Who then can be saved? 27 And he said, The things which are impossible with men are possible with God.
 
-[Friday 10-May, 2024](https://getbible.net/kjv/Daniel/4/37)
+[Saturday 11-May, 2024](https://getbible.net/kjv/Luke/18/26-27)
