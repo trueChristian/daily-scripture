@@ -1,5 +1,5 @@
-**Luke 18:26-27**
+**2 John 1:7**
 
-26 And they that heard it said, Who then can be saved? 27 And he said, The things which are impossible with men are possible with God.
+7 For many deceivers are entered into the world, who confess not that Jesus Christ is come in the flesh. This is a deceiver and an antichrist.
 
-[Saturday 11-May, 2024](https://getbible.net/kjv/Luke/18/26-27)
+[Sunday 12-May, 2024](https://getbible.net/kjv/2 John/1/7)
