@@ -1,5 +1,5 @@
-**2 John 1:7**
+**Psalms 109:4**
 
-7 For many deceivers are entered into the world, who confess not that Jesus Christ is come in the flesh. This is a deceiver and an antichrist.
+4 For my love they are my adversaries: but I give myself unto prayer.
 
-[Sunday 12-May, 2024](https://getbible.net/kjv/2 John/1/7)
+[Monday 13-May, 2024](https://getbible.net/kjv/Psalms/109/4)
