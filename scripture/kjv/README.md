@@ -1,5 +1,5 @@
-**Psalms 109:4**
+**Psalms 4:8**
 
-4 For my love they are my adversaries: but I give myself unto prayer.
+8 I will both lay me down in peace, and sleep: for thou, Lord, only makest me dwell in safety. 
 
-[Monday 13-May, 2024](https://getbible.net/kjv/Psalms/109/4)
+[Tuesday 14-May, 2024](https://getbible.net/kjv/Psalms/4/8)

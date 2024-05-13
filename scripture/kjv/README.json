@@ -1,17 +1,17 @@
 {
   "book": "Psalms",
-  "chapter": "109",
-  "date": "Monday 13-May, 2024",
-  "getbible": "https://getbible.net/kjv/Psalms/109/4",
-  "name": "Psalms 109:4",
+  "chapter": "4",
+  "date": "Tuesday 14-May, 2024",
+  "getbible": "https://getbible.net/kjv/Psalms/4/8",
+  "name": "Psalms 4:8",
   "scripture": [
     {
-      "nr": "4",
-      "text": "For my love they are my adversaries: but I give myself unto prayer."
+      "nr": "8",
+      "text": "I will both lay me down in peace, and sleep: for thou, Lord, only makest me dwell in safety. "
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "4",
+  "verse": "8",
   "version": "kjv"
 }
