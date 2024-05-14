@@ -1,5 +1,5 @@
-**Psalms 4:8**
+**Psalms 32:11**
 
-8 I will both lay me down in peace, and sleep: for thou, Lord, only makest me dwell in safety. 
+11 Be glad in the Lord, and rejoice, ye righteous: and shout for joy, all ye that are upright in heart. 
 
-[Tuesday 14-May, 2024](https://getbible.net/kjv/Psalms/4/8)
+[Wednesday 15-May, 2024](https://getbible.net/kjv/Psalms/32/11)

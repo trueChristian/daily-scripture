@@ -1,17 +1,17 @@
 {
   "book": "Psalms",
-  "chapter": "4",
-  "date": "Tuesday 14-May, 2024",
-  "getbible": "https://getbible.net/kjv/Psalms/4/8",
-  "name": "Psalms 4:8",
+  "chapter": "32",
+  "date": "Wednesday 15-May, 2024",
+  "getbible": "https://getbible.net/kjv/Psalms/32/11",
+  "name": "Psalms 32:11",
   "scripture": [
     {
-      "nr": "8",
-      "text": "I will both lay me down in peace, and sleep: for thou, Lord, only makest me dwell in safety. "
+      "nr": "11",
+      "text": "Be glad in the Lord, and rejoice, ye righteous: and shout for joy, all ye that are upright in heart. "
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "8",
+  "verse": "11",
   "version": "kjv"
 }
