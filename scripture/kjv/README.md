@@ -1,5 +1,5 @@
-**Psalms 32:11**
+**Proverbs 25:28**
 
-11 Be glad in the Lord, and rejoice, ye righteous: and shout for joy, all ye that are upright in heart. 
+28 He that hath no rule over his own spirit is like a city that is broken down, and without walls. 
 
-[Wednesday 15-May, 2024](https://getbible.net/kjv/Psalms/32/11)
+[Thursday 16-May, 2024](https://getbible.net/kjv/Proverbs/25/28)
