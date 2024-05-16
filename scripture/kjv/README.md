@@ -1,5 +1,5 @@
-**Proverbs 25:28**
+**Galatians 6:4-5**
 
-28 He that hath no rule over his own spirit is like a city that is broken down, and without walls. 
+4 But let every man prove his own work, and then shall he have rejoicing in himself alone, and not in another. 5 For every man shall bear his own burden.
 
-[Thursday 16-May, 2024](https://getbible.net/kjv/Proverbs/25/28)
+[Friday 17-May, 2024](https://getbible.net/kjv/Galatians/6/4-5)
