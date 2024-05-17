@@ -1,21 +1,17 @@
 {
-  "book": "Galatians",
-  "chapter": "6",
-  "date": "Friday 17-May, 2024",
-  "getbible": "https://getbible.net/kjv/Galatians/6/4-5",
-  "name": "Galatians 6:4-5",
+  "book": "Proverbs",
+  "chapter": "10",
+  "date": "Saturday 18-May, 2024",
+  "getbible": "https://getbible.net/kjv/Proverbs/10/12",
+  "name": "Proverbs 10:12",
   "scripture": [
     {
-      "nr": "4",
-      "text": "But let every man prove his own work, and then shall he have rejoicing in himself alone, and not in another."
-    },
-    {
-      "nr": "5",
-      "text": "For every man shall bear his own burden."
+      "nr": "12",
+      "text": "Hatred stirreth up strifes: but love covereth all sins."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "4-5",
+  "verse": "12",
   "version": "kjv"
 }

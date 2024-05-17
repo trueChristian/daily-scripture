@@ -1,5 +1,5 @@
-**Galatians 6:4-5**
+**Proverbs 10:12**
 
-4 But let every man prove his own work, and then shall he have rejoicing in himself alone, and not in another. 5 For every man shall bear his own burden.
+12 Hatred stirreth up strifes: but love covereth all sins.
 
-[Friday 17-May, 2024](https://getbible.net/kjv/Galatians/6/4-5)
+[Saturday 18-May, 2024](https://getbible.net/kjv/Proverbs/10/12)
