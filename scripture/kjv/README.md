@@ -1,5 +1,5 @@
-**Proverbs 10:12**
+**John 7:37**
 
-12 Hatred stirreth up strifes: but love covereth all sins.
+37 In the last day, that great day of the feast, Jesus stood and cried, saying, If any man thirst, let him come unto me, and drink.
 
-[Saturday 18-May, 2024](https://getbible.net/kjv/Proverbs/10/12)
+[Sunday 19-May, 2024](https://getbible.net/kjv/John/7/37)
