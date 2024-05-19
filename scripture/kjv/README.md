@@ -1,5 +1,5 @@
-**John 7:37**
+**Luke 1:45**
 
-37 In the last day, that great day of the feast, Jesus stood and cried, saying, If any man thirst, let him come unto me, and drink.
+45 And blessed is she that believed: for there shall be a performance of those things which were told her from the Lord.
 
-[Sunday 19-May, 2024](https://getbible.net/kjv/John/7/37)
+[Monday 20-May, 2024](https://getbible.net/kjv/Luke/1/45)
