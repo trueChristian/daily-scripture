@@ -1,5 +1,5 @@
-**Luke 1:45**
+**Psalms 23:6**
 
-45 And blessed is she that believed: for there shall be a performance of those things which were told her from the Lord.
+6 Surely goodness and mercy shall follow me all the days of my life: and I will dwell in the house of the Lord for ever. 
 
-[Monday 20-May, 2024](https://getbible.net/kjv/Luke/1/45)
+[Tuesday 21-May, 2024](https://getbible.net/kjv/Psalms/23/6)
