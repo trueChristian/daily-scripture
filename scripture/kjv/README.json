@@ -1,17 +1,17 @@
 {
-  "book": "Psalms",
-  "chapter": "23",
-  "date": "Tuesday 21-May, 2024",
-  "getbible": "https://getbible.net/kjv/Psalms/23/6",
-  "name": "Psalms 23:6",
+  "book": "Acts",
+  "chapter": "6",
+  "date": "Wednesday 22-May, 2024",
+  "getbible": "https://getbible.net/kjv/Acts/6/4",
+  "name": "Acts 6:4",
   "scripture": [
     {
-      "nr": "6",
-      "text": "Surely goodness and mercy shall follow me all the days of my life: and I will dwell in the house of the Lord for ever. "
+      "nr": "4",
+      "text": "But we will give ourselves continually to prayer, and to the ministry of the word."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "6",
+  "verse": "4",
   "version": "kjv"
 }

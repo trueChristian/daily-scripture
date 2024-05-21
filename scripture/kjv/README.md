@@ -1,5 +1,5 @@
-**Psalms 23:6**
+**Acts 6:4**
 
-6 Surely goodness and mercy shall follow me all the days of my life: and I will dwell in the house of the Lord for ever. 
+4 But we will give ourselves continually to prayer, and to the ministry of the word.
 
-[Tuesday 21-May, 2024](https://getbible.net/kjv/Psalms/23/6)
+[Wednesday 22-May, 2024](https://getbible.net/kjv/Acts/6/4)
