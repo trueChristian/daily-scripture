@@ -1,17 +1,21 @@
 {
-  "book": "Acts",
-  "chapter": "6",
-  "date": "Wednesday 22-May, 2024",
-  "getbible": "https://getbible.net/kjv/Acts/6/4",
-  "name": "Acts 6:4",
+  "book": "Psalms",
+  "chapter": "56",
+  "date": "Thursday 23-May, 2024",
+  "getbible": "https://getbible.net/kjv/Psalms/56/12-13",
+  "name": "Psalms 56:12-13",
   "scripture": [
     {
-      "nr": "4",
-      "text": "But we will give ourselves continually to prayer, and to the ministry of the word."
+      "nr": "12",
+      "text": "Thy vows are upon me, O God: I will render praises unto thee."
+    },
+    {
+      "nr": "13",
+      "text": "For thou hast delivered my soul from death: wilt not thou deliver my feet from falling, that I may walk before God in the light of the living? "
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "4",
+  "verse": "12-13",
   "version": "kjv"
 }
