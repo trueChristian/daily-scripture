@@ -1,5 +1,5 @@
-**Mark 15:28**
+**Job 5:26**
 
-28 And the scripture was fulfilled, which saith, And he was numbered with the transgressors.
+26 Thou shalt come to thy grave in a full age, like as a shock of corn cometh in in his season.
 
-[Friday 24-May, 2024](https://getbible.net/kjv/Mark/15/28)
+[Saturday 25-May, 2024](https://getbible.net/kjv/Job/5/26)

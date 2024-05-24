@@ -1,17 +1,17 @@
 {
-  "book": "Mark",
-  "chapter": "15",
-  "date": "Friday 24-May, 2024",
-  "getbible": "https://getbible.net/kjv/Mark/15/28",
-  "name": "Mark 15:28",
+  "book": "Job",
+  "chapter": "5",
+  "date": "Saturday 25-May, 2024",
+  "getbible": "https://getbible.net/kjv/Job/5/26",
+  "name": "Job 5:26",
   "scripture": [
     {
-      "nr": "28",
-      "text": "And the scripture was fulfilled, which saith, And he was numbered with the transgressors."
+      "nr": "26",
+      "text": "Thou shalt come to thy grave in a full age, like as a shock of corn cometh in in his season."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "28",
+  "verse": "26",
   "version": "kjv"
 }
