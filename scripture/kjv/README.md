@@ -1,5 +1,5 @@
-**Job 5:26**
+**Galatians 1:24**
 
-26 Thou shalt come to thy grave in a full age, like as a shock of corn cometh in in his season.
+24 And they glorified God in me. 
 
-[Saturday 25-May, 2024](https://getbible.net/kjv/Job/5/26)
+[Sunday 26-May, 2024](https://getbible.net/kjv/Galatians/1/24)

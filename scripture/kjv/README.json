@@ -1,17 +1,17 @@
 {
-  "book": "Job",
-  "chapter": "5",
-  "date": "Saturday 25-May, 2024",
-  "getbible": "https://getbible.net/kjv/Job/5/26",
-  "name": "Job 5:26",
+  "book": "Galatians",
+  "chapter": "1",
+  "date": "Sunday 26-May, 2024",
+  "getbible": "https://getbible.net/kjv/Galatians/1/24",
+  "name": "Galatians 1:24",
   "scripture": [
     {
-      "nr": "26",
-      "text": "Thou shalt come to thy grave in a full age, like as a shock of corn cometh in in his season."
+      "nr": "24",
+      "text": "And they glorified God in me. "
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "26",
+  "verse": "24",
   "version": "kjv"
 }
