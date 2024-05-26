@@ -1,5 +1,5 @@
-**Galatians 1:24**
+**Daniel 5:20**
 
-24 And they glorified God in me. 
+20 But when his heart was lifted up, and his mind hardened in pride, he was deposed from his kingly throne, and they took his glory from him:
 
-[Sunday 26-May, 2024](https://getbible.net/kjv/Galatians/1/24)
+[Monday 27-May, 2024](https://getbible.net/kjv/Daniel/5/20)

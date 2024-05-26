@@ -1,17 +1,17 @@
 {
-  "book": "Galatians",
-  "chapter": "1",
-  "date": "Sunday 26-May, 2024",
-  "getbible": "https://getbible.net/kjv/Galatians/1/24",
-  "name": "Galatians 1:24",
+  "book": "Daniel",
+  "chapter": "5",
+  "date": "Monday 27-May, 2024",
+  "getbible": "https://getbible.net/kjv/Daniel/5/20",
+  "name": "Daniel 5:20",
   "scripture": [
     {
-      "nr": "24",
-      "text": "And they glorified God in me. "
+      "nr": "20",
+      "text": "But when his heart was lifted up, and his mind hardened in pride, he was deposed from his kingly throne, and they took his glory from him:"
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "24",
+  "verse": "20",
   "version": "kjv"
 }
