@@ -1,5 +1,5 @@
-**Daniel 5:20**
+**John 18:20**
 
-20 But when his heart was lifted up, and his mind hardened in pride, he was deposed from his kingly throne, and they took his glory from him:
+20 Jesus answered him, I spake openly to the world; I ever taught in the synagogue, and in the temple, whither the Jews always resort; and in secret have I said nothing.
 
-[Monday 27-May, 2024](https://getbible.net/kjv/Daniel/5/20)
+[Tuesday 28-May, 2024](https://getbible.net/kjv/John/18/20)
