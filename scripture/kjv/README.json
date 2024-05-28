@@ -1,17 +1,17 @@
 {
-  "book": "John",
-  "chapter": "18",
-  "date": "Tuesday 28-May, 2024",
-  "getbible": "https://getbible.net/kjv/John/18/20",
-  "name": "John 18:20",
+  "book": "Philemon",
+  "chapter": "1",
+  "date": "Wednesday 29-May, 2024",
+  "getbible": "https://getbible.net/kjv/Philemon/1/15",
+  "name": "Philemon 1:15",
   "scripture": [
     {
-      "nr": "20",
-      "text": "Jesus answered him, I spake openly to the world; I ever taught in the synagogue, and in the temple, whither the Jews always resort; and in secret have I said nothing."
+      "nr": "15",
+      "text": "For perhaps he therefore departed for a season, that thou shouldest receive him for ever;"
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "20",
+  "verse": "15",
   "version": "kjv"
 }

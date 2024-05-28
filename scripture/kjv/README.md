@@ -1,5 +1,5 @@
-**John 18:20**
+**Philemon 1:15**
 
-20 Jesus answered him, I spake openly to the world; I ever taught in the synagogue, and in the temple, whither the Jews always resort; and in secret have I said nothing.
+15 For perhaps he therefore departed for a season, that thou shouldest receive him for ever;
 
-[Tuesday 28-May, 2024](https://getbible.net/kjv/John/18/20)
+[Wednesday 29-May, 2024](https://getbible.net/kjv/Philemon/1/15)
