@@ -1,5 +1,5 @@
-**3 John 1:9-10**
+**Proverbs 24:32**
 
-9 I wrote unto the church: but Diotrephes, who loveth to have the preeminence among them, receiveth us not. 10 Wherefore, if I come, I will remember his deeds which he doeth, prating against us with malicious words: and not content therewith, neither doth he himself receive the brethren, and forbiddeth them that would, and casteth them out of the church.
+32 Then I saw, and considered it well: I looked upon it, and received instruction.
 
-[Friday 31-May, 2024](https://getbible.net/kjv/3 John/1/9-10)
+[Saturday 01-June, 2024](https://getbible.net/kjv/Proverbs/24/32)

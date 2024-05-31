@@ -1,21 +1,17 @@
 {
-  "book": "3 John",
-  "chapter": "1",
-  "date": "Friday 31-May, 2024",
-  "getbible": "https://getbible.net/kjv/3 John/1/9-10",
-  "name": "3 John 1:9-10",
+  "book": "Proverbs",
+  "chapter": "24",
+  "date": "Saturday 01-June, 2024",
+  "getbible": "https://getbible.net/kjv/Proverbs/24/32",
+  "name": "Proverbs 24:32",
   "scripture": [
     {
-      "nr": "9",
-      "text": "I wrote unto the church: but Diotrephes, who loveth to have the preeminence among them, receiveth us not."
-    },
-    {
-      "nr": "10",
-      "text": "Wherefore, if I come, I will remember his deeds which he doeth, prating against us with malicious words: and not content therewith, neither doth he himself receive the brethren, and forbiddeth them that would, and casteth them out of the church."
+      "nr": "32",
+      "text": "Then I saw, and considered it well: I looked upon it, and received instruction."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "9-10",
+  "verse": "32",
   "version": "kjv"
 }
