@@ -1,17 +1,21 @@
 {
-  "book": "Isaiah",
-  "chapter": "60",
-  "date": "Monday 03-June, 2024",
-  "getbible": "https://getbible.net/kjv/Isaiah/60/15",
-  "name": "Isaiah 60:15",
+  "book": "Luke",
+  "chapter": "19",
+  "date": "Tuesday 04-June, 2024",
+  "getbible": "https://getbible.net/kjv/Luke/19/8-9",
+  "name": "Luke 19:8-9",
   "scripture": [
     {
-      "nr": "15",
-      "text": "Whereas thou hast been forsaken and hated, so that no man went through thee, I will make thee an eternal excellency, a joy of many generations."
+      "nr": "8",
+      "text": "And Zaccheus stood, and said unto the Lord; Behold, Lord, the half of my goods I give to the poor; and if I have taken any thing from any man by false accusation, I restore him fourfold."
+    },
+    {
+      "nr": "9",
+      "text": "And Jesus said unto him, This day is salvation come to this house, forsomuch as he also is a son of Abraham."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "15",
+  "verse": "8-9",
   "version": "kjv"
 }

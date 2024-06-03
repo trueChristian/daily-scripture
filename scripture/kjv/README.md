@@ -1,5 +1,5 @@
-**Isaiah 60:15**
+**Luke 19:8-9**
 
-15 Whereas thou hast been forsaken and hated, so that no man went through thee, I will make thee an eternal excellency, a joy of many generations.
+8 And Zaccheus stood, and said unto the Lord; Behold, Lord, the half of my goods I give to the poor; and if I have taken any thing from any man by false accusation, I restore him fourfold. 9 And Jesus said unto him, This day is salvation come to this house, forsomuch as he also is a son of Abraham.
 
-[Monday 03-June, 2024](https://getbible.net/kjv/Isaiah/60/15)
+[Tuesday 04-June, 2024](https://getbible.net/kjv/Luke/19/8-9)
