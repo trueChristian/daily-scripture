@@ -1,17 +1,17 @@
 {
-  "book": "Luke",
-  "chapter": "19",
-  "date": "Tuesday 04-June, 2024",
-  "getbible": "https://getbible.net/kjv/Luke/19/8-9",
-  "name": "Luke 19:8-9",
+  "book": "Proverbs",
+  "chapter": "31",
+  "date": "Wednesday 05-June, 2024",
+  "getbible": "https://getbible.net/kjv/Proverbs/31/8-9",
+  "name": "Proverbs 31:8-9",
   "scripture": [
     {
       "nr": "8",
-      "text": "And Zaccheus stood, and said unto the Lord; Behold, Lord, the half of my goods I give to the poor; and if I have taken any thing from any man by false accusation, I restore him fourfold."
+      "text": "Open thy mouth for the dumb in the cause of all such as are appointed to destruction."
     },
     {
       "nr": "9",
-      "text": "And Jesus said unto him, This day is salvation come to this house, forsomuch as he also is a son of Abraham."
+      "text": "Open thy mouth, judge righteously, and plead the cause of the poor and needy."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
