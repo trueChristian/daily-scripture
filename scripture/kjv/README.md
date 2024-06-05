@@ -1,5 +1,5 @@
-**Proverbs 31:8-9**
+**Matthew 26:36-45**
 
-8 Open thy mouth for the dumb in the cause of all such as are appointed to destruction. 9 Open thy mouth, judge righteously, and plead the cause of the poor and needy.
+36 Then cometh Jesus with them unto a place called Gethsemane, and saith unto the disciples, Sit ye here, while I go and pray yonder. 37 And he took with him Peter and the two sons of Zebedee, and began to be sorrowful and very heavy. 38 Then saith he unto them, My soul is exceeding sorrowful, even unto death: tarry ye here, and watch with me. 39 And he went a little further, and fell on his face, and prayed, saying, O my Father, if it be possible, let this cup pass from me: nevertheless not as I will, but as thou wilt. 40 And he cometh unto the disciples, and findeth them asleep, and saith unto Peter, What, could ye not watch with me one hour? 41 Watch and pray, that ye enter not into temptation: the spirit indeed is willing, but the flesh is weak. 42 He went away again the second time, and prayed, saying, O my Father, if this cup may not pass away from me, except I drink it, thy will be done. 43 And he came and found them asleep again: for their eyes were heavy. 44 And he left them, and went away again, and prayed the third time, saying the same words. 45 Then cometh he to his disciples, and saith unto them, Sleep on now, and take your rest: behold, the hour is at hand, and the Son of man is betrayed into the hands of sinners.
 
-[Wednesday 05-June, 2024](https://getbible.net/kjv/Proverbs/31/8-9)
+[Thursday 06-June, 2024](https://getbible.net/kjv/Matthew/26/36-45)
