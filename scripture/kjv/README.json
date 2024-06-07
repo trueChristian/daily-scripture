@@ -1,17 +1,17 @@
 {
-  "book": "2 Thessalonians",
-  "chapter": "3",
-  "date": "Friday 07-June, 2024",
-  "getbible": "https://getbible.net/kjv/2 Thessalonians/3/3",
-  "name": "2 Thessalonians 3:3",
+  "book": "Revelation",
+  "chapter": "2",
+  "date": "Saturday 08-June, 2024",
+  "getbible": "https://getbible.net/kjv/Revelation/2/17",
+  "name": "Revelation 2:17",
   "scripture": [
     {
-      "nr": "3",
-      "text": "But the Lord is faithful, who shall stablish you, and keep you from evil."
+      "nr": "17",
+      "text": "He that hath an ear, let him hear what the Spirit saith unto the churches; To him that overcometh will I give to eat of the hidden manna, and will give him a white stone, and in the stone a new name written, which no man knoweth saving he that receiveth it."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "3",
+  "verse": "17",
   "version": "kjv"
 }

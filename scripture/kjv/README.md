@@ -1,5 +1,5 @@
-**2 Thessalonians 3:3**
+**Revelation 2:17**
 
-3 But the Lord is faithful, who shall stablish you, and keep you from evil.
+17 He that hath an ear, let him hear what the Spirit saith unto the churches; To him that overcometh will I give to eat of the hidden manna, and will give him a white stone, and in the stone a new name written, which no man knoweth saving he that receiveth it.
 
-[Friday 07-June, 2024](https://getbible.net/kjv/2 Thessalonians/3/3)
+[Saturday 08-June, 2024](https://getbible.net/kjv/Revelation/2/17)
