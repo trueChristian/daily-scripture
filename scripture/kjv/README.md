@@ -1,5 +1,5 @@
-**Revelation 2:17**
+**Matthew 16:26**
 
-17 He that hath an ear, let him hear what the Spirit saith unto the churches; To him that overcometh will I give to eat of the hidden manna, and will give him a white stone, and in the stone a new name written, which no man knoweth saving he that receiveth it.
+26 For what is a man profited, if he shall gain the whole world, and lose his own soul? or what shall a man give in exchange for his soul?
 
-[Saturday 08-June, 2024](https://getbible.net/kjv/Revelation/2/17)
+[Sunday 09-June, 2024](https://getbible.net/kjv/Matthew/16/26)
