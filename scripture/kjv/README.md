@@ -1,5 +1,5 @@
-**John 15:9**
+**John 14:15**
 
-9 As the Father hath loved me, so have I loved you: continue ye in my love.
+15 If ye love me, keep my commandments.
 
-[Tuesday 11-June, 2024](https://getbible.net/kjv/John/15/9)
+[Wednesday 12-June, 2024](https://getbible.net/kjv/John/14/15)
