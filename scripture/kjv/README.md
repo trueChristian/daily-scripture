@@ -1,5 +1,5 @@
-**John 14:15**
+**Psalms 16:11**
 
-15 If ye love me, keep my commandments.
+11 Thou wilt shew me the path of life: in thy presence is fulness of joy; at thy right hand there are pleasures for evermore. 
 
-[Wednesday 12-June, 2024](https://getbible.net/kjv/John/14/15)
+[Thursday 13-June, 2024](https://getbible.net/kjv/Psalms/16/11)
