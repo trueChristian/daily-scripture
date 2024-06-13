@@ -1,17 +1,17 @@
 {
-  "book": "Psalms",
-  "chapter": "16",
-  "date": "Thursday 13-June, 2024",
-  "getbible": "https://getbible.net/kjv/Psalms/16/11",
-  "name": "Psalms 16:11",
+  "book": "1 Thessalonians",
+  "chapter": "5",
+  "date": "Friday 14-June, 2024",
+  "getbible": "https://getbible.net/kjv/1 Thessalonians/5/16",
+  "name": "1 Thessalonians 5:16",
   "scripture": [
     {
-      "nr": "11",
-      "text": "Thou wilt shew me the path of life: in thy presence is fulness of joy; at thy right hand there are pleasures for evermore. "
+      "nr": "16",
+      "text": "Rejoice evermore."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "11",
+  "verse": "16",
   "version": "kjv"
 }

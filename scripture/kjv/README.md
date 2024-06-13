@@ -1,5 +1,5 @@
-**Psalms 16:11**
+**1 Thessalonians 5:16**
 
-11 Thou wilt shew me the path of life: in thy presence is fulness of joy; at thy right hand there are pleasures for evermore. 
+16 Rejoice evermore.
 
-[Thursday 13-June, 2024](https://getbible.net/kjv/Psalms/16/11)
+[Friday 14-June, 2024](https://getbible.net/kjv/1 Thessalonians/5/16)
