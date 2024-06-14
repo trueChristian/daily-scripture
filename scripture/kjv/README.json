@@ -1,17 +1,17 @@
 {
-  "book": "1 Thessalonians",
-  "chapter": "5",
-  "date": "Friday 14-June, 2024",
-  "getbible": "https://getbible.net/kjv/1 Thessalonians/5/16",
-  "name": "1 Thessalonians 5:16",
+  "book": "1 Corinthians",
+  "chapter": "2",
+  "date": "Saturday 15-June, 2024",
+  "getbible": "https://getbible.net/kjv/1 Corinthians/2/7",
+  "name": "1 Corinthians 2:7",
   "scripture": [
     {
-      "nr": "16",
-      "text": "Rejoice evermore."
+      "nr": "7",
+      "text": "But we speak the wisdom of God in a mystery, even the hidden wisdom, which God ordained before the world unto our glory:"
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "16",
+  "verse": "7",
   "version": "kjv"
 }
