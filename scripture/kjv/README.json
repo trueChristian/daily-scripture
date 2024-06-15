@@ -1,17 +1,17 @@
 {
-  "book": "1 Corinthians",
+  "book": "Ephesians",
   "chapter": "2",
-  "date": "Saturday 15-June, 2024",
-  "getbible": "https://getbible.net/kjv/1 Corinthians/2/7",
-  "name": "1 Corinthians 2:7",
+  "date": "Sunday 16-June, 2024",
+  "getbible": "https://getbible.net/kjv/Ephesians/2/1",
+  "name": "Ephesians 2:1",
   "scripture": [
     {
-      "nr": "7",
-      "text": "But we speak the wisdom of God in a mystery, even the hidden wisdom, which God ordained before the world unto our glory:"
+      "nr": "1",
+      "text": "And you hath he quickened, who were dead in trespasses and sins;"
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "7",
+  "verse": "1",
   "version": "kjv"
 }
