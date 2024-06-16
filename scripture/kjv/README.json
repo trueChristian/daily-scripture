@@ -1,17 +1,17 @@
 {
   "book": "Ephesians",
-  "chapter": "2",
-  "date": "Sunday 16-June, 2024",
-  "getbible": "https://getbible.net/kjv/Ephesians/2/1",
-  "name": "Ephesians 2:1",
+  "chapter": "5",
+  "date": "Monday 17-June, 2024",
+  "getbible": "https://getbible.net/kjv/Ephesians/5/25",
+  "name": "Ephesians 5:25",
   "scripture": [
     {
-      "nr": "1",
-      "text": "And you hath he quickened, who were dead in trespasses and sins;"
+      "nr": "25",
+      "text": "Husbands, love your wives, even as Christ also loved the church, and gave himself for it;"
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "1",
+  "verse": "25",
   "version": "kjv"
 }

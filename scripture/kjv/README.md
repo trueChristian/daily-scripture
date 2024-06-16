@@ -1,5 +1,5 @@
-**Ephesians 2:1**
+**Ephesians 5:25**
 
-1 And you hath he quickened, who were dead in trespasses and sins;
+25 Husbands, love your wives, even as Christ also loved the church, and gave himself for it;
 
-[Sunday 16-June, 2024](https://getbible.net/kjv/Ephesians/2/1)
+[Monday 17-June, 2024](https://getbible.net/kjv/Ephesians/5/25)
