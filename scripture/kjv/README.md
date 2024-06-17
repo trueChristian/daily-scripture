@@ -1,5 +1,5 @@
-**Ephesians 5:25**
+**Psalms 40:12-13**
 
-25 Husbands, love your wives, even as Christ also loved the church, and gave himself for it;
+12 For innumerable evils have compassed me about: mine iniquities have taken hold upon me, so that I am not able to look up; they are more than the hairs of mine head: therefore my heart faileth me. 13 Be pleased, O Lord, to deliver me: O Lord, make haste to help me.
 
-[Monday 17-June, 2024](https://getbible.net/kjv/Ephesians/5/25)
+[Tuesday 18-June, 2024](https://getbible.net/kjv/Psalms/40/12-13)
