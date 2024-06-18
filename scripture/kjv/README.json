@@ -1,21 +1,17 @@
 {
-  "book": "Psalms",
-  "chapter": "40",
-  "date": "Tuesday 18-June, 2024",
-  "getbible": "https://getbible.net/kjv/Psalms/40/12-13",
-  "name": "Psalms 40:12-13",
+  "book": "Isaiah",
+  "chapter": "1",
+  "date": "Wednesday 19-June, 2024",
+  "getbible": "https://getbible.net/kjv/Isaiah/1/13",
+  "name": "Isaiah 1:13",
   "scripture": [
     {
-      "nr": "12",
-      "text": "For innumerable evils have compassed me about: mine iniquities have taken hold upon me, so that I am not able to look up; they are more than the hairs of mine head: therefore my heart faileth me."
-    },
-    {
       "nr": "13",
-      "text": "Be pleased, O Lord, to deliver me: O Lord, make haste to help me."
+      "text": "Bring no more vain oblations; incense is an abomination unto me; the new moons and sabbaths, the calling of assemblies, I cannot away with; it is iniquity, even the solemn meeting."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "12-13",
+  "verse": "13",
   "version": "kjv"
 }
