@@ -1,17 +1,17 @@
 {
-  "book": "Isaiah",
-  "chapter": "1",
-  "date": "Wednesday 19-June, 2024",
-  "getbible": "https://getbible.net/kjv/Isaiah/1/13",
-  "name": "Isaiah 1:13",
+  "book": "Acts",
+  "chapter": "7",
+  "date": "Thursday 20-June, 2024",
+  "getbible": "https://getbible.net/kjv/Acts/7/60",
+  "name": "Acts 7:60",
   "scripture": [
     {
-      "nr": "13",
-      "text": "Bring no more vain oblations; incense is an abomination unto me; the new moons and sabbaths, the calling of assemblies, I cannot away with; it is iniquity, even the solemn meeting."
+      "nr": "60",
+      "text": "And he kneeled down, and cried with a loud voice, Lord, lay not this sin to their charge. And when he had said this, he fell asleep. "
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "13",
+  "verse": "60",
   "version": "kjv"
 }

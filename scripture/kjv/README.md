@@ -1,5 +1,5 @@
-**Isaiah 1:13**
+**Acts 7:60**
 
-13 Bring no more vain oblations; incense is an abomination unto me; the new moons and sabbaths, the calling of assemblies, I cannot away with; it is iniquity, even the solemn meeting.
+60 And he kneeled down, and cried with a loud voice, Lord, lay not this sin to their charge. And when he had said this, he fell asleep. 
 
-[Wednesday 19-June, 2024](https://getbible.net/kjv/Isaiah/1/13)
+[Thursday 20-June, 2024](https://getbible.net/kjv/Acts/7/60)
