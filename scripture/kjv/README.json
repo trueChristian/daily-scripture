@@ -1,17 +1,21 @@
 {
-  "book": "Acts",
-  "chapter": "7",
-  "date": "Thursday 20-June, 2024",
-  "getbible": "https://getbible.net/kjv/Acts/7/60",
-  "name": "Acts 7:60",
+  "book": "Ephesians",
+  "chapter": "6",
+  "date": "Friday 21-June, 2024",
+  "getbible": "https://getbible.net/kjv/Ephesians/6/19-20",
+  "name": "Ephesians 6:19-20",
   "scripture": [
     {
-      "nr": "60",
-      "text": "And he kneeled down, and cried with a loud voice, Lord, lay not this sin to their charge. And when he had said this, he fell asleep. "
+      "nr": "19",
+      "text": "And for me, that utterance may be given unto me, that I may open my mouth boldly, to make known the mystery of the gospel,"
+    },
+    {
+      "nr": "20",
+      "text": "For which I am an ambassador in bonds: that therein I may speak boldly, as I ought to speak."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "60",
+  "verse": "19-20",
   "version": "kjv"
 }
