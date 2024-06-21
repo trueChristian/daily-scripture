@@ -1,21 +1,17 @@
 {
-  "book": "Ephesians",
-  "chapter": "6",
-  "date": "Friday 21-June, 2024",
-  "getbible": "https://getbible.net/kjv/Ephesians/6/19-20",
-  "name": "Ephesians 6:19-20",
+  "book": "Hebrews",
+  "chapter": "12",
+  "date": "Saturday 22-June, 2024",
+  "getbible": "https://getbible.net/kjv/Hebrews/12/14",
+  "name": "Hebrews 12:14",
   "scripture": [
     {
-      "nr": "19",
-      "text": "And for me, that utterance may be given unto me, that I may open my mouth boldly, to make known the mystery of the gospel,"
-    },
-    {
-      "nr": "20",
-      "text": "For which I am an ambassador in bonds: that therein I may speak boldly, as I ought to speak."
+      "nr": "14",
+      "text": "Follow peace with all men, and holiness, without which no man shall see the Lord:"
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "19-20",
+  "verse": "14",
   "version": "kjv"
 }

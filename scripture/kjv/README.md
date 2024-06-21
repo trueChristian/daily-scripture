@@ -1,5 +1,5 @@
-**Ephesians 6:19-20**
+**Hebrews 12:14**
 
-19 And for me, that utterance may be given unto me, that I may open my mouth boldly, to make known the mystery of the gospel, 20 For which I am an ambassador in bonds: that therein I may speak boldly, as I ought to speak.
+14 Follow peace with all men, and holiness, without which no man shall see the Lord:
 
-[Friday 21-June, 2024](https://getbible.net/kjv/Ephesians/6/19-20)
+[Saturday 22-June, 2024](https://getbible.net/kjv/Hebrews/12/14)
