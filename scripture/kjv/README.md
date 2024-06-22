@@ -1,5 +1,5 @@
-**Hebrews 12:14**
+**John 12:42-43**
 
-14 Follow peace with all men, and holiness, without which no man shall see the Lord:
+42 Nevertheless among the chief rulers also many believed on him; but because of the Pharisees they did not confess him, lest they should be put out of the synagogue: 43 For they loved the praise of men more than the praise of God.
 
-[Saturday 22-June, 2024](https://getbible.net/kjv/Hebrews/12/14)
+[Sunday 23-June, 2024](https://getbible.net/kjv/John/12/42-43)
