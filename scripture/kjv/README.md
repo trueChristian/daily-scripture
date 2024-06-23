@@ -1,5 +1,5 @@
-**John 12:42-43**
+**John 3:16-17**
 
-42 Nevertheless among the chief rulers also many believed on him; but because of the Pharisees they did not confess him, lest they should be put out of the synagogue: 43 For they loved the praise of men more than the praise of God.
+16 For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life. 17 For God sent not his Son into the world to condemn the world; but that the world through him might be saved.
 
-[Sunday 23-June, 2024](https://getbible.net/kjv/John/12/42-43)
+[Monday 24-June, 2024](https://getbible.net/kjv/John/3/16-17)

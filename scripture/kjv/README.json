@@ -1,21 +1,21 @@
 {
   "book": "John",
-  "chapter": "12",
-  "date": "Sunday 23-June, 2024",
-  "getbible": "https://getbible.net/kjv/John/12/42-43",
-  "name": "John 12:42-43",
+  "chapter": "3",
+  "date": "Monday 24-June, 2024",
+  "getbible": "https://getbible.net/kjv/John/3/16-17",
+  "name": "John 3:16-17",
   "scripture": [
     {
-      "nr": "42",
-      "text": "Nevertheless among the chief rulers also many believed on him; but because of the Pharisees they did not confess him, lest they should be put out of the synagogue:"
+      "nr": "16",
+      "text": "For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life."
     },
     {
-      "nr": "43",
-      "text": "For they loved the praise of men more than the praise of God."
+      "nr": "17",
+      "text": "For God sent not his Son into the world to condemn the world; but that the world through him might be saved."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "42-43",
+  "verse": "16-17",
   "version": "kjv"
 }
