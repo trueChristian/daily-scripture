@@ -1,5 +1,5 @@
-**John 3:16-17**
+**Matthew 9:21-22**
 
-16 For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life. 17 For God sent not his Son into the world to condemn the world; but that the world through him might be saved.
+21 For she said within herself, If I may but touch his garment, I shall be whole. 22 But Jesus turned him about, and when he saw her, he said, Daughter, be of good comfort; thy faith hath made thee whole. And the woman was made whole from that hour.
 
-[Monday 24-June, 2024](https://getbible.net/kjv/John/3/16-17)
+[Tuesday 25-June, 2024](https://getbible.net/kjv/Matthew/9/21-22)
