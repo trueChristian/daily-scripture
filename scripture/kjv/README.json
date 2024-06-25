@@ -1,21 +1,17 @@
 {
-  "book": "Matthew",
-  "chapter": "9",
-  "date": "Tuesday 25-June, 2024",
-  "getbible": "https://getbible.net/kjv/Matthew/9/21-22",
-  "name": "Matthew 9:21-22",
+  "book": "1 John",
+  "chapter": "3",
+  "date": "Wednesday 26-June, 2024",
+  "getbible": "https://getbible.net/kjv/1 John/3/22",
+  "name": "1 John 3:22",
   "scripture": [
     {
-      "nr": "21",
-      "text": "For she said within herself, If I may but touch his garment, I shall be whole."
-    },
-    {
       "nr": "22",
-      "text": "But Jesus turned him about, and when he saw her, he said, Daughter, be of good comfort; thy faith hath made thee whole. And the woman was made whole from that hour."
+      "text": "And whatsoever we ask, we receive of him, because we keep his commandments, and do those things that are pleasing in his sight."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "21-22",
+  "verse": "22",
   "version": "kjv"
 }

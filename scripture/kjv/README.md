@@ -1,5 +1,5 @@
-**Matthew 9:21-22**
+**1 John 3:22**
 
-21 For she said within herself, If I may but touch his garment, I shall be whole. 22 But Jesus turned him about, and when he saw her, he said, Daughter, be of good comfort; thy faith hath made thee whole. And the woman was made whole from that hour.
+22 And whatsoever we ask, we receive of him, because we keep his commandments, and do those things that are pleasing in his sight.
 
-[Tuesday 25-June, 2024](https://getbible.net/kjv/Matthew/9/21-22)
+[Wednesday 26-June, 2024](https://getbible.net/kjv/1 John/3/22)
