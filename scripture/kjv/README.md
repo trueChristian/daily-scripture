@@ -1,5 +1,5 @@
-**1 John 3:22**
+**1 John 4:12**
 
-22 And whatsoever we ask, we receive of him, because we keep his commandments, and do those things that are pleasing in his sight.
+12 No man hath seen God at any time. If we love one another, God dwelleth in us, and his love is perfected in us.
 
-[Wednesday 26-June, 2024](https://getbible.net/kjv/1 John/3/22)
+[Thursday 27-June, 2024](https://getbible.net/kjv/1 John/4/12)

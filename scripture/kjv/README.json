@@ -1,17 +1,17 @@
 {
   "book": "1 John",
-  "chapter": "3",
-  "date": "Wednesday 26-June, 2024",
-  "getbible": "https://getbible.net/kjv/1 John/3/22",
-  "name": "1 John 3:22",
+  "chapter": "4",
+  "date": "Thursday 27-June, 2024",
+  "getbible": "https://getbible.net/kjv/1 John/4/12",
+  "name": "1 John 4:12",
   "scripture": [
     {
-      "nr": "22",
-      "text": "And whatsoever we ask, we receive of him, because we keep his commandments, and do those things that are pleasing in his sight."
+      "nr": "12",
+      "text": "No man hath seen God at any time. If we love one another, God dwelleth in us, and his love is perfected in us."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "22",
+  "verse": "12",
   "version": "kjv"
 }
