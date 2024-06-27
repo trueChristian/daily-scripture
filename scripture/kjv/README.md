@@ -1,5 +1,5 @@
-**1 John 4:12**
+**Jude 1:2**
 
-12 No man hath seen God at any time. If we love one another, God dwelleth in us, and his love is perfected in us.
+2 Mercy unto you, and peace, and love, be multiplied.
 
-[Thursday 27-June, 2024](https://getbible.net/kjv/1 John/4/12)
+[Friday 28-June, 2024](https://getbible.net/kjv/Jude/1/2)
