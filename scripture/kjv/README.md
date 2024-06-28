@@ -1,5 +1,5 @@
-**Jude 1:2**
+**Romans 7:17**
 
-2 Mercy unto you, and peace, and love, be multiplied.
+17 Now then it is no more I that do it, but sin that dwelleth in me.
 
-[Friday 28-June, 2024](https://getbible.net/kjv/Jude/1/2)
+[Saturday 29-June, 2024](https://getbible.net/kjv/Romans/7/17)

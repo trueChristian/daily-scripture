@@ -1,17 +1,17 @@
 {
-  "book": "Jude",
-  "chapter": "1",
-  "date": "Friday 28-June, 2024",
-  "getbible": "https://getbible.net/kjv/Jude/1/2",
-  "name": "Jude 1:2",
+  "book": "Romans",
+  "chapter": "7",
+  "date": "Saturday 29-June, 2024",
+  "getbible": "https://getbible.net/kjv/Romans/7/17",
+  "name": "Romans 7:17",
   "scripture": [
     {
-      "nr": "2",
-      "text": "Mercy unto you, and peace, and love, be multiplied."
+      "nr": "17",
+      "text": "Now then it is no more I that do it, but sin that dwelleth in me."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "2",
+  "verse": "17",
   "version": "kjv"
 }
