@@ -1,5 +1,5 @@
-**Romans 7:17**
+**Psalms 68:16**
 
-17 Now then it is no more I that do it, but sin that dwelleth in me.
+16 Why leap ye, ye high hills? this is the hill which God desireth to dwell in; yea, the Lord will dwell in it for ever.
 
-[Saturday 29-June, 2024](https://getbible.net/kjv/Romans/7/17)
+[Sunday 30-June, 2024](https://getbible.net/kjv/Psalms/68/16)
