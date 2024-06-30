@@ -1,5 +1,5 @@
-**Psalms 68:16**
+**Psalms 110:7**
 
-16 Why leap ye, ye high hills? this is the hill which God desireth to dwell in; yea, the Lord will dwell in it for ever.
+7 He shall drink of the brook in the way: therefore shall he lift up the head. 
 
-[Sunday 30-June, 2024](https://getbible.net/kjv/Psalms/68/16)
+[Monday 01-July, 2024](https://getbible.net/kjv/Psalms/110/7)

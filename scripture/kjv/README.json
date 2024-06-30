@@ -1,17 +1,17 @@
 {
   "book": "Psalms",
-  "chapter": "68",
-  "date": "Sunday 30-June, 2024",
-  "getbible": "https://getbible.net/kjv/Psalms/68/16",
-  "name": "Psalms 68:16",
+  "chapter": "110",
+  "date": "Monday 01-July, 2024",
+  "getbible": "https://getbible.net/kjv/Psalms/110/7",
+  "name": "Psalms 110:7",
   "scripture": [
     {
-      "nr": "16",
-      "text": "Why leap ye, ye high hills? this is the hill which God desireth to dwell in; yea, the Lord will dwell in it for ever."
+      "nr": "7",
+      "text": "He shall drink of the brook in the way: therefore shall he lift up the head. "
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "16",
+  "verse": "7",
   "version": "kjv"
 }
