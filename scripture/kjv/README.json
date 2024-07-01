@@ -1,17 +1,21 @@
 {
-  "book": "Psalms",
-  "chapter": "110",
-  "date": "Monday 01-July, 2024",
-  "getbible": "https://getbible.net/kjv/Psalms/110/7",
-  "name": "Psalms 110:7",
+  "book": "Job",
+  "chapter": "34",
+  "date": "Tuesday 02-July, 2024",
+  "getbible": "https://getbible.net/kjv/Job/34/11-12",
+  "name": "Job 34:11-12",
   "scripture": [
     {
-      "nr": "7",
-      "text": "He shall drink of the brook in the way: therefore shall he lift up the head. "
+      "nr": "11",
+      "text": "For the work of a man shall he render unto him, and cause every man to find according to his ways."
+    },
+    {
+      "nr": "12",
+      "text": "Yea, surely God will not do wickedly, neither will the Almighty pervert judgment."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "7",
+  "verse": "11-12",
   "version": "kjv"
 }
