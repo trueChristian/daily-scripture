@@ -1,5 +1,5 @@
-**Job 34:11-12**
+**Psalms 119:9**
 
-11 For the work of a man shall he render unto him, and cause every man to find according to his ways. 12 Yea, surely God will not do wickedly, neither will the Almighty pervert judgment.
+9  Wherewithal shall a young man cleanse his way? by taking heed thereto according to thy word.
 
-[Tuesday 02-July, 2024](https://getbible.net/kjv/Job/34/11-12)
+[Wednesday 03-July, 2024](https://getbible.net/kjv/Psalms/119/9)
