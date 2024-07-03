@@ -1,17 +1,33 @@
 {
-  "book": "Psalms",
-  "chapter": "119",
-  "date": "Wednesday 03-July, 2024",
-  "getbible": "https://getbible.net/kjv/Psalms/119/9",
-  "name": "Psalms 119:9",
+  "book": "Deuteronomy",
+  "chapter": "33",
+  "date": "Thursday 04-July, 2024",
+  "getbible": "https://getbible.net/kjv/Deuteronomy/33/25-29",
+  "name": "Deuteronomy 33:25-29",
   "scripture": [
     {
-      "nr": "9",
-      "text": " Wherewithal shall a young man cleanse his way? by taking heed thereto according to thy word."
+      "nr": "25",
+      "text": "Thy shoes shall be iron and brass; and as thy days, so shall thy strength be."
+    },
+    {
+      "nr": "26",
+      "text": "There is none like unto the God of Jeshurun, who rideth upon the heaven in thy help, and in his excellency on the sky."
+    },
+    {
+      "nr": "27",
+      "text": "The eternal God is thy refuge, and underneath are the everlasting arms: and he shall thrust out the enemy from before thee; and shall say, Destroy them."
+    },
+    {
+      "nr": "28",
+      "text": "Israel then shall dwell in safety alone: the fountain of Jacob shall be upon a land of corn and wine; also his heavens shall drop down dew."
+    },
+    {
+      "nr": "29",
+      "text": "Happy art thou, O Israel: who is like unto thee, O people saved by the Lord, the shield of thy help, and who is the sword of thy excellency! and thine enemies shall be found liars unto thee; and thou shalt tread upon their high places. "
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "9",
+  "verse": "25-29",
   "version": "kjv"
 }
