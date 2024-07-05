@@ -1,29 +1,17 @@
 {
-  "book": "Ephesians",
-  "chapter": "6",
-  "date": "Friday 05-July, 2024",
-  "getbible": "https://getbible.net/kjv/Ephesians/6/5-8",
-  "name": "Ephesians 6:5-8",
+  "book": "1 Corinthians",
+  "chapter": "15",
+  "date": "Saturday 06-July, 2024",
+  "getbible": "https://getbible.net/kjv/1 Corinthians/15/10",
+  "name": "1 Corinthians 15:10",
   "scripture": [
     {
-      "nr": "5",
-      "text": "Servants, be obedient to them that are your masters according to the flesh, with fear and trembling, in singleness of your heart, as unto Christ;"
-    },
-    {
-      "nr": "6",
-      "text": "Not with eyeservice, as menpleasers; but as the servants of Christ, doing the will of God from the heart;"
-    },
-    {
-      "nr": "7",
-      "text": "With good will doing service, as to the Lord, and not to men:"
-    },
-    {
-      "nr": "8",
-      "text": "Knowing that whatsoever good thing any man doeth, the same shall he receive of the Lord, whether he be bond or free."
+      "nr": "10",
+      "text": "But by the grace of God I am what I am: and his grace which was bestowed upon me was not in vain; but I laboured more abundantly than they all: yet not I, but the grace of God which was with me."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "5-8",
+  "verse": "10",
   "version": "kjv"
 }

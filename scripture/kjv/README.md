@@ -1,5 +1,5 @@
-**Ephesians 6:5-8**
+**1 Corinthians 15:10**
 
-5 Servants, be obedient to them that are your masters according to the flesh, with fear and trembling, in singleness of your heart, as unto Christ; 6 Not with eyeservice, as menpleasers; but as the servants of Christ, doing the will of God from the heart; 7 With good will doing service, as to the Lord, and not to men: 8 Knowing that whatsoever good thing any man doeth, the same shall he receive of the Lord, whether he be bond or free.
+10 But by the grace of God I am what I am: and his grace which was bestowed upon me was not in vain; but I laboured more abundantly than they all: yet not I, but the grace of God which was with me.
 
-[Friday 05-July, 2024](https://getbible.net/kjv/Ephesians/6/5-8)
+[Saturday 06-July, 2024](https://getbible.net/kjv/1 Corinthians/15/10)
