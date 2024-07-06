@@ -1,17 +1,17 @@
 {
-  "book": "1 Corinthians",
-  "chapter": "15",
-  "date": "Saturday 06-July, 2024",
-  "getbible": "https://getbible.net/kjv/1 Corinthians/15/10",
-  "name": "1 Corinthians 15:10",
+  "book": "Psalms",
+  "chapter": "68",
+  "date": "Sunday 07-July, 2024",
+  "getbible": "https://getbible.net/kjv/Psalms/68/20",
+  "name": "Psalms 68:20",
   "scripture": [
     {
-      "nr": "10",
-      "text": "But by the grace of God I am what I am: and his grace which was bestowed upon me was not in vain; but I laboured more abundantly than they all: yet not I, but the grace of God which was with me."
+      "nr": "20",
+      "text": "He that is our God is the God of salvation; and unto God the Lord belong the issues from death."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "10",
+  "verse": "20",
   "version": "kjv"
 }

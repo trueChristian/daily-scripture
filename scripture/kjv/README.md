@@ -1,5 +1,5 @@
-**1 Corinthians 15:10**
+**Psalms 68:20**
 
-10 But by the grace of God I am what I am: and his grace which was bestowed upon me was not in vain; but I laboured more abundantly than they all: yet not I, but the grace of God which was with me.
+20 He that is our God is the God of salvation; and unto God the Lord belong the issues from death.
 
-[Saturday 06-July, 2024](https://getbible.net/kjv/1 Corinthians/15/10)
+[Sunday 07-July, 2024](https://getbible.net/kjv/Psalms/68/20)
