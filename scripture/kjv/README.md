@@ -1,5 +1,5 @@
-**Psalms 68:20**
+**Proverbs 19:20**
 
-20 He that is our God is the God of salvation; and unto God the Lord belong the issues from death.
+20 Hear counsel, and receive instruction, that thou mayest be wise in thy latter end.
 
-[Sunday 07-July, 2024](https://getbible.net/kjv/Psalms/68/20)
+[Monday 08-July, 2024](https://getbible.net/kjv/Proverbs/19/20)
