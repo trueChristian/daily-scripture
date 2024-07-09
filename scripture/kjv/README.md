@@ -1,5 +1,5 @@
-**Ezekiel 33:30-33**
+**Psalms 103:2-3**
 
-30 Also, thou son of man, the children of thy people still are talking against thee by the walls and in the doors of the houses, and speak one to another, every one to his brother, saying, Come, I pray you, and hear what is the word that cometh forth from the Lord. 31 And they come unto thee as the people cometh, and they sit before thee as my people, and they hear thy words, but they will not do them: for with their mouth they shew much love, but their heart goeth after their covetousness. 32 And, lo, thou art unto them as a very lovely song of one that hath a pleasant voice, and can play well on an instrument: for they hear thy words, but they do them not. 33 And when this cometh to pass, (lo, it will come,) then shall they know that a prophet hath been among them. 
+2 Bless the Lord, O my soul, and forget not all his benefits: 3 Who forgiveth all thine iniquities; who healeth all thy diseases;
 
-[Tuesday 09-July, 2024](https://getbible.net/kjv/Ezekiel/33/30-33)
+[Wednesday 10-July, 2024](https://getbible.net/kjv/Psalms/103/2-3)

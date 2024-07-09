@@ -1,29 +1,21 @@
 {
-  "book": "Ezekiel",
-  "chapter": "33",
-  "date": "Tuesday 09-July, 2024",
-  "getbible": "https://getbible.net/kjv/Ezekiel/33/30-33",
-  "name": "Ezekiel 33:30-33",
+  "book": "Psalms",
+  "chapter": "103",
+  "date": "Wednesday 10-July, 2024",
+  "getbible": "https://getbible.net/kjv/Psalms/103/2-3",
+  "name": "Psalms 103:2-3",
   "scripture": [
     {
-      "nr": "30",
-      "text": "Also, thou son of man, the children of thy people still are talking against thee by the walls and in the doors of the houses, and speak one to another, every one to his brother, saying, Come, I pray you, and hear what is the word that cometh forth from the Lord."
+      "nr": "2",
+      "text": "Bless the Lord, O my soul, and forget not all his benefits:"
     },
     {
-      "nr": "31",
-      "text": "And they come unto thee as the people cometh, and they sit before thee as my people, and they hear thy words, but they will not do them: for with their mouth they shew much love, but their heart goeth after their covetousness."
-    },
-    {
-      "nr": "32",
-      "text": "And, lo, thou art unto them as a very lovely song of one that hath a pleasant voice, and can play well on an instrument: for they hear thy words, but they do them not."
-    },
-    {
-      "nr": "33",
-      "text": "And when this cometh to pass, (lo, it will come,) then shall they know that a prophet hath been among them. "
+      "nr": "3",
+      "text": "Who forgiveth all thine iniquities; who healeth all thy diseases;"
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "30-33",
+  "verse": "2-3",
   "version": "kjv"
 }
