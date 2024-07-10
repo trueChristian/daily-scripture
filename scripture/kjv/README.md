@@ -1,5 +1,5 @@
-**Psalms 103:2-3**
+**Proverbs 27:15**
 
-2 Bless the Lord, O my soul, and forget not all his benefits: 3 Who forgiveth all thine iniquities; who healeth all thy diseases;
+15 A continual dropping in a very rainy day and a contentious woman are alike.
 
-[Wednesday 10-July, 2024](https://getbible.net/kjv/Psalms/103/2-3)
+[Thursday 11-July, 2024](https://getbible.net/kjv/Proverbs/27/15)

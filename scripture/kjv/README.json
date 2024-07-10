@@ -1,21 +1,17 @@
 {
-  "book": "Psalms",
-  "chapter": "103",
-  "date": "Wednesday 10-July, 2024",
-  "getbible": "https://getbible.net/kjv/Psalms/103/2-3",
-  "name": "Psalms 103:2-3",
+  "book": "Proverbs",
+  "chapter": "27",
+  "date": "Thursday 11-July, 2024",
+  "getbible": "https://getbible.net/kjv/Proverbs/27/15",
+  "name": "Proverbs 27:15",
   "scripture": [
     {
-      "nr": "2",
-      "text": "Bless the Lord, O my soul, and forget not all his benefits:"
-    },
-    {
-      "nr": "3",
-      "text": "Who forgiveth all thine iniquities; who healeth all thy diseases;"
+      "nr": "15",
+      "text": "A continual dropping in a very rainy day and a contentious woman are alike."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "2-3",
+  "verse": "15",
   "version": "kjv"
 }
