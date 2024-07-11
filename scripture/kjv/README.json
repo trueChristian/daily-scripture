@@ -1,17 +1,21 @@
 {
-  "book": "Proverbs",
-  "chapter": "27",
-  "date": "Thursday 11-July, 2024",
-  "getbible": "https://getbible.net/kjv/Proverbs/27/15",
-  "name": "Proverbs 27:15",
+  "book": "Psalms",
+  "chapter": "52",
+  "date": "Friday 12-July, 2024",
+  "getbible": "https://getbible.net/kjv/Psalms/52/8-9",
+  "name": "Psalms 52:8-9",
   "scripture": [
     {
-      "nr": "15",
-      "text": "A continual dropping in a very rainy day and a contentious woman are alike."
+      "nr": "8",
+      "text": "But I am like a green olive tree in the house of God: I trust in the mercy of God for ever and ever."
+    },
+    {
+      "nr": "9",
+      "text": "I will praise thee for ever, because thou hast done it: and I will wait on thy name; for it is good before thy saints. "
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "15",
+  "verse": "8-9",
   "version": "kjv"
 }
