@@ -1,21 +1,17 @@
 {
   "book": "Psalms",
-  "chapter": "52",
-  "date": "Friday 12-July, 2024",
-  "getbible": "https://getbible.net/kjv/Psalms/52/8-9",
-  "name": "Psalms 52:8-9",
+  "chapter": "94",
+  "date": "Saturday 13-July, 2024",
+  "getbible": "https://getbible.net/kjv/Psalms/94/11",
+  "name": "Psalms 94:11",
   "scripture": [
     {
-      "nr": "8",
-      "text": "But I am like a green olive tree in the house of God: I trust in the mercy of God for ever and ever."
-    },
-    {
-      "nr": "9",
-      "text": "I will praise thee for ever, because thou hast done it: and I will wait on thy name; for it is good before thy saints. "
+      "nr": "11",
+      "text": "The Lord knoweth the thoughts of man, that they are vanity."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "8-9",
+  "verse": "11",
   "version": "kjv"
 }
