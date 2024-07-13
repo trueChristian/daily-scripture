@@ -1,17 +1,17 @@
 {
-  "book": "Psalms",
-  "chapter": "94",
-  "date": "Saturday 13-July, 2024",
-  "getbible": "https://getbible.net/kjv/Psalms/94/11",
-  "name": "Psalms 94:11",
+  "book": "Jonah",
+  "chapter": "2",
+  "date": "Sunday 14-July, 2024",
+  "getbible": "https://getbible.net/kjv/Jonah/2/7",
+  "name": "Jonah 2:7",
   "scripture": [
     {
-      "nr": "11",
-      "text": "The Lord knoweth the thoughts of man, that they are vanity."
+      "nr": "7",
+      "text": "When my soul fainted within me I remembered the Lord: and my prayer came in unto thee, into thine holy temple."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "11",
+  "verse": "7",
   "version": "kjv"
 }

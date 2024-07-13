@@ -1,5 +1,5 @@
-**Psalms 94:11**
+**Jonah 2:7**
 
-11 The Lord knoweth the thoughts of man, that they are vanity.
+7 When my soul fainted within me I remembered the Lord: and my prayer came in unto thee, into thine holy temple.
 
-[Saturday 13-July, 2024](https://getbible.net/kjv/Psalms/94/11)
+[Sunday 14-July, 2024](https://getbible.net/kjv/Jonah/2/7)
