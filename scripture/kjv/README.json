@@ -1,17 +1,17 @@
 {
-  "book": "Jonah",
-  "chapter": "2",
-  "date": "Sunday 14-July, 2024",
-  "getbible": "https://getbible.net/kjv/Jonah/2/7",
-  "name": "Jonah 2:7",
+  "book": "Leviticus",
+  "chapter": "19",
+  "date": "Monday 15-July, 2024",
+  "getbible": "https://getbible.net/kjv/Leviticus/19/19",
+  "name": "Leviticus 19:19",
   "scripture": [
     {
-      "nr": "7",
-      "text": "When my soul fainted within me I remembered the Lord: and my prayer came in unto thee, into thine holy temple."
+      "nr": "19",
+      "text": "Ye shall keep my statutes. Thou shalt not let thy cattle gender with a diverse kind: thou shalt not sow thy field with mingled seed: neither shall a garment mingled of linen and woollen come upon thee."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "7",
+  "verse": "19",
   "version": "kjv"
 }
