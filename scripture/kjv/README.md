@@ -1,5 +1,5 @@
-**Leviticus 19:19**
+**Revelation 3:6**
 
-19 Ye shall keep my statutes. Thou shalt not let thy cattle gender with a diverse kind: thou shalt not sow thy field with mingled seed: neither shall a garment mingled of linen and woollen come upon thee.
+6 He that hath an ear, let him hear what the Spirit saith unto the churches.
 
-[Monday 15-July, 2024](https://getbible.net/kjv/Leviticus/19/19)
+[Tuesday 16-July, 2024](https://getbible.net/kjv/Revelation/3/6)

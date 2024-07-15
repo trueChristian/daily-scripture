@@ -1,17 +1,17 @@
 {
-  "book": "Leviticus",
-  "chapter": "19",
-  "date": "Monday 15-July, 2024",
-  "getbible": "https://getbible.net/kjv/Leviticus/19/19",
-  "name": "Leviticus 19:19",
+  "book": "Revelation",
+  "chapter": "3",
+  "date": "Tuesday 16-July, 2024",
+  "getbible": "https://getbible.net/kjv/Revelation/3/6",
+  "name": "Revelation 3:6",
   "scripture": [
     {
-      "nr": "19",
-      "text": "Ye shall keep my statutes. Thou shalt not let thy cattle gender with a diverse kind: thou shalt not sow thy field with mingled seed: neither shall a garment mingled of linen and woollen come upon thee."
+      "nr": "6",
+      "text": "He that hath an ear, let him hear what the Spirit saith unto the churches."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "19",
+  "verse": "6",
   "version": "kjv"
 }
