@@ -1,5 +1,5 @@
-**Revelation 3:6**
+**Jeremiah 29:11**
 
-6 He that hath an ear, let him hear what the Spirit saith unto the churches.
+11 For I know the thoughts that I think toward you, saith the Lord, thoughts of peace, and not of evil, to give you an expected end.
 
-[Tuesday 16-July, 2024](https://getbible.net/kjv/Revelation/3/6)
+[Wednesday 17-July, 2024](https://getbible.net/kjv/Jeremiah/29/11)

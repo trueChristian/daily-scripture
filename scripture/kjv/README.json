@@ -1,17 +1,17 @@
 {
-  "book": "Revelation",
-  "chapter": "3",
-  "date": "Tuesday 16-July, 2024",
-  "getbible": "https://getbible.net/kjv/Revelation/3/6",
-  "name": "Revelation 3:6",
+  "book": "Jeremiah",
+  "chapter": "29",
+  "date": "Wednesday 17-July, 2024",
+  "getbible": "https://getbible.net/kjv/Jeremiah/29/11",
+  "name": "Jeremiah 29:11",
   "scripture": [
     {
-      "nr": "6",
-      "text": "He that hath an ear, let him hear what the Spirit saith unto the churches."
+      "nr": "11",
+      "text": "For I know the thoughts that I think toward you, saith the Lord, thoughts of peace, and not of evil, to give you an expected end."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "6",
+  "verse": "11",
   "version": "kjv"
 }
