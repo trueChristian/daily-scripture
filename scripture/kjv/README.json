@@ -1,17 +1,21 @@
 {
-  "book": "Jeremiah",
-  "chapter": "29",
-  "date": "Wednesday 17-July, 2024",
-  "getbible": "https://getbible.net/kjv/Jeremiah/29/11",
-  "name": "Jeremiah 29:11",
+  "book": "Ephesians",
+  "chapter": "5",
+  "date": "Thursday 18-July, 2024",
+  "getbible": "https://getbible.net/kjv/Ephesians/5/1-2",
+  "name": "Ephesians 5:1-2",
   "scripture": [
     {
-      "nr": "11",
-      "text": "For I know the thoughts that I think toward you, saith the Lord, thoughts of peace, and not of evil, to give you an expected end."
+      "nr": "1",
+      "text": "Be ye therefore followers of God, as dear children;"
+    },
+    {
+      "nr": "2",
+      "text": "And walk in love, as Christ also hath loved us, and hath given himself for us an offering and a sacrifice to God for a sweetsmelling savour."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "11",
+  "verse": "1-2",
   "version": "kjv"
 }

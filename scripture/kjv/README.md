@@ -1,5 +1,5 @@
-**Jeremiah 29:11**
+**Ephesians 5:1-2**
 
-11 For I know the thoughts that I think toward you, saith the Lord, thoughts of peace, and not of evil, to give you an expected end.
+1 Be ye therefore followers of God, as dear children; 2 And walk in love, as Christ also hath loved us, and hath given himself for us an offering and a sacrifice to God for a sweetsmelling savour.
 
-[Wednesday 17-July, 2024](https://getbible.net/kjv/Jeremiah/29/11)
+[Thursday 18-July, 2024](https://getbible.net/kjv/Ephesians/5/1-2)
