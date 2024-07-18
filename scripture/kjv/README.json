@@ -1,21 +1,21 @@
 {
-  "book": "Ephesians",
-  "chapter": "5",
-  "date": "Thursday 18-July, 2024",
-  "getbible": "https://getbible.net/kjv/Ephesians/5/1-2",
-  "name": "Ephesians 5:1-2",
+  "book": "Revelation",
+  "chapter": "14",
+  "date": "Friday 19-July, 2024",
+  "getbible": "https://getbible.net/kjv/Revelation/14/11-12",
+  "name": "Revelation 14:11-12",
   "scripture": [
     {
-      "nr": "1",
-      "text": "Be ye therefore followers of God, as dear children;"
+      "nr": "11",
+      "text": "And the smoke of their torment ascendeth up for ever and ever: and they have no rest day nor night, who worship the beast and his image, and whosoever receiveth the mark of his name."
     },
     {
-      "nr": "2",
-      "text": "And walk in love, as Christ also hath loved us, and hath given himself for us an offering and a sacrifice to God for a sweetsmelling savour."
+      "nr": "12",
+      "text": "Here is the patience of the saints: here are they that keep the commandments of God, and the faith of Jesus."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "1-2",
+  "verse": "11-12",
   "version": "kjv"
 }
