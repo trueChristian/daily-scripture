@@ -1,5 +1,5 @@
-**Revelation 14:11-12**
+**Song of Songs 8:6**
 
-11 And the smoke of their torment ascendeth up for ever and ever: and they have no rest day nor night, who worship the beast and his image, and whosoever receiveth the mark of his name. 12 Here is the patience of the saints: here are they that keep the commandments of God, and the faith of Jesus.
+6 Set me as a seal upon thine heart, as a seal upon thine arm: for love is strong as death; jealousy is cruel as the grave: the coals thereof are coals of fire, which hath a most vehement flame.
 
-[Friday 19-July, 2024](https://getbible.net/kjv/Revelation/14/11-12)
+[Saturday 20-July, 2024](https://getbible.net/kjv/Song of Songs/8/6)
