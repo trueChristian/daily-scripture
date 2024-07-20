@@ -1,5 +1,5 @@
-**Song of Songs 8:6**
+**Zechariah 1:14**
 
-6 Set me as a seal upon thine heart, as a seal upon thine arm: for love is strong as death; jealousy is cruel as the grave: the coals thereof are coals of fire, which hath a most vehement flame.
+14 So the angel that communed with me said unto me, Cry thou, saying, Thus saith the Lord of hosts; I am jealous for Jerusalem and for Zion with a great jealousy.
 
-[Saturday 20-July, 2024](https://getbible.net/kjv/Song of Songs/8/6)
+[Sunday 21-July, 2024](https://getbible.net/kjv/Zechariah/1/14)
