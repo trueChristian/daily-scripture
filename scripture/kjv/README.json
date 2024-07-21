@@ -1,17 +1,17 @@
 {
-  "book": "Zechariah",
-  "chapter": "1",
-  "date": "Sunday 21-July, 2024",
-  "getbible": "https://getbible.net/kjv/Zechariah/1/14",
-  "name": "Zechariah 1:14",
+  "book": "Matthew",
+  "chapter": "5",
+  "date": "Monday 22-July, 2024",
+  "getbible": "https://getbible.net/kjv/Matthew/5/9",
+  "name": "Matthew 5:9",
   "scripture": [
     {
-      "nr": "14",
-      "text": "So the angel that communed with me said unto me, Cry thou, saying, Thus saith the Lord of hosts; I am jealous for Jerusalem and for Zion with a great jealousy."
+      "nr": "9",
+      "text": "Blessed are the peacemakers: for they shall be called the children of God."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "14",
+  "verse": "9",
   "version": "kjv"
 }
