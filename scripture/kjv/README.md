@@ -1,5 +1,5 @@
-**Matthew 5:9**
+**2 Corinthians 2:9**
 
-9 Blessed are the peacemakers: for they shall be called the children of God.
+9 For to this end also did I write, that I might know the proof of you, whether ye be obedient in all things.
 
-[Monday 22-July, 2024](https://getbible.net/kjv/Matthew/5/9)
+[Tuesday 23-July, 2024](https://getbible.net/kjv/2 Corinthians/2/9)
