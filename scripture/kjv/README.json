@@ -1,17 +1,17 @@
 {
-  "book": "2 Corinthians",
-  "chapter": "2",
-  "date": "Tuesday 23-July, 2024",
-  "getbible": "https://getbible.net/kjv/2 Corinthians/2/9",
-  "name": "2 Corinthians 2:9",
+  "book": "John",
+  "chapter": "21",
+  "date": "Wednesday 24-July, 2024",
+  "getbible": "https://getbible.net/kjv/John/21/16",
+  "name": "John 21:16",
   "scripture": [
     {
-      "nr": "9",
-      "text": "For to this end also did I write, that I might know the proof of you, whether ye be obedient in all things."
+      "nr": "16",
+      "text": "He saith to him again the second time, Simon, son of Jonas, lovest thou me? He saith unto him, Yea, Lord; thou knowest that I love thee. He saith unto him, Feed my sheep."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "9",
+  "verse": "16",
   "version": "kjv"
 }

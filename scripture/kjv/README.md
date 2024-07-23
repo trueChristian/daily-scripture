@@ -1,5 +1,5 @@
-**2 Corinthians 2:9**
+**John 21:16**
 
-9 For to this end also did I write, that I might know the proof of you, whether ye be obedient in all things.
+16 He saith to him again the second time, Simon, son of Jonas, lovest thou me? He saith unto him, Yea, Lord; thou knowest that I love thee. He saith unto him, Feed my sheep.
 
-[Tuesday 23-July, 2024](https://getbible.net/kjv/2 Corinthians/2/9)
+[Wednesday 24-July, 2024](https://getbible.net/kjv/John/21/16)
