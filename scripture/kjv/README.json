@@ -1,17 +1,17 @@
 {
-  "book": "John",
-  "chapter": "21",
-  "date": "Wednesday 24-July, 2024",
-  "getbible": "https://getbible.net/kjv/John/21/16",
-  "name": "John 21:16",
+  "book": "Luke",
+  "chapter": "12",
+  "date": "Thursday 25-July, 2024",
+  "getbible": "https://getbible.net/kjv/Luke/12/32",
+  "name": "Luke 12:32",
   "scripture": [
     {
-      "nr": "16",
-      "text": "He saith to him again the second time, Simon, son of Jonas, lovest thou me? He saith unto him, Yea, Lord; thou knowest that I love thee. He saith unto him, Feed my sheep."
+      "nr": "32",
+      "text": "Fear not, little flock; for it is your Father’s good pleasure to give you the kingdom."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "16",
+  "verse": "32",
   "version": "kjv"
 }

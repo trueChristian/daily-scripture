@@ -1,5 +1,5 @@
-**John 21:16**
+**Luke 12:32**
 
-16 He saith to him again the second time, Simon, son of Jonas, lovest thou me? He saith unto him, Yea, Lord; thou knowest that I love thee. He saith unto him, Feed my sheep.
+32 Fear not, little flock; for it is your Father’s good pleasure to give you the kingdom.
 
-[Wednesday 24-July, 2024](https://getbible.net/kjv/John/21/16)
+[Thursday 25-July, 2024](https://getbible.net/kjv/Luke/12/32)
