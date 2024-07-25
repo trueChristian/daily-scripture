@@ -1,17 +1,17 @@
 {
   "book": "Luke",
-  "chapter": "12",
-  "date": "Thursday 25-July, 2024",
-  "getbible": "https://getbible.net/kjv/Luke/12/32",
-  "name": "Luke 12:32",
+  "chapter": "8",
+  "date": "Friday 26-July, 2024",
+  "getbible": "https://getbible.net/kjv/Luke/8/39",
+  "name": "Luke 8:39",
   "scripture": [
     {
-      "nr": "32",
-      "text": "Fear not, little flock; for it is your Father’s good pleasure to give you the kingdom."
+      "nr": "39",
+      "text": "Return to thine own house, and shew how great things God hath done unto thee. And he went his way, and published throughout the whole city how great things Jesus had done unto him."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "32",
+  "verse": "39",
   "version": "kjv"
 }

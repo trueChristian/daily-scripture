@@ -1,5 +1,5 @@
-**Luke 12:32**
+**Luke 8:39**
 
-32 Fear not, little flock; for it is your Father’s good pleasure to give you the kingdom.
+39 Return to thine own house, and shew how great things God hath done unto thee. And he went his way, and published throughout the whole city how great things Jesus had done unto him.
 
-[Thursday 25-July, 2024](https://getbible.net/kjv/Luke/12/32)
+[Friday 26-July, 2024](https://getbible.net/kjv/Luke/8/39)
