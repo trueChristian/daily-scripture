@@ -1,5 +1,5 @@
-**Luke 8:39**
+**Jeremiah 4:3**
 
-39 Return to thine own house, and shew how great things God hath done unto thee. And he went his way, and published throughout the whole city how great things Jesus had done unto him.
+3 For thus saith the Lord to the men of Judah and Jerusalem, Break up your fallow ground, and sow not among thorns.
 
-[Friday 26-July, 2024](https://getbible.net/kjv/Luke/8/39)
+[Saturday 27-July, 2024](https://getbible.net/kjv/Jeremiah/4/3)
