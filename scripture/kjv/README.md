@@ -1,5 +1,5 @@
-**Jeremiah 4:3**
+**Proverbs 21:13**
 
-3 For thus saith the Lord to the men of Judah and Jerusalem, Break up your fallow ground, and sow not among thorns.
+13 Whoso stoppeth his ears at the cry of the poor, he also shall cry himself, but shall not be heard.
 
-[Saturday 27-July, 2024](https://getbible.net/kjv/Jeremiah/4/3)
+[Sunday 28-July, 2024](https://getbible.net/kjv/Proverbs/21/13)

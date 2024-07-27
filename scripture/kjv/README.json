@@ -1,17 +1,17 @@
 {
-  "book": "Jeremiah",
-  "chapter": "4",
-  "date": "Saturday 27-July, 2024",
-  "getbible": "https://getbible.net/kjv/Jeremiah/4/3",
-  "name": "Jeremiah 4:3",
+  "book": "Proverbs",
+  "chapter": "21",
+  "date": "Sunday 28-July, 2024",
+  "getbible": "https://getbible.net/kjv/Proverbs/21/13",
+  "name": "Proverbs 21:13",
   "scripture": [
     {
-      "nr": "3",
-      "text": "For thus saith the Lord to the men of Judah and Jerusalem, Break up your fallow ground, and sow not among thorns."
+      "nr": "13",
+      "text": "Whoso stoppeth his ears at the cry of the poor, he also shall cry himself, but shall not be heard."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "3",
+  "verse": "13",
   "version": "kjv"
 }
