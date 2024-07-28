@@ -1,5 +1,5 @@
-**Proverbs 21:13**
+**Galatians 3:28**
 
-13 Whoso stoppeth his ears at the cry of the poor, he also shall cry himself, but shall not be heard.
+28 There is neither Jew nor Greek, there is neither bond nor free, there is neither male nor female: for ye are all one in Christ Jesus.
 
-[Sunday 28-July, 2024](https://getbible.net/kjv/Proverbs/21/13)
+[Monday 29-July, 2024](https://getbible.net/kjv/Galatians/3/28)

@@ -1,17 +1,17 @@
 {
-  "book": "Proverbs",
-  "chapter": "21",
-  "date": "Sunday 28-July, 2024",
-  "getbible": "https://getbible.net/kjv/Proverbs/21/13",
-  "name": "Proverbs 21:13",
+  "book": "Galatians",
+  "chapter": "3",
+  "date": "Monday 29-July, 2024",
+  "getbible": "https://getbible.net/kjv/Galatians/3/28",
+  "name": "Galatians 3:28",
   "scripture": [
     {
-      "nr": "13",
-      "text": "Whoso stoppeth his ears at the cry of the poor, he also shall cry himself, but shall not be heard."
+      "nr": "28",
+      "text": "There is neither Jew nor Greek, there is neither bond nor free, there is neither male nor female: for ye are all one in Christ Jesus."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "13",
+  "verse": "28",
   "version": "kjv"
 }
