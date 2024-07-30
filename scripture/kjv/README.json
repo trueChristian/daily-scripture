@@ -1,17 +1,21 @@
 {
-  "book": "Psalms",
-  "chapter": "84",
-  "date": "Tuesday 30-July, 2024",
-  "getbible": "https://getbible.net/kjv/Psalms/84/4",
-  "name": "Psalms 84:4",
+  "book": "Luke",
+  "chapter": "12",
+  "date": "Wednesday 31-July, 2024",
+  "getbible": "https://getbible.net/kjv/Luke/12/6-7",
+  "name": "Luke 12:6-7",
   "scripture": [
     {
-      "nr": "4",
-      "text": "Blessed are they that dwell in thy house: they will be still praising thee. Selah."
+      "nr": "6",
+      "text": "Are not five sparrows sold for two farthings, and not one of them is forgotten before God?"
+    },
+    {
+      "nr": "7",
+      "text": "But even the very hairs of your head are all numbered. Fear not therefore: ye are of more value than many sparrows."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "4",
+  "verse": "6-7",
   "version": "kjv"
 }
