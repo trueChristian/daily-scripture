@@ -1,17 +1,17 @@
 {
-  "book": "Galatians",
-  "chapter": "6",
-  "date": "Thursday 01-August, 2024",
-  "getbible": "https://getbible.net/kjv/Galatians/6/7",
-  "name": "Galatians 6:7",
+  "book": "Psalms",
+  "chapter": "25",
+  "date": "Friday 02-August, 2024",
+  "getbible": "https://getbible.net/kjv/Psalms/25/13",
+  "name": "Psalms 25:13",
   "scripture": [
     {
-      "nr": "7",
-      "text": "Be not deceived; God is not mocked: for whatsoever a man soweth, that shall he also reap."
+      "nr": "13",
+      "text": "His soul shall dwell at ease; and his seed shall inherit the earth."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "7",
+  "verse": "13",
   "version": "kjv"
 }

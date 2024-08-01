@@ -1,5 +1,5 @@
-**Galatians 6:7**
+**Psalms 25:13**
 
-7 Be not deceived; God is not mocked: for whatsoever a man soweth, that shall he also reap.
+13 His soul shall dwell at ease; and his seed shall inherit the earth.
 
-[Thursday 01-August, 2024](https://getbible.net/kjv/Galatians/6/7)
+[Friday 02-August, 2024](https://getbible.net/kjv/Psalms/25/13)
