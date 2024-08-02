@@ -1,5 +1,5 @@
-**Psalms 25:13**
+**Isaiah 35:3**
 
-13 His soul shall dwell at ease; and his seed shall inherit the earth.
+3 Strengthen ye the weak hands, and confirm the feeble knees.
 
-[Friday 02-August, 2024](https://getbible.net/kjv/Psalms/25/13)
+[Saturday 03-August, 2024](https://getbible.net/kjv/Isaiah/35/3)

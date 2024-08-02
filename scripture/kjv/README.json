@@ -1,17 +1,17 @@
 {
-  "book": "Psalms",
-  "chapter": "25",
-  "date": "Friday 02-August, 2024",
-  "getbible": "https://getbible.net/kjv/Psalms/25/13",
-  "name": "Psalms 25:13",
+  "book": "Isaiah",
+  "chapter": "35",
+  "date": "Saturday 03-August, 2024",
+  "getbible": "https://getbible.net/kjv/Isaiah/35/3",
+  "name": "Isaiah 35:3",
   "scripture": [
     {
-      "nr": "13",
-      "text": "His soul shall dwell at ease; and his seed shall inherit the earth."
+      "nr": "3",
+      "text": "Strengthen ye the weak hands, and confirm the feeble knees."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "13",
+  "verse": "3",
   "version": "kjv"
 }
