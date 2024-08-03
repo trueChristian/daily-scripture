@@ -1,17 +1,17 @@
 {
-  "book": "Isaiah",
-  "chapter": "35",
-  "date": "Saturday 03-August, 2024",
-  "getbible": "https://getbible.net/kjv/Isaiah/35/3",
-  "name": "Isaiah 35:3",
+  "book": "Colossians",
+  "chapter": "2",
+  "date": "Sunday 04-August, 2024",
+  "getbible": "https://getbible.net/kjv/Colossians/2/18",
+  "name": "Colossians 2:18",
   "scripture": [
     {
-      "nr": "3",
-      "text": "Strengthen ye the weak hands, and confirm the feeble knees."
+      "nr": "18",
+      "text": "Let no man beguile you of your reward in a voluntary humility and worshipping of angels, intruding into those things which he hath not seen, vainly puffed up by his fleshly mind,"
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "3",
+  "verse": "18",
   "version": "kjv"
 }

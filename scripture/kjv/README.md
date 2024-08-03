@@ -1,5 +1,5 @@
-**Isaiah 35:3**
+**Colossians 2:18**
 
-3 Strengthen ye the weak hands, and confirm the feeble knees.
+18 Let no man beguile you of your reward in a voluntary humility and worshipping of angels, intruding into those things which he hath not seen, vainly puffed up by his fleshly mind,
 
-[Saturday 03-August, 2024](https://getbible.net/kjv/Isaiah/35/3)
+[Sunday 04-August, 2024](https://getbible.net/kjv/Colossians/2/18)
