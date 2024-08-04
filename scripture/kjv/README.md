@@ -1,5 +1,5 @@
-**Colossians 2:18**
+**Psalms 25:18**
 
-18 Let no man beguile you of your reward in a voluntary humility and worshipping of angels, intruding into those things which he hath not seen, vainly puffed up by his fleshly mind,
+18 Look upon mine affliction and my pain; and forgive all my sins.
 
-[Sunday 04-August, 2024](https://getbible.net/kjv/Colossians/2/18)
+[Monday 05-August, 2024](https://getbible.net/kjv/Psalms/25/18)

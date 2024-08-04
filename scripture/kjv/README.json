@@ -1,13 +1,13 @@
 {
-  "book": "Colossians",
-  "chapter": "2",
-  "date": "Sunday 04-August, 2024",
-  "getbible": "https://getbible.net/kjv/Colossians/2/18",
-  "name": "Colossians 2:18",
+  "book": "Psalms",
+  "chapter": "25",
+  "date": "Monday 05-August, 2024",
+  "getbible": "https://getbible.net/kjv/Psalms/25/18",
+  "name": "Psalms 25:18",
   "scripture": [
     {
       "nr": "18",
-      "text": "Let no man beguile you of your reward in a voluntary humility and worshipping of angels, intruding into those things which he hath not seen, vainly puffed up by his fleshly mind,"
+      "text": "Look upon mine affliction and my pain; and forgive all my sins."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
