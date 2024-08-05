@@ -1,5 +1,5 @@
-**Psalms 25:18**
+**Psalms 18:16**
 
-18 Look upon mine affliction and my pain; and forgive all my sins.
+16 He sent from above, he took me, he drew me out of many waters.
 
-[Monday 05-August, 2024](https://getbible.net/kjv/Psalms/25/18)
+[Tuesday 06-August, 2024](https://getbible.net/kjv/Psalms/18/16)
