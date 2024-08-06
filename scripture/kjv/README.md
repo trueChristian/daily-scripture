@@ -1,5 +1,5 @@
-**Psalms 18:16**
+**Acts 4:20**
 
-16 He sent from above, he took me, he drew me out of many waters.
+20 For we cannot but speak the things which we have seen and heard.
 
-[Tuesday 06-August, 2024](https://getbible.net/kjv/Psalms/18/16)
+[Wednesday 07-August, 2024](https://getbible.net/kjv/Acts/4/20)

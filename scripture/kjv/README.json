@@ -1,17 +1,17 @@
 {
-  "book": "Psalms",
-  "chapter": "18",
-  "date": "Tuesday 06-August, 2024",
-  "getbible": "https://getbible.net/kjv/Psalms/18/16",
-  "name": "Psalms 18:16",
+  "book": "Acts",
+  "chapter": "4",
+  "date": "Wednesday 07-August, 2024",
+  "getbible": "https://getbible.net/kjv/Acts/4/20",
+  "name": "Acts 4:20",
   "scripture": [
     {
-      "nr": "16",
-      "text": "He sent from above, he took me, he drew me out of many waters."
+      "nr": "20",
+      "text": "For we cannot but speak the things which we have seen and heard."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "16",
+  "verse": "20",
   "version": "kjv"
 }
