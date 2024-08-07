@@ -1,5 +1,5 @@
-**Acts 4:20**
+**Romans 14:1**
 
-20 For we cannot but speak the things which we have seen and heard.
+1 Him that is weak in the faith receive ye, but not to doubtful disputations.
 
-[Wednesday 07-August, 2024](https://getbible.net/kjv/Acts/4/20)
+[Thursday 08-August, 2024](https://getbible.net/kjv/Romans/14/1)

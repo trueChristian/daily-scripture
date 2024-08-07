@@ -1,17 +1,17 @@
 {
-  "book": "Acts",
-  "chapter": "4",
-  "date": "Wednesday 07-August, 2024",
-  "getbible": "https://getbible.net/kjv/Acts/4/20",
-  "name": "Acts 4:20",
+  "book": "Romans",
+  "chapter": "14",
+  "date": "Thursday 08-August, 2024",
+  "getbible": "https://getbible.net/kjv/Romans/14/1",
+  "name": "Romans 14:1",
   "scripture": [
     {
-      "nr": "20",
-      "text": "For we cannot but speak the things which we have seen and heard."
+      "nr": "1",
+      "text": "Him that is weak in the faith receive ye, but not to doubtful disputations."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "20",
+  "verse": "1",
   "version": "kjv"
 }
