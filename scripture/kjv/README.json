@@ -1,17 +1,25 @@
 {
-  "book": "Romans",
-  "chapter": "14",
-  "date": "Thursday 08-August, 2024",
-  "getbible": "https://getbible.net/kjv/Romans/14/1",
-  "name": "Romans 14:1",
+  "book": "Ephesians",
+  "chapter": "6",
+  "date": "Friday 09-August, 2024",
+  "getbible": "https://getbible.net/kjv/Ephesians/6/1-3",
+  "name": "Ephesians 6:1-3",
   "scripture": [
     {
       "nr": "1",
-      "text": "Him that is weak in the faith receive ye, but not to doubtful disputations."
+      "text": "Children, obey your parents in the Lord: for this is right."
+    },
+    {
+      "nr": "2",
+      "text": "Honour thy father and mother; (which is the first commandment with promise;)"
+    },
+    {
+      "nr": "3",
+      "text": "That it may be well with thee, and thou mayest live long on the earth."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "1",
+  "verse": "1-3",
   "version": "kjv"
 }

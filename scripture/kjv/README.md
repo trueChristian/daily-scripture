@@ -1,5 +1,5 @@
-**Romans 14:1**
+**Ephesians 6:1-3**
 
-1 Him that is weak in the faith receive ye, but not to doubtful disputations.
+1 Children, obey your parents in the Lord: for this is right. 2 Honour thy father and mother; (which is the first commandment with promise;) 3 That it may be well with thee, and thou mayest live long on the earth.
 
-[Thursday 08-August, 2024](https://getbible.net/kjv/Romans/14/1)
+[Friday 09-August, 2024](https://getbible.net/kjv/Ephesians/6/1-3)
