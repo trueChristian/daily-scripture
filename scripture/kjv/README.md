@@ -1,5 +1,5 @@
-**Proverbs 3:13-14**
+**2 Corinthians 7:2**
 
-13 Happy is the man that findeth wisdom, and the man that getteth understanding. 14 For the merchandise of it is better than the merchandise of silver, and the gain thereof than fine gold.
+2 Receive us; we have wronged no man, we have corrupted no man, we have defrauded no man.
 
-[Saturday 10-August, 2024](https://getbible.net/kjv/Proverbs/3/13-14)
+[Sunday 11-August, 2024](https://getbible.net/kjv/2 Corinthians/7/2)
