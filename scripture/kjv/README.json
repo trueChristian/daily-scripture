@@ -1,17 +1,33 @@
 {
-  "book": "Daniel",
-  "chapter": "3",
-  "date": "Tuesday 13-August, 2024",
-  "getbible": "https://getbible.net/kjv/Daniel/3/29",
-  "name": "Daniel 3:29",
+  "book": "James",
+  "chapter": "5",
+  "date": "Wednesday 14-August, 2024",
+  "getbible": "https://getbible.net/kjv/James/5/14-18",
+  "name": "James 5:14-18",
   "scripture": [
     {
-      "nr": "29",
-      "text": "Therefore I make a decree, That every people, nation, and language, which speak any thing amiss against the God of Shadrach, Meshach, and Abed–nego, shall be cut in pieces, and their houses shall be made a dunghill: because there is no other God that can deliver after this sort."
+      "nr": "14",
+      "text": "Is any sick among you? let him call for the elders of the church; and let them pray over him, anointing him with oil in the name of the Lord:"
+    },
+    {
+      "nr": "15",
+      "text": "And the prayer of faith shall save the sick, and the Lord shall raise him up; and if he have committed sins, they shall be forgiven him."
+    },
+    {
+      "nr": "16",
+      "text": "Confess your faults one to another, and pray one for another, that ye may be healed. The effectual fervent prayer of a righteous man availeth much."
+    },
+    {
+      "nr": "17",
+      "text": "Elias was a man subject to like passions as we are, and he prayed earnestly that it might not rain: and it rained not on the earth by the space of three years and six months."
+    },
+    {
+      "nr": "18",
+      "text": "And he prayed again, and the heaven gave rain, and the earth brought forth her fruit."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "29",
+  "verse": "14-18",
   "version": "kjv"
 }
