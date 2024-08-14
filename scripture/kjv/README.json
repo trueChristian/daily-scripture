@@ -1,33 +1,37 @@
 {
   "book": "James",
-  "chapter": "5",
-  "date": "Wednesday 14-August, 2024",
-  "getbible": "https://getbible.net/kjv/James/5/14-18",
-  "name": "James 5:14-18",
+  "chapter": "3",
+  "date": "Thursday 15-August, 2024",
+  "getbible": "https://getbible.net/kjv/James/3/13-18",
+  "name": "James 3:13-18",
   "scripture": [
     {
+      "nr": "13",
+      "text": "Who is a wise man and endued with knowledge among you? let him shew out of a good conversation his works with meekness of wisdom."
+    },
+    {
       "nr": "14",
-      "text": "Is any sick among you? let him call for the elders of the church; and let them pray over him, anointing him with oil in the name of the Lord:"
+      "text": "But if ye have bitter envying and strife in your hearts, glory not, and lie not against the truth."
     },
     {
       "nr": "15",
-      "text": "And the prayer of faith shall save the sick, and the Lord shall raise him up; and if he have committed sins, they shall be forgiven him."
+      "text": "This wisdom descendeth not from above, but is earthly, sensual, devilish."
     },
     {
       "nr": "16",
-      "text": "Confess your faults one to another, and pray one for another, that ye may be healed. The effectual fervent prayer of a righteous man availeth much."
+      "text": "For where envying and strife is, there is confusion and every evil work."
     },
     {
       "nr": "17",
-      "text": "Elias was a man subject to like passions as we are, and he prayed earnestly that it might not rain: and it rained not on the earth by the space of three years and six months."
+      "text": "But the wisdom that is from above is first pure, then peaceable, gentle, and easy to be intreated, full of mercy and good fruits, without partiality, and without hypocrisy."
     },
     {
       "nr": "18",
-      "text": "And he prayed again, and the heaven gave rain, and the earth brought forth her fruit."
+      "text": "And the fruit of righteousness is sown in peace of them that make peace. "
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "14-18",
+  "verse": "13-18",
   "version": "kjv"
 }
