@@ -1,37 +1,17 @@
 {
-  "book": "James",
-  "chapter": "3",
-  "date": "Thursday 15-August, 2024",
-  "getbible": "https://getbible.net/kjv/James/3/13-18",
-  "name": "James 3:13-18",
+  "book": "Psalms",
+  "chapter": "34",
+  "date": "Friday 16-August, 2024",
+  "getbible": "https://getbible.net/kjv/Psalms/34/4",
+  "name": "Psalms 34:4",
   "scripture": [
     {
-      "nr": "13",
-      "text": "Who is a wise man and endued with knowledge among you? let him shew out of a good conversation his works with meekness of wisdom."
-    },
-    {
-      "nr": "14",
-      "text": "But if ye have bitter envying and strife in your hearts, glory not, and lie not against the truth."
-    },
-    {
-      "nr": "15",
-      "text": "This wisdom descendeth not from above, but is earthly, sensual, devilish."
-    },
-    {
-      "nr": "16",
-      "text": "For where envying and strife is, there is confusion and every evil work."
-    },
-    {
-      "nr": "17",
-      "text": "But the wisdom that is from above is first pure, then peaceable, gentle, and easy to be intreated, full of mercy and good fruits, without partiality, and without hypocrisy."
-    },
-    {
-      "nr": "18",
-      "text": "And the fruit of righteousness is sown in peace of them that make peace. "
+      "nr": "4",
+      "text": "I sought the Lord, and he heard me, and delivered me from all my fears."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "13-18",
+  "verse": "4",
   "version": "kjv"
 }
