@@ -1,17 +1,17 @@
 {
-  "book": "Psalms",
-  "chapter": "34",
-  "date": "Friday 16-August, 2024",
-  "getbible": "https://getbible.net/kjv/Psalms/34/4",
-  "name": "Psalms 34:4",
+  "book": "Hebrews",
+  "chapter": "10",
+  "date": "Saturday 17-August, 2024",
+  "getbible": "https://getbible.net/kjv/Hebrews/10/17",
+  "name": "Hebrews 10:17",
   "scripture": [
     {
-      "nr": "4",
-      "text": "I sought the Lord, and he heard me, and delivered me from all my fears."
+      "nr": "17",
+      "text": "And their sins and iniquities will I remember no more."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "4",
+  "verse": "17",
   "version": "kjv"
 }
