@@ -1,5 +1,5 @@
-**Hebrews 10:17**
+**Ecclesiastes 12:14**
 
-17 And their sins and iniquities will I remember no more.
+14 For God shall bring every work into judgment, with every secret thing, whether it be good, or whether it be evil.  
 
-[Saturday 17-August, 2024](https://getbible.net/kjv/Hebrews/10/17)
+[Sunday 18-August, 2024](https://getbible.net/kjv/Ecclesiastes/12/14)
