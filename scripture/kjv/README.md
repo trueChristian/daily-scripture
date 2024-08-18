@@ -1,5 +1,5 @@
-**Ecclesiastes 12:14**
+**Hosea 10:12**
 
-14 For God shall bring every work into judgment, with every secret thing, whether it be good, or whether it be evil.  
+12 Sow to yourselves in righteousness, reap in mercy; break up your fallow ground: for it is time to seek the Lord, till he come and rain righteousness upon you.
 
-[Sunday 18-August, 2024](https://getbible.net/kjv/Ecclesiastes/12/14)
+[Monday 19-August, 2024](https://getbible.net/kjv/Hosea/10/12)

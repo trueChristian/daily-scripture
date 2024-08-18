@@ -1,17 +1,17 @@
 {
-  "book": "Ecclesiastes",
-  "chapter": "12",
-  "date": "Sunday 18-August, 2024",
-  "getbible": "https://getbible.net/kjv/Ecclesiastes/12/14",
-  "name": "Ecclesiastes 12:14",
+  "book": "Hosea",
+  "chapter": "10",
+  "date": "Monday 19-August, 2024",
+  "getbible": "https://getbible.net/kjv/Hosea/10/12",
+  "name": "Hosea 10:12",
   "scripture": [
     {
-      "nr": "14",
-      "text": "For God shall bring every work into judgment, with every secret thing, whether it be good, or whether it be evil.  "
+      "nr": "12",
+      "text": "Sow to yourselves in righteousness, reap in mercy; break up your fallow ground: for it is time to seek the Lord, till he come and rain righteousness upon you."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "14",
+  "verse": "12",
   "version": "kjv"
 }
