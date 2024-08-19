@@ -1,17 +1,21 @@
 {
-  "book": "Hosea",
-  "chapter": "10",
-  "date": "Monday 19-August, 2024",
-  "getbible": "https://getbible.net/kjv/Hosea/10/12",
-  "name": "Hosea 10:12",
+  "book": "Matthew",
+  "chapter": "13",
+  "date": "Tuesday 20-August, 2024",
+  "getbible": "https://getbible.net/kjv/Matthew/13/45-46",
+  "name": "Matthew 13:45-46",
   "scripture": [
     {
-      "nr": "12",
-      "text": "Sow to yourselves in righteousness, reap in mercy; break up your fallow ground: for it is time to seek the Lord, till he come and rain righteousness upon you."
+      "nr": "45",
+      "text": "Again, the kingdom of heaven is like unto a merchant man, seeking goodly pearls:"
+    },
+    {
+      "nr": "46",
+      "text": "Who, when he had found one pearl of great price, went and sold all that he had, and bought it."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "12",
+  "verse": "45-46",
   "version": "kjv"
 }

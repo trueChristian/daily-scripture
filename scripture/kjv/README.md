@@ -1,5 +1,5 @@
-**Hosea 10:12**
+**Matthew 13:45-46**
 
-12 Sow to yourselves in righteousness, reap in mercy; break up your fallow ground: for it is time to seek the Lord, till he come and rain righteousness upon you.
+45 Again, the kingdom of heaven is like unto a merchant man, seeking goodly pearls: 46 Who, when he had found one pearl of great price, went and sold all that he had, and bought it.
 
-[Monday 19-August, 2024](https://getbible.net/kjv/Hosea/10/12)
+[Tuesday 20-August, 2024](https://getbible.net/kjv/Matthew/13/45-46)
