@@ -1,21 +1,17 @@
 {
-  "book": "Matthew",
-  "chapter": "13",
-  "date": "Tuesday 20-August, 2024",
-  "getbible": "https://getbible.net/kjv/Matthew/13/45-46",
-  "name": "Matthew 13:45-46",
+  "book": "Jonah",
+  "chapter": "2",
+  "date": "Wednesday 21-August, 2024",
+  "getbible": "https://getbible.net/kjv/Jonah/2/10",
+  "name": "Jonah 2:10",
   "scripture": [
     {
-      "nr": "45",
-      "text": "Again, the kingdom of heaven is like unto a merchant man, seeking goodly pearls:"
-    },
-    {
-      "nr": "46",
-      "text": "Who, when he had found one pearl of great price, went and sold all that he had, and bought it."
+      "nr": "10",
+      "text": "And the Lord spake unto the fish, and it vomited out Jonah upon the dry land. "
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "45-46",
+  "verse": "10",
   "version": "kjv"
 }
