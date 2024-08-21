@@ -1,5 +1,5 @@
-**Jonah 2:10**
+**Revelation 3:12**
 
-10 And the Lord spake unto the fish, and it vomited out Jonah upon the dry land. 
+12 Him that overcometh will I make a pillar in the temple of my God, and he shall go no more out: and I will write upon him the name of my God, and the name of the city of my God, which is new Jerusalem, which cometh down out of heaven from my God: and I will write upon him my new name.
 
-[Wednesday 21-August, 2024](https://getbible.net/kjv/Jonah/2/10)
+[Thursday 22-August, 2024](https://getbible.net/kjv/Revelation/3/12)
