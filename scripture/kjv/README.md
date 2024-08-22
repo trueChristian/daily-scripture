@@ -1,5 +1,5 @@
-**Revelation 3:12**
+**Psalms 22:24**
 
-12 Him that overcometh will I make a pillar in the temple of my God, and he shall go no more out: and I will write upon him the name of my God, and the name of the city of my God, which is new Jerusalem, which cometh down out of heaven from my God: and I will write upon him my new name.
+24 For he hath not despised nor abhorred the affliction of the afflicted; neither hath he hid his face from him; but when he cried unto him, he heard.
 
-[Thursday 22-August, 2024](https://getbible.net/kjv/Revelation/3/12)
+[Friday 23-August, 2024](https://getbible.net/kjv/Psalms/22/24)
