@@ -1,5 +1,5 @@
-**Psalms 22:24**
+**John 10:29**
 
-24 For he hath not despised nor abhorred the affliction of the afflicted; neither hath he hid his face from him; but when he cried unto him, he heard.
+29 My Father, which gave them me, is greater than all; and no man is able to pluck them out of my Father’s hand.
 
-[Friday 23-August, 2024](https://getbible.net/kjv/Psalms/22/24)
+[Saturday 24-August, 2024](https://getbible.net/kjv/John/10/29)
