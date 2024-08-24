@@ -1,17 +1,17 @@
 {
-  "book": "John",
-  "chapter": "10",
-  "date": "Saturday 24-August, 2024",
-  "getbible": "https://getbible.net/kjv/John/10/29",
-  "name": "John 10:29",
+  "book": "Proverbs",
+  "chapter": "19",
+  "date": "Sunday 25-August, 2024",
+  "getbible": "https://getbible.net/kjv/Proverbs/19/6",
+  "name": "Proverbs 19:6",
   "scripture": [
     {
-      "nr": "29",
-      "text": "My Father, which gave them me, is greater than all; and no man is able to pluck them out of my Father’s hand."
+      "nr": "6",
+      "text": "Many will intreat the favour of the prince: and every man is a friend to him that giveth gifts."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "29",
+  "verse": "6",
   "version": "kjv"
 }

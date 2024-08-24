@@ -1,5 +1,5 @@
-**John 10:29**
+**Proverbs 19:6**
 
-29 My Father, which gave them me, is greater than all; and no man is able to pluck them out of my Father’s hand.
+6 Many will intreat the favour of the prince: and every man is a friend to him that giveth gifts.
 
-[Saturday 24-August, 2024](https://getbible.net/kjv/John/10/29)
+[Sunday 25-August, 2024](https://getbible.net/kjv/Proverbs/19/6)
