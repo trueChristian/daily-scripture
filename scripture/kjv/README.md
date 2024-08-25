@@ -1,5 +1,5 @@
-**Proverbs 19:6**
+**Colossians 3:18**
 
-6 Many will intreat the favour of the prince: and every man is a friend to him that giveth gifts.
+18 Wives, submit yourselves unto your own husbands, as it is fit in the Lord.
 
-[Sunday 25-August, 2024](https://getbible.net/kjv/Proverbs/19/6)
+[Monday 26-August, 2024](https://getbible.net/kjv/Colossians/3/18)

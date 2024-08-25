@@ -1,17 +1,17 @@
 {
-  "book": "Proverbs",
-  "chapter": "19",
-  "date": "Sunday 25-August, 2024",
-  "getbible": "https://getbible.net/kjv/Proverbs/19/6",
-  "name": "Proverbs 19:6",
+  "book": "Colossians",
+  "chapter": "3",
+  "date": "Monday 26-August, 2024",
+  "getbible": "https://getbible.net/kjv/Colossians/3/18",
+  "name": "Colossians 3:18",
   "scripture": [
     {
-      "nr": "6",
-      "text": "Many will intreat the favour of the prince: and every man is a friend to him that giveth gifts."
+      "nr": "18",
+      "text": "Wives, submit yourselves unto your own husbands, as it is fit in the Lord."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "6",
+  "verse": "18",
   "version": "kjv"
 }
