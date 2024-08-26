@@ -1,17 +1,25 @@
 {
-  "book": "Colossians",
-  "chapter": "3",
-  "date": "Monday 26-August, 2024",
-  "getbible": "https://getbible.net/kjv/Colossians/3/18",
-  "name": "Colossians 3:18",
+  "book": "2 Corinthians",
+  "chapter": "1",
+  "date": "Tuesday 27-August, 2024",
+  "getbible": "https://getbible.net/kjv/2 Corinthians/1/8-10",
+  "name": "2 Corinthians 1:8-10",
   "scripture": [
     {
-      "nr": "18",
-      "text": "Wives, submit yourselves unto your own husbands, as it is fit in the Lord."
+      "nr": "8",
+      "text": "For we would not, brethren, have you ignorant of our trouble which came to us in Asia, that we were pressed out of measure, above strength, insomuch that we despaired even of life:"
+    },
+    {
+      "nr": "9",
+      "text": "But we had the sentence of death in ourselves, that we should not trust in ourselves, but in God which raiseth the dead:"
+    },
+    {
+      "nr": "10",
+      "text": "Who delivered us from so great a death, and doth deliver: in whom we trust that he will yet deliver us; "
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "18",
+  "verse": "8-10",
   "version": "kjv"
 }
