@@ -1,25 +1,17 @@
 {
-  "book": "2 Corinthians",
-  "chapter": "1",
-  "date": "Tuesday 27-August, 2024",
-  "getbible": "https://getbible.net/kjv/2 Corinthians/1/8-10",
-  "name": "2 Corinthians 1:8-10",
+  "book": "Hebrews",
+  "chapter": "11",
+  "date": "Wednesday 28-August, 2024",
+  "getbible": "https://getbible.net/kjv/Hebrews/11/1",
+  "name": "Hebrews 11:1",
   "scripture": [
     {
-      "nr": "8",
-      "text": "For we would not, brethren, have you ignorant of our trouble which came to us in Asia, that we were pressed out of measure, above strength, insomuch that we despaired even of life:"
-    },
-    {
-      "nr": "9",
-      "text": "But we had the sentence of death in ourselves, that we should not trust in ourselves, but in God which raiseth the dead:"
-    },
-    {
-      "nr": "10",
-      "text": "Who delivered us from so great a death, and doth deliver: in whom we trust that he will yet deliver us; "
+      "nr": "1",
+      "text": "Now faith is the substance of things hoped for, the evidence of things not seen."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "8-10",
+  "verse": "1",
   "version": "kjv"
 }
