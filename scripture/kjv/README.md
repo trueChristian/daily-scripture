@@ -1,5 +1,5 @@
-**Hebrews 11:1**
+**Colossians 1:13-14**
 
-1 Now faith is the substance of things hoped for, the evidence of things not seen.
+13 Who hath delivered us from the power of darkness, and hath translated us into the kingdom of his dear Son: 14 In whom we have redemption through his blood, even the forgiveness of sins:
 
-[Wednesday 28-August, 2024](https://getbible.net/kjv/Hebrews/11/1)
+[Thursday 29-August, 2024](https://getbible.net/kjv/Colossians/1/13-14)

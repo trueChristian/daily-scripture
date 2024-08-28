@@ -1,17 +1,21 @@
 {
-  "book": "Hebrews",
-  "chapter": "11",
-  "date": "Wednesday 28-August, 2024",
-  "getbible": "https://getbible.net/kjv/Hebrews/11/1",
-  "name": "Hebrews 11:1",
+  "book": "Colossians",
+  "chapter": "1",
+  "date": "Thursday 29-August, 2024",
+  "getbible": "https://getbible.net/kjv/Colossians/1/13-14",
+  "name": "Colossians 1:13-14",
   "scripture": [
     {
-      "nr": "1",
-      "text": "Now faith is the substance of things hoped for, the evidence of things not seen."
+      "nr": "13",
+      "text": "Who hath delivered us from the power of darkness, and hath translated us into the kingdom of his dear Son:"
+    },
+    {
+      "nr": "14",
+      "text": "In whom we have redemption through his blood, even the forgiveness of sins:"
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "1",
+  "verse": "13-14",
   "version": "kjv"
 }
