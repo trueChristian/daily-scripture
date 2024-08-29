@@ -1,21 +1,17 @@
 {
-  "book": "Colossians",
-  "chapter": "1",
-  "date": "Thursday 29-August, 2024",
-  "getbible": "https://getbible.net/kjv/Colossians/1/13-14",
-  "name": "Colossians 1:13-14",
+  "book": "Proverbs",
+  "chapter": "12",
+  "date": "Friday 30-August, 2024",
+  "getbible": "https://getbible.net/kjv/Proverbs/12/18",
+  "name": "Proverbs 12:18",
   "scripture": [
     {
-      "nr": "13",
-      "text": "Who hath delivered us from the power of darkness, and hath translated us into the kingdom of his dear Son:"
-    },
-    {
-      "nr": "14",
-      "text": "In whom we have redemption through his blood, even the forgiveness of sins:"
+      "nr": "18",
+      "text": "There is that speaketh like the piercings of a sword: but the tongue of the wise is health."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "13-14",
+  "verse": "18",
   "version": "kjv"
 }
