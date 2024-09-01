@@ -1,17 +1,17 @@
 {
-  "book": "Song of Songs",
-  "chapter": "4",
-  "date": "Sunday 01-September, 2024",
-  "getbible": "https://getbible.net/kjv/Song of Songs/4/12",
-  "name": "Song of Songs 4:12",
+  "book": "John",
+  "chapter": "1",
+  "date": "Monday 02-September, 2024",
+  "getbible": "https://getbible.net/kjv/John/1/37",
+  "name": "John 1:37",
   "scripture": [
     {
-      "nr": "12",
-      "text": "A garden inclosed is my sister, my spouse; a spring shut up, a fountain sealed."
+      "nr": "37",
+      "text": "And the two disciples heard him speak, and they followed Jesus."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "12",
+  "verse": "37",
   "version": "kjv"
 }

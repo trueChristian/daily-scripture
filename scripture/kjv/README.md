@@ -1,5 +1,5 @@
-**Song of Songs 4:12**
+**John 1:37**
 
-12 A garden inclosed is my sister, my spouse; a spring shut up, a fountain sealed.
+37 And the two disciples heard him speak, and they followed Jesus.
 
-[Sunday 01-September, 2024](https://getbible.net/kjv/Song of Songs/4/12)
+[Monday 02-September, 2024](https://getbible.net/kjv/John/1/37)
