@@ -1,5 +1,5 @@
-**John 1:37**
+**Proverbs 23:26**
 
-37 And the two disciples heard him speak, and they followed Jesus.
+26 My son, give me thine heart, and let thine eyes observe my ways.
 
-[Monday 02-September, 2024](https://getbible.net/kjv/John/1/37)
+[Tuesday 03-September, 2024](https://getbible.net/kjv/Proverbs/23/26)
