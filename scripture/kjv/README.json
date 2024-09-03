@@ -1,17 +1,17 @@
 {
-  "book": "Proverbs",
-  "chapter": "23",
-  "date": "Tuesday 03-September, 2024",
-  "getbible": "https://getbible.net/kjv/Proverbs/23/26",
-  "name": "Proverbs 23:26",
+  "book": "Ezekiel",
+  "chapter": "14",
+  "date": "Wednesday 04-September, 2024",
+  "getbible": "https://getbible.net/kjv/Ezekiel/14/20",
+  "name": "Ezekiel 14:20",
   "scripture": [
     {
-      "nr": "26",
-      "text": "My son, give me thine heart, and let thine eyes observe my ways."
+      "nr": "20",
+      "text": "Though Noah, Daniel, and Job, were in it, as I live, saith the Lord God, they shall deliver neither son nor daughter; they shall but deliver their own souls by their righteousness."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "26",
+  "verse": "20",
   "version": "kjv"
 }

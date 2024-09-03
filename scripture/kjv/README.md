@@ -1,5 +1,5 @@
-**Proverbs 23:26**
+**Ezekiel 14:20**
 
-26 My son, give me thine heart, and let thine eyes observe my ways.
+20 Though Noah, Daniel, and Job, were in it, as I live, saith the Lord God, they shall deliver neither son nor daughter; they shall but deliver their own souls by their righteousness.
 
-[Tuesday 03-September, 2024](https://getbible.net/kjv/Proverbs/23/26)
+[Wednesday 04-September, 2024](https://getbible.net/kjv/Ezekiel/14/20)
