@@ -1,17 +1,37 @@
 {
-  "book": "Ezekiel",
-  "chapter": "14",
-  "date": "Wednesday 04-September, 2024",
-  "getbible": "https://getbible.net/kjv/Ezekiel/14/20",
-  "name": "Ezekiel 14:20",
+  "book": "1 Peter",
+  "chapter": "2",
+  "date": "Thursday 05-September, 2024",
+  "getbible": "https://getbible.net/kjv/1 Peter/2/18-23",
+  "name": "1 Peter 2:18-23",
   "scripture": [
     {
+      "nr": "18",
+      "text": "Servants, be subject to your masters with all fear; not only to the good and gentle, but also to the froward."
+    },
+    {
+      "nr": "19",
+      "text": "For this is thankworthy, if a man for conscience toward God endure grief, suffering wrongfully."
+    },
+    {
       "nr": "20",
-      "text": "Though Noah, Daniel, and Job, were in it, as I live, saith the Lord God, they shall deliver neither son nor daughter; they shall but deliver their own souls by their righteousness."
+      "text": "For what glory is it, if, when ye be buffeted for your faults, ye shall take it patiently? but if, when ye do well, and suffer for it, ye take it patiently, this is acceptable with God."
+    },
+    {
+      "nr": "21",
+      "text": "For even hereunto were ye called: because Christ also suffered for us, leaving us an example, that ye should follow his steps:"
+    },
+    {
+      "nr": "22",
+      "text": "Who did no sin, neither was guile found in his mouth:"
+    },
+    {
+      "nr": "23",
+      "text": "Who, when he was reviled, reviled not again; when he suffered, he threatened not; but committed himself to him that judgeth righteously:"
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "20",
+  "verse": "18-23",
   "version": "kjv"
 }
