@@ -1,5 +1,5 @@
-**1 Timothy 5:6**
+**James 1:26**
 
-6 But she that liveth in pleasure is dead while she liveth.
+26 If any man among you seem to be religious, and bridleth not his tongue, but deceiveth his own heart, this man’s religion is vain.
 
-[Friday 06-September, 2024](https://getbible.net/kjv/1 Timothy/5/6)
+[Saturday 07-September, 2024](https://getbible.net/kjv/James/1/26)
