@@ -1,5 +1,5 @@
-**John 4:37-38**
+**Proverbs 10:27**
 
-37 And herein is that saying true, One soweth, and another reapeth. 38 I sent you to reap that whereon ye bestowed no labour: other men laboured, and ye are entered into their labours.
+27 The fear of the Lord prolongeth days: but the years of the wicked shall be shortened.
 
-[Sunday 08-September, 2024](https://getbible.net/kjv/John/4/37-38)
+[Monday 09-September, 2024](https://getbible.net/kjv/Proverbs/10/27)

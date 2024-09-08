@@ -1,21 +1,17 @@
 {
-  "book": "John",
-  "chapter": "4",
-  "date": "Sunday 08-September, 2024",
-  "getbible": "https://getbible.net/kjv/John/4/37-38",
-  "name": "John 4:37-38",
+  "book": "Proverbs",
+  "chapter": "10",
+  "date": "Monday 09-September, 2024",
+  "getbible": "https://getbible.net/kjv/Proverbs/10/27",
+  "name": "Proverbs 10:27",
   "scripture": [
     {
-      "nr": "37",
-      "text": "And herein is that saying true, One soweth, and another reapeth."
-    },
-    {
-      "nr": "38",
-      "text": "I sent you to reap that whereon ye bestowed no labour: other men laboured, and ye are entered into their labours."
+      "nr": "27",
+      "text": "The fear of the Lord prolongeth days: but the years of the wicked shall be shortened."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "37-38",
+  "verse": "27",
   "version": "kjv"
 }
