@@ -1,17 +1,17 @@
 {
-  "book": "Proverbs",
-  "chapter": "10",
-  "date": "Monday 09-September, 2024",
-  "getbible": "https://getbible.net/kjv/Proverbs/10/27",
-  "name": "Proverbs 10:27",
+  "book": "Daniel",
+  "chapter": "3",
+  "date": "Tuesday 10-September, 2024",
+  "getbible": "https://getbible.net/kjv/Daniel/3/25",
+  "name": "Daniel 3:25",
   "scripture": [
     {
-      "nr": "27",
-      "text": "The fear of the Lord prolongeth days: but the years of the wicked shall be shortened."
+      "nr": "25",
+      "text": "He answered and said, Lo, I see four men loose, walking in the midst of the fire, and they have no hurt; and the form of the fourth is like the Son of God."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "27",
+  "verse": "25",
   "version": "kjv"
 }
