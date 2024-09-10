@@ -1,5 +1,5 @@
-**Daniel 3:25**
+**Proverbs 20:19**
 
-25 He answered and said, Lo, I see four men loose, walking in the midst of the fire, and they have no hurt; and the form of the fourth is like the Son of God.
+19 He that goeth about as a talebearer revealeth secrets: therefore meddle not with him that flattereth with his lips.
 
-[Tuesday 10-September, 2024](https://getbible.net/kjv/Daniel/3/25)
+[Wednesday 11-September, 2024](https://getbible.net/kjv/Proverbs/20/19)
