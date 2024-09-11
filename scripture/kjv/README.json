@@ -1,17 +1,21 @@
 {
-  "book": "Proverbs",
-  "chapter": "20",
-  "date": "Wednesday 11-September, 2024",
-  "getbible": "https://getbible.net/kjv/Proverbs/20/19",
-  "name": "Proverbs 20:19",
+  "book": "Exodus",
+  "chapter": "23",
+  "date": "Thursday 12-September, 2024",
+  "getbible": "https://getbible.net/kjv/Exodus/23/1-2",
+  "name": "Exodus 23:1-2",
   "scripture": [
     {
-      "nr": "19",
-      "text": "He that goeth about as a talebearer revealeth secrets: therefore meddle not with him that flattereth with his lips."
+      "nr": "1",
+      "text": "Thou shalt not raise a false report: put not thine hand with the wicked to be an unrighteous witness."
+    },
+    {
+      "nr": "2",
+      "text": "Thou shalt not follow a multitude to do evil; neither shalt thou speak in a cause to decline after many to wrest judgment:"
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "19",
+  "verse": "1-2",
   "version": "kjv"
 }

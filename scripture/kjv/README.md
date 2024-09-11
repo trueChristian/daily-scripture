@@ -1,5 +1,5 @@
-**Proverbs 20:19**
+**Exodus 23:1-2**
 
-19 He that goeth about as a talebearer revealeth secrets: therefore meddle not with him that flattereth with his lips.
+1 Thou shalt not raise a false report: put not thine hand with the wicked to be an unrighteous witness. 2 Thou shalt not follow a multitude to do evil; neither shalt thou speak in a cause to decline after many to wrest judgment:
 
-[Wednesday 11-September, 2024](https://getbible.net/kjv/Proverbs/20/19)
+[Thursday 12-September, 2024](https://getbible.net/kjv/Exodus/23/1-2)
