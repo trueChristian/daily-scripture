@@ -1,21 +1,25 @@
 {
-  "book": "Exodus",
-  "chapter": "23",
-  "date": "Thursday 12-September, 2024",
-  "getbible": "https://getbible.net/kjv/Exodus/23/1-2",
-  "name": "Exodus 23:1-2",
+  "book": "3 John",
+  "chapter": "1",
+  "date": "Friday 13-September, 2024",
+  "getbible": "https://getbible.net/kjv/3 John/1/6-8",
+  "name": "3 John 1:6-8",
   "scripture": [
     {
-      "nr": "1",
-      "text": "Thou shalt not raise a false report: put not thine hand with the wicked to be an unrighteous witness."
+      "nr": "6",
+      "text": "Which have borne witness of thy charity before the church: whom if thou bring forward on their journey after a godly sort, thou shalt do well:"
     },
     {
-      "nr": "2",
-      "text": "Thou shalt not follow a multitude to do evil; neither shalt thou speak in a cause to decline after many to wrest judgment:"
+      "nr": "7",
+      "text": "Because that for his name’s sake they went forth, taking nothing of the Gentiles."
+    },
+    {
+      "nr": "8",
+      "text": "We therefore ought to receive such, that we might be fellowhelpers to the truth."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "1-2",
+  "verse": "6-8",
   "version": "kjv"
 }
