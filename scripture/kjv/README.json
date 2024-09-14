@@ -1,17 +1,21 @@
 {
-  "book": "Galatians",
-  "chapter": "5",
-  "date": "Saturday 14-September, 2024",
-  "getbible": "https://getbible.net/kjv/Galatians/5/13",
-  "name": "Galatians 5:13",
+  "book": "1 Corinthians",
+  "chapter": "7",
+  "date": "Sunday 15-September, 2024",
+  "getbible": "https://getbible.net/kjv/1 Corinthians/7/10-11",
+  "name": "1 Corinthians 7:10-11",
   "scripture": [
     {
-      "nr": "13",
-      "text": "For, brethren, ye have been called unto liberty; only use not liberty for an occasion to the flesh, but by love serve one another."
+      "nr": "10",
+      "text": "And unto the married I command, yet not I, but the Lord, Let not the wife depart from her husband:"
+    },
+    {
+      "nr": "11",
+      "text": "But and if she depart, let her remain unmarried, or be reconciled to her husband: and let not the husband put away his wife."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "13",
+  "verse": "10-11",
   "version": "kjv"
 }
