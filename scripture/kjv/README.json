@@ -1,17 +1,25 @@
 {
-  "book": "1 Peter",
-  "chapter": "4",
-  "date": "Monday 16-September, 2024",
-  "getbible": "https://getbible.net/kjv/1 Peter/4/19",
-  "name": "1 Peter 4:19",
+  "book": "Psalms",
+  "chapter": "51",
+  "date": "Tuesday 17-September, 2024",
+  "getbible": "https://getbible.net/kjv/Psalms/51/1-3",
+  "name": "Psalms 51:1-3",
   "scripture": [
     {
-      "nr": "19",
-      "text": "Wherefore let them that suffer according to the will of God commit the keeping of their souls to him in well doing, as unto a faithful Creator. "
+      "nr": "1",
+      "text": "Have mercy upon me, O God, according to thy lovingkindness: according unto the multitude of thy tender mercies blot out my transgressions."
+    },
+    {
+      "nr": "2",
+      "text": "Wash me throughly from mine iniquity, and cleanse me from my sin."
+    },
+    {
+      "nr": "3",
+      "text": "For I acknowledge my transgressions: and my sin is ever before me."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "19",
+  "verse": "1-3",
   "version": "kjv"
 }

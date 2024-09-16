@@ -1,5 +1,5 @@
-**1 Peter 4:19**
+**Psalms 51:1-3**
 
-19 Wherefore let them that suffer according to the will of God commit the keeping of their souls to him in well doing, as unto a faithful Creator. 
+1 Have mercy upon me, O God, according to thy lovingkindness: according unto the multitude of thy tender mercies blot out my transgressions. 2 Wash me throughly from mine iniquity, and cleanse me from my sin. 3 For I acknowledge my transgressions: and my sin is ever before me.
 
-[Monday 16-September, 2024](https://getbible.net/kjv/1 Peter/4/19)
+[Tuesday 17-September, 2024](https://getbible.net/kjv/Psalms/51/1-3)
