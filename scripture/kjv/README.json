@@ -1,17 +1,17 @@
 {
-  "book": "Psalms",
-  "chapter": "101",
-  "date": "Wednesday 18-September, 2024",
-  "getbible": "https://getbible.net/kjv/Psalms/101/3",
-  "name": "Psalms 101:3",
+  "book": "Joel",
+  "chapter": "2",
+  "date": "Thursday 19-September, 2024",
+  "getbible": "https://getbible.net/kjv/Joel/2/28",
+  "name": "Joel 2:28",
   "scripture": [
     {
-      "nr": "3",
-      "text": "I will set no wicked thing before mine eyes: I hate the work of them that turn aside; it shall not cleave to me."
+      "nr": "28",
+      "text": "And it shall come to pass afterward, that I will pour out my spirit upon all flesh; and your sons and your daughters shall prophesy, your old men shall dream dreams, your young men shall see visions:"
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "3",
+  "verse": "28",
   "version": "kjv"
 }

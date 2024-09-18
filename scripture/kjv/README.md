@@ -1,5 +1,5 @@
-**Psalms 101:3**
+**Joel 2:28**
 
-3 I will set no wicked thing before mine eyes: I hate the work of them that turn aside; it shall not cleave to me.
+28 And it shall come to pass afterward, that I will pour out my spirit upon all flesh; and your sons and your daughters shall prophesy, your old men shall dream dreams, your young men shall see visions:
 
-[Wednesday 18-September, 2024](https://getbible.net/kjv/Psalms/101/3)
+[Thursday 19-September, 2024](https://getbible.net/kjv/Joel/2/28)
