@@ -1,5 +1,5 @@
-**Joel 2:28**
+**Acts 8:40**
 
-28 And it shall come to pass afterward, that I will pour out my spirit upon all flesh; and your sons and your daughters shall prophesy, your old men shall dream dreams, your young men shall see visions:
+40 But Philip was found at Azotus: and passing through he preached in all the cities, till he came to Cesarea. 
 
-[Thursday 19-September, 2024](https://getbible.net/kjv/Joel/2/28)
+[Friday 20-September, 2024](https://getbible.net/kjv/Acts/8/40)
