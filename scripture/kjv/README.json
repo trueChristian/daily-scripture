@@ -1,17 +1,17 @@
 {
-  "book": "Acts",
-  "chapter": "8",
-  "date": "Friday 20-September, 2024",
-  "getbible": "https://getbible.net/kjv/Acts/8/40",
-  "name": "Acts 8:40",
+  "book": "James",
+  "chapter": "1",
+  "date": "Saturday 21-September, 2024",
+  "getbible": "https://getbible.net/kjv/James/1/27",
+  "name": "James 1:27",
   "scripture": [
     {
-      "nr": "40",
-      "text": "But Philip was found at Azotus: and passing through he preached in all the cities, till he came to Cesarea. "
+      "nr": "27",
+      "text": "Pure religion and undefiled before God and the Father is this, To visit the fatherless and widows in their affliction, and to keep himself unspotted from the world. "
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "40",
+  "verse": "27",
   "version": "kjv"
 }

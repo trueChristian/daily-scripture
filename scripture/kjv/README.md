@@ -1,5 +1,5 @@
-**Acts 8:40**
+**James 1:27**
 
-40 But Philip was found at Azotus: and passing through he preached in all the cities, till he came to Cesarea. 
+27 Pure religion and undefiled before God and the Father is this, To visit the fatherless and widows in their affliction, and to keep himself unspotted from the world. 
 
-[Friday 20-September, 2024](https://getbible.net/kjv/Acts/8/40)
+[Saturday 21-September, 2024](https://getbible.net/kjv/James/1/27)
