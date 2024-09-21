@@ -1,5 +1,5 @@
-**James 1:27**
+**Exodus 15:26**
 
-27 Pure religion and undefiled before God and the Father is this, To visit the fatherless and widows in their affliction, and to keep himself unspotted from the world. 
+26 And said, If thou wilt diligently hearken to the voice of the Lord thy God, and wilt do that which is right in his sight, and wilt give ear to his commandments, and keep all his statutes, I will put none of these diseases upon thee, which I have brought upon the Egyptians: for I am the Lord that healeth thee.
 
-[Saturday 21-September, 2024](https://getbible.net/kjv/James/1/27)
+[Sunday 22-September, 2024](https://getbible.net/kjv/Exodus/15/26)

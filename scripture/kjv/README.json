@@ -1,17 +1,17 @@
 {
-  "book": "James",
-  "chapter": "1",
-  "date": "Saturday 21-September, 2024",
-  "getbible": "https://getbible.net/kjv/James/1/27",
-  "name": "James 1:27",
+  "book": "Exodus",
+  "chapter": "15",
+  "date": "Sunday 22-September, 2024",
+  "getbible": "https://getbible.net/kjv/Exodus/15/26",
+  "name": "Exodus 15:26",
   "scripture": [
     {
-      "nr": "27",
-      "text": "Pure religion and undefiled before God and the Father is this, To visit the fatherless and widows in their affliction, and to keep himself unspotted from the world. "
+      "nr": "26",
+      "text": "And said, If thou wilt diligently hearken to the voice of the Lord thy God, and wilt do that which is right in his sight, and wilt give ear to his commandments, and keep all his statutes, I will put none of these diseases upon thee, which I have brought upon the Egyptians: for I am the Lord that healeth thee."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "27",
+  "verse": "26",
   "version": "kjv"
 }
