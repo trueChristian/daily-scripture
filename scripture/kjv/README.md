@@ -1,5 +1,5 @@
-**Exodus 15:26**
+**Romans 1:9-13**
 
-26 And said, If thou wilt diligently hearken to the voice of the Lord thy God, and wilt do that which is right in his sight, and wilt give ear to his commandments, and keep all his statutes, I will put none of these diseases upon thee, which I have brought upon the Egyptians: for I am the Lord that healeth thee.
+9 For God is my witness, whom I serve with my spirit in the gospel of his Son, that without ceasing I make mention of you always in my prayers; 10 Making request, if by any means now at length I might have a prosperous journey by the will of God to come unto you. 11 For I long to see you, that I may impart unto you some spiritual gift, to the end ye may be established; 12 That is, that I may be comforted together with you by the mutual faith both of you and me. 13 Now I would not have you ignorant, brethren, that oftentimes I purposed to come unto you, (but was let hitherto,) that I might have some fruit among you also, even as among other Gentiles.
 
-[Sunday 22-September, 2024](https://getbible.net/kjv/Exodus/15/26)
+[Monday 23-September, 2024](https://getbible.net/kjv/Romans/1/9-13)
