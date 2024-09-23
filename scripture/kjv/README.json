@@ -1,33 +1,17 @@
 {
-  "book": "Romans",
-  "chapter": "1",
-  "date": "Monday 23-September, 2024",
-  "getbible": "https://getbible.net/kjv/Romans/1/9-13",
-  "name": "Romans 1:9-13",
+  "book": "Acts",
+  "chapter": "3",
+  "date": "Tuesday 24-September, 2024",
+  "getbible": "https://getbible.net/kjv/Acts/3/16",
+  "name": "Acts 3:16",
   "scripture": [
     {
-      "nr": "9",
-      "text": "For God is my witness, whom I serve with my spirit in the gospel of his Son, that without ceasing I make mention of you always in my prayers;"
-    },
-    {
-      "nr": "10",
-      "text": "Making request, if by any means now at length I might have a prosperous journey by the will of God to come unto you."
-    },
-    {
-      "nr": "11",
-      "text": "For I long to see you, that I may impart unto you some spiritual gift, to the end ye may be established;"
-    },
-    {
-      "nr": "12",
-      "text": "That is, that I may be comforted together with you by the mutual faith both of you and me."
-    },
-    {
-      "nr": "13",
-      "text": "Now I would not have you ignorant, brethren, that oftentimes I purposed to come unto you, (but was let hitherto,) that I might have some fruit among you also, even as among other Gentiles."
+      "nr": "16",
+      "text": "And his name through faith in his name hath made this man strong, whom ye see and know: yea, the faith which is by him hath given him this perfect soundness in the presence of you all."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "9-13",
+  "verse": "16",
   "version": "kjv"
 }

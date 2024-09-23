@@ -1,5 +1,5 @@
-**Romans 1:9-13**
+**Acts 3:16**
 
-9 For God is my witness, whom I serve with my spirit in the gospel of his Son, that without ceasing I make mention of you always in my prayers; 10 Making request, if by any means now at length I might have a prosperous journey by the will of God to come unto you. 11 For I long to see you, that I may impart unto you some spiritual gift, to the end ye may be established; 12 That is, that I may be comforted together with you by the mutual faith both of you and me. 13 Now I would not have you ignorant, brethren, that oftentimes I purposed to come unto you, (but was let hitherto,) that I might have some fruit among you also, even as among other Gentiles.
+16 And his name through faith in his name hath made this man strong, whom ye see and know: yea, the faith which is by him hath given him this perfect soundness in the presence of you all.
 
-[Monday 23-September, 2024](https://getbible.net/kjv/Romans/1/9-13)
+[Tuesday 24-September, 2024](https://getbible.net/kjv/Acts/3/16)
