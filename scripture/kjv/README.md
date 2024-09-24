@@ -1,5 +1,5 @@
-**Acts 3:16**
+**Ephesians 6:24**
 
-16 And his name through faith in his name hath made this man strong, whom ye see and know: yea, the faith which is by him hath given him this perfect soundness in the presence of you all.
+24 Grace be with all them that love our Lord Jesus Christ in sincerity. Amen.  Written from Rome unto the Ephesians by Tychicus. 
 
-[Tuesday 24-September, 2024](https://getbible.net/kjv/Acts/3/16)
+[Wednesday 25-September, 2024](https://getbible.net/kjv/Ephesians/6/24)

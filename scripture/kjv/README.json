@@ -1,17 +1,17 @@
 {
-  "book": "Acts",
-  "chapter": "3",
-  "date": "Tuesday 24-September, 2024",
-  "getbible": "https://getbible.net/kjv/Acts/3/16",
-  "name": "Acts 3:16",
+  "book": "Ephesians",
+  "chapter": "6",
+  "date": "Wednesday 25-September, 2024",
+  "getbible": "https://getbible.net/kjv/Ephesians/6/24",
+  "name": "Ephesians 6:24",
   "scripture": [
     {
-      "nr": "16",
-      "text": "And his name through faith in his name hath made this man strong, whom ye see and know: yea, the faith which is by him hath given him this perfect soundness in the presence of you all."
+      "nr": "24",
+      "text": "Grace be with all them that love our Lord Jesus Christ in sincerity. Amen.  Written from Rome unto the Ephesians by Tychicus. "
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "16",
+  "verse": "24",
   "version": "kjv"
 }
