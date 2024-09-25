@@ -1,5 +1,5 @@
-**Ephesians 6:24**
+**Galatians 6:15-16**
 
-24 Grace be with all them that love our Lord Jesus Christ in sincerity. Amen.  Written from Rome unto the Ephesians by Tychicus. 
+15 For in Christ Jesus neither circumcision availeth any thing, nor uncircumcision, but a new creature. 16 And as many as walk according to this rule, peace be on them, and mercy, and upon the Israel of God.
 
-[Wednesday 25-September, 2024](https://getbible.net/kjv/Ephesians/6/24)
+[Thursday 26-September, 2024](https://getbible.net/kjv/Galatians/6/15-16)
