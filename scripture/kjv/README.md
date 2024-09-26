@@ -1,5 +1,5 @@
-**Galatians 6:15-16**
+**Matthew 10:27-28**
 
-15 For in Christ Jesus neither circumcision availeth any thing, nor uncircumcision, but a new creature. 16 And as many as walk according to this rule, peace be on them, and mercy, and upon the Israel of God.
+27 What I tell you in darkness, that speak ye in light: and what ye hear in the ear, that preach ye upon the housetops. 28 And fear not them which kill the body, but are not able to kill the soul: but rather fear him which is able to destroy both soul and body in hell.
 
-[Thursday 26-September, 2024](https://getbible.net/kjv/Galatians/6/15-16)
+[Friday 27-September, 2024](https://getbible.net/kjv/Matthew/10/27-28)
