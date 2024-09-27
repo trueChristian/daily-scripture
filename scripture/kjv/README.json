@@ -1,21 +1,29 @@
 {
-  "book": "Matthew",
-  "chapter": "10",
-  "date": "Friday 27-September, 2024",
-  "getbible": "https://getbible.net/kjv/Matthew/10/27-28",
-  "name": "Matthew 10:27-28",
+  "book": "Psalms",
+  "chapter": "33",
+  "date": "Saturday 28-September, 2024",
+  "getbible": "https://getbible.net/kjv/Psalms/33/16-19",
+  "name": "Psalms 33:16-19",
   "scripture": [
     {
-      "nr": "27",
-      "text": "What I tell you in darkness, that speak ye in light: and what ye hear in the ear, that preach ye upon the housetops."
+      "nr": "16",
+      "text": "There is no king saved by the multitude of an host: a mighty man is not delivered by much strength."
     },
     {
-      "nr": "28",
-      "text": "And fear not them which kill the body, but are not able to kill the soul: but rather fear him which is able to destroy both soul and body in hell."
+      "nr": "17",
+      "text": "An horse is a vain thing for safety: neither shall he deliver any by his great strength."
+    },
+    {
+      "nr": "18",
+      "text": "Behold, the eye of the Lord is upon them that fear him, upon them that hope in his mercy;"
+    },
+    {
+      "nr": "19",
+      "text": "To deliver their soul from death, and to keep them alive in famine."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "27-28",
+  "verse": "16-19",
   "version": "kjv"
 }
