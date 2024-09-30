@@ -1,17 +1,17 @@
 {
   "book": "Psalms",
-  "chapter": "27",
-  "date": "Monday 30-September, 2024",
-  "getbible": "https://getbible.net/kjv/Psalms/27/14",
-  "name": "Psalms 27:14",
+  "chapter": "88",
+  "date": "Tuesday 01-October, 2024",
+  "getbible": "https://getbible.net/kjv/Psalms/88/18",
+  "name": "Psalms 88:18",
   "scripture": [
     {
-      "nr": "14",
-      "text": "Wait on the Lord: be of good courage, and he shall strengthen thine heart: wait, I say, on the Lord. "
+      "nr": "18",
+      "text": "Lover and friend hast thou put far from me, and mine acquaintance into darkness. "
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "14",
+  "verse": "18",
   "version": "kjv"
 }

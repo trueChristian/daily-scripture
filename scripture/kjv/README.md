@@ -1,5 +1,5 @@
-**Psalms 27:14**
+**Psalms 88:18**
 
-14 Wait on the Lord: be of good courage, and he shall strengthen thine heart: wait, I say, on the Lord. 
+18 Lover and friend hast thou put far from me, and mine acquaintance into darkness. 
 
-[Monday 30-September, 2024](https://getbible.net/kjv/Psalms/27/14)
+[Tuesday 01-October, 2024](https://getbible.net/kjv/Psalms/88/18)
