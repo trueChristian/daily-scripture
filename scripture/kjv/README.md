@@ -1,5 +1,5 @@
-**Psalms 88:18**
+**Psalms 16:8**
 
-18 Lover and friend hast thou put far from me, and mine acquaintance into darkness. 
+8 I have set the Lord always before me: because he is at my right hand, I shall not be moved.
 
-[Tuesday 01-October, 2024](https://getbible.net/kjv/Psalms/88/18)
+[Wednesday 02-October, 2024](https://getbible.net/kjv/Psalms/16/8)

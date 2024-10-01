@@ -1,17 +1,17 @@
 {
   "book": "Psalms",
-  "chapter": "88",
-  "date": "Tuesday 01-October, 2024",
-  "getbible": "https://getbible.net/kjv/Psalms/88/18",
-  "name": "Psalms 88:18",
+  "chapter": "16",
+  "date": "Wednesday 02-October, 2024",
+  "getbible": "https://getbible.net/kjv/Psalms/16/8",
+  "name": "Psalms 16:8",
   "scripture": [
     {
-      "nr": "18",
-      "text": "Lover and friend hast thou put far from me, and mine acquaintance into darkness. "
+      "nr": "8",
+      "text": "I have set the Lord always before me: because he is at my right hand, I shall not be moved."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "18",
+  "verse": "8",
   "version": "kjv"
 }
