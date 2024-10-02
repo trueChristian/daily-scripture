@@ -1,17 +1,21 @@
 {
-  "book": "Psalms",
-  "chapter": "16",
-  "date": "Wednesday 02-October, 2024",
-  "getbible": "https://getbible.net/kjv/Psalms/16/8",
-  "name": "Psalms 16:8",
+  "book": "Luke",
+  "chapter": "7",
+  "date": "Thursday 03-October, 2024",
+  "getbible": "https://getbible.net/kjv/Luke/7/29-30",
+  "name": "Luke 7:29-30",
   "scripture": [
     {
-      "nr": "8",
-      "text": "I have set the Lord always before me: because he is at my right hand, I shall not be moved."
+      "nr": "29",
+      "text": "And all the people that heard him, and the publicans, justified God, being baptized with the baptism of John."
+    },
+    {
+      "nr": "30",
+      "text": "But the Pharisees and lawyers rejected the counsel of God against themselves, being not baptized of him."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "8",
+  "verse": "29-30",
   "version": "kjv"
 }

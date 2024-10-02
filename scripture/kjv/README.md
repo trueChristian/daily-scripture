@@ -1,5 +1,5 @@
-**Psalms 16:8**
+**Luke 7:29-30**
 
-8 I have set the Lord always before me: because he is at my right hand, I shall not be moved.
+29 And all the people that heard him, and the publicans, justified God, being baptized with the baptism of John. 30 But the Pharisees and lawyers rejected the counsel of God against themselves, being not baptized of him.
 
-[Wednesday 02-October, 2024](https://getbible.net/kjv/Psalms/16/8)
+[Thursday 03-October, 2024](https://getbible.net/kjv/Luke/7/29-30)
