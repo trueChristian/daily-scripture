@@ -1,5 +1,5 @@
-**Luke 7:29-30**
+**2 Corinthians 10:14-16**
 
-29 And all the people that heard him, and the publicans, justified God, being baptized with the baptism of John. 30 But the Pharisees and lawyers rejected the counsel of God against themselves, being not baptized of him.
+14 For we stretch not ourselves beyond our measure, as though we reached not unto you: for we are come as far as to you also in preaching the gospel of Christ: 15 Not boasting of things without our measure, that is, of other men’s labours; but having hope, when your faith is increased, that we shall be enlarged by you according to our rule abundantly, 16 To preach the gospel in the regions beyond you, and not to boast in another man’s line of things made ready to our hand.
 
-[Thursday 03-October, 2024](https://getbible.net/kjv/Luke/7/29-30)
+[Friday 04-October, 2024](https://getbible.net/kjv/2 Corinthians/10/14-16)
