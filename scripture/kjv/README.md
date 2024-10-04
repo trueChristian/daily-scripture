@@ -1,5 +1,5 @@
-**2 Corinthians 10:14-16**
+**John 2:17**
 
-14 For we stretch not ourselves beyond our measure, as though we reached not unto you: for we are come as far as to you also in preaching the gospel of Christ: 15 Not boasting of things without our measure, that is, of other men’s labours; but having hope, when your faith is increased, that we shall be enlarged by you according to our rule abundantly, 16 To preach the gospel in the regions beyond you, and not to boast in another man’s line of things made ready to our hand.
+17 And his disciples remembered that it was written, The zeal of thine house hath eaten me up.
 
-[Friday 04-October, 2024](https://getbible.net/kjv/2 Corinthians/10/14-16)
+[Saturday 05-October, 2024](https://getbible.net/kjv/John/2/17)
