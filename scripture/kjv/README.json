@@ -1,17 +1,25 @@
 {
-  "book": "John",
-  "chapter": "2",
-  "date": "Saturday 05-October, 2024",
-  "getbible": "https://getbible.net/kjv/John/2/17",
-  "name": "John 2:17",
+  "book": "Lamentations",
+  "chapter": "3",
+  "date": "Sunday 06-October, 2024",
+  "getbible": "https://getbible.net/kjv/Lamentations/3/31-33",
+  "name": "Lamentations 3:31-33",
   "scripture": [
     {
-      "nr": "17",
-      "text": "And his disciples remembered that it was written, The zeal of thine house hath eaten me up."
+      "nr": "31",
+      "text": "For the Lord will not cast off for ever:"
+    },
+    {
+      "nr": "32",
+      "text": "But though he cause grief, yet will he have compassion according to the multitude of his mercies."
+    },
+    {
+      "nr": "33",
+      "text": "For he doth not afflict willingly nor grieve the children of men."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "17",
+  "verse": "31-33",
   "version": "kjv"
 }
