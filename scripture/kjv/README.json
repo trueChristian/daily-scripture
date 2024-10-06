@@ -1,25 +1,17 @@
 {
-  "book": "Lamentations",
-  "chapter": "3",
-  "date": "Sunday 06-October, 2024",
-  "getbible": "https://getbible.net/kjv/Lamentations/3/31-33",
-  "name": "Lamentations 3:31-33",
+  "book": "Proverbs",
+  "chapter": "15",
+  "date": "Monday 07-October, 2024",
+  "getbible": "https://getbible.net/kjv/Proverbs/15/4",
+  "name": "Proverbs 15:4",
   "scripture": [
     {
-      "nr": "31",
-      "text": "For the Lord will not cast off for ever:"
-    },
-    {
-      "nr": "32",
-      "text": "But though he cause grief, yet will he have compassion according to the multitude of his mercies."
-    },
-    {
-      "nr": "33",
-      "text": "For he doth not afflict willingly nor grieve the children of men."
+      "nr": "4",
+      "text": "A wholesome tongue is a tree of life: but perverseness therein is a breach in the spirit."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "31-33",
+  "verse": "4",
   "version": "kjv"
 }
