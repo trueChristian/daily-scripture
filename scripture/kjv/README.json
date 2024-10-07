@@ -1,17 +1,25 @@
 {
-  "book": "Proverbs",
-  "chapter": "15",
-  "date": "Monday 07-October, 2024",
-  "getbible": "https://getbible.net/kjv/Proverbs/15/4",
-  "name": "Proverbs 15:4",
+  "book": "James",
+  "chapter": "3",
+  "date": "Tuesday 08-October, 2024",
+  "getbible": "https://getbible.net/kjv/James/3/10-12",
+  "name": "James 3:10-12",
   "scripture": [
     {
-      "nr": "4",
-      "text": "A wholesome tongue is a tree of life: but perverseness therein is a breach in the spirit."
+      "nr": "10",
+      "text": "Out of the same mouth proceedeth blessing and cursing. My brethren, these things ought not so to be."
+    },
+    {
+      "nr": "11",
+      "text": "Doth a fountain send forth at the same place sweet water and bitter?"
+    },
+    {
+      "nr": "12",
+      "text": "Can the fig tree, my brethren, bear olive berries? either a vine, figs? so can no fountain both yield salt water and fresh."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "4",
+  "verse": "10-12",
   "version": "kjv"
 }

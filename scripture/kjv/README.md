@@ -1,5 +1,5 @@
-**Proverbs 15:4**
+**James 3:10-12**
 
-4 A wholesome tongue is a tree of life: but perverseness therein is a breach in the spirit.
+10 Out of the same mouth proceedeth blessing and cursing. My brethren, these things ought not so to be. 11 Doth a fountain send forth at the same place sweet water and bitter? 12 Can the fig tree, my brethren, bear olive berries? either a vine, figs? so can no fountain both yield salt water and fresh.
 
-[Monday 07-October, 2024](https://getbible.net/kjv/Proverbs/15/4)
+[Tuesday 08-October, 2024](https://getbible.net/kjv/James/3/10-12)
