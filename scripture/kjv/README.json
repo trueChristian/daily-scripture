@@ -1,25 +1,17 @@
 {
-  "book": "James",
-  "chapter": "3",
-  "date": "Tuesday 08-October, 2024",
-  "getbible": "https://getbible.net/kjv/James/3/10-12",
-  "name": "James 3:10-12",
+  "book": "Proverbs",
+  "chapter": "22",
+  "date": "Wednesday 09-October, 2024",
+  "getbible": "https://getbible.net/kjv/Proverbs/22/15",
+  "name": "Proverbs 22:15",
   "scripture": [
     {
-      "nr": "10",
-      "text": "Out of the same mouth proceedeth blessing and cursing. My brethren, these things ought not so to be."
-    },
-    {
-      "nr": "11",
-      "text": "Doth a fountain send forth at the same place sweet water and bitter?"
-    },
-    {
-      "nr": "12",
-      "text": "Can the fig tree, my brethren, bear olive berries? either a vine, figs? so can no fountain both yield salt water and fresh."
+      "nr": "15",
+      "text": "Foolishness is bound in the heart of a child; but the rod of correction shall drive it far from him."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "10-12",
+  "verse": "15",
   "version": "kjv"
 }

@@ -1,5 +1,5 @@
-**James 3:10-12**
+**Proverbs 22:15**
 
-10 Out of the same mouth proceedeth blessing and cursing. My brethren, these things ought not so to be. 11 Doth a fountain send forth at the same place sweet water and bitter? 12 Can the fig tree, my brethren, bear olive berries? either a vine, figs? so can no fountain both yield salt water and fresh.
+15 Foolishness is bound in the heart of a child; but the rod of correction shall drive it far from him.
 
-[Tuesday 08-October, 2024](https://getbible.net/kjv/James/3/10-12)
+[Wednesday 09-October, 2024](https://getbible.net/kjv/Proverbs/22/15)
