@@ -1,5 +1,5 @@
-**Proverbs 22:15**
+**Jonah 2:9**
 
-15 Foolishness is bound in the heart of a child; but the rod of correction shall drive it far from him.
+9 But I will sacrifice unto thee with the voice of thanksgiving; I will pay that that I have vowed. Salvation is of the Lord.
 
-[Wednesday 09-October, 2024](https://getbible.net/kjv/Proverbs/22/15)
+[Thursday 10-October, 2024](https://getbible.net/kjv/Jonah/2/9)

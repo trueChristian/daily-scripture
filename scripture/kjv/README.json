@@ -1,17 +1,17 @@
 {
-  "book": "Proverbs",
-  "chapter": "22",
-  "date": "Wednesday 09-October, 2024",
-  "getbible": "https://getbible.net/kjv/Proverbs/22/15",
-  "name": "Proverbs 22:15",
+  "book": "Jonah",
+  "chapter": "2",
+  "date": "Thursday 10-October, 2024",
+  "getbible": "https://getbible.net/kjv/Jonah/2/9",
+  "name": "Jonah 2:9",
   "scripture": [
     {
-      "nr": "15",
-      "text": "Foolishness is bound in the heart of a child; but the rod of correction shall drive it far from him."
+      "nr": "9",
+      "text": "But I will sacrifice unto thee with the voice of thanksgiving; I will pay that that I have vowed. Salvation is of the Lord."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "15",
+  "verse": "9",
   "version": "kjv"
 }
