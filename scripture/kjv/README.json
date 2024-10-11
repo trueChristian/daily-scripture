@@ -1,17 +1,21 @@
 {
-  "book": "Romans",
-  "chapter": "8",
-  "date": "Friday 11-October, 2024",
-  "getbible": "https://getbible.net/kjv/Romans/8/25",
-  "name": "Romans 8:25",
+  "book": "Zechariah",
+  "chapter": "7",
+  "date": "Saturday 12-October, 2024",
+  "getbible": "https://getbible.net/kjv/Zechariah/7/9-10",
+  "name": "Zechariah 7:9-10",
   "scripture": [
     {
-      "nr": "25",
-      "text": "But if we hope for that we see not, then do we with patience wait for it. "
+      "nr": "9",
+      "text": "Thus speaketh the Lord of hosts, saying, Execute true judgment, and shew mercy and compassions every man to his brother:"
+    },
+    {
+      "nr": "10",
+      "text": "And oppress not the widow, nor the fatherless, the stranger, nor the poor; and let none of you imagine evil against his brother in your heart."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "25",
+  "verse": "9-10",
   "version": "kjv"
 }
