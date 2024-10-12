@@ -1,21 +1,17 @@
 {
-  "book": "Zechariah",
-  "chapter": "7",
-  "date": "Saturday 12-October, 2024",
-  "getbible": "https://getbible.net/kjv/Zechariah/7/9-10",
-  "name": "Zechariah 7:9-10",
+  "book": "Ezekiel",
+  "chapter": "44",
+  "date": "Sunday 13-October, 2024",
+  "getbible": "https://getbible.net/kjv/Ezekiel/44/28",
+  "name": "Ezekiel 44:28",
   "scripture": [
     {
-      "nr": "9",
-      "text": "Thus speaketh the Lord of hosts, saying, Execute true judgment, and shew mercy and compassions every man to his brother:"
-    },
-    {
-      "nr": "10",
-      "text": "And oppress not the widow, nor the fatherless, the stranger, nor the poor; and let none of you imagine evil against his brother in your heart."
+      "nr": "28",
+      "text": "And it shall be unto them for an inheritance: I am their inheritance: and ye shall give them no possession in Israel: I am their possession."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "9-10",
+  "verse": "28",
   "version": "kjv"
 }

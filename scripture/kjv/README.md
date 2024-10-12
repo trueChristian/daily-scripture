@@ -1,5 +1,5 @@
-**Zechariah 7:9-10**
+**Ezekiel 44:28**
 
-9 Thus speaketh the Lord of hosts, saying, Execute true judgment, and shew mercy and compassions every man to his brother: 10 And oppress not the widow, nor the fatherless, the stranger, nor the poor; and let none of you imagine evil against his brother in your heart.
+28 And it shall be unto them for an inheritance: I am their inheritance: and ye shall give them no possession in Israel: I am their possession.
 
-[Saturday 12-October, 2024](https://getbible.net/kjv/Zechariah/7/9-10)
+[Sunday 13-October, 2024](https://getbible.net/kjv/Ezekiel/44/28)
