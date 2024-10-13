@@ -1,5 +1,5 @@
-**Ezekiel 44:28**
+**1 John 4:4**
 
-28 And it shall be unto them for an inheritance: I am their inheritance: and ye shall give them no possession in Israel: I am their possession.
+4 Ye are of God, little children, and have overcome them: because greater is he that is in you, than he that is in the world.
 
-[Sunday 13-October, 2024](https://getbible.net/kjv/Ezekiel/44/28)
+[Monday 14-October, 2024](https://getbible.net/kjv/1 John/4/4)
