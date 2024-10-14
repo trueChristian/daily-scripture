@@ -1,17 +1,17 @@
 {
-  "book": "1 John",
-  "chapter": "4",
-  "date": "Monday 14-October, 2024",
-  "getbible": "https://getbible.net/kjv/1 John/4/4",
-  "name": "1 John 4:4",
+  "book": "Proverbs",
+  "chapter": "22",
+  "date": "Tuesday 15-October, 2024",
+  "getbible": "https://getbible.net/kjv/Proverbs/22/6",
+  "name": "Proverbs 22:6",
   "scripture": [
     {
-      "nr": "4",
-      "text": "Ye are of God, little children, and have overcome them: because greater is he that is in you, than he that is in the world."
+      "nr": "6",
+      "text": "Train up a child in the way he should go: and when he is old, he will not depart from it."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "4",
+  "verse": "6",
   "version": "kjv"
 }

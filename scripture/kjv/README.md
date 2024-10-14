@@ -1,5 +1,5 @@
-**1 John 4:4**
+**Proverbs 22:6**
 
-4 Ye are of God, little children, and have overcome them: because greater is he that is in you, than he that is in the world.
+6 Train up a child in the way he should go: and when he is old, he will not depart from it.
 
-[Monday 14-October, 2024](https://getbible.net/kjv/1 John/4/4)
+[Tuesday 15-October, 2024](https://getbible.net/kjv/Proverbs/22/6)
