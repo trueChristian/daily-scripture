@@ -1,5 +1,5 @@
-**Proverbs 22:6**
+**1 Corinthians 6:9-10**
 
-6 Train up a child in the way he should go: and when he is old, he will not depart from it.
+9 Know ye not that the unrighteous shall not inherit the kingdom of God? Be not deceived: neither fornicators, nor idolaters, nor adulterers, nor effeminate, nor abusers of themselves with mankind, 10 Nor thieves, nor covetous, nor drunkards, nor revilers, nor extortioners, shall inherit the kingdom of God.
 
-[Tuesday 15-October, 2024](https://getbible.net/kjv/Proverbs/22/6)
+[Wednesday 16-October, 2024](https://getbible.net/kjv/1 Corinthians/6/9-10)

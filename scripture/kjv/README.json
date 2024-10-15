@@ -1,17 +1,21 @@
 {
-  "book": "Proverbs",
-  "chapter": "22",
-  "date": "Tuesday 15-October, 2024",
-  "getbible": "https://getbible.net/kjv/Proverbs/22/6",
-  "name": "Proverbs 22:6",
+  "book": "1 Corinthians",
+  "chapter": "6",
+  "date": "Wednesday 16-October, 2024",
+  "getbible": "https://getbible.net/kjv/1 Corinthians/6/9-10",
+  "name": "1 Corinthians 6:9-10",
   "scripture": [
     {
-      "nr": "6",
-      "text": "Train up a child in the way he should go: and when he is old, he will not depart from it."
+      "nr": "9",
+      "text": "Know ye not that the unrighteous shall not inherit the kingdom of God? Be not deceived: neither fornicators, nor idolaters, nor adulterers, nor effeminate, nor abusers of themselves with mankind,"
+    },
+    {
+      "nr": "10",
+      "text": "Nor thieves, nor covetous, nor drunkards, nor revilers, nor extortioners, shall inherit the kingdom of God."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "6",
+  "verse": "9-10",
   "version": "kjv"
 }
