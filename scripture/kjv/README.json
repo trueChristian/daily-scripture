@@ -1,21 +1,17 @@
 {
-  "book": "1 Corinthians",
-  "chapter": "6",
-  "date": "Wednesday 16-October, 2024",
-  "getbible": "https://getbible.net/kjv/1 Corinthians/6/9-10",
-  "name": "1 Corinthians 6:9-10",
+  "book": "Proverbs",
+  "chapter": "12",
+  "date": "Thursday 17-October, 2024",
+  "getbible": "https://getbible.net/kjv/Proverbs/12/10",
+  "name": "Proverbs 12:10",
   "scripture": [
     {
-      "nr": "9",
-      "text": "Know ye not that the unrighteous shall not inherit the kingdom of God? Be not deceived: neither fornicators, nor idolaters, nor adulterers, nor effeminate, nor abusers of themselves with mankind,"
-    },
-    {
       "nr": "10",
-      "text": "Nor thieves, nor covetous, nor drunkards, nor revilers, nor extortioners, shall inherit the kingdom of God."
+      "text": "A righteous man regardeth the life of his beast: but the tender mercies of the wicked are cruel."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "9-10",
+  "verse": "10",
   "version": "kjv"
 }

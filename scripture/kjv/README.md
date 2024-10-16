@@ -1,5 +1,5 @@
-**1 Corinthians 6:9-10**
+**Proverbs 12:10**
 
-9 Know ye not that the unrighteous shall not inherit the kingdom of God? Be not deceived: neither fornicators, nor idolaters, nor adulterers, nor effeminate, nor abusers of themselves with mankind, 10 Nor thieves, nor covetous, nor drunkards, nor revilers, nor extortioners, shall inherit the kingdom of God.
+10 A righteous man regardeth the life of his beast: but the tender mercies of the wicked are cruel.
 
-[Wednesday 16-October, 2024](https://getbible.net/kjv/1 Corinthians/6/9-10)
+[Thursday 17-October, 2024](https://getbible.net/kjv/Proverbs/12/10)
