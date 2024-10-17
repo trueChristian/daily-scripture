@@ -1,17 +1,25 @@
 {
-  "book": "Proverbs",
-  "chapter": "12",
-  "date": "Thursday 17-October, 2024",
-  "getbible": "https://getbible.net/kjv/Proverbs/12/10",
-  "name": "Proverbs 12:10",
+  "book": "Isaiah",
+  "chapter": "55",
+  "date": "Friday 18-October, 2024",
+  "getbible": "https://getbible.net/kjv/Isaiah/55/1-3",
+  "name": "Isaiah 55:1-3",
   "scripture": [
     {
-      "nr": "10",
-      "text": "A righteous man regardeth the life of his beast: but the tender mercies of the wicked are cruel."
+      "nr": "1",
+      "text": "Ho, every one that thirsteth, come ye to the waters, and he that hath no money; come ye, buy, and eat; yea, come, buy wine and milk without money and without price."
+    },
+    {
+      "nr": "2",
+      "text": "Wherefore do ye spend money for that which is not bread? and your labour for that which satisfieth not? hearken diligently unto me, and eat ye that which is good, and let your soul delight itself in fatness."
+    },
+    {
+      "nr": "3",
+      "text": "Incline your ear, and come unto me: hear, and your soul shall live; and I will make an everlasting covenant with you, even the sure mercies of David."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "10",
+  "verse": "1-3",
   "version": "kjv"
 }
