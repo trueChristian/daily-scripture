@@ -1,5 +1,5 @@
-**Mark 12:10-11**
+**Luke 20:21**
 
-10 And have ye not read this scripture; The stone which the builders rejected is become the head of the corner: 11 This was the Lord’s doing, and it is marvellous in our eyes?
+21 And they asked him, saying, Master, we know that thou sayest and teachest rightly, neither acceptest thou the person of any, but teachest the way of God truly:
 
-[Sunday 20-October, 2024](https://getbible.net/kjv/Mark/12/10-11)
+[Monday 21-October, 2024](https://getbible.net/kjv/Luke/20/21)
