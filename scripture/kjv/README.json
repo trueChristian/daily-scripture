@@ -1,17 +1,17 @@
 {
-  "book": "Luke",
-  "chapter": "20",
-  "date": "Monday 21-October, 2024",
-  "getbible": "https://getbible.net/kjv/Luke/20/21",
-  "name": "Luke 20:21",
+  "book": "2 Timothy",
+  "chapter": "3",
+  "date": "Tuesday 22-October, 2024",
+  "getbible": "https://getbible.net/kjv/2 Timothy/3/5",
+  "name": "2 Timothy 3:5",
   "scripture": [
     {
-      "nr": "21",
-      "text": "And they asked him, saying, Master, we know that thou sayest and teachest rightly, neither acceptest thou the person of any, but teachest the way of God truly:"
+      "nr": "5",
+      "text": "Having a form of godliness, but denying the power thereof: from such turn away."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "21",
+  "verse": "5",
   "version": "kjv"
 }

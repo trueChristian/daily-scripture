@@ -1,5 +1,5 @@
-**Luke 20:21**
+**2 Timothy 3:5**
 
-21 And they asked him, saying, Master, we know that thou sayest and teachest rightly, neither acceptest thou the person of any, but teachest the way of God truly:
+5 Having a form of godliness, but denying the power thereof: from such turn away.
 
-[Monday 21-October, 2024](https://getbible.net/kjv/Luke/20/21)
+[Tuesday 22-October, 2024](https://getbible.net/kjv/2 Timothy/3/5)
