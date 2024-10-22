@@ -1,17 +1,29 @@
 {
-  "book": "2 Timothy",
-  "chapter": "3",
-  "date": "Tuesday 22-October, 2024",
-  "getbible": "https://getbible.net/kjv/2 Timothy/3/5",
-  "name": "2 Timothy 3:5",
+  "book": "1 Timothy",
+  "chapter": "2",
+  "date": "Wednesday 23-October, 2024",
+  "getbible": "https://getbible.net/kjv/1 Timothy/2/1-4",
+  "name": "1 Timothy 2:1-4",
   "scripture": [
     {
-      "nr": "5",
-      "text": "Having a form of godliness, but denying the power thereof: from such turn away."
+      "nr": "1",
+      "text": "I exhort therefore, that, first of all, supplications, prayers, intercessions, and giving of thanks, be made for all men;"
+    },
+    {
+      "nr": "2",
+      "text": "For kings, and for all that are in authority; that we may lead a quiet and peaceable life in all godliness and honesty."
+    },
+    {
+      "nr": "3",
+      "text": "For this is good and acceptable in the sight of God our Saviour;"
+    },
+    {
+      "nr": "4",
+      "text": "Who will have all men to be saved, and to come unto the knowledge of the truth."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "5",
+  "verse": "1-4",
   "version": "kjv"
 }
