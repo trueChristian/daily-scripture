@@ -1,29 +1,17 @@
 {
-  "book": "1 Timothy",
-  "chapter": "2",
-  "date": "Wednesday 23-October, 2024",
-  "getbible": "https://getbible.net/kjv/1 Timothy/2/1-4",
-  "name": "1 Timothy 2:1-4",
+  "book": "Hebrews",
+  "chapter": "6",
+  "date": "Thursday 24-October, 2024",
+  "getbible": "https://getbible.net/kjv/Hebrews/6/10",
+  "name": "Hebrews 6:10",
   "scripture": [
     {
-      "nr": "1",
-      "text": "I exhort therefore, that, first of all, supplications, prayers, intercessions, and giving of thanks, be made for all men;"
-    },
-    {
-      "nr": "2",
-      "text": "For kings, and for all that are in authority; that we may lead a quiet and peaceable life in all godliness and honesty."
-    },
-    {
-      "nr": "3",
-      "text": "For this is good and acceptable in the sight of God our Saviour;"
-    },
-    {
-      "nr": "4",
-      "text": "Who will have all men to be saved, and to come unto the knowledge of the truth."
+      "nr": "10",
+      "text": "For God is not unrighteous to forget your work and labour of love, which ye have shewed toward his name, in that ye have ministered to the saints, and do minister."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "1-4",
+  "verse": "10",
   "version": "kjv"
 }
