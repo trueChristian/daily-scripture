@@ -1,17 +1,17 @@
 {
-  "book": "Hebrews",
-  "chapter": "6",
-  "date": "Thursday 24-October, 2024",
-  "getbible": "https://getbible.net/kjv/Hebrews/6/10",
-  "name": "Hebrews 6:10",
+  "book": "2 Peter",
+  "chapter": "3",
+  "date": "Friday 25-October, 2024",
+  "getbible": "https://getbible.net/kjv/2 Peter/3/8",
+  "name": "2 Peter 3:8",
   "scripture": [
     {
-      "nr": "10",
-      "text": "For God is not unrighteous to forget your work and labour of love, which ye have shewed toward his name, in that ye have ministered to the saints, and do minister."
+      "nr": "8",
+      "text": "But, beloved, be not ignorant of this one thing, that one day is with the Lord as a thousand years, and a thousand years as one day."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "10",
+  "verse": "8",
   "version": "kjv"
 }

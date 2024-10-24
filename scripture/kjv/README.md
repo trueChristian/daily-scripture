@@ -1,5 +1,5 @@
-**Hebrews 6:10**
+**2 Peter 3:8**
 
-10 For God is not unrighteous to forget your work and labour of love, which ye have shewed toward his name, in that ye have ministered to the saints, and do minister.
+8 But, beloved, be not ignorant of this one thing, that one day is with the Lord as a thousand years, and a thousand years as one day.
 
-[Thursday 24-October, 2024](https://getbible.net/kjv/Hebrews/6/10)
+[Friday 25-October, 2024](https://getbible.net/kjv/2 Peter/3/8)
