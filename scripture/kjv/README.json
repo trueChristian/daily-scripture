@@ -1,17 +1,17 @@
 {
-  "book": "2 Peter",
-  "chapter": "3",
-  "date": "Friday 25-October, 2024",
-  "getbible": "https://getbible.net/kjv/2 Peter/3/8",
-  "name": "2 Peter 3:8",
+  "book": "John",
+  "chapter": "10",
+  "date": "Saturday 26-October, 2024",
+  "getbible": "https://getbible.net/kjv/John/10/16",
+  "name": "John 10:16",
   "scripture": [
     {
-      "nr": "8",
-      "text": "But, beloved, be not ignorant of this one thing, that one day is with the Lord as a thousand years, and a thousand years as one day."
+      "nr": "16",
+      "text": "And other sheep I have, which are not of this fold: them also I must bring, and they shall hear my voice; and there shall be one fold, and one shepherd."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "8",
+  "verse": "16",
   "version": "kjv"
 }

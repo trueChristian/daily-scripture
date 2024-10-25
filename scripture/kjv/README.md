@@ -1,5 +1,5 @@
-**2 Peter 3:8**
+**John 10:16**
 
-8 But, beloved, be not ignorant of this one thing, that one day is with the Lord as a thousand years, and a thousand years as one day.
+16 And other sheep I have, which are not of this fold: them also I must bring, and they shall hear my voice; and there shall be one fold, and one shepherd.
 
-[Friday 25-October, 2024](https://getbible.net/kjv/2 Peter/3/8)
+[Saturday 26-October, 2024](https://getbible.net/kjv/John/10/16)
