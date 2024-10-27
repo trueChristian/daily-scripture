@@ -1,17 +1,17 @@
 {
-  "book": "Jeremiah",
-  "chapter": "30",
-  "date": "Sunday 27-October, 2024",
-  "getbible": "https://getbible.net/kjv/Jeremiah/30/11",
-  "name": "Jeremiah 30:11",
+  "book": "John",
+  "chapter": "7",
+  "date": "Monday 28-October, 2024",
+  "getbible": "https://getbible.net/kjv/John/7/46",
+  "name": "John 7:46",
   "scripture": [
     {
-      "nr": "11",
-      "text": "For I am with thee, saith the Lord, to save thee: though I make a full end of all nations whither I have scattered thee, yet will I not make a full end of thee: but I will correct thee in measure, and will not leave thee altogether unpunished."
+      "nr": "46",
+      "text": "The officers answered, Never man spake like this man."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "11",
+  "verse": "46",
   "version": "kjv"
 }
