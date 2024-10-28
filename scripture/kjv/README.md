@@ -1,5 +1,5 @@
-**John 7:46**
+**1 Corinthians 9:11**
 
-46 The officers answered, Never man spake like this man.
+11 If we have sown unto you spiritual things, is it a great thing if we shall reap your carnal things?
 
-[Monday 28-October, 2024](https://getbible.net/kjv/John/7/46)
+[Tuesday 29-October, 2024](https://getbible.net/kjv/1 Corinthians/9/11)
