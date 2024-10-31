@@ -1,21 +1,25 @@
 {
-  "book": "Matthew",
-  "chapter": "21",
-  "date": "Thursday 31-October, 2024",
-  "getbible": "https://getbible.net/kjv/Matthew/21/31-32",
-  "name": "Matthew 21:31-32",
+  "book": "1 John",
+  "chapter": "2",
+  "date": "Friday 01-November, 2024",
+  "getbible": "https://getbible.net/kjv/1 John/2/4-6",
+  "name": "1 John 2:4-6",
   "scripture": [
     {
-      "nr": "31",
-      "text": "Whether of them twain did the will of his father? They say unto him, The first. Jesus saith unto them, Verily I say unto you, That the publicans and the harlots go into the kingdom of God before you."
+      "nr": "4",
+      "text": "He that saith, I know him, and keepeth not his commandments, is a liar, and the truth is not in him."
     },
     {
-      "nr": "32",
-      "text": "For John came unto you in the way of righteousness, and ye believed him not: but the publicans and the harlots believed him: and ye, when ye had seen it, repented not afterward, that ye might believe him."
+      "nr": "5",
+      "text": "But whoso keepeth his word, in him verily is the love of God perfected: hereby know we that we are in him."
+    },
+    {
+      "nr": "6",
+      "text": "He that saith he abideth in him ought himself also so to walk, even as he walked."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "31-32",
+  "verse": "4-6",
   "version": "kjv"
 }
