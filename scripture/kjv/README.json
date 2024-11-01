@@ -1,25 +1,17 @@
 {
-  "book": "1 John",
-  "chapter": "2",
-  "date": "Friday 01-November, 2024",
-  "getbible": "https://getbible.net/kjv/1 John/2/4-6",
-  "name": "1 John 2:4-6",
+  "book": "Proverbs",
+  "chapter": "25",
+  "date": "Saturday 02-November, 2024",
+  "getbible": "https://getbible.net/kjv/Proverbs/25/26",
+  "name": "Proverbs 25:26",
   "scripture": [
     {
-      "nr": "4",
-      "text": "He that saith, I know him, and keepeth not his commandments, is a liar, and the truth is not in him."
-    },
-    {
-      "nr": "5",
-      "text": "But whoso keepeth his word, in him verily is the love of God perfected: hereby know we that we are in him."
-    },
-    {
-      "nr": "6",
-      "text": "He that saith he abideth in him ought himself also so to walk, even as he walked."
+      "nr": "26",
+      "text": "A righteous man falling down before the wicked is as a troubled fountain, and a corrupt spring."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "4-6",
+  "verse": "26",
   "version": "kjv"
 }

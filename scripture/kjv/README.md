@@ -1,5 +1,5 @@
-**1 John 2:4-6**
+**Proverbs 25:26**
 
-4 He that saith, I know him, and keepeth not his commandments, is a liar, and the truth is not in him. 5 But whoso keepeth his word, in him verily is the love of God perfected: hereby know we that we are in him. 6 He that saith he abideth in him ought himself also so to walk, even as he walked.
+26 A righteous man falling down before the wicked is as a troubled fountain, and a corrupt spring.
 
-[Friday 01-November, 2024](https://getbible.net/kjv/1 John/2/4-6)
+[Saturday 02-November, 2024](https://getbible.net/kjv/Proverbs/25/26)
