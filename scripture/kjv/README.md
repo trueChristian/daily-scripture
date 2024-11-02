@@ -1,5 +1,5 @@
-**Proverbs 25:26**
+**Jude 1:3**
 
-26 A righteous man falling down before the wicked is as a troubled fountain, and a corrupt spring.
+3 Beloved, when I gave all diligence to write unto you of the common salvation, it was needful for me to write unto you, and exhort you that ye should earnestly contend for the faith which was once delivered unto the saints.
 
-[Saturday 02-November, 2024](https://getbible.net/kjv/Proverbs/25/26)
+[Sunday 03-November, 2024](https://getbible.net/kjv/Jude/1/3)
