@@ -1,5 +1,5 @@
-**Isaiah 30:22-23**
+**Matthew 15:12-14**
 
-22 Ye shall defile also the covering of thy graven images of silver, and the ornament of thy molten images of gold: thou shalt cast them away as a menstruous cloth; thou shalt say unto it, Get thee hence. 23 Then shall he give the rain of thy seed, that thou shalt sow the ground withal; and bread of the increase of the earth, and it shall be fat and plenteous: in that day shall thy cattle feed in large pastures.
+12 Then came his disciples, and said unto him, Knowest thou that the Pharisees were offended, after they heard this saying? 13 But he answered and said, Every plant, which my heavenly Father hath not planted, shall be rooted up. 14 Let them alone: they be blind leaders of the blind. And if the blind lead the blind, both shall fall into the ditch.
 
-[Monday 04-November, 2024](https://getbible.net/kjv/Isaiah/30/22-23)
+[Tuesday 05-November, 2024](https://getbible.net/kjv/Matthew/15/12-14)
