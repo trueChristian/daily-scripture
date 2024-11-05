@@ -1,25 +1,25 @@
 {
-  "book": "Matthew",
-  "chapter": "15",
-  "date": "Tuesday 05-November, 2024",
-  "getbible": "https://getbible.net/kjv/Matthew/15/12-14",
-  "name": "Matthew 15:12-14",
+  "book": "Luke",
+  "chapter": "21",
+  "date": "Wednesday 06-November, 2024",
+  "getbible": "https://getbible.net/kjv/Luke/21/17-19",
+  "name": "Luke 21:17-19",
   "scripture": [
     {
-      "nr": "12",
-      "text": "Then came his disciples, and said unto him, Knowest thou that the Pharisees were offended, after they heard this saying?"
+      "nr": "17",
+      "text": "And ye shall be hated of all men for my name’s sake."
     },
     {
-      "nr": "13",
-      "text": "But he answered and said, Every plant, which my heavenly Father hath not planted, shall be rooted up."
+      "nr": "18",
+      "text": "But there shall not an hair of your head perish."
     },
     {
-      "nr": "14",
-      "text": "Let them alone: they be blind leaders of the blind. And if the blind lead the blind, both shall fall into the ditch."
+      "nr": "19",
+      "text": "In your patience possess ye your souls."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "12-14",
+  "verse": "17-19",
   "version": "kjv"
 }
