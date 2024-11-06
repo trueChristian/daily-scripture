@@ -1,25 +1,17 @@
 {
-  "book": "Luke",
-  "chapter": "21",
-  "date": "Wednesday 06-November, 2024",
-  "getbible": "https://getbible.net/kjv/Luke/21/17-19",
-  "name": "Luke 21:17-19",
+  "book": "1 Corinthians",
+  "chapter": "12",
+  "date": "Thursday 07-November, 2024",
+  "getbible": "https://getbible.net/kjv/1 Corinthians/12/11",
+  "name": "1 Corinthians 12:11",
   "scripture": [
     {
-      "nr": "17",
-      "text": "And ye shall be hated of all men for my name’s sake."
-    },
-    {
-      "nr": "18",
-      "text": "But there shall not an hair of your head perish."
-    },
-    {
-      "nr": "19",
-      "text": "In your patience possess ye your souls."
+      "nr": "11",
+      "text": "But all these worketh that one and the selfsame Spirit, dividing to every man severally as he will."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "17-19",
+  "verse": "11",
   "version": "kjv"
 }
