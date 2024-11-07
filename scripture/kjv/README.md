@@ -1,5 +1,5 @@
-**1 Corinthians 12:11**
+**1 Corinthians 10:23**
 
-11 But all these worketh that one and the selfsame Spirit, dividing to every man severally as he will.
+23 All things are lawful for me, but all things are not expedient: all things are lawful for me, but all things edify not.
 
-[Thursday 07-November, 2024](https://getbible.net/kjv/1 Corinthians/12/11)
+[Friday 08-November, 2024](https://getbible.net/kjv/1 Corinthians/10/23)

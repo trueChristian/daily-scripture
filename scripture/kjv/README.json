@@ -1,17 +1,17 @@
 {
   "book": "1 Corinthians",
-  "chapter": "12",
-  "date": "Thursday 07-November, 2024",
-  "getbible": "https://getbible.net/kjv/1 Corinthians/12/11",
-  "name": "1 Corinthians 12:11",
+  "chapter": "10",
+  "date": "Friday 08-November, 2024",
+  "getbible": "https://getbible.net/kjv/1 Corinthians/10/23",
+  "name": "1 Corinthians 10:23",
   "scripture": [
     {
-      "nr": "11",
-      "text": "But all these worketh that one and the selfsame Spirit, dividing to every man severally as he will."
+      "nr": "23",
+      "text": "All things are lawful for me, but all things are not expedient: all things are lawful for me, but all things edify not."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "11",
+  "verse": "23",
   "version": "kjv"
 }
