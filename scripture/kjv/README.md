@@ -1,5 +1,5 @@
-**Proverbs 3:1-2**
+**1 John 2:9-11**
 
-1 My son, forget not my law; but let thine heart keep my commandments: 2 For length of days, and long life, and peace, shall they add to thee.
+9 He that saith he is in the light, and hateth his brother, is in darkness even until now. 10 He that loveth his brother abideth in the light, and there is none occasion of stumbling in him. 11 But he that hateth his brother is in darkness, and walketh in darkness, and knoweth not whither he goeth, because that darkness hath blinded his eyes.
 
-[Sunday 10-November, 2024](https://getbible.net/kjv/Proverbs/3/1-2)
+[Monday 11-November, 2024](https://getbible.net/kjv/1 John/2/9-11)

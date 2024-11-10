@@ -1,21 +1,25 @@
 {
-  "book": "Proverbs",
-  "chapter": "3",
-  "date": "Sunday 10-November, 2024",
-  "getbible": "https://getbible.net/kjv/Proverbs/3/1-2",
-  "name": "Proverbs 3:1-2",
+  "book": "1 John",
+  "chapter": "2",
+  "date": "Monday 11-November, 2024",
+  "getbible": "https://getbible.net/kjv/1 John/2/9-11",
+  "name": "1 John 2:9-11",
   "scripture": [
     {
-      "nr": "1",
-      "text": "My son, forget not my law; but let thine heart keep my commandments:"
+      "nr": "9",
+      "text": "He that saith he is in the light, and hateth his brother, is in darkness even until now."
     },
     {
-      "nr": "2",
-      "text": "For length of days, and long life, and peace, shall they add to thee."
+      "nr": "10",
+      "text": "He that loveth his brother abideth in the light, and there is none occasion of stumbling in him."
+    },
+    {
+      "nr": "11",
+      "text": "But he that hateth his brother is in darkness, and walketh in darkness, and knoweth not whither he goeth, because that darkness hath blinded his eyes."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "1-2",
+  "verse": "9-11",
   "version": "kjv"
 }
