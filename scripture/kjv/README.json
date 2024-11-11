@@ -1,25 +1,17 @@
 {
-  "book": "1 John",
-  "chapter": "2",
-  "date": "Monday 11-November, 2024",
-  "getbible": "https://getbible.net/kjv/1 John/2/9-11",
-  "name": "1 John 2:9-11",
+  "book": "Matthew",
+  "chapter": "6",
+  "date": "Tuesday 12-November, 2024",
+  "getbible": "https://getbible.net/kjv/Matthew/6/24",
+  "name": "Matthew 6:24",
   "scripture": [
     {
-      "nr": "9",
-      "text": "He that saith he is in the light, and hateth his brother, is in darkness even until now."
-    },
-    {
-      "nr": "10",
-      "text": "He that loveth his brother abideth in the light, and there is none occasion of stumbling in him."
-    },
-    {
-      "nr": "11",
-      "text": "But he that hateth his brother is in darkness, and walketh in darkness, and knoweth not whither he goeth, because that darkness hath blinded his eyes."
+      "nr": "24",
+      "text": "No man can serve two masters: for either he will hate the one, and love the other; or else he will hold to the one, and despise the other. Ye cannot serve God and mammon."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "9-11",
+  "verse": "24",
   "version": "kjv"
 }

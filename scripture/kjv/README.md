@@ -1,5 +1,5 @@
-**1 John 2:9-11**
+**Matthew 6:24**
 
-9 He that saith he is in the light, and hateth his brother, is in darkness even until now. 10 He that loveth his brother abideth in the light, and there is none occasion of stumbling in him. 11 But he that hateth his brother is in darkness, and walketh in darkness, and knoweth not whither he goeth, because that darkness hath blinded his eyes.
+24 No man can serve two masters: for either he will hate the one, and love the other; or else he will hold to the one, and despise the other. Ye cannot serve God and mammon.
 
-[Monday 11-November, 2024](https://getbible.net/kjv/1 John/2/9-11)
+[Tuesday 12-November, 2024](https://getbible.net/kjv/Matthew/6/24)
