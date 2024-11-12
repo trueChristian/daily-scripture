@@ -1,17 +1,25 @@
 {
   "book": "Matthew",
-  "chapter": "6",
-  "date": "Tuesday 12-November, 2024",
-  "getbible": "https://getbible.net/kjv/Matthew/6/24",
-  "name": "Matthew 6:24",
+  "chapter": "13",
+  "date": "Wednesday 13-November, 2024",
+  "getbible": "https://getbible.net/kjv/Matthew/13/41-43",
+  "name": "Matthew 13:41-43",
   "scripture": [
     {
-      "nr": "24",
-      "text": "No man can serve two masters: for either he will hate the one, and love the other; or else he will hold to the one, and despise the other. Ye cannot serve God and mammon."
+      "nr": "41",
+      "text": "The Son of man shall send forth his angels, and they shall gather out of his kingdom all things that offend, and them which do iniquity;"
+    },
+    {
+      "nr": "42",
+      "text": "And shall cast them into a furnace of fire: there shall be wailing and gnashing of teeth."
+    },
+    {
+      "nr": "43",
+      "text": "Then shall the righteous shine forth as the sun in the kingdom of their Father. Who hath ears to hear, let him hear."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "24",
+  "verse": "41-43",
   "version": "kjv"
 }
