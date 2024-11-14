@@ -1,5 +1,5 @@
-**Nehemiah 4:17**
+**1 Corinthians 6:7**
 
-17 They which builded on the wall, and they that bare burdens, with those that laded, every one with one of his hands wrought in the work, and with the other hand held a weapon.
+7 Now therefore there is utterly a fault among you, because ye go to law one with another. Why do ye not rather take wrong? why do ye not rather suffer yourselves to be defrauded?
 
-[Thursday 14-November, 2024](https://getbible.net/kjv/Nehemiah/4/17)
+[Friday 15-November, 2024](https://getbible.net/kjv/1 Corinthians/6/7)
