@@ -1,17 +1,21 @@
 {
-  "book": "1 Corinthians",
-  "chapter": "6",
-  "date": "Friday 15-November, 2024",
-  "getbible": "https://getbible.net/kjv/1 Corinthians/6/7",
-  "name": "1 Corinthians 6:7",
+  "book": "John",
+  "chapter": "15",
+  "date": "Saturday 16-November, 2024",
+  "getbible": "https://getbible.net/kjv/John/15/18-19",
+  "name": "John 15:18-19",
   "scripture": [
     {
-      "nr": "7",
-      "text": "Now therefore there is utterly a fault among you, because ye go to law one with another. Why do ye not rather take wrong? why do ye not rather suffer yourselves to be defrauded?"
+      "nr": "18",
+      "text": "If the world hate you, ye know that it hated me before it hated you."
+    },
+    {
+      "nr": "19",
+      "text": "If ye were of the world, the world would love his own: but because ye are not of the world, but I have chosen you out of the world, therefore the world hateth you."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "7",
+  "verse": "18-19",
   "version": "kjv"
 }

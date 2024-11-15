@@ -1,5 +1,5 @@
-**1 Corinthians 6:7**
+**John 15:18-19**
 
-7 Now therefore there is utterly a fault among you, because ye go to law one with another. Why do ye not rather take wrong? why do ye not rather suffer yourselves to be defrauded?
+18 If the world hate you, ye know that it hated me before it hated you. 19 If ye were of the world, the world would love his own: but because ye are not of the world, but I have chosen you out of the world, therefore the world hateth you.
 
-[Friday 15-November, 2024](https://getbible.net/kjv/1 Corinthians/6/7)
+[Saturday 16-November, 2024](https://getbible.net/kjv/John/15/18-19)
