@@ -1,5 +1,5 @@
-**John 15:18-19**
+**Nehemiah 6:9**
 
-18 If the world hate you, ye know that it hated me before it hated you. 19 If ye were of the world, the world would love his own: but because ye are not of the world, but I have chosen you out of the world, therefore the world hateth you.
+9 For they all made us afraid, saying, Their hands shall be weakened from the work, that it be not done. Now therefore, O God, strengthen my hands.
 
-[Saturday 16-November, 2024](https://getbible.net/kjv/John/15/18-19)
+[Sunday 17-November, 2024](https://getbible.net/kjv/Nehemiah/6/9)
