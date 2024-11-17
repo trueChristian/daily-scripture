@@ -1,5 +1,5 @@
-**Nehemiah 6:9**
+**Romans 1:5**
 
-9 For they all made us afraid, saying, Their hands shall be weakened from the work, that it be not done. Now therefore, O God, strengthen my hands.
+5 By whom we have received grace and apostleship, for obedience to the faith among all nations, for his name:
 
-[Sunday 17-November, 2024](https://getbible.net/kjv/Nehemiah/6/9)
+[Monday 18-November, 2024](https://getbible.net/kjv/Romans/1/5)

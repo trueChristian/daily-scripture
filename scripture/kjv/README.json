@@ -1,17 +1,17 @@
 {
-  "book": "Nehemiah",
-  "chapter": "6",
-  "date": "Sunday 17-November, 2024",
-  "getbible": "https://getbible.net/kjv/Nehemiah/6/9",
-  "name": "Nehemiah 6:9",
+  "book": "Romans",
+  "chapter": "1",
+  "date": "Monday 18-November, 2024",
+  "getbible": "https://getbible.net/kjv/Romans/1/5",
+  "name": "Romans 1:5",
   "scripture": [
     {
-      "nr": "9",
-      "text": "For they all made us afraid, saying, Their hands shall be weakened from the work, that it be not done. Now therefore, O God, strengthen my hands."
+      "nr": "5",
+      "text": "By whom we have received grace and apostleship, for obedience to the faith among all nations, for his name:"
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "9",
+  "verse": "5",
   "version": "kjv"
 }
