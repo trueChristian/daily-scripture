@@ -1,5 +1,5 @@
-**Romans 1:5**
+**1 John 1:3**
 
-5 By whom we have received grace and apostleship, for obedience to the faith among all nations, for his name:
+3 That which we have seen and heard declare we unto you, that ye also may have fellowship with us: and truly our fellowship is with the Father, and with his Son Jesus Christ.
 
-[Monday 18-November, 2024](https://getbible.net/kjv/Romans/1/5)
+[Tuesday 19-November, 2024](https://getbible.net/kjv/1 John/1/3)
