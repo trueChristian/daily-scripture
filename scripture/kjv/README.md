@@ -1,5 +1,5 @@
-**1 John 1:3**
+**Revelation 21:8**
 
-3 That which we have seen and heard declare we unto you, that ye also may have fellowship with us: and truly our fellowship is with the Father, and with his Son Jesus Christ.
+8 But the fearful, and unbelieving, and the abominable, and murderers, and whoremongers, and sorcerers, and idolaters, and all liars, shall have their part in the lake which burneth with fire and brimstone: which is the second death.
 
-[Tuesday 19-November, 2024](https://getbible.net/kjv/1 John/1/3)
+[Wednesday 20-November, 2024](https://getbible.net/kjv/Revelation/21/8)
