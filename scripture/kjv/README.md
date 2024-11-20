@@ -1,5 +1,5 @@
-**Revelation 21:8**
+**Hosea 9:15**
 
-8 But the fearful, and unbelieving, and the abominable, and murderers, and whoremongers, and sorcerers, and idolaters, and all liars, shall have their part in the lake which burneth with fire and brimstone: which is the second death.
+15 All their wickedness is in Gilgal: for there I hated them: for the wickedness of their doings I will drive them out of mine house, I will love them no more: all their princes are revolters.
 
-[Wednesday 20-November, 2024](https://getbible.net/kjv/Revelation/21/8)
+[Thursday 21-November, 2024](https://getbible.net/kjv/Hosea/9/15)
