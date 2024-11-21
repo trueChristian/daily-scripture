@@ -1,17 +1,21 @@
 {
-  "book": "Hosea",
-  "chapter": "9",
-  "date": "Thursday 21-November, 2024",
-  "getbible": "https://getbible.net/kjv/Hosea/9/15",
-  "name": "Hosea 9:15",
+  "book": "Colossians",
+  "chapter": "3",
+  "date": "Friday 22-November, 2024",
+  "getbible": "https://getbible.net/kjv/Colossians/3/12-13",
+  "name": "Colossians 3:12-13",
   "scripture": [
     {
-      "nr": "15",
-      "text": "All their wickedness is in Gilgal: for there I hated them: for the wickedness of their doings I will drive them out of mine house, I will love them no more: all their princes are revolters."
+      "nr": "12",
+      "text": "Put on therefore, as the elect of God, holy and beloved, bowels of mercies, kindness, humbleness of mind, meekness, longsuffering;"
+    },
+    {
+      "nr": "13",
+      "text": "Forbearing one another, and forgiving one another, if any man have a quarrel against any: even as Christ forgave you, so also do ye."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "15",
+  "verse": "12-13",
   "version": "kjv"
 }
