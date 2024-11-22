@@ -1,5 +1,5 @@
-**Colossians 3:12-13**
+**2 Kings 17:9**
 
-12 Put on therefore, as the elect of God, holy and beloved, bowels of mercies, kindness, humbleness of mind, meekness, longsuffering; 13 Forbearing one another, and forgiving one another, if any man have a quarrel against any: even as Christ forgave you, so also do ye.
+9 And the children of Israel did secretly those things that were not right against the Lord their God, and they built them high places in all their cities, from the tower of the watchmen to the fenced city.
 
-[Friday 22-November, 2024](https://getbible.net/kjv/Colossians/3/12-13)
+[Saturday 23-November, 2024](https://getbible.net/kjv/2 Kings/17/9)
