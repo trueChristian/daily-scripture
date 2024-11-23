@@ -1,5 +1,5 @@
-**2 Kings 17:9**
+**Daniel 4:30-31**
 
-9 And the children of Israel did secretly those things that were not right against the Lord their God, and they built them high places in all their cities, from the tower of the watchmen to the fenced city.
+30 The king spake, and said, Is not this great Babylon, that I have built for the house of the kingdom by the might of my power, and for the honour of my majesty? 31 While the word was in the king’s mouth, there fell a voice from heaven, saying, O king Nebuchadnezzar, to thee it is spoken; The kingdom is departed from thee.
 
-[Saturday 23-November, 2024](https://getbible.net/kjv/2 Kings/17/9)
+[Sunday 24-November, 2024](https://getbible.net/kjv/Daniel/4/30-31)

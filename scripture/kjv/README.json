@@ -1,17 +1,21 @@
 {
-  "book": "2 Kings",
-  "chapter": "17",
-  "date": "Saturday 23-November, 2024",
-  "getbible": "https://getbible.net/kjv/2 Kings/17/9",
-  "name": "2 Kings 17:9",
+  "book": "Daniel",
+  "chapter": "4",
+  "date": "Sunday 24-November, 2024",
+  "getbible": "https://getbible.net/kjv/Daniel/4/30-31",
+  "name": "Daniel 4:30-31",
   "scripture": [
     {
-      "nr": "9",
-      "text": "And the children of Israel did secretly those things that were not right against the Lord their God, and they built them high places in all their cities, from the tower of the watchmen to the fenced city."
+      "nr": "30",
+      "text": "The king spake, and said, Is not this great Babylon, that I have built for the house of the kingdom by the might of my power, and for the honour of my majesty?"
+    },
+    {
+      "nr": "31",
+      "text": "While the word was in the king’s mouth, there fell a voice from heaven, saying, O king Nebuchadnezzar, to thee it is spoken; The kingdom is departed from thee."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "9",
+  "verse": "30-31",
   "version": "kjv"
 }
