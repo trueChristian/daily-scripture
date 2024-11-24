@@ -1,5 +1,5 @@
-**Daniel 4:30-31**
+**1 Timothy 1:5-6**
 
-30 The king spake, and said, Is not this great Babylon, that I have built for the house of the kingdom by the might of my power, and for the honour of my majesty? 31 While the word was in the king’s mouth, there fell a voice from heaven, saying, O king Nebuchadnezzar, to thee it is spoken; The kingdom is departed from thee.
+5 Now the end of the commandment is charity out of a pure heart, and of a good conscience, and of faith unfeigned: 6 From which some having swerved have turned aside unto vain jangling;
 
-[Sunday 24-November, 2024](https://getbible.net/kjv/Daniel/4/30-31)
+[Monday 25-November, 2024](https://getbible.net/kjv/1 Timothy/1/5-6)

@@ -1,21 +1,21 @@
 {
-  "book": "Daniel",
-  "chapter": "4",
-  "date": "Sunday 24-November, 2024",
-  "getbible": "https://getbible.net/kjv/Daniel/4/30-31",
-  "name": "Daniel 4:30-31",
+  "book": "1 Timothy",
+  "chapter": "1",
+  "date": "Monday 25-November, 2024",
+  "getbible": "https://getbible.net/kjv/1 Timothy/1/5-6",
+  "name": "1 Timothy 1:5-6",
   "scripture": [
     {
-      "nr": "30",
-      "text": "The king spake, and said, Is not this great Babylon, that I have built for the house of the kingdom by the might of my power, and for the honour of my majesty?"
+      "nr": "5",
+      "text": "Now the end of the commandment is charity out of a pure heart, and of a good conscience, and of faith unfeigned:"
     },
     {
-      "nr": "31",
-      "text": "While the word was in the king’s mouth, there fell a voice from heaven, saying, O king Nebuchadnezzar, to thee it is spoken; The kingdom is departed from thee."
+      "nr": "6",
+      "text": "From which some having swerved have turned aside unto vain jangling;"
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "30-31",
+  "verse": "5-6",
   "version": "kjv"
 }
