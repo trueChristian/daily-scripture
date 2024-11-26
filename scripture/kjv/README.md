@@ -1,5 +1,5 @@
-**Ezra 8:22-23**
+**Psalms 44:3**
 
-22 For I was ashamed to require of the king a band of soldiers and horsemen to help us against the enemy in the way: because we had spoken unto the king, saying, The hand of our God is upon all them for good that seek him; but his power and his wrath is against all them that forsake him. 23 So we fasted and besought our God for this: and he was intreated of us.
+3 For they got not the land in possession by their own sword, neither did their own arm save them: but thy right hand, and thine arm, and the light of thy countenance, because thou hadst a favour unto them.
 
-[Tuesday 26-November, 2024](https://getbible.net/kjv/Ezra/8/22-23)
+[Wednesday 27-November, 2024](https://getbible.net/kjv/Psalms/44/3)
