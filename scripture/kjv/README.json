@@ -1,17 +1,17 @@
 {
-  "book": "Psalms",
-  "chapter": "44",
-  "date": "Wednesday 27-November, 2024",
-  "getbible": "https://getbible.net/kjv/Psalms/44/3",
-  "name": "Psalms 44:3",
+  "book": "Proverbs",
+  "chapter": "25",
+  "date": "Thursday 28-November, 2024",
+  "getbible": "https://getbible.net/kjv/Proverbs/25/14",
+  "name": "Proverbs 25:14",
   "scripture": [
     {
-      "nr": "3",
-      "text": "For they got not the land in possession by their own sword, neither did their own arm save them: but thy right hand, and thine arm, and the light of thy countenance, because thou hadst a favour unto them."
+      "nr": "14",
+      "text": "Whoso boasteth himself of a false gift is like clouds and wind without rain."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "3",
+  "verse": "14",
   "version": "kjv"
 }
