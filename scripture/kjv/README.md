@@ -1,5 +1,5 @@
-**Proverbs 25:14**
+**Hosea 6:4**
 
-14 Whoso boasteth himself of a false gift is like clouds and wind without rain.
+4 O Ephraim, what shall I do unto thee? O Judah, what shall I do unto thee? for your goodness is as a morning cloud, and as the early dew it goeth away.
 
-[Thursday 28-November, 2024](https://getbible.net/kjv/Proverbs/25/14)
+[Friday 29-November, 2024](https://getbible.net/kjv/Hosea/6/4)

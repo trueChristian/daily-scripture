@@ -1,17 +1,17 @@
 {
-  "book": "Proverbs",
-  "chapter": "25",
-  "date": "Thursday 28-November, 2024",
-  "getbible": "https://getbible.net/kjv/Proverbs/25/14",
-  "name": "Proverbs 25:14",
+  "book": "Hosea",
+  "chapter": "6",
+  "date": "Friday 29-November, 2024",
+  "getbible": "https://getbible.net/kjv/Hosea/6/4",
+  "name": "Hosea 6:4",
   "scripture": [
     {
-      "nr": "14",
-      "text": "Whoso boasteth himself of a false gift is like clouds and wind without rain."
+      "nr": "4",
+      "text": "O Ephraim, what shall I do unto thee? O Judah, what shall I do unto thee? for your goodness is as a morning cloud, and as the early dew it goeth away."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "14",
+  "verse": "4",
   "version": "kjv"
 }
