@@ -1,17 +1,21 @@
 {
-  "book": "Hosea",
-  "chapter": "6",
-  "date": "Friday 29-November, 2024",
-  "getbible": "https://getbible.net/kjv/Hosea/6/4",
-  "name": "Hosea 6:4",
+  "book": "Isaiah",
+  "chapter": "55",
+  "date": "Saturday 30-November, 2024",
+  "getbible": "https://getbible.net/kjv/Isaiah/55/12-13",
+  "name": "Isaiah 55:12-13",
   "scripture": [
     {
-      "nr": "4",
-      "text": "O Ephraim, what shall I do unto thee? O Judah, what shall I do unto thee? for your goodness is as a morning cloud, and as the early dew it goeth away."
+      "nr": "12",
+      "text": "For ye shall go out with joy, and be led forth with peace: the mountains and the hills shall break forth before you into singing, and all the trees of the field shall clap their hands."
+    },
+    {
+      "nr": "13",
+      "text": "Instead of the thorn shall come up the fir tree, and instead of the brier shall come up the myrtle tree: and it shall be to the Lord for a name, for an everlasting sign that shall not be cut off. "
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "4",
+  "verse": "12-13",
   "version": "kjv"
 }
