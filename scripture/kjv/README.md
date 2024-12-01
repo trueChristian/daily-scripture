@@ -1,5 +1,5 @@
-**Isaiah 62:12**
+**John 3:11**
 
-12 And they shall call them, The holy people, The redeemed of the Lord: and thou shalt be called, Sought out, A city not forsaken. 
+11 Verily, verily, I say unto thee, We speak that we do know, and testify that we have seen; and ye receive not our witness.
 
-[Sunday 01-December, 2024](https://getbible.net/kjv/Isaiah/62/12)
+[Monday 02-December, 2024](https://getbible.net/kjv/John/3/11)

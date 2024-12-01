@@ -1,17 +1,17 @@
 {
-  "book": "Isaiah",
-  "chapter": "62",
-  "date": "Sunday 01-December, 2024",
-  "getbible": "https://getbible.net/kjv/Isaiah/62/12",
-  "name": "Isaiah 62:12",
+  "book": "John",
+  "chapter": "3",
+  "date": "Monday 02-December, 2024",
+  "getbible": "https://getbible.net/kjv/John/3/11",
+  "name": "John 3:11",
   "scripture": [
     {
-      "nr": "12",
-      "text": "And they shall call them, The holy people, The redeemed of the Lord: and thou shalt be called, Sought out, A city not forsaken. "
+      "nr": "11",
+      "text": "Verily, verily, I say unto thee, We speak that we do know, and testify that we have seen; and ye receive not our witness."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "12",
+  "verse": "11",
   "version": "kjv"
 }
