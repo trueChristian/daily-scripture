@@ -1,5 +1,5 @@
-**John 3:11**
+**1 Thessalonians 5:23-24**
 
-11 Verily, verily, I say unto thee, We speak that we do know, and testify that we have seen; and ye receive not our witness.
+23 And the very God of peace sanctify you wholly; and I pray God your whole spirit and soul and body be preserved blameless unto the coming of our Lord Jesus Christ. 24 Faithful is he that calleth you, who also will do it.
 
-[Monday 02-December, 2024](https://getbible.net/kjv/John/3/11)
+[Tuesday 03-December, 2024](https://getbible.net/kjv/1 Thessalonians/5/23-24)
