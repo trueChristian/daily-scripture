@@ -1,5 +1,5 @@
-**Ezekiel 34:2**
+**Psalms 121:3-4**
 
-2 Son of man, prophesy against the shepherds of Israel, prophesy, and say unto them, Thus saith the Lord God unto the shepherds; Woe be to the shepherds of Israel that do feed themselves! should not the shepherds feed the flocks?
+3 He will not suffer thy foot to be moved: he that keepeth thee will not slumber. 4 Behold, he that keepeth Israel shall neither slumber nor sleep.
 
-[Wednesday 04-December, 2024](https://getbible.net/kjv/Ezekiel/34/2)
+[Thursday 05-December, 2024](https://getbible.net/kjv/Psalms/121/3-4)
