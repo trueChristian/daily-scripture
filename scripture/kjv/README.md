@@ -1,5 +1,5 @@
-**Psalms 121:3-4**
+**Psalms 149:5-6**
 
-3 He will not suffer thy foot to be moved: he that keepeth thee will not slumber. 4 Behold, he that keepeth Israel shall neither slumber nor sleep.
+5 Let the saints be joyful in glory: let them sing aloud upon their beds. 6 Let the high praises of God be in their mouth, and a twoedged sword in their hand;
 
-[Thursday 05-December, 2024](https://getbible.net/kjv/Psalms/121/3-4)
+[Friday 06-December, 2024](https://getbible.net/kjv/Psalms/149/5-6)

@@ -1,21 +1,21 @@
 {
   "book": "Psalms",
-  "chapter": "121",
-  "date": "Thursday 05-December, 2024",
-  "getbible": "https://getbible.net/kjv/Psalms/121/3-4",
-  "name": "Psalms 121:3-4",
+  "chapter": "149",
+  "date": "Friday 06-December, 2024",
+  "getbible": "https://getbible.net/kjv/Psalms/149/5-6",
+  "name": "Psalms 149:5-6",
   "scripture": [
     {
-      "nr": "3",
-      "text": "He will not suffer thy foot to be moved: he that keepeth thee will not slumber."
+      "nr": "5",
+      "text": "Let the saints be joyful in glory: let them sing aloud upon their beds."
     },
     {
-      "nr": "4",
-      "text": "Behold, he that keepeth Israel shall neither slumber nor sleep."
+      "nr": "6",
+      "text": "Let the high praises of God be in their mouth, and a twoedged sword in their hand;"
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "3-4",
+  "verse": "5-6",
   "version": "kjv"
 }
