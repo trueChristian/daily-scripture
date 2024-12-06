@@ -1,21 +1,17 @@
 {
-  "book": "Psalms",
-  "chapter": "149",
-  "date": "Friday 06-December, 2024",
-  "getbible": "https://getbible.net/kjv/Psalms/149/5-6",
-  "name": "Psalms 149:5-6",
+  "book": "Proverbs",
+  "chapter": "31",
+  "date": "Saturday 07-December, 2024",
+  "getbible": "https://getbible.net/kjv/Proverbs/31/20",
+  "name": "Proverbs 31:20",
   "scripture": [
     {
-      "nr": "5",
-      "text": "Let the saints be joyful in glory: let them sing aloud upon their beds."
-    },
-    {
-      "nr": "6",
-      "text": "Let the high praises of God be in their mouth, and a twoedged sword in their hand;"
+      "nr": "20",
+      "text": "She stretcheth out her hand to the poor; yea, she reacheth forth her hands to the needy."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "5-6",
+  "verse": "20",
   "version": "kjv"
 }

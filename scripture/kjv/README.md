@@ -1,5 +1,5 @@
-**Psalms 149:5-6**
+**Proverbs 31:20**
 
-5 Let the saints be joyful in glory: let them sing aloud upon their beds. 6 Let the high praises of God be in their mouth, and a twoedged sword in their hand;
+20 She stretcheth out her hand to the poor; yea, she reacheth forth her hands to the needy.
 
-[Friday 06-December, 2024](https://getbible.net/kjv/Psalms/149/5-6)
+[Saturday 07-December, 2024](https://getbible.net/kjv/Proverbs/31/20)
