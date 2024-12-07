@@ -1,5 +1,5 @@
-**Proverbs 31:20**
+**Proverbs 19:17**
 
-20 She stretcheth out her hand to the poor; yea, she reacheth forth her hands to the needy.
+17 He that hath pity upon the poor lendeth unto the Lord; and that which he hath given will he pay him again.
 
-[Saturday 07-December, 2024](https://getbible.net/kjv/Proverbs/31/20)
+[Sunday 08-December, 2024](https://getbible.net/kjv/Proverbs/19/17)

@@ -1,17 +1,17 @@
 {
   "book": "Proverbs",
-  "chapter": "31",
-  "date": "Saturday 07-December, 2024",
-  "getbible": "https://getbible.net/kjv/Proverbs/31/20",
-  "name": "Proverbs 31:20",
+  "chapter": "19",
+  "date": "Sunday 08-December, 2024",
+  "getbible": "https://getbible.net/kjv/Proverbs/19/17",
+  "name": "Proverbs 19:17",
   "scripture": [
     {
-      "nr": "20",
-      "text": "She stretcheth out her hand to the poor; yea, she reacheth forth her hands to the needy."
+      "nr": "17",
+      "text": "He that hath pity upon the poor lendeth unto the Lord; and that which he hath given will he pay him again."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "20",
+  "verse": "17",
   "version": "kjv"
 }
