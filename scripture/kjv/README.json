@@ -1,17 +1,17 @@
 {
-  "book": "Proverbs",
-  "chapter": "19",
-  "date": "Sunday 08-December, 2024",
-  "getbible": "https://getbible.net/kjv/Proverbs/19/17",
-  "name": "Proverbs 19:17",
+  "book": "2 Corinthians",
+  "chapter": "5",
+  "date": "Monday 09-December, 2024",
+  "getbible": "https://getbible.net/kjv/2 Corinthians/5/10",
+  "name": "2 Corinthians 5:10",
   "scripture": [
     {
-      "nr": "17",
-      "text": "He that hath pity upon the poor lendeth unto the Lord; and that which he hath given will he pay him again."
+      "nr": "10",
+      "text": "For we must all appear before the judgment seat of Christ; that every one may receive the things done in his body, according to that he hath done, whether it be good or bad."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "17",
+  "verse": "10",
   "version": "kjv"
 }

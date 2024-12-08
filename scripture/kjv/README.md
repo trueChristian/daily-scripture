@@ -1,5 +1,5 @@
-**Proverbs 19:17**
+**2 Corinthians 5:10**
 
-17 He that hath pity upon the poor lendeth unto the Lord; and that which he hath given will he pay him again.
+10 For we must all appear before the judgment seat of Christ; that every one may receive the things done in his body, according to that he hath done, whether it be good or bad.
 
-[Sunday 08-December, 2024](https://getbible.net/kjv/Proverbs/19/17)
+[Monday 09-December, 2024](https://getbible.net/kjv/2 Corinthians/5/10)
