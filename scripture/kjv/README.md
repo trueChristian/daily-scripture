@@ -1,5 +1,5 @@
-**2 Corinthians 5:10**
+**Proverbs 11:9**
 
-10 For we must all appear before the judgment seat of Christ; that every one may receive the things done in his body, according to that he hath done, whether it be good or bad.
+9 An hypocrite with his mouth destroyeth his neighbour: but through knowledge shall the just be delivered.
 
-[Monday 09-December, 2024](https://getbible.net/kjv/2 Corinthians/5/10)
+[Tuesday 10-December, 2024](https://getbible.net/kjv/Proverbs/11/9)
