@@ -1,5 +1,5 @@
-**Proverbs 11:9**
+**Revelation 3:3**
 
-9 An hypocrite with his mouth destroyeth his neighbour: but through knowledge shall the just be delivered.
+3 Remember therefore how thou hast received and heard, and hold fast, and repent. If therefore thou shalt not watch, I will come on thee as a thief, and thou shalt not know what hour I will come upon thee.
 
-[Tuesday 10-December, 2024](https://getbible.net/kjv/Proverbs/11/9)
+[Wednesday 11-December, 2024](https://getbible.net/kjv/Revelation/3/3)

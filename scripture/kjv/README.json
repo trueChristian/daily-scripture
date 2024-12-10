@@ -1,17 +1,17 @@
 {
-  "book": "Proverbs",
-  "chapter": "11",
-  "date": "Tuesday 10-December, 2024",
-  "getbible": "https://getbible.net/kjv/Proverbs/11/9",
-  "name": "Proverbs 11:9",
+  "book": "Revelation",
+  "chapter": "3",
+  "date": "Wednesday 11-December, 2024",
+  "getbible": "https://getbible.net/kjv/Revelation/3/3",
+  "name": "Revelation 3:3",
   "scripture": [
     {
-      "nr": "9",
-      "text": "An hypocrite with his mouth destroyeth his neighbour: but through knowledge shall the just be delivered."
+      "nr": "3",
+      "text": "Remember therefore how thou hast received and heard, and hold fast, and repent. If therefore thou shalt not watch, I will come on thee as a thief, and thou shalt not know what hour I will come upon thee."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "9",
+  "verse": "3",
   "version": "kjv"
 }
