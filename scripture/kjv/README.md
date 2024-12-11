@@ -1,5 +1,5 @@
-**Revelation 3:3**
+**Proverbs 1:33**
 
-3 Remember therefore how thou hast received and heard, and hold fast, and repent. If therefore thou shalt not watch, I will come on thee as a thief, and thou shalt not know what hour I will come upon thee.
+33 But whoso hearkeneth unto me shall dwell safely, and shall be quiet from fear of evil. 
 
-[Wednesday 11-December, 2024](https://getbible.net/kjv/Revelation/3/3)
+[Thursday 12-December, 2024](https://getbible.net/kjv/Proverbs/1/33)

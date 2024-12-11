@@ -1,17 +1,17 @@
 {
-  "book": "Revelation",
-  "chapter": "3",
-  "date": "Wednesday 11-December, 2024",
-  "getbible": "https://getbible.net/kjv/Revelation/3/3",
-  "name": "Revelation 3:3",
+  "book": "Proverbs",
+  "chapter": "1",
+  "date": "Thursday 12-December, 2024",
+  "getbible": "https://getbible.net/kjv/Proverbs/1/33",
+  "name": "Proverbs 1:33",
   "scripture": [
     {
-      "nr": "3",
-      "text": "Remember therefore how thou hast received and heard, and hold fast, and repent. If therefore thou shalt not watch, I will come on thee as a thief, and thou shalt not know what hour I will come upon thee."
+      "nr": "33",
+      "text": "But whoso hearkeneth unto me shall dwell safely, and shall be quiet from fear of evil. "
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "3",
+  "verse": "33",
   "version": "kjv"
 }
