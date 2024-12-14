@@ -1,25 +1,17 @@
 {
-  "book": "John",
-  "chapter": "3",
-  "date": "Saturday 14-December, 2024",
-  "getbible": "https://getbible.net/kjv/John/3/8-10",
-  "name": "John 3:8-10",
+  "book": "Revelation",
+  "chapter": "19",
+  "date": "Sunday 15-December, 2024",
+  "getbible": "https://getbible.net/kjv/Revelation/19/8",
+  "name": "Revelation 19:8",
   "scripture": [
     {
       "nr": "8",
-      "text": "The wind bloweth where it listeth, and thou hearest the sound thereof, but canst not tell whence it cometh, and whither it goeth: so is every one that is born of the Spirit."
-    },
-    {
-      "nr": "9",
-      "text": "Nicodemus answered and said unto him, How can these things be?"
-    },
-    {
-      "nr": "10",
-      "text": "Jesus answered and said unto him, Art thou a master of Israel, and knowest not these things?"
+      "text": "And to her was granted that she should be arrayed in fine linen, clean and white: for the fine linen is the righteousness of saints."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "8-10",
+  "verse": "8",
   "version": "kjv"
 }
