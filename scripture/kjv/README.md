@@ -1,5 +1,5 @@
-**Revelation 19:8**
+**Romans 12:21**
 
-8 And to her was granted that she should be arrayed in fine linen, clean and white: for the fine linen is the righteousness of saints.
+21 Be not overcome of evil, but overcome evil with good. 
 
-[Sunday 15-December, 2024](https://getbible.net/kjv/Revelation/19/8)
+[Monday 16-December, 2024](https://getbible.net/kjv/Romans/12/21)
