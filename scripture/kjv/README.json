@@ -1,17 +1,29 @@
 {
-  "book": "Romans",
-  "chapter": "12",
-  "date": "Monday 16-December, 2024",
-  "getbible": "https://getbible.net/kjv/Romans/12/21",
-  "name": "Romans 12:21",
+  "book": "Isaiah",
+  "chapter": "11",
+  "date": "Tuesday 17-December, 2024",
+  "getbible": "https://getbible.net/kjv/Isaiah/11/6-9",
+  "name": "Isaiah 11:6-9",
   "scripture": [
     {
-      "nr": "21",
-      "text": "Be not overcome of evil, but overcome evil with good. "
+      "nr": "6",
+      "text": "The wolf also shall dwell with the lamb, and the leopard shall lie down with the kid; and the calf and the young lion and the fatling together; and a little child shall lead them."
+    },
+    {
+      "nr": "7",
+      "text": "And the cow and the bear shall feed; their young ones shall lie down together: and the lion shall eat straw like the ox."
+    },
+    {
+      "nr": "8",
+      "text": "And the sucking child shall play on the hole of the asp, and the weaned child shall put his hand on the cockatrice’ den."
+    },
+    {
+      "nr": "9",
+      "text": "They shall not hurt nor destroy in all my holy mountain: for the earth shall be full of the knowledge of the Lord, as the waters cover the sea."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "21",
+  "verse": "6-9",
   "version": "kjv"
 }
