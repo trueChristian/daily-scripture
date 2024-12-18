@@ -1,5 +1,5 @@
-**Acts 4:14**
+**Philippians 2:29**
 
-14 And beholding the man which was healed standing with them, they could say nothing against it.
+29 Receive him therefore in the Lord with all gladness; and hold such in reputation:
 
-[Wednesday 18-December, 2024](https://getbible.net/kjv/Acts/4/14)
+[Thursday 19-December, 2024](https://getbible.net/kjv/Philippians/2/29)

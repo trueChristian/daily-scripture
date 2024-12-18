@@ -1,17 +1,17 @@
 {
-  "book": "Acts",
-  "chapter": "4",
-  "date": "Wednesday 18-December, 2024",
-  "getbible": "https://getbible.net/kjv/Acts/4/14",
-  "name": "Acts 4:14",
+  "book": "Philippians",
+  "chapter": "2",
+  "date": "Thursday 19-December, 2024",
+  "getbible": "https://getbible.net/kjv/Philippians/2/29",
+  "name": "Philippians 2:29",
   "scripture": [
     {
-      "nr": "14",
-      "text": "And beholding the man which was healed standing with them, they could say nothing against it."
+      "nr": "29",
+      "text": "Receive him therefore in the Lord with all gladness; and hold such in reputation:"
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "14",
+  "verse": "29",
   "version": "kjv"
 }
