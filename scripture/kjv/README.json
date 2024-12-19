@@ -1,17 +1,17 @@
 {
-  "book": "Philippians",
-  "chapter": "2",
-  "date": "Thursday 19-December, 2024",
-  "getbible": "https://getbible.net/kjv/Philippians/2/29",
-  "name": "Philippians 2:29",
+  "book": "John",
+  "chapter": "11",
+  "date": "Friday 20-December, 2024",
+  "getbible": "https://getbible.net/kjv/John/11/25",
+  "name": "John 11:25",
   "scripture": [
     {
-      "nr": "29",
-      "text": "Receive him therefore in the Lord with all gladness; and hold such in reputation:"
+      "nr": "25",
+      "text": "Jesus said unto her, I am the resurrection, and the life: he that believeth in me, though he were dead, yet shall he live:"
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "29",
+  "verse": "25",
   "version": "kjv"
 }

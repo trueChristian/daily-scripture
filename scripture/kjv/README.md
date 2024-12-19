@@ -1,5 +1,5 @@
-**Philippians 2:29**
+**John 11:25**
 
-29 Receive him therefore in the Lord with all gladness; and hold such in reputation:
+25 Jesus said unto her, I am the resurrection, and the life: he that believeth in me, though he were dead, yet shall he live:
 
-[Thursday 19-December, 2024](https://getbible.net/kjv/Philippians/2/29)
+[Friday 20-December, 2024](https://getbible.net/kjv/John/11/25)
