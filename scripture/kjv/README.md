@@ -1,5 +1,5 @@
-**John 11:25**
+**Romans 11:14**
 
-25 Jesus said unto her, I am the resurrection, and the life: he that believeth in me, though he were dead, yet shall he live:
+14 If by any means I may provoke to emulation them which are my flesh, and might save some of them.
 
-[Friday 20-December, 2024](https://getbible.net/kjv/John/11/25)
+[Saturday 21-December, 2024](https://getbible.net/kjv/Romans/11/14)
