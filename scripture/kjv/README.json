@@ -1,17 +1,21 @@
 {
-  "book": "Romans",
-  "chapter": "11",
-  "date": "Saturday 21-December, 2024",
-  "getbible": "https://getbible.net/kjv/Romans/11/14",
-  "name": "Romans 11:14",
+  "book": "Luke",
+  "chapter": "17",
+  "date": "Sunday 22-December, 2024",
+  "getbible": "https://getbible.net/kjv/Luke/17/9-10",
+  "name": "Luke 17:9-10",
   "scripture": [
     {
-      "nr": "14",
-      "text": "If by any means I may provoke to emulation them which are my flesh, and might save some of them."
+      "nr": "9",
+      "text": "Doth he thank that servant because he did the things that were commanded him? I trow not."
+    },
+    {
+      "nr": "10",
+      "text": "So likewise ye, when ye shall have done all those things which are commanded you, say, We are unprofitable servants: we have done that which was our duty to do."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "14",
+  "verse": "9-10",
   "version": "kjv"
 }

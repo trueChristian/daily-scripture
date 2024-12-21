@@ -1,5 +1,5 @@
-**Romans 11:14**
+**Luke 17:9-10**
 
-14 If by any means I may provoke to emulation them which are my flesh, and might save some of them.
+9 Doth he thank that servant because he did the things that were commanded him? I trow not. 10 So likewise ye, when ye shall have done all those things which are commanded you, say, We are unprofitable servants: we have done that which was our duty to do.
 
-[Saturday 21-December, 2024](https://getbible.net/kjv/Romans/11/14)
+[Sunday 22-December, 2024](https://getbible.net/kjv/Luke/17/9-10)
