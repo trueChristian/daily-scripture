@@ -1,5 +1,5 @@
-**Luke 17:9-10**
+**2 Kings 3:15**
 
-9 Doth he thank that servant because he did the things that were commanded him? I trow not. 10 So likewise ye, when ye shall have done all those things which are commanded you, say, We are unprofitable servants: we have done that which was our duty to do.
+15 But now bring me a minstrel. And it came to pass, when the minstrel played, that the hand of the Lord came upon him.
 
-[Sunday 22-December, 2024](https://getbible.net/kjv/Luke/17/9-10)
+[Monday 23-December, 2024](https://getbible.net/kjv/2 Kings/3/15)

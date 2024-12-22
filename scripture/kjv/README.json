@@ -1,21 +1,17 @@
 {
-  "book": "Luke",
-  "chapter": "17",
-  "date": "Sunday 22-December, 2024",
-  "getbible": "https://getbible.net/kjv/Luke/17/9-10",
-  "name": "Luke 17:9-10",
+  "book": "2 Kings",
+  "chapter": "3",
+  "date": "Monday 23-December, 2024",
+  "getbible": "https://getbible.net/kjv/2 Kings/3/15",
+  "name": "2 Kings 3:15",
   "scripture": [
     {
-      "nr": "9",
-      "text": "Doth he thank that servant because he did the things that were commanded him? I trow not."
-    },
-    {
-      "nr": "10",
-      "text": "So likewise ye, when ye shall have done all those things which are commanded you, say, We are unprofitable servants: we have done that which was our duty to do."
+      "nr": "15",
+      "text": "But now bring me a minstrel. And it came to pass, when the minstrel played, that the hand of the Lord came upon him."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "9-10",
+  "verse": "15",
   "version": "kjv"
 }
