@@ -1,5 +1,5 @@
-**2 Kings 3:15**
+**2 Thessalonians 2:16-17**
 
-15 But now bring me a minstrel. And it came to pass, when the minstrel played, that the hand of the Lord came upon him.
+16 Now our Lord Jesus Christ himself, and God, even our Father, which hath loved us, and hath given us everlasting consolation and good hope through grace, 17 Comfort your hearts, and stablish you in every good word and work. 
 
-[Monday 23-December, 2024](https://getbible.net/kjv/2 Kings/3/15)
+[Tuesday 24-December, 2024](https://getbible.net/kjv/2 Thessalonians/2/16-17)
