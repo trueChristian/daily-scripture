@@ -1,5 +1,5 @@
-**2 Thessalonians 2:16-17**
+**2 Corinthians 9:13**
 
-16 Now our Lord Jesus Christ himself, and God, even our Father, which hath loved us, and hath given us everlasting consolation and good hope through grace, 17 Comfort your hearts, and stablish you in every good word and work. 
+13 Whiles by the experiment of this ministration they glorify God for your professed subjection unto the gospel of Christ, and for your liberal distribution unto them, and unto all men; 
 
-[Tuesday 24-December, 2024](https://getbible.net/kjv/2 Thessalonians/2/16-17)
+[Wednesday 25-December, 2024](https://getbible.net/kjv/2 Corinthians/9/13)

@@ -1,21 +1,17 @@
 {
-  "book": "2 Thessalonians",
-  "chapter": "2",
-  "date": "Tuesday 24-December, 2024",
-  "getbible": "https://getbible.net/kjv/2 Thessalonians/2/16-17",
-  "name": "2 Thessalonians 2:16-17",
+  "book": "2 Corinthians",
+  "chapter": "9",
+  "date": "Wednesday 25-December, 2024",
+  "getbible": "https://getbible.net/kjv/2 Corinthians/9/13",
+  "name": "2 Corinthians 9:13",
   "scripture": [
     {
-      "nr": "16",
-      "text": "Now our Lord Jesus Christ himself, and God, even our Father, which hath loved us, and hath given us everlasting consolation and good hope through grace,"
-    },
-    {
-      "nr": "17",
-      "text": "Comfort your hearts, and stablish you in every good word and work. "
+      "nr": "13",
+      "text": "Whiles by the experiment of this ministration they glorify God for your professed subjection unto the gospel of Christ, and for your liberal distribution unto them, and unto all men; "
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "16-17",
+  "verse": "13",
   "version": "kjv"
 }
