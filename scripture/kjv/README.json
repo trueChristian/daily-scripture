@@ -1,17 +1,21 @@
 {
-  "book": "2 Corinthians",
-  "chapter": "9",
-  "date": "Wednesday 25-December, 2024",
-  "getbible": "https://getbible.net/kjv/2 Corinthians/9/13",
-  "name": "2 Corinthians 9:13",
+  "book": "James",
+  "chapter": "2",
+  "date": "Thursday 26-December, 2024",
+  "getbible": "https://getbible.net/kjv/James/2/12-13",
+  "name": "James 2:12-13",
   "scripture": [
     {
+      "nr": "12",
+      "text": "So speak ye, and so do, as they that shall be judged by the law of liberty."
+    },
+    {
       "nr": "13",
-      "text": "Whiles by the experiment of this ministration they glorify God for your professed subjection unto the gospel of Christ, and for your liberal distribution unto them, and unto all men; "
+      "text": "For he shall have judgment without mercy, that hath shewed no mercy; and mercy rejoiceth against judgment."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "13",
+  "verse": "12-13",
   "version": "kjv"
 }

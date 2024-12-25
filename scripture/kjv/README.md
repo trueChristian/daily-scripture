@@ -1,5 +1,5 @@
-**2 Corinthians 9:13**
+**James 2:12-13**
 
-13 Whiles by the experiment of this ministration they glorify God for your professed subjection unto the gospel of Christ, and for your liberal distribution unto them, and unto all men; 
+12 So speak ye, and so do, as they that shall be judged by the law of liberty. 13 For he shall have judgment without mercy, that hath shewed no mercy; and mercy rejoiceth against judgment.
 
-[Wednesday 25-December, 2024](https://getbible.net/kjv/2 Corinthians/9/13)
+[Thursday 26-December, 2024](https://getbible.net/kjv/James/2/12-13)
