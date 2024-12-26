@@ -1,21 +1,21 @@
 {
-  "book": "James",
-  "chapter": "2",
-  "date": "Thursday 26-December, 2024",
-  "getbible": "https://getbible.net/kjv/James/2/12-13",
-  "name": "James 2:12-13",
+  "book": "1 John",
+  "chapter": "4",
+  "date": "Friday 27-December, 2024",
+  "getbible": "https://getbible.net/kjv/1 John/4/10-11",
+  "name": "1 John 4:10-11",
   "scripture": [
     {
-      "nr": "12",
-      "text": "So speak ye, and so do, as they that shall be judged by the law of liberty."
+      "nr": "10",
+      "text": "Herein is love, not that we loved God, but that he loved us, and sent his Son to be the propitiation for our sins."
     },
     {
-      "nr": "13",
-      "text": "For he shall have judgment without mercy, that hath shewed no mercy; and mercy rejoiceth against judgment."
+      "nr": "11",
+      "text": "Beloved, if God so loved us, we ought also to love one another."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "12-13",
+  "verse": "10-11",
   "version": "kjv"
 }

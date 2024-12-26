@@ -1,5 +1,5 @@
-**James 2:12-13**
+**1 John 4:10-11**
 
-12 So speak ye, and so do, as they that shall be judged by the law of liberty. 13 For he shall have judgment without mercy, that hath shewed no mercy; and mercy rejoiceth against judgment.
+10 Herein is love, not that we loved God, but that he loved us, and sent his Son to be the propitiation for our sins. 11 Beloved, if God so loved us, we ought also to love one another.
 
-[Thursday 26-December, 2024](https://getbible.net/kjv/James/2/12-13)
+[Friday 27-December, 2024](https://getbible.net/kjv/1 John/4/10-11)
