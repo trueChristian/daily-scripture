@@ -1,21 +1,17 @@
 {
-  "book": "1 John",
-  "chapter": "4",
-  "date": "Friday 27-December, 2024",
-  "getbible": "https://getbible.net/kjv/1 John/4/10-11",
-  "name": "1 John 4:10-11",
+  "book": "Acts",
+  "chapter": "2",
+  "date": "Saturday 28-December, 2024",
+  "getbible": "https://getbible.net/kjv/Acts/2/4",
+  "name": "Acts 2:4",
   "scripture": [
     {
-      "nr": "10",
-      "text": "Herein is love, not that we loved God, but that he loved us, and sent his Son to be the propitiation for our sins."
-    },
-    {
-      "nr": "11",
-      "text": "Beloved, if God so loved us, we ought also to love one another."
+      "nr": "4",
+      "text": "And they were all filled with the Holy Ghost, and began to speak with other tongues, as the Spirit gave them utterance."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "10-11",
+  "verse": "4",
   "version": "kjv"
 }
