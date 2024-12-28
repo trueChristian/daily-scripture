@@ -1,17 +1,25 @@
 {
-  "book": "Acts",
-  "chapter": "2",
-  "date": "Saturday 28-December, 2024",
-  "getbible": "https://getbible.net/kjv/Acts/2/4",
-  "name": "Acts 2:4",
+  "book": "Revelation",
+  "chapter": "6",
+  "date": "Sunday 29-December, 2024",
+  "getbible": "https://getbible.net/kjv/Revelation/6/9-11",
+  "name": "Revelation 6:9-11",
   "scripture": [
     {
-      "nr": "4",
-      "text": "And they were all filled with the Holy Ghost, and began to speak with other tongues, as the Spirit gave them utterance."
+      "nr": "9",
+      "text": "And when he had opened the fifth seal, I saw under the altar the souls of them that were slain for the word of God, and for the testimony which they held:"
+    },
+    {
+      "nr": "10",
+      "text": "And they cried with a loud voice, saying, How long, O Lord, holy and true, dost thou not judge and avenge our blood on them that dwell on the earth?"
+    },
+    {
+      "nr": "11",
+      "text": "And white robes were given unto every one of them; and it was said unto them, that they should rest yet for a little season, until their fellowservants also and their brethren, that should be killed as they were, should be fulfilled."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "4",
+  "verse": "9-11",
   "version": "kjv"
 }
