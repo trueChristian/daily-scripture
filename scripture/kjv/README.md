@@ -1,5 +1,5 @@
-**Revelation 6:9-11**
+**Isaiah 53:12**
 
-9 And when he had opened the fifth seal, I saw under the altar the souls of them that were slain for the word of God, and for the testimony which they held: 10 And they cried with a loud voice, saying, How long, O Lord, holy and true, dost thou not judge and avenge our blood on them that dwell on the earth? 11 And white robes were given unto every one of them; and it was said unto them, that they should rest yet for a little season, until their fellowservants also and their brethren, that should be killed as they were, should be fulfilled.
+12 Therefore will I divide him a portion with the great, and he shall divide the spoil with the strong; because he hath poured out his soul unto death: and he was numbered with the transgressors; and he bare the sin of many, and made intercession for the transgressors. 
 
-[Sunday 29-December, 2024](https://getbible.net/kjv/Revelation/6/9-11)
+[Monday 30-December, 2024](https://getbible.net/kjv/Isaiah/53/12)
