@@ -1,5 +1,5 @@
-**Isaiah 53:12**
+**Romans 3:3-4**
 
-12 Therefore will I divide him a portion with the great, and he shall divide the spoil with the strong; because he hath poured out his soul unto death: and he was numbered with the transgressors; and he bare the sin of many, and made intercession for the transgressors. 
+3 For what if some did not believe? shall their unbelief make the faith of God without effect? 4 God forbid: yea, let God be true, but every man a liar; as it is written, That thou mightest be justified in thy sayings, and mightest overcome when thou art judged.
 
-[Monday 30-December, 2024](https://getbible.net/kjv/Isaiah/53/12)
+[Tuesday 31-December, 2024](https://getbible.net/kjv/Romans/3/3-4)
