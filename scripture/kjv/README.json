@@ -1,21 +1,49 @@
 {
-  "book": "Romans",
-  "chapter": "3",
-  "date": "Tuesday 31-December, 2024",
-  "getbible": "https://getbible.net/kjv/Romans/3/3-4",
-  "name": "Romans 3:3-4",
+  "book": "Job",
+  "chapter": "31",
+  "date": "Wednesday 01-January, 2025",
+  "getbible": "https://getbible.net/kjv/Job/31/1-9",
+  "name": "Job 31:1-9",
   "scripture": [
     {
+      "nr": "1",
+      "text": "I made a covenant with mine eyes; why then should I think upon a maid?"
+    },
+    {
+      "nr": "2",
+      "text": "For what portion of God is there from above? and what inheritance of the Almighty from on high?"
+    },
+    {
       "nr": "3",
-      "text": "For what if some did not believe? shall their unbelief make the faith of God without effect?"
+      "text": "Is not destruction to the wicked? and a strange punishment to the workers of iniquity?"
     },
     {
       "nr": "4",
-      "text": "God forbid: yea, let God be true, but every man a liar; as it is written, That thou mightest be justified in thy sayings, and mightest overcome when thou art judged."
+      "text": "Doth not he see my ways, and count all my steps?"
+    },
+    {
+      "nr": "5",
+      "text": "If I have walked with vanity, or if my foot hath hasted to deceit;"
+    },
+    {
+      "nr": "6",
+      "text": "Let me be weighed in an even balance, that God may know mine integrity."
+    },
+    {
+      "nr": "7",
+      "text": "If my step hath turned out of the way, and mine heart walked after mine eyes, and if any blot hath cleaved to mine hands;"
+    },
+    {
+      "nr": "8",
+      "text": "Then let me sow, and let another eat; yea, let my offspring be rooted out."
+    },
+    {
+      "nr": "9",
+      "text": "If mine heart have been deceived by a woman, or if I have laid wait at my neighbour’s door;"
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "3-4",
+  "verse": "1-9",
   "version": "kjv"
 }

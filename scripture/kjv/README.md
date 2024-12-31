@@ -1,5 +1,5 @@
-**Romans 3:3-4**
+**Job 31:1-9**
 
-3 For what if some did not believe? shall their unbelief make the faith of God without effect? 4 God forbid: yea, let God be true, but every man a liar; as it is written, That thou mightest be justified in thy sayings, and mightest overcome when thou art judged.
+1 I made a covenant with mine eyes; why then should I think upon a maid? 2 For what portion of God is there from above? and what inheritance of the Almighty from on high? 3 Is not destruction to the wicked? and a strange punishment to the workers of iniquity? 4 Doth not he see my ways, and count all my steps? 5 If I have walked with vanity, or if my foot hath hasted to deceit; 6 Let me be weighed in an even balance, that God may know mine integrity. 7 If my step hath turned out of the way, and mine heart walked after mine eyes, and if any blot hath cleaved to mine hands; 8 Then let me sow, and let another eat; yea, let my offspring be rooted out. 9 If mine heart have been deceived by a woman, or if I have laid wait at my neighbour’s door;
 
-[Tuesday 31-December, 2024](https://getbible.net/kjv/Romans/3/3-4)
+[Wednesday 01-January, 2025](https://getbible.net/kjv/Job/31/1-9)
