@@ -1,25 +1,17 @@
 {
-  "book": "1 Peter",
+  "book": "Philippians",
   "chapter": "4",
-  "date": "Friday 03-January, 2025",
-  "getbible": "https://getbible.net/kjv/1 Peter/4/14-16",
-  "name": "1 Peter 4:14-16",
+  "date": "Saturday 04-January, 2025",
+  "getbible": "https://getbible.net/kjv/Philippians/4/7",
+  "name": "Philippians 4:7",
   "scripture": [
     {
-      "nr": "14",
-      "text": "If ye be reproached for the name of Christ, happy are ye; for the spirit of glory and of God resteth upon you: on their part he is evil spoken of, but on your part he is glorified."
-    },
-    {
-      "nr": "15",
-      "text": "But let none of you suffer as a murderer, or as a thief, or as an evildoer, or as a busybody in other men’s matters."
-    },
-    {
-      "nr": "16",
-      "text": "Yet if any man suffer as a Christian, let him not be ashamed; but let him glorify God on this behalf."
+      "nr": "7",
+      "text": "And the peace of God, which passeth all understanding, shall keep your hearts and minds through Christ Jesus."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "14-16",
+  "verse": "7",
   "version": "kjv"
 }
