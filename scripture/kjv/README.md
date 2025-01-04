@@ -1,5 +1,5 @@
-**Philippians 4:7**
+**Romans 13:14**
 
-7 And the peace of God, which passeth all understanding, shall keep your hearts and minds through Christ Jesus.
+14 But put ye on the Lord Jesus Christ, and make not provision for the flesh, to fulfil the lusts thereof. 
 
-[Saturday 04-January, 2025](https://getbible.net/kjv/Philippians/4/7)
+[Sunday 05-January, 2025](https://getbible.net/kjv/Romans/13/14)
