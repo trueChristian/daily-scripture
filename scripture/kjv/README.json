@@ -1,17 +1,17 @@
 {
-  "book": "Romans",
-  "chapter": "13",
-  "date": "Sunday 05-January, 2025",
-  "getbible": "https://getbible.net/kjv/Romans/13/14",
-  "name": "Romans 13:14",
+  "book": "2 Corinthians",
+  "chapter": "12",
+  "date": "Monday 06-January, 2025",
+  "getbible": "https://getbible.net/kjv/2 Corinthians/12/20",
+  "name": "2 Corinthians 12:20",
   "scripture": [
     {
-      "nr": "14",
-      "text": "But put ye on the Lord Jesus Christ, and make not provision for the flesh, to fulfil the lusts thereof. "
+      "nr": "20",
+      "text": "For I fear, lest, when I come, I shall not find you such as I would, and that I shall be found unto you such as ye would not: lest there be debates, envyings, wraths, strifes, backbitings, whisperings, swellings, tumults:"
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "14",
+  "verse": "20",
   "version": "kjv"
 }
