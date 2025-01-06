@@ -1,5 +1,5 @@
-**2 Corinthians 12:20**
+**Psalms 12:5**
 
-20 For I fear, lest, when I come, I shall not find you such as I would, and that I shall be found unto you such as ye would not: lest there be debates, envyings, wraths, strifes, backbitings, whisperings, swellings, tumults:
+5 For the oppression of the poor, for the sighing of the needy, now will I arise, saith the Lord; I will set him in safety from him that puffeth at him.
 
-[Monday 06-January, 2025](https://getbible.net/kjv/2 Corinthians/12/20)
+[Tuesday 07-January, 2025](https://getbible.net/kjv/Psalms/12/5)
