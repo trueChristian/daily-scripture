@@ -1,5 +1,5 @@
-**Psalms 12:5**
+**Psalms 51:12**
 
-5 For the oppression of the poor, for the sighing of the needy, now will I arise, saith the Lord; I will set him in safety from him that puffeth at him.
+12 Restore unto me the joy of thy salvation; and uphold me with thy free spirit.
 
-[Tuesday 07-January, 2025](https://getbible.net/kjv/Psalms/12/5)
+[Wednesday 08-January, 2025](https://getbible.net/kjv/Psalms/51/12)

@@ -1,17 +1,17 @@
 {
   "book": "Psalms",
-  "chapter": "12",
-  "date": "Tuesday 07-January, 2025",
-  "getbible": "https://getbible.net/kjv/Psalms/12/5",
-  "name": "Psalms 12:5",
+  "chapter": "51",
+  "date": "Wednesday 08-January, 2025",
+  "getbible": "https://getbible.net/kjv/Psalms/51/12",
+  "name": "Psalms 51:12",
   "scripture": [
     {
-      "nr": "5",
-      "text": "For the oppression of the poor, for the sighing of the needy, now will I arise, saith the Lord; I will set him in safety from him that puffeth at him."
+      "nr": "12",
+      "text": "Restore unto me the joy of thy salvation; and uphold me with thy free spirit."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "5",
+  "verse": "12",
   "version": "kjv"
 }
