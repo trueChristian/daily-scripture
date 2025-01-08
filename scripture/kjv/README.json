@@ -1,17 +1,21 @@
 {
-  "book": "Psalms",
-  "chapter": "51",
-  "date": "Wednesday 08-January, 2025",
-  "getbible": "https://getbible.net/kjv/Psalms/51/12",
-  "name": "Psalms 51:12",
+  "book": "Luke",
+  "chapter": "20",
+  "date": "Thursday 09-January, 2025",
+  "getbible": "https://getbible.net/kjv/Luke/20/46-47",
+  "name": "Luke 20:46-47",
   "scripture": [
     {
-      "nr": "12",
-      "text": "Restore unto me the joy of thy salvation; and uphold me with thy free spirit."
+      "nr": "46",
+      "text": "Beware of the scribes, which desire to walk in long robes, and love greetings in the markets, and the highest seats in the synagogues, and the chief rooms at feasts;"
+    },
+    {
+      "nr": "47",
+      "text": "Which devour widows’ houses, and for a shew make long prayers: the same shall receive greater damnation. "
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "12",
+  "verse": "46-47",
   "version": "kjv"
 }
