@@ -1,21 +1,17 @@
 {
-  "book": "Luke",
-  "chapter": "20",
-  "date": "Thursday 09-January, 2025",
-  "getbible": "https://getbible.net/kjv/Luke/20/46-47",
-  "name": "Luke 20:46-47",
+  "book": "Hosea",
+  "chapter": "13",
+  "date": "Friday 10-January, 2025",
+  "getbible": "https://getbible.net/kjv/Hosea/13/14",
+  "name": "Hosea 13:14",
   "scripture": [
     {
-      "nr": "46",
-      "text": "Beware of the scribes, which desire to walk in long robes, and love greetings in the markets, and the highest seats in the synagogues, and the chief rooms at feasts;"
-    },
-    {
-      "nr": "47",
-      "text": "Which devour widows’ houses, and for a shew make long prayers: the same shall receive greater damnation. "
+      "nr": "14",
+      "text": "I will ransom them from the power of the grave; I will redeem them from death: O death, I will be thy plagues; O grave, I will be thy destruction: repentance shall be hid from mine eyes."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "46-47",
+  "verse": "14",
   "version": "kjv"
 }
