@@ -1,17 +1,17 @@
 {
-  "book": "Hosea",
-  "chapter": "13",
-  "date": "Friday 10-January, 2025",
-  "getbible": "https://getbible.net/kjv/Hosea/13/14",
-  "name": "Hosea 13:14",
+  "book": "Galatians",
+  "chapter": "5",
+  "date": "Saturday 11-January, 2025",
+  "getbible": "https://getbible.net/kjv/Galatians/5/6",
+  "name": "Galatians 5:6",
   "scripture": [
     {
-      "nr": "14",
-      "text": "I will ransom them from the power of the grave; I will redeem them from death: O death, I will be thy plagues; O grave, I will be thy destruction: repentance shall be hid from mine eyes."
+      "nr": "6",
+      "text": "For in Jesus Christ neither circumcision availeth any thing, nor uncircumcision; but faith which worketh by love."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "14",
+  "verse": "6",
   "version": "kjv"
 }
