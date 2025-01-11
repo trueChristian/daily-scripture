@@ -1,5 +1,5 @@
-**Galatians 5:6**
+**Proverbs 19:15**
 
-6 For in Jesus Christ neither circumcision availeth any thing, nor uncircumcision; but faith which worketh by love.
+15 Slothfulness casteth into a deep sleep; and an idle soul shall suffer hunger.
 
-[Saturday 11-January, 2025](https://getbible.net/kjv/Galatians/5/6)
+[Sunday 12-January, 2025](https://getbible.net/kjv/Proverbs/19/15)

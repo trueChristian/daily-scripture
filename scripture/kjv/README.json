@@ -1,17 +1,17 @@
 {
-  "book": "Galatians",
-  "chapter": "5",
-  "date": "Saturday 11-January, 2025",
-  "getbible": "https://getbible.net/kjv/Galatians/5/6",
-  "name": "Galatians 5:6",
+  "book": "Proverbs",
+  "chapter": "19",
+  "date": "Sunday 12-January, 2025",
+  "getbible": "https://getbible.net/kjv/Proverbs/19/15",
+  "name": "Proverbs 19:15",
   "scripture": [
     {
-      "nr": "6",
-      "text": "For in Jesus Christ neither circumcision availeth any thing, nor uncircumcision; but faith which worketh by love."
+      "nr": "15",
+      "text": "Slothfulness casteth into a deep sleep; and an idle soul shall suffer hunger."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "6",
+  "verse": "15",
   "version": "kjv"
 }
