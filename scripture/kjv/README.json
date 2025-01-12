@@ -1,17 +1,17 @@
 {
-  "book": "Proverbs",
-  "chapter": "19",
-  "date": "Sunday 12-January, 2025",
-  "getbible": "https://getbible.net/kjv/Proverbs/19/15",
-  "name": "Proverbs 19:15",
+  "book": "Zechariah",
+  "chapter": "1",
+  "date": "Monday 13-January, 2025",
+  "getbible": "https://getbible.net/kjv/Zechariah/1/17",
+  "name": "Zechariah 1:17",
   "scripture": [
     {
-      "nr": "15",
-      "text": "Slothfulness casteth into a deep sleep; and an idle soul shall suffer hunger."
+      "nr": "17",
+      "text": "Cry yet, saying, Thus saith the Lord of hosts; My cities through prosperity shall yet be spread abroad; and the Lord shall yet comfort Zion, and shall yet choose Jerusalem."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "15",
+  "verse": "17",
   "version": "kjv"
 }
