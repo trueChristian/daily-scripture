@@ -1,5 +1,5 @@
-**Zechariah 1:17**
+**Matthew 22:21**
 
-17 Cry yet, saying, Thus saith the Lord of hosts; My cities through prosperity shall yet be spread abroad; and the Lord shall yet comfort Zion, and shall yet choose Jerusalem.
+21 They say unto him, Cesar’s. Then saith he unto them, Render therefore unto Cesar the things which are Cesar’s; and unto God the things that are God’s.
 
-[Monday 13-January, 2025](https://getbible.net/kjv/Zechariah/1/17)
+[Tuesday 14-January, 2025](https://getbible.net/kjv/Matthew/22/21)

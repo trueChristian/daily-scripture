@@ -1,17 +1,17 @@
 {
-  "book": "Zechariah",
-  "chapter": "1",
-  "date": "Monday 13-January, 2025",
-  "getbible": "https://getbible.net/kjv/Zechariah/1/17",
-  "name": "Zechariah 1:17",
+  "book": "Matthew",
+  "chapter": "22",
+  "date": "Tuesday 14-January, 2025",
+  "getbible": "https://getbible.net/kjv/Matthew/22/21",
+  "name": "Matthew 22:21",
   "scripture": [
     {
-      "nr": "17",
-      "text": "Cry yet, saying, Thus saith the Lord of hosts; My cities through prosperity shall yet be spread abroad; and the Lord shall yet comfort Zion, and shall yet choose Jerusalem."
+      "nr": "21",
+      "text": "They say unto him, Cesar’s. Then saith he unto them, Render therefore unto Cesar the things which are Cesar’s; and unto God the things that are God’s."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "17",
+  "verse": "21",
   "version": "kjv"
 }
