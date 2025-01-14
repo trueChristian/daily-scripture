@@ -1,5 +1,5 @@
-**Matthew 22:21**
+**John 1:4**
 
-21 They say unto him, Cesar’s. Then saith he unto them, Render therefore unto Cesar the things which are Cesar’s; and unto God the things that are God’s.
+4 In him was life; and the life was the light of men.
 
-[Tuesday 14-January, 2025](https://getbible.net/kjv/Matthew/22/21)
+[Wednesday 15-January, 2025](https://getbible.net/kjv/John/1/4)
