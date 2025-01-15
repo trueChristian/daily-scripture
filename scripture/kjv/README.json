@@ -1,17 +1,17 @@
 {
-  "book": "John",
-  "chapter": "1",
-  "date": "Wednesday 15-January, 2025",
-  "getbible": "https://getbible.net/kjv/John/1/4",
-  "name": "John 1:4",
+  "book": "Song of Songs",
+  "chapter": "8",
+  "date": "Thursday 16-January, 2025",
+  "getbible": "https://getbible.net/kjv/Song of Songs/8/7",
+  "name": "Song of Songs 8:7",
   "scripture": [
     {
-      "nr": "4",
-      "text": "In him was life; and the life was the light of men."
+      "nr": "7",
+      "text": "Many waters cannot quench love, neither can the floods drown it: if a man would give all the substance of his house for love, it would utterly be contemned."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "4",
+  "verse": "7",
   "version": "kjv"
 }

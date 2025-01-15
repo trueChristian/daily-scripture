@@ -1,5 +1,5 @@
-**John 1:4**
+**Song of Songs 8:7**
 
-4 In him was life; and the life was the light of men.
+7 Many waters cannot quench love, neither can the floods drown it: if a man would give all the substance of his house for love, it would utterly be contemned.
 
-[Wednesday 15-January, 2025](https://getbible.net/kjv/John/1/4)
+[Thursday 16-January, 2025](https://getbible.net/kjv/Song of Songs/8/7)
