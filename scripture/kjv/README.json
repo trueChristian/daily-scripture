@@ -1,17 +1,17 @@
 {
-  "book": "Song of Songs",
-  "chapter": "8",
-  "date": "Thursday 16-January, 2025",
-  "getbible": "https://getbible.net/kjv/Song of Songs/8/7",
-  "name": "Song of Songs 8:7",
+  "book": "John",
+  "chapter": "10",
+  "date": "Friday 17-January, 2025",
+  "getbible": "https://getbible.net/kjv/John/10/42",
+  "name": "John 10:42",
   "scripture": [
     {
-      "nr": "7",
-      "text": "Many waters cannot quench love, neither can the floods drown it: if a man would give all the substance of his house for love, it would utterly be contemned."
+      "nr": "42",
+      "text": "And many believed on him there. "
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "7",
+  "verse": "42",
   "version": "kjv"
 }

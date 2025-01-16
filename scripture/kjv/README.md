@@ -1,5 +1,5 @@
-**Song of Songs 8:7**
+**John 10:42**
 
-7 Many waters cannot quench love, neither can the floods drown it: if a man would give all the substance of his house for love, it would utterly be contemned.
+42 And many believed on him there. 
 
-[Thursday 16-January, 2025](https://getbible.net/kjv/Song of Songs/8/7)
+[Friday 17-January, 2025](https://getbible.net/kjv/John/10/42)
