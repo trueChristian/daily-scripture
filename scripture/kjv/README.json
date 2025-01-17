@@ -1,17 +1,21 @@
 {
-  "book": "John",
-  "chapter": "10",
-  "date": "Friday 17-January, 2025",
-  "getbible": "https://getbible.net/kjv/John/10/42",
-  "name": "John 10:42",
+  "book": "James",
+  "chapter": "2",
+  "date": "Saturday 18-January, 2025",
+  "getbible": "https://getbible.net/kjv/James/2/8-9",
+  "name": "James 2:8-9",
   "scripture": [
     {
-      "nr": "42",
-      "text": "And many believed on him there. "
+      "nr": "8",
+      "text": "If ye fulfil the royal law according to the scripture, Thou shalt love thy neighbour as thyself, ye do well:"
+    },
+    {
+      "nr": "9",
+      "text": "But if ye have respect to persons, ye commit sin, and are convinced of the law as transgressors."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "42",
+  "verse": "8-9",
   "version": "kjv"
 }
