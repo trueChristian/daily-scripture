@@ -1,17 +1,21 @@
 {
-  "book": "Ezekiel",
-  "chapter": "13",
-  "date": "Sunday 19-January, 2025",
-  "getbible": "https://getbible.net/kjv/Ezekiel/13/14",
-  "name": "Ezekiel 13:14",
+  "book": "Galatians",
+  "chapter": "4",
+  "date": "Monday 20-January, 2025",
+  "getbible": "https://getbible.net/kjv/Galatians/4/10-11",
+  "name": "Galatians 4:10-11",
   "scripture": [
     {
-      "nr": "14",
-      "text": "So will I break down the wall that ye have daubed with untempered morter, and bring it down to the ground, so that the foundation thereof shall be discovered, and it shall fall, and ye shall be consumed in the midst thereof: and ye shall know that I am the Lord."
+      "nr": "10",
+      "text": "Ye observe days, and months, and times, and years."
+    },
+    {
+      "nr": "11",
+      "text": "I am afraid of you, lest I have bestowed upon you labour in vain."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "14",
+  "verse": "10-11",
   "version": "kjv"
 }

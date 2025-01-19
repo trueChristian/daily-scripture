@@ -1,5 +1,5 @@
-**Ezekiel 13:14**
+**Galatians 4:10-11**
 
-14 So will I break down the wall that ye have daubed with untempered morter, and bring it down to the ground, so that the foundation thereof shall be discovered, and it shall fall, and ye shall be consumed in the midst thereof: and ye shall know that I am the Lord.
+10 Ye observe days, and months, and times, and years. 11 I am afraid of you, lest I have bestowed upon you labour in vain.
 
-[Sunday 19-January, 2025](https://getbible.net/kjv/Ezekiel/13/14)
+[Monday 20-January, 2025](https://getbible.net/kjv/Galatians/4/10-11)
