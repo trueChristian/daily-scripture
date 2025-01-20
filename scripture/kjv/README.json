@@ -1,21 +1,21 @@
 {
-  "book": "Galatians",
-  "chapter": "4",
-  "date": "Monday 20-January, 2025",
-  "getbible": "https://getbible.net/kjv/Galatians/4/10-11",
-  "name": "Galatians 4:10-11",
+  "book": "Proverbs",
+  "chapter": "22",
+  "date": "Tuesday 21-January, 2025",
+  "getbible": "https://getbible.net/kjv/Proverbs/22/20-21",
+  "name": "Proverbs 22:20-21",
   "scripture": [
     {
-      "nr": "10",
-      "text": "Ye observe days, and months, and times, and years."
+      "nr": "20",
+      "text": "Have not I written to thee excellent things in counsels and knowledge,"
     },
     {
-      "nr": "11",
-      "text": "I am afraid of you, lest I have bestowed upon you labour in vain."
+      "nr": "21",
+      "text": "That I might make thee know the certainty of the words of truth; that thou mightest answer the words of truth to them that send unto thee?"
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "10-11",
+  "verse": "20-21",
   "version": "kjv"
 }
