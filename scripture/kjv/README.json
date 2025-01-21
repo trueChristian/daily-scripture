@@ -1,21 +1,17 @@
 {
-  "book": "Proverbs",
-  "chapter": "22",
-  "date": "Tuesday 21-January, 2025",
-  "getbible": "https://getbible.net/kjv/Proverbs/22/20-21",
-  "name": "Proverbs 22:20-21",
+  "book": "John",
+  "chapter": "3",
+  "date": "Wednesday 22-January, 2025",
+  "getbible": "https://getbible.net/kjv/John/3/19",
+  "name": "John 3:19",
   "scripture": [
     {
-      "nr": "20",
-      "text": "Have not I written to thee excellent things in counsels and knowledge,"
-    },
-    {
-      "nr": "21",
-      "text": "That I might make thee know the certainty of the words of truth; that thou mightest answer the words of truth to them that send unto thee?"
+      "nr": "19",
+      "text": "And this is the condemnation, that light is come into the world, and men loved darkness rather than light, because their deeds were evil."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "20-21",
+  "verse": "19",
   "version": "kjv"
 }

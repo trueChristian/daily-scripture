@@ -1,5 +1,5 @@
-**Proverbs 22:20-21**
+**John 3:19**
 
-20 Have not I written to thee excellent things in counsels and knowledge, 21 That I might make thee know the certainty of the words of truth; that thou mightest answer the words of truth to them that send unto thee?
+19 And this is the condemnation, that light is come into the world, and men loved darkness rather than light, because their deeds were evil.
 
-[Tuesday 21-January, 2025](https://getbible.net/kjv/Proverbs/22/20-21)
+[Wednesday 22-January, 2025](https://getbible.net/kjv/John/3/19)
