@@ -1,17 +1,25 @@
 {
-  "book": "John",
-  "chapter": "3",
-  "date": "Wednesday 22-January, 2025",
-  "getbible": "https://getbible.net/kjv/John/3/19",
-  "name": "John 3:19",
+  "book": "Psalms",
+  "chapter": "131",
+  "date": "Thursday 23-January, 2025",
+  "getbible": "https://getbible.net/kjv/Psalms/131/1-3",
+  "name": "Psalms 131:1-3",
   "scripture": [
     {
-      "nr": "19",
-      "text": "And this is the condemnation, that light is come into the world, and men loved darkness rather than light, because their deeds were evil."
+      "nr": "1",
+      "text": "Lord, my heart is not haughty, nor mine eyes lofty: neither do I exercise myself in great matters, or in things too high for me."
+    },
+    {
+      "nr": "2",
+      "text": "Surely I have behaved and quieted myself, as a child that is weaned of his mother: my soul is even as a weaned child."
+    },
+    {
+      "nr": "3",
+      "text": "Let Israel hope in the Lord from henceforth and for ever. "
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "19",
+  "verse": "1-3",
   "version": "kjv"
 }
