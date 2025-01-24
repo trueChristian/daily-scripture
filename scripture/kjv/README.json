@@ -1,17 +1,21 @@
 {
-  "book": "Proverbs",
-  "chapter": "31",
-  "date": "Friday 24-January, 2025",
-  "getbible": "https://getbible.net/kjv/Proverbs/31/25",
-  "name": "Proverbs 31:25",
+  "book": "Psalms",
+  "chapter": "118",
+  "date": "Saturday 25-January, 2025",
+  "getbible": "https://getbible.net/kjv/Psalms/118/8-9",
+  "name": "Psalms 118:8-9",
   "scripture": [
     {
-      "nr": "25",
-      "text": "Strength and honour are her clothing; and she shall rejoice in time to come."
+      "nr": "8",
+      "text": "It is better to trust in the Lord than to put confidence in man."
+    },
+    {
+      "nr": "9",
+      "text": "It is better to trust in the Lord than to put confidence in princes."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "25",
+  "verse": "8-9",
   "version": "kjv"
 }
