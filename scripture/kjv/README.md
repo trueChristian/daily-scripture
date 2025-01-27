@@ -1,5 +1,5 @@
-**John 12:36**
+**Ezekiel 45:10**
 
-36 While ye have light, believe in the light, that ye may be the children of light. These things spake Jesus, and departed, and did hide himself from them.
+10 Ye shall have just balances, and a just ephah, and a just bath.
 
-[Monday 27-January, 2025](https://getbible.net/kjv/John/12/36)
+[Tuesday 28-January, 2025](https://getbible.net/kjv/Ezekiel/45/10)
