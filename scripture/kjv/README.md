@@ -1,5 +1,5 @@
-**1 Corinthians 7:25-28**
+**Psalms 69:9**
 
-25 Now concerning virgins I have no commandment of the Lord: yet I give my judgment, as one that hath obtained mercy of the Lord to be faithful. 26 I suppose therefore that this is good for the present distress, I say, that it is good for a man so to be. 27 Art thou bound unto a wife? seek not to be loosed. Art thou loosed from a wife? seek not a wife. 28 But and if thou marry, thou hast not sinned; and if a virgin marry, she hath not sinned. Nevertheless such shall have trouble in the flesh: but I spare you.
+9 For the zeal of thine house hath eaten me up; and the reproaches of them that reproached thee are fallen upon me.
 
-[Wednesday 29-January, 2025](https://getbible.net/kjv/1 Corinthians/7/25-28)
+[Thursday 30-January, 2025](https://getbible.net/kjv/Psalms/69/9)
