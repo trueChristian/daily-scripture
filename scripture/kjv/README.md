@@ -1,5 +1,5 @@
-**Psalms 69:9**
+**John 16:33**
 
-9 For the zeal of thine house hath eaten me up; and the reproaches of them that reproached thee are fallen upon me.
+33 These things I have spoken unto you, that in me ye might have peace. In the world ye shall have tribulation: but be of good cheer; I have overcome the world. 
 
-[Thursday 30-January, 2025](https://getbible.net/kjv/Psalms/69/9)
+[Friday 31-January, 2025](https://getbible.net/kjv/John/16/33)

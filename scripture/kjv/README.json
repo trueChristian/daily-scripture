@@ -1,17 +1,17 @@
 {
-  "book": "Psalms",
-  "chapter": "69",
-  "date": "Thursday 30-January, 2025",
-  "getbible": "https://getbible.net/kjv/Psalms/69/9",
-  "name": "Psalms 69:9",
+  "book": "John",
+  "chapter": "16",
+  "date": "Friday 31-January, 2025",
+  "getbible": "https://getbible.net/kjv/John/16/33",
+  "name": "John 16:33",
   "scripture": [
     {
-      "nr": "9",
-      "text": "For the zeal of thine house hath eaten me up; and the reproaches of them that reproached thee are fallen upon me."
+      "nr": "33",
+      "text": "These things I have spoken unto you, that in me ye might have peace. In the world ye shall have tribulation: but be of good cheer; I have overcome the world. "
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "9",
+  "verse": "33",
   "version": "kjv"
 }
