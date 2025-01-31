@@ -1,5 +1,5 @@
-**John 16:33**
+**Proverbs 11:30**
 
-33 These things I have spoken unto you, that in me ye might have peace. In the world ye shall have tribulation: but be of good cheer; I have overcome the world. 
+30 The fruit of the righteous is a tree of life; and he that winneth souls is wise.
 
-[Friday 31-January, 2025](https://getbible.net/kjv/John/16/33)
+[Saturday 01-February, 2025](https://getbible.net/kjv/Proverbs/11/30)
