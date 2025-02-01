@@ -1,5 +1,5 @@
-**Proverbs 11:30**
+**Psalms 92:5**
 
-30 The fruit of the righteous is a tree of life; and he that winneth souls is wise.
+5 O Lord, how great are thy works! and thy thoughts are very deep.
 
-[Saturday 01-February, 2025](https://getbible.net/kjv/Proverbs/11/30)
+[Sunday 02-February, 2025](https://getbible.net/kjv/Psalms/92/5)
