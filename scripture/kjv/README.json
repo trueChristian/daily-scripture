@@ -1,17 +1,17 @@
 {
   "book": "Psalms",
-  "chapter": "92",
-  "date": "Sunday 02-February, 2025",
-  "getbible": "https://getbible.net/kjv/Psalms/92/5",
-  "name": "Psalms 92:5",
+  "chapter": "51",
+  "date": "Monday 03-February, 2025",
+  "getbible": "https://getbible.net/kjv/Psalms/51/6",
+  "name": "Psalms 51:6",
   "scripture": [
     {
-      "nr": "5",
-      "text": "O Lord, how great are thy works! and thy thoughts are very deep."
+      "nr": "6",
+      "text": "Behold, thou desirest truth in the inward parts: and in the hidden part thou shalt make me to know wisdom."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "5",
+  "verse": "6",
   "version": "kjv"
 }

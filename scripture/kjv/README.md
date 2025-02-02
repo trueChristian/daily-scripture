@@ -1,5 +1,5 @@
-**Psalms 92:5**
+**Psalms 51:6**
 
-5 O Lord, how great are thy works! and thy thoughts are very deep.
+6 Behold, thou desirest truth in the inward parts: and in the hidden part thou shalt make me to know wisdom.
 
-[Sunday 02-February, 2025](https://getbible.net/kjv/Psalms/92/5)
+[Monday 03-February, 2025](https://getbible.net/kjv/Psalms/51/6)
