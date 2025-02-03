@@ -1,5 +1,5 @@
-**Psalms 51:6**
+**Mark 1:35**
 
-6 Behold, thou desirest truth in the inward parts: and in the hidden part thou shalt make me to know wisdom.
+35 And in the morning, rising up a great while before day, he went out, and departed into a solitary place, and there prayed.
 
-[Monday 03-February, 2025](https://getbible.net/kjv/Psalms/51/6)
+[Tuesday 04-February, 2025](https://getbible.net/kjv/Mark/1/35)
