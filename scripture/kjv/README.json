@@ -1,17 +1,17 @@
 {
-  "book": "Mark",
-  "chapter": "1",
-  "date": "Tuesday 04-February, 2025",
-  "getbible": "https://getbible.net/kjv/Mark/1/35",
-  "name": "Mark 1:35",
+  "book": "1 Corinthians",
+  "chapter": "7",
+  "date": "Wednesday 05-February, 2025",
+  "getbible": "https://getbible.net/kjv/1 Corinthians/7/8",
+  "name": "1 Corinthians 7:8",
   "scripture": [
     {
-      "nr": "35",
-      "text": "And in the morning, rising up a great while before day, he went out, and departed into a solitary place, and there prayed."
+      "nr": "8",
+      "text": "I say therefore to the unmarried and widows, It is good for them if they abide even as I."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "35",
+  "verse": "8",
   "version": "kjv"
 }

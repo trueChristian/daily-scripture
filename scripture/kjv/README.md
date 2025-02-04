@@ -1,5 +1,5 @@
-**Mark 1:35**
+**1 Corinthians 7:8**
 
-35 And in the morning, rising up a great while before day, he went out, and departed into a solitary place, and there prayed.
+8 I say therefore to the unmarried and widows, It is good for them if they abide even as I.
 
-[Tuesday 04-February, 2025](https://getbible.net/kjv/Mark/1/35)
+[Wednesday 05-February, 2025](https://getbible.net/kjv/1 Corinthians/7/8)
