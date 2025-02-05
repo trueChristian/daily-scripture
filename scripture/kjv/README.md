@@ -1,5 +1,5 @@
-**1 Corinthians 7:8**
+**1 John 1:7-8**
 
-8 I say therefore to the unmarried and widows, It is good for them if they abide even as I.
+7 But if we walk in the light, as he is in the light, we have fellowship one with another, and the blood of Jesus Christ his Son cleanseth us from all sin. 8 If we say that we have no sin, we deceive ourselves, and the truth is not in us.
 
-[Wednesday 05-February, 2025](https://getbible.net/kjv/1 Corinthians/7/8)
+[Thursday 06-February, 2025](https://getbible.net/kjv/1 John/1/7-8)
