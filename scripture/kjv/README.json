@@ -1,21 +1,17 @@
 {
-  "book": "Luke",
-  "chapter": "12",
-  "date": "Friday 07-February, 2025",
-  "getbible": "https://getbible.net/kjv/Luke/12/27-28",
-  "name": "Luke 12:27-28",
+  "book": "Jeremiah",
+  "chapter": "13",
+  "date": "Saturday 08-February, 2025",
+  "getbible": "https://getbible.net/kjv/Jeremiah/13/15",
+  "name": "Jeremiah 13:15",
   "scripture": [
     {
-      "nr": "27",
-      "text": "Consider the lilies how they grow: they toil not, they spin not; and yet I say unto you, that Solomon in all his glory was not arrayed like one of these."
-    },
-    {
-      "nr": "28",
-      "text": "If then God so clothe the grass, which is to day in the field, and to morrow is cast into the oven; how much more will he clothe you, O ye of little faith?"
+      "nr": "15",
+      "text": "Hear ye, and give ear; be not proud: for the Lord hath spoken."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "27-28",
+  "verse": "15",
   "version": "kjv"
 }
