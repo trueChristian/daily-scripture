@@ -1,17 +1,17 @@
 {
-  "book": "Jeremiah",
-  "chapter": "13",
-  "date": "Saturday 08-February, 2025",
-  "getbible": "https://getbible.net/kjv/Jeremiah/13/15",
-  "name": "Jeremiah 13:15",
+  "book": "John",
+  "chapter": "14",
+  "date": "Sunday 09-February, 2025",
+  "getbible": "https://getbible.net/kjv/John/14/23",
+  "name": "John 14:23",
   "scripture": [
     {
-      "nr": "15",
-      "text": "Hear ye, and give ear; be not proud: for the Lord hath spoken."
+      "nr": "23",
+      "text": "Jesus answered and said unto him, If a man love me, he will keep my words: and my Father will love him, and we will come unto him, and make our abode with him."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "15",
+  "verse": "23",
   "version": "kjv"
 }
