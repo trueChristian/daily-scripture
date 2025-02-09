@@ -1,5 +1,5 @@
-**John 14:23**
+**Jeremiah 12:6**
 
-23 Jesus answered and said unto him, If a man love me, he will keep my words: and my Father will love him, and we will come unto him, and make our abode with him.
+6 For even thy brethren, and the house of thy father, even they have dealt treacherously with thee; yea, they have called a multitude after thee: believe them not, though they speak fair words unto thee.
 
-[Sunday 09-February, 2025](https://getbible.net/kjv/John/14/23)
+[Monday 10-February, 2025](https://getbible.net/kjv/Jeremiah/12/6)
