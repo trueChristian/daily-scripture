@@ -1,5 +1,5 @@
-**Jeremiah 12:6**
+**1 Thessalonians 4:11-12**
 
-6 For even thy brethren, and the house of thy father, even they have dealt treacherously with thee; yea, they have called a multitude after thee: believe them not, though they speak fair words unto thee.
+11 And that ye study to be quiet, and to do your own business, and to work with your own hands, as we commanded you; 12 That ye may walk honestly toward them that are without, and that ye may have lack of nothing.
 
-[Monday 10-February, 2025](https://getbible.net/kjv/Jeremiah/12/6)
+[Tuesday 11-February, 2025](https://getbible.net/kjv/1 Thessalonians/4/11-12)

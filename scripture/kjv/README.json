@@ -1,17 +1,21 @@
 {
-  "book": "Jeremiah",
-  "chapter": "12",
-  "date": "Monday 10-February, 2025",
-  "getbible": "https://getbible.net/kjv/Jeremiah/12/6",
-  "name": "Jeremiah 12:6",
+  "book": "1 Thessalonians",
+  "chapter": "4",
+  "date": "Tuesday 11-February, 2025",
+  "getbible": "https://getbible.net/kjv/1 Thessalonians/4/11-12",
+  "name": "1 Thessalonians 4:11-12",
   "scripture": [
     {
-      "nr": "6",
-      "text": "For even thy brethren, and the house of thy father, even they have dealt treacherously with thee; yea, they have called a multitude after thee: believe them not, though they speak fair words unto thee."
+      "nr": "11",
+      "text": "And that ye study to be quiet, and to do your own business, and to work with your own hands, as we commanded you;"
+    },
+    {
+      "nr": "12",
+      "text": "That ye may walk honestly toward them that are without, and that ye may have lack of nothing."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "6",
+  "verse": "11-12",
   "version": "kjv"
 }
