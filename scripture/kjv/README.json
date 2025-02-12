@@ -1,17 +1,17 @@
 {
-  "book": "John",
-  "chapter": "16",
-  "date": "Wednesday 12-February, 2025",
-  "getbible": "https://getbible.net/kjv/John/16/14",
-  "name": "John 16:14",
+  "book": "Philippians",
+  "chapter": "2",
+  "date": "Thursday 13-February, 2025",
+  "getbible": "https://getbible.net/kjv/Philippians/2/27",
+  "name": "Philippians 2:27",
   "scripture": [
     {
-      "nr": "14",
-      "text": "He shall glorify me: for he shall receive of mine, and shall shew it unto you."
+      "nr": "27",
+      "text": "For indeed he was sick nigh unto death: but God had mercy on him; and not on him only, but on me also, lest I should have sorrow upon sorrow."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "14",
+  "verse": "27",
   "version": "kjv"
 }
