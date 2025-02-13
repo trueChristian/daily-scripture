@@ -1,17 +1,21 @@
 {
-  "book": "Philippians",
-  "chapter": "2",
-  "date": "Thursday 13-February, 2025",
-  "getbible": "https://getbible.net/kjv/Philippians/2/27",
-  "name": "Philippians 2:27",
+  "book": "Luke",
+  "chapter": "21",
+  "date": "Friday 14-February, 2025",
+  "getbible": "https://getbible.net/kjv/Luke/21/37-38",
+  "name": "Luke 21:37-38",
   "scripture": [
     {
-      "nr": "27",
-      "text": "For indeed he was sick nigh unto death: but God had mercy on him; and not on him only, but on me also, lest I should have sorrow upon sorrow."
+      "nr": "37",
+      "text": "And in the day time he was teaching in the temple; and at night he went out, and abode in the mount that is called the mount of Olives."
+    },
+    {
+      "nr": "38",
+      "text": "And all the people came early in the morning to him in the temple, for to hear him. "
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "27",
+  "verse": "37-38",
   "version": "kjv"
 }

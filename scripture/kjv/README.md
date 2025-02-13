@@ -1,5 +1,5 @@
-**Philippians 2:27**
+**Luke 21:37-38**
 
-27 For indeed he was sick nigh unto death: but God had mercy on him; and not on him only, but on me also, lest I should have sorrow upon sorrow.
+37 And in the day time he was teaching in the temple; and at night he went out, and abode in the mount that is called the mount of Olives. 38 And all the people came early in the morning to him in the temple, for to hear him. 
 
-[Thursday 13-February, 2025](https://getbible.net/kjv/Philippians/2/27)
+[Friday 14-February, 2025](https://getbible.net/kjv/Luke/21/37-38)
