@@ -1,5 +1,5 @@
-**Luke 21:37-38**
+**2 Corinthians 6:11-13**
 
-37 And in the day time he was teaching in the temple; and at night he went out, and abode in the mount that is called the mount of Olives. 38 And all the people came early in the morning to him in the temple, for to hear him. 
+11 O ye Corinthians, our mouth is open unto you, our heart is enlarged. 12 Ye are not straitened in us, but ye are straitened in your own bowels. 13 Now for a recompence in the same, (I speak as unto my children,) be ye also enlarged.
 
-[Friday 14-February, 2025](https://getbible.net/kjv/Luke/21/37-38)
+[Saturday 15-February, 2025](https://getbible.net/kjv/2 Corinthians/6/11-13)
