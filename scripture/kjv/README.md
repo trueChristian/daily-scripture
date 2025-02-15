@@ -1,5 +1,5 @@
-**2 Corinthians 6:11-13**
+**1 Corinthians 15:10**
 
-11 O ye Corinthians, our mouth is open unto you, our heart is enlarged. 12 Ye are not straitened in us, but ye are straitened in your own bowels. 13 Now for a recompence in the same, (I speak as unto my children,) be ye also enlarged.
+10 But by the grace of God I am what I am: and his grace which was bestowed upon me was not in vain; but I laboured more abundantly than they all: yet not I, but the grace of God which was with me.
 
-[Saturday 15-February, 2025](https://getbible.net/kjv/2 Corinthians/6/11-13)
+[Sunday 16-February, 2025](https://getbible.net/kjv/1 Corinthians/15/10)

@@ -1,25 +1,17 @@
 {
-  "book": "2 Corinthians",
-  "chapter": "6",
-  "date": "Saturday 15-February, 2025",
-  "getbible": "https://getbible.net/kjv/2 Corinthians/6/11-13",
-  "name": "2 Corinthians 6:11-13",
+  "book": "1 Corinthians",
+  "chapter": "15",
+  "date": "Sunday 16-February, 2025",
+  "getbible": "https://getbible.net/kjv/1 Corinthians/15/10",
+  "name": "1 Corinthians 15:10",
   "scripture": [
     {
-      "nr": "11",
-      "text": "O ye Corinthians, our mouth is open unto you, our heart is enlarged."
-    },
-    {
-      "nr": "12",
-      "text": "Ye are not straitened in us, but ye are straitened in your own bowels."
-    },
-    {
-      "nr": "13",
-      "text": "Now for a recompence in the same, (I speak as unto my children,) be ye also enlarged."
+      "nr": "10",
+      "text": "But by the grace of God I am what I am: and his grace which was bestowed upon me was not in vain; but I laboured more abundantly than they all: yet not I, but the grace of God which was with me."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "11-13",
+  "verse": "10",
   "version": "kjv"
 }
