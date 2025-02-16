@@ -1,5 +1,5 @@
-**1 Corinthians 15:10**
+**Isaiah 61:9**
 
-10 But by the grace of God I am what I am: and his grace which was bestowed upon me was not in vain; but I laboured more abundantly than they all: yet not I, but the grace of God which was with me.
+9 And their seed shall be known among the Gentiles, and their offspring among the people: all that see them shall acknowledge them, that they are the seed which the Lord hath blessed.
 
-[Sunday 16-February, 2025](https://getbible.net/kjv/1 Corinthians/15/10)
+[Monday 17-February, 2025](https://getbible.net/kjv/Isaiah/61/9)

@@ -1,17 +1,17 @@
 {
-  "book": "1 Corinthians",
-  "chapter": "15",
-  "date": "Sunday 16-February, 2025",
-  "getbible": "https://getbible.net/kjv/1 Corinthians/15/10",
-  "name": "1 Corinthians 15:10",
+  "book": "Isaiah",
+  "chapter": "61",
+  "date": "Monday 17-February, 2025",
+  "getbible": "https://getbible.net/kjv/Isaiah/61/9",
+  "name": "Isaiah 61:9",
   "scripture": [
     {
-      "nr": "10",
-      "text": "But by the grace of God I am what I am: and his grace which was bestowed upon me was not in vain; but I laboured more abundantly than they all: yet not I, but the grace of God which was with me."
+      "nr": "9",
+      "text": "And their seed shall be known among the Gentiles, and their offspring among the people: all that see them shall acknowledge them, that they are the seed which the Lord hath blessed."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "10",
+  "verse": "9",
   "version": "kjv"
 }
