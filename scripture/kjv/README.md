@@ -1,5 +1,5 @@
-**Isaiah 61:9**
+**Luke 15:7**
 
-9 And their seed shall be known among the Gentiles, and their offspring among the people: all that see them shall acknowledge them, that they are the seed which the Lord hath blessed.
+7 I say unto you, that likewise joy shall be in heaven over one sinner that repenteth, more than over ninety and nine just persons, which need no repentance.
 
-[Monday 17-February, 2025](https://getbible.net/kjv/Isaiah/61/9)
+[Tuesday 18-February, 2025](https://getbible.net/kjv/Luke/15/7)
