@@ -1,17 +1,21 @@
 {
-  "book": "1 John",
-  "chapter": "3",
-  "date": "Wednesday 19-February, 2025",
-  "getbible": "https://getbible.net/kjv/1 John/3/13",
-  "name": "1 John 3:13",
+  "book": "Isaiah",
+  "chapter": "56",
+  "date": "Thursday 20-February, 2025",
+  "getbible": "https://getbible.net/kjv/Isaiah/56/10-11",
+  "name": "Isaiah 56:10-11",
   "scripture": [
     {
-      "nr": "13",
-      "text": "Marvel not, my brethren, if the world hate you."
+      "nr": "10",
+      "text": "His watchmen are blind: they are all ignorant, they are all dumb dogs, they cannot bark; sleeping, lying down, loving to slumber."
+    },
+    {
+      "nr": "11",
+      "text": "Yea, they are greedy dogs which can never have enough, and they are shepherds that cannot understand: they all look to their own way, every one for his gain, from his quarter."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "13",
+  "verse": "10-11",
   "version": "kjv"
 }
