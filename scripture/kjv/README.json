@@ -1,21 +1,21 @@
 {
-  "book": "Isaiah",
-  "chapter": "56",
-  "date": "Thursday 20-February, 2025",
-  "getbible": "https://getbible.net/kjv/Isaiah/56/10-11",
-  "name": "Isaiah 56:10-11",
+  "book": "2 Peter",
+  "chapter": "3",
+  "date": "Friday 21-February, 2025",
+  "getbible": "https://getbible.net/kjv/2 Peter/3/1-2",
+  "name": "2 Peter 3:1-2",
   "scripture": [
     {
-      "nr": "10",
-      "text": "His watchmen are blind: they are all ignorant, they are all dumb dogs, they cannot bark; sleeping, lying down, loving to slumber."
+      "nr": "1",
+      "text": "This second epistle, beloved, I now write unto you; in both which I stir up your pure minds by way of remembrance:"
     },
     {
-      "nr": "11",
-      "text": "Yea, they are greedy dogs which can never have enough, and they are shepherds that cannot understand: they all look to their own way, every one for his gain, from his quarter."
+      "nr": "2",
+      "text": "That ye may be mindful of the words which were spoken before by the holy prophets, and of the commandment of us the apostles of the Lord and Saviour:"
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "10-11",
+  "verse": "1-2",
   "version": "kjv"
 }

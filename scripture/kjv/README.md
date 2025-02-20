@@ -1,5 +1,5 @@
-**Isaiah 56:10-11**
+**2 Peter 3:1-2**
 
-10 His watchmen are blind: they are all ignorant, they are all dumb dogs, they cannot bark; sleeping, lying down, loving to slumber. 11 Yea, they are greedy dogs which can never have enough, and they are shepherds that cannot understand: they all look to their own way, every one for his gain, from his quarter.
+1 This second epistle, beloved, I now write unto you; in both which I stir up your pure minds by way of remembrance: 2 That ye may be mindful of the words which were spoken before by the holy prophets, and of the commandment of us the apostles of the Lord and Saviour:
 
-[Thursday 20-February, 2025](https://getbible.net/kjv/Isaiah/56/10-11)
+[Friday 21-February, 2025](https://getbible.net/kjv/2 Peter/3/1-2)
