@@ -1,17 +1,17 @@
 {
   "book": "Psalms",
-  "chapter": "26",
-  "date": "Saturday 22-February, 2025",
-  "getbible": "https://getbible.net/kjv/Psalms/26/8",
-  "name": "Psalms 26:8",
+  "chapter": "17",
+  "date": "Sunday 23-February, 2025",
+  "getbible": "https://getbible.net/kjv/Psalms/17/5",
+  "name": "Psalms 17:5",
   "scripture": [
     {
-      "nr": "8",
-      "text": "Lord, I have loved the habitation of thy house, and the place where thine honour dwelleth."
+      "nr": "5",
+      "text": "Hold up my goings in thy paths, that my footsteps slip not."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "8",
+  "verse": "5",
   "version": "kjv"
 }

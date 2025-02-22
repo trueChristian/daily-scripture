@@ -1,5 +1,5 @@
-**Psalms 26:8**
+**Psalms 17:5**
 
-8 Lord, I have loved the habitation of thy house, and the place where thine honour dwelleth.
+5 Hold up my goings in thy paths, that my footsteps slip not.
 
-[Saturday 22-February, 2025](https://getbible.net/kjv/Psalms/26/8)
+[Sunday 23-February, 2025](https://getbible.net/kjv/Psalms/17/5)
