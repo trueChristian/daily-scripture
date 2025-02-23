@@ -1,5 +1,5 @@
-**Psalms 17:5**
+**Luke 8:39**
 
-5 Hold up my goings in thy paths, that my footsteps slip not.
+39 Return to thine own house, and shew how great things God hath done unto thee. And he went his way, and published throughout the whole city how great things Jesus had done unto him.
 
-[Sunday 23-February, 2025](https://getbible.net/kjv/Psalms/17/5)
+[Monday 24-February, 2025](https://getbible.net/kjv/Luke/8/39)
