@@ -1,5 +1,5 @@
-**Luke 16:7-9**
+**Daniel 12:3**
 
-7 Then said he to another, And how much owest thou? And he said, An hundred measures of wheat. And he said unto him, Take thy bill, and write fourscore. 8 And the lord commended the unjust steward, because he had done wisely: for the children of this world are in their generation wiser than the children of light. 9 And I say unto you, Make to yourselves friends of the mammon of unrighteousness; that, when ye fail, they may receive you into everlasting habitations.
+3 And they that be wise shall shine as the brightness of the firmament; and they that turn many to righteousness as the stars for ever and ever.
 
-[Tuesday 25-February, 2025](https://getbible.net/kjv/Luke/16/7-9)
+[Wednesday 26-February, 2025](https://getbible.net/kjv/Daniel/12/3)
