@@ -1,5 +1,5 @@
-**Daniel 12:3**
+**Colossians 3:19**
 
-3 And they that be wise shall shine as the brightness of the firmament; and they that turn many to righteousness as the stars for ever and ever.
+19 Husbands, love your wives, and be not bitter against them.
 
-[Wednesday 26-February, 2025](https://getbible.net/kjv/Daniel/12/3)
+[Thursday 27-February, 2025](https://getbible.net/kjv/Colossians/3/19)
