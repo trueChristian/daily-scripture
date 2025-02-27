@@ -1,5 +1,5 @@
-**Colossians 3:19**
+**James 2:1**
 
-19 Husbands, love your wives, and be not bitter against them.
+1 My brethren, have not the faith of our Lord Jesus Christ, the Lord of glory, with respect of persons.
 
-[Thursday 27-February, 2025](https://getbible.net/kjv/Colossians/3/19)
+[Friday 28-February, 2025](https://getbible.net/kjv/James/2/1)
