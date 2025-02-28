@@ -1,17 +1,17 @@
 {
-  "book": "James",
-  "chapter": "2",
-  "date": "Friday 28-February, 2025",
-  "getbible": "https://getbible.net/kjv/James/2/1",
-  "name": "James 2:1",
+  "book": "Luke",
+  "chapter": "22",
+  "date": "Saturday 01-March, 2025",
+  "getbible": "https://getbible.net/kjv/Luke/22/68",
+  "name": "Luke 22:68",
   "scripture": [
     {
-      "nr": "1",
-      "text": "My brethren, have not the faith of our Lord Jesus Christ, the Lord of glory, with respect of persons."
+      "nr": "68",
+      "text": "And if I also ask you, ye will not answer me, nor let me go."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "1",
+  "verse": "68",
   "version": "kjv"
 }

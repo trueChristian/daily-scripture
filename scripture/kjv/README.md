@@ -1,5 +1,5 @@
-**James 2:1**
+**Luke 22:68**
 
-1 My brethren, have not the faith of our Lord Jesus Christ, the Lord of glory, with respect of persons.
+68 And if I also ask you, ye will not answer me, nor let me go.
 
-[Friday 28-February, 2025](https://getbible.net/kjv/James/2/1)
+[Saturday 01-March, 2025](https://getbible.net/kjv/Luke/22/68)
