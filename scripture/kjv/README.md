@@ -1,5 +1,5 @@
-**Ezekiel 34:3-4**
+**Isaiah 35:10**
 
-3 Ye eat the fat, and ye clothe you with the wool, ye kill them that are fed: but ye feed not the flock. 4 The diseased have ye not strengthened, neither have ye healed that which was sick, neither have ye bound up that which was broken, neither have ye brought again that which was driven away, neither have ye sought that which was lost; but with force and with cruelty have ye ruled them.
+10 And the ransomed of the Lord shall return, and come to Zion with songs and everlasting joy upon their heads: they shall obtain joy and gladness, and sorrow and sighing shall flee away. 
 
-[Sunday 02-March, 2025](https://getbible.net/kjv/Ezekiel/34/3-4)
+[Monday 03-March, 2025](https://getbible.net/kjv/Isaiah/35/10)
