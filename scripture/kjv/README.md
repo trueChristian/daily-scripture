@@ -1,5 +1,5 @@
-**Isaiah 35:10**
+**Romans 15:14**
 
-10 And the ransomed of the Lord shall return, and come to Zion with songs and everlasting joy upon their heads: they shall obtain joy and gladness, and sorrow and sighing shall flee away. 
+14 And I myself also am persuaded of you, my brethren, that ye also are full of goodness, filled with all knowledge, able also to admonish one another.
 
-[Monday 03-March, 2025](https://getbible.net/kjv/Isaiah/35/10)
+[Tuesday 04-March, 2025](https://getbible.net/kjv/Romans/15/14)
