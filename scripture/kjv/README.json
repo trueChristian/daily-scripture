@@ -1,17 +1,17 @@
 {
-  "book": "Romans",
-  "chapter": "15",
-  "date": "Tuesday 04-March, 2025",
-  "getbible": "https://getbible.net/kjv/Romans/15/14",
-  "name": "Romans 15:14",
+  "book": "2 Thessalonians",
+  "chapter": "3",
+  "date": "Wednesday 05-March, 2025",
+  "getbible": "https://getbible.net/kjv/2 Thessalonians/3/16",
+  "name": "2 Thessalonians 3:16",
   "scripture": [
     {
-      "nr": "14",
-      "text": "And I myself also am persuaded of you, my brethren, that ye also are full of goodness, filled with all knowledge, able also to admonish one another."
+      "nr": "16",
+      "text": "Now the Lord of peace himself give you peace always by all means. The Lord be with you all."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "14",
+  "verse": "16",
   "version": "kjv"
 }
