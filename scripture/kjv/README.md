@@ -1,5 +1,5 @@
-**2 Thessalonians 3:16**
+**1 Timothy 2:8**
 
-16 Now the Lord of peace himself give you peace always by all means. The Lord be with you all.
+8 I will therefore that men pray every where, lifting up holy hands, without wrath and doubting.
 
-[Wednesday 05-March, 2025](https://getbible.net/kjv/2 Thessalonians/3/16)
+[Thursday 06-March, 2025](https://getbible.net/kjv/1 Timothy/2/8)

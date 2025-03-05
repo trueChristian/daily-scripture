@@ -1,17 +1,17 @@
 {
-  "book": "2 Thessalonians",
-  "chapter": "3",
-  "date": "Wednesday 05-March, 2025",
-  "getbible": "https://getbible.net/kjv/2 Thessalonians/3/16",
-  "name": "2 Thessalonians 3:16",
+  "book": "1 Timothy",
+  "chapter": "2",
+  "date": "Thursday 06-March, 2025",
+  "getbible": "https://getbible.net/kjv/1 Timothy/2/8",
+  "name": "1 Timothy 2:8",
   "scripture": [
     {
-      "nr": "16",
-      "text": "Now the Lord of peace himself give you peace always by all means. The Lord be with you all."
+      "nr": "8",
+      "text": "I will therefore that men pray every where, lifting up holy hands, without wrath and doubting."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "16",
+  "verse": "8",
   "version": "kjv"
 }
