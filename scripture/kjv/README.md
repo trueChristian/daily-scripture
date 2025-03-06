@@ -1,5 +1,5 @@
-**1 Timothy 2:8**
+**Isaiah 61:11**
 
-8 I will therefore that men pray every where, lifting up holy hands, without wrath and doubting.
+11 For as the earth bringeth forth her bud, and as the garden causeth the things that are sown in it to spring forth; so the Lord God will cause righteousness and praise to spring forth before all the nations. 
 
-[Thursday 06-March, 2025](https://getbible.net/kjv/1 Timothy/2/8)
+[Friday 07-March, 2025](https://getbible.net/kjv/Isaiah/61/11)

@@ -1,17 +1,17 @@
 {
-  "book": "1 Timothy",
-  "chapter": "2",
-  "date": "Thursday 06-March, 2025",
-  "getbible": "https://getbible.net/kjv/1 Timothy/2/8",
-  "name": "1 Timothy 2:8",
+  "book": "Isaiah",
+  "chapter": "61",
+  "date": "Friday 07-March, 2025",
+  "getbible": "https://getbible.net/kjv/Isaiah/61/11",
+  "name": "Isaiah 61:11",
   "scripture": [
     {
-      "nr": "8",
-      "text": "I will therefore that men pray every where, lifting up holy hands, without wrath and doubting."
+      "nr": "11",
+      "text": "For as the earth bringeth forth her bud, and as the garden causeth the things that are sown in it to spring forth; so the Lord God will cause righteousness and praise to spring forth before all the nations. "
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "8",
+  "verse": "11",
   "version": "kjv"
 }
