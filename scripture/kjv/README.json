@@ -1,17 +1,21 @@
 {
-  "book": "Isaiah",
-  "chapter": "61",
-  "date": "Friday 07-March, 2025",
-  "getbible": "https://getbible.net/kjv/Isaiah/61/11",
-  "name": "Isaiah 61:11",
+  "book": "Matthew",
+  "chapter": "13",
+  "date": "Saturday 08-March, 2025",
+  "getbible": "https://getbible.net/kjv/Matthew/13/16-17",
+  "name": "Matthew 13:16-17",
   "scripture": [
     {
-      "nr": "11",
-      "text": "For as the earth bringeth forth her bud, and as the garden causeth the things that are sown in it to spring forth; so the Lord God will cause righteousness and praise to spring forth before all the nations. "
+      "nr": "16",
+      "text": "But blessed are your eyes, for they see: and your ears, for they hear."
+    },
+    {
+      "nr": "17",
+      "text": "For verily I say unto you, That many prophets and righteous men have desired to see those things which ye see, and have not seen them; and to hear those things which ye hear, and have not heard them."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "11",
+  "verse": "16-17",
   "version": "kjv"
 }
