@@ -1,21 +1,17 @@
 {
-  "book": "Matthew",
-  "chapter": "13",
-  "date": "Saturday 08-March, 2025",
-  "getbible": "https://getbible.net/kjv/Matthew/13/16-17",
-  "name": "Matthew 13:16-17",
+  "book": "Hebrews",
+  "chapter": "12",
+  "date": "Sunday 09-March, 2025",
+  "getbible": "https://getbible.net/kjv/Hebrews/12/1",
+  "name": "Hebrews 12:1",
   "scripture": [
     {
-      "nr": "16",
-      "text": "But blessed are your eyes, for they see: and your ears, for they hear."
-    },
-    {
-      "nr": "17",
-      "text": "For verily I say unto you, That many prophets and righteous men have desired to see those things which ye see, and have not seen them; and to hear those things which ye hear, and have not heard them."
+      "nr": "1",
+      "text": "Wherefore seeing we also are compassed about with so great a cloud of witnesses, let us lay aside every weight, and the sin which doth so easily beset us, and let us run with patience the race that is set before us,"
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "16-17",
+  "verse": "1",
   "version": "kjv"
 }

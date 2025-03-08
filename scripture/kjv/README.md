@@ -1,5 +1,5 @@
-**Matthew 13:16-17**
+**Hebrews 12:1**
 
-16 But blessed are your eyes, for they see: and your ears, for they hear. 17 For verily I say unto you, That many prophets and righteous men have desired to see those things which ye see, and have not seen them; and to hear those things which ye hear, and have not heard them.
+1 Wherefore seeing we also are compassed about with so great a cloud of witnesses, let us lay aside every weight, and the sin which doth so easily beset us, and let us run with patience the race that is set before us,
 
-[Saturday 08-March, 2025](https://getbible.net/kjv/Matthew/13/16-17)
+[Sunday 09-March, 2025](https://getbible.net/kjv/Hebrews/12/1)
