@@ -1,5 +1,5 @@
-**Hebrews 12:1**
+**Luke 22:52-53**
 
-1 Wherefore seeing we also are compassed about with so great a cloud of witnesses, let us lay aside every weight, and the sin which doth so easily beset us, and let us run with patience the race that is set before us,
+52 Then Jesus said unto the chief priests, and captains of the temple, and the elders, which were come to him, Be ye come out, as against a thief, with swords and staves? 53 When I was daily with you in the temple, ye stretched forth no hands against me: but this is your hour, and the power of darkness.
 
-[Sunday 09-March, 2025](https://getbible.net/kjv/Hebrews/12/1)
+[Monday 10-March, 2025](https://getbible.net/kjv/Luke/22/52-53)
