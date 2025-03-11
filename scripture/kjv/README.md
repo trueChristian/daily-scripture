@@ -1,5 +1,5 @@
-**Matthew 5:6**
+**Acts 9:35**
 
-6 Blessed are they which do hunger and thirst after righteousness: for they shall be filled.
+35 And all that dwelt at Lydda and Saron saw him, and turned to the Lord.
 
-[Tuesday 11-March, 2025](https://getbible.net/kjv/Matthew/5/6)
+[Wednesday 12-March, 2025](https://getbible.net/kjv/Acts/9/35)
