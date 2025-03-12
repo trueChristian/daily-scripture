@@ -1,17 +1,21 @@
 {
-  "book": "Acts",
-  "chapter": "9",
-  "date": "Wednesday 12-March, 2025",
-  "getbible": "https://getbible.net/kjv/Acts/9/35",
-  "name": "Acts 9:35",
+  "book": "Hosea",
+  "chapter": "7",
+  "date": "Thursday 13-March, 2025",
+  "getbible": "https://getbible.net/kjv/Hosea/7/8-9",
+  "name": "Hosea 7:8-9",
   "scripture": [
     {
-      "nr": "35",
-      "text": "And all that dwelt at Lydda and Saron saw him, and turned to the Lord."
+      "nr": "8",
+      "text": "Ephraim, he hath mixed himself among the people; Ephraim is a cake not turned."
+    },
+    {
+      "nr": "9",
+      "text": "Strangers have devoured his strength, and he knoweth it not: yea, gray hairs are here and there upon him, yet he knoweth not."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "35",
+  "verse": "8-9",
   "version": "kjv"
 }
