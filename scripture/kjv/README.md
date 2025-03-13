@@ -1,5 +1,5 @@
-**Hosea 7:8-9**
+**Isaiah 1:18-20**
 
-8 Ephraim, he hath mixed himself among the people; Ephraim is a cake not turned. 9 Strangers have devoured his strength, and he knoweth it not: yea, gray hairs are here and there upon him, yet he knoweth not.
+18 Come now, and let us reason together, saith the Lord: though your sins be as scarlet, they shall be as white as snow; though they be red like crimson, they shall be as wool. 19 If ye be willing and obedient, ye shall eat the good of the land: 20 But if ye refuse and rebel, ye shall be devoured with the sword: for the mouth of the Lord hath spoken it.
 
-[Thursday 13-March, 2025](https://getbible.net/kjv/Hosea/7/8-9)
+[Friday 14-March, 2025](https://getbible.net/kjv/Isaiah/1/18-20)

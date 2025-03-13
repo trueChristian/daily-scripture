@@ -1,21 +1,25 @@
 {
-  "book": "Hosea",
-  "chapter": "7",
-  "date": "Thursday 13-March, 2025",
-  "getbible": "https://getbible.net/kjv/Hosea/7/8-9",
-  "name": "Hosea 7:8-9",
+  "book": "Isaiah",
+  "chapter": "1",
+  "date": "Friday 14-March, 2025",
+  "getbible": "https://getbible.net/kjv/Isaiah/1/18-20",
+  "name": "Isaiah 1:18-20",
   "scripture": [
     {
-      "nr": "8",
-      "text": "Ephraim, he hath mixed himself among the people; Ephraim is a cake not turned."
+      "nr": "18",
+      "text": "Come now, and let us reason together, saith the Lord: though your sins be as scarlet, they shall be as white as snow; though they be red like crimson, they shall be as wool."
     },
     {
-      "nr": "9",
-      "text": "Strangers have devoured his strength, and he knoweth it not: yea, gray hairs are here and there upon him, yet he knoweth not."
+      "nr": "19",
+      "text": "If ye be willing and obedient, ye shall eat the good of the land:"
+    },
+    {
+      "nr": "20",
+      "text": "But if ye refuse and rebel, ye shall be devoured with the sword: for the mouth of the Lord hath spoken it."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "8-9",
+  "verse": "18-20",
   "version": "kjv"
 }
