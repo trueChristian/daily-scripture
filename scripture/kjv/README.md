@@ -1,5 +1,5 @@
-**John 6:20**
+**Psalms 5:3**
 
-20 But he saith unto them, It is I; be not afraid.
+3 My voice shalt thou hear in the morning, O Lord; in the morning will I direct my prayer unto thee, and will look up.
 
-[Saturday 15-March, 2025](https://getbible.net/kjv/John/6/20)
+[Sunday 16-March, 2025](https://getbible.net/kjv/Psalms/5/3)
