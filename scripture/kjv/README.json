@@ -1,17 +1,17 @@
 {
-  "book": "Psalms",
-  "chapter": "5",
-  "date": "Sunday 16-March, 2025",
-  "getbible": "https://getbible.net/kjv/Psalms/5/3",
-  "name": "Psalms 5:3",
+  "book": "John",
+  "chapter": "6",
+  "date": "Monday 17-March, 2025",
+  "getbible": "https://getbible.net/kjv/John/6/40",
+  "name": "John 6:40",
   "scripture": [
     {
-      "nr": "3",
-      "text": "My voice shalt thou hear in the morning, O Lord; in the morning will I direct my prayer unto thee, and will look up."
+      "nr": "40",
+      "text": "And this is the will of him that sent me, that every one which seeth the Son, and believeth on him, may have everlasting life: and I will raise him up at the last day."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "3",
+  "verse": "40",
   "version": "kjv"
 }

@@ -1,5 +1,5 @@
-**Psalms 5:3**
+**John 6:40**
 
-3 My voice shalt thou hear in the morning, O Lord; in the morning will I direct my prayer unto thee, and will look up.
+40 And this is the will of him that sent me, that every one which seeth the Son, and believeth on him, may have everlasting life: and I will raise him up at the last day.
 
-[Sunday 16-March, 2025](https://getbible.net/kjv/Psalms/5/3)
+[Monday 17-March, 2025](https://getbible.net/kjv/John/6/40)
