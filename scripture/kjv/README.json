@@ -1,17 +1,17 @@
 {
-  "book": "John",
-  "chapter": "6",
-  "date": "Monday 17-March, 2025",
-  "getbible": "https://getbible.net/kjv/John/6/40",
-  "name": "John 6:40",
+  "book": "1 Corinthians",
+  "chapter": "4",
+  "date": "Tuesday 18-March, 2025",
+  "getbible": "https://getbible.net/kjv/1 Corinthians/4/16",
+  "name": "1 Corinthians 4:16",
   "scripture": [
     {
-      "nr": "40",
-      "text": "And this is the will of him that sent me, that every one which seeth the Son, and believeth on him, may have everlasting life: and I will raise him up at the last day."
+      "nr": "16",
+      "text": "Wherefore I beseech you, be ye followers of me."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "40",
+  "verse": "16",
   "version": "kjv"
 }
