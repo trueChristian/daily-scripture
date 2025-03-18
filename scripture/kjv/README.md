@@ -1,5 +1,5 @@
-**1 Corinthians 4:16**
+**1 Corinthians 12:17**
 
-16 Wherefore I beseech you, be ye followers of me.
+17 If the whole body were an eye, where were the hearing? If the whole were hearing, where were the smelling?
 
-[Tuesday 18-March, 2025](https://getbible.net/kjv/1 Corinthians/4/16)
+[Wednesday 19-March, 2025](https://getbible.net/kjv/1 Corinthians/12/17)

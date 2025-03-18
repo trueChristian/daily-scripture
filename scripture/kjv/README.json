@@ -1,17 +1,17 @@
 {
   "book": "1 Corinthians",
-  "chapter": "4",
-  "date": "Tuesday 18-March, 2025",
-  "getbible": "https://getbible.net/kjv/1 Corinthians/4/16",
-  "name": "1 Corinthians 4:16",
+  "chapter": "12",
+  "date": "Wednesday 19-March, 2025",
+  "getbible": "https://getbible.net/kjv/1 Corinthians/12/17",
+  "name": "1 Corinthians 12:17",
   "scripture": [
     {
-      "nr": "16",
-      "text": "Wherefore I beseech you, be ye followers of me."
+      "nr": "17",
+      "text": "If the whole body were an eye, where were the hearing? If the whole were hearing, where were the smelling?"
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "16",
+  "verse": "17",
   "version": "kjv"
 }
