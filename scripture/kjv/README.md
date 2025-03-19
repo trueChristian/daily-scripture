@@ -1,5 +1,5 @@
-**1 Corinthians 12:17**
+**Psalms 94:15**
 
-17 If the whole body were an eye, where were the hearing? If the whole were hearing, where were the smelling?
+15 But judgment shall return unto righteousness: and all the upright in heart shall follow it.
 
-[Wednesday 19-March, 2025](https://getbible.net/kjv/1 Corinthians/12/17)
+[Thursday 20-March, 2025](https://getbible.net/kjv/Psalms/94/15)

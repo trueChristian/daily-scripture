@@ -1,17 +1,17 @@
 {
-  "book": "1 Corinthians",
-  "chapter": "12",
-  "date": "Wednesday 19-March, 2025",
-  "getbible": "https://getbible.net/kjv/1 Corinthians/12/17",
-  "name": "1 Corinthians 12:17",
+  "book": "Psalms",
+  "chapter": "94",
+  "date": "Thursday 20-March, 2025",
+  "getbible": "https://getbible.net/kjv/Psalms/94/15",
+  "name": "Psalms 94:15",
   "scripture": [
     {
-      "nr": "17",
-      "text": "If the whole body were an eye, where were the hearing? If the whole were hearing, where were the smelling?"
+      "nr": "15",
+      "text": "But judgment shall return unto righteousness: and all the upright in heart shall follow it."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "17",
+  "verse": "15",
   "version": "kjv"
 }
