@@ -1,17 +1,17 @@
 {
-  "book": "Psalms",
-  "chapter": "94",
-  "date": "Thursday 20-March, 2025",
-  "getbible": "https://getbible.net/kjv/Psalms/94/15",
-  "name": "Psalms 94:15",
+  "book": "Acts",
+  "chapter": "20",
+  "date": "Friday 21-March, 2025",
+  "getbible": "https://getbible.net/kjv/Acts/20/16",
+  "name": "Acts 20:16",
   "scripture": [
     {
-      "nr": "15",
-      "text": "But judgment shall return unto righteousness: and all the upright in heart shall follow it."
+      "nr": "16",
+      "text": "For Paul had determined to sail by Ephesus, because he would not spend the time in Asia: for he hasted, if it were possible for him, to be at Jerusalem the day of Pentecost."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "15",
+  "verse": "16",
   "version": "kjv"
 }
