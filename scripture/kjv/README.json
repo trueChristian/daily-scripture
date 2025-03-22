@@ -1,25 +1,17 @@
 {
-  "book": "Daniel",
+  "book": "1 Corinthians",
   "chapter": "9",
-  "date": "Saturday 22-March, 2025",
-  "getbible": "https://getbible.net/kjv/Daniel/9/13-15",
-  "name": "Daniel 9:13-15",
+  "date": "Sunday 23-March, 2025",
+  "getbible": "https://getbible.net/kjv/1 Corinthians/9/25",
+  "name": "1 Corinthians 9:25",
   "scripture": [
     {
-      "nr": "13",
-      "text": "As it is written in the law of Moses, all this evil is come upon us: yet made we not our prayer before the Lord our God, that we might turn from our iniquities, and understand thy truth."
-    },
-    {
-      "nr": "14",
-      "text": "Therefore hath the Lord watched upon the evil, and brought it upon us: for the Lord our God is righteous in all his works which he doeth: for we obeyed not his voice."
-    },
-    {
-      "nr": "15",
-      "text": "And now, O Lord our God, that hast brought thy people forth out of the land of Egypt with a mighty hand, and hast gotten thee renown, as at this day; we have sinned, we have done wickedly."
+      "nr": "25",
+      "text": "And every man that striveth for the mastery is temperate in all things. Now they do it to obtain a corruptible crown; but we an incorruptible."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "13-15",
+  "verse": "25",
   "version": "kjv"
 }
