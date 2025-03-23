@@ -1,17 +1,17 @@
 {
-  "book": "1 Corinthians",
-  "chapter": "9",
-  "date": "Sunday 23-March, 2025",
-  "getbible": "https://getbible.net/kjv/1 Corinthians/9/25",
-  "name": "1 Corinthians 9:25",
+  "book": "Revelation",
+  "chapter": "3",
+  "date": "Monday 24-March, 2025",
+  "getbible": "https://getbible.net/kjv/Revelation/3/19",
+  "name": "Revelation 3:19",
   "scripture": [
     {
-      "nr": "25",
-      "text": "And every man that striveth for the mastery is temperate in all things. Now they do it to obtain a corruptible crown; but we an incorruptible."
+      "nr": "19",
+      "text": "As many as I love, I rebuke and chasten: be zealous therefore, and repent."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "25",
+  "verse": "19",
   "version": "kjv"
 }
