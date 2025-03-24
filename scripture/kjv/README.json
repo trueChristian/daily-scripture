@@ -1,17 +1,29 @@
 {
-  "book": "Revelation",
-  "chapter": "3",
-  "date": "Monday 24-March, 2025",
-  "getbible": "https://getbible.net/kjv/Revelation/3/19",
-  "name": "Revelation 3:19",
+  "book": "Deuteronomy",
+  "chapter": "33",
+  "date": "Tuesday 25-March, 2025",
+  "getbible": "https://getbible.net/kjv/Deuteronomy/33/13-16",
+  "name": "Deuteronomy 33:13-16",
   "scripture": [
     {
-      "nr": "19",
-      "text": "As many as I love, I rebuke and chasten: be zealous therefore, and repent."
+      "nr": "13",
+      "text": "And of Joseph he said, Blessed of the Lord be his land, for the precious things of heaven, for the dew, and for the deep that coucheth beneath,"
+    },
+    {
+      "nr": "14",
+      "text": "And for the precious fruits brought forth by the sun, and for the precious things put forth by the moon,"
+    },
+    {
+      "nr": "15",
+      "text": "And for the chief things of the ancient mountains, and for the precious things of the lasting hills,"
+    },
+    {
+      "nr": "16",
+      "text": "And for the precious things of the earth and fulness thereof, and for the good will of him that dwelt in the bush: let the blessing come upon the head of Joseph, and upon the top of the head of him that was separated from his brethren."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "19",
+  "verse": "13-16",
   "version": "kjv"
 }
