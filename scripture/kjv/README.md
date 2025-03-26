@@ -1,5 +1,5 @@
-**2 Corinthians 11:6**
+**Ezekiel 12:24**
 
-6 But though I be rude in speech, yet not in knowledge; but we have been throughly made manifest among you in all things.
+24 For there shall be no more any vain vision nor flattering divination within the house of Israel.
 
-[Wednesday 26-March, 2025](https://getbible.net/kjv/2 Corinthians/11/6)
+[Thursday 27-March, 2025](https://getbible.net/kjv/Ezekiel/12/24)
