@@ -1,5 +1,5 @@
-**Ezekiel 12:24**
+**Ezekiel 6:1**
 
-24 For there shall be no more any vain vision nor flattering divination within the house of Israel.
+1 And the word of the Lord came unto me, saying,
 
-[Thursday 27-March, 2025](https://getbible.net/kjv/Ezekiel/12/24)
+[Friday 28-March, 2025](https://getbible.net/kjv/Ezekiel/6/1)
