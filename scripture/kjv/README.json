@@ -1,17 +1,17 @@
 {
-  "book": "Ezekiel",
-  "chapter": "6",
-  "date": "Friday 28-March, 2025",
-  "getbible": "https://getbible.net/kjv/Ezekiel/6/1",
-  "name": "Ezekiel 6:1",
+  "book": "Genesis",
+  "chapter": "22",
+  "date": "Saturday 29-March, 2025",
+  "getbible": "https://getbible.net/kjv/Genesis/22/18",
+  "name": "Genesis 22:18",
   "scripture": [
     {
-      "nr": "1",
-      "text": "And the word of the Lord came unto me, saying,"
+      "nr": "18",
+      "text": "And in thy seed shall all the nations of the earth be blessed; because thou hast obeyed my voice."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "1",
+  "verse": "18",
   "version": "kjv"
 }

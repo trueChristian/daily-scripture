@@ -1,5 +1,5 @@
-**Ezekiel 6:1**
+**Genesis 22:18**
 
-1 And the word of the Lord came unto me, saying,
+18 And in thy seed shall all the nations of the earth be blessed; because thou hast obeyed my voice.
 
-[Friday 28-March, 2025](https://getbible.net/kjv/Ezekiel/6/1)
+[Saturday 29-March, 2025](https://getbible.net/kjv/Genesis/22/18)
