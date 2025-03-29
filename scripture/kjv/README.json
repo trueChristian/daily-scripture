@@ -1,17 +1,17 @@
 {
-  "book": "Genesis",
-  "chapter": "22",
-  "date": "Saturday 29-March, 2025",
-  "getbible": "https://getbible.net/kjv/Genesis/22/18",
-  "name": "Genesis 22:18",
+  "book": "1 John",
+  "chapter": "3",
+  "date": "Sunday 30-March, 2025",
+  "getbible": "https://getbible.net/kjv/1 John/3/10",
+  "name": "1 John 3:10",
   "scripture": [
     {
-      "nr": "18",
-      "text": "And in thy seed shall all the nations of the earth be blessed; because thou hast obeyed my voice."
+      "nr": "10",
+      "text": "In this the children of God are manifest, and the children of the devil: whosoever doeth not righteousness is not of God, neither he that loveth not his brother."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "18",
+  "verse": "10",
   "version": "kjv"
 }
