@@ -1,17 +1,37 @@
 {
-  "book": "Acts",
-  "chapter": "4",
-  "date": "Monday 31-March, 2025",
-  "getbible": "https://getbible.net/kjv/Acts/4/10",
-  "name": "Acts 4:10",
+  "book": "2 Peter",
+  "chapter": "2",
+  "date": "Tuesday 01-April, 2025",
+  "getbible": "https://getbible.net/kjv/2 Peter/2/4-9",
+  "name": "2 Peter 2:4-9",
   "scripture": [
     {
-      "nr": "10",
-      "text": "Be it known unto you all, and to all the people of Israel, that by the name of Jesus Christ of Nazareth, whom ye crucified, whom God raised from the dead, even by him doth this man stand here before you whole."
+      "nr": "4",
+      "text": "For if God spared not the angels that sinned, but cast them down to hell, and delivered them into chains of darkness, to be reserved unto judgment;"
+    },
+    {
+      "nr": "5",
+      "text": "And spared not the old world, but saved Noah the eighth person, a preacher of righteousness, bringing in the flood upon the world of the ungodly;"
+    },
+    {
+      "nr": "6",
+      "text": "And turning the cities of Sodom and Gomorrha into ashes condemned them with an overthrow, making them an ensample unto those that after should live ungodly;"
+    },
+    {
+      "nr": "7",
+      "text": "And delivered just Lot, vexed with the filthy conversation of the wicked:"
+    },
+    {
+      "nr": "8",
+      "text": "(For that righteous man dwelling among them, in seeing and hearing, vexed his righteous soul from day to day with their unlawful deeds;)"
+    },
+    {
+      "nr": "9",
+      "text": "The Lord knoweth how to deliver the godly out of temptations, and to reserve the unjust unto the day of judgment to be punished:"
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "10",
+  "verse": "4-9",
   "version": "kjv"
 }
