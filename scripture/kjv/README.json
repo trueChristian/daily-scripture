@@ -1,17 +1,17 @@
 {
-  "book": "John",
-  "chapter": "5",
-  "date": "Wednesday 02-April, 2025",
-  "getbible": "https://getbible.net/kjv/John/5/14",
-  "name": "John 5:14",
+  "book": "Psalms",
+  "chapter": "30",
+  "date": "Thursday 03-April, 2025",
+  "getbible": "https://getbible.net/kjv/Psalms/30/5",
+  "name": "Psalms 30:5",
   "scripture": [
     {
-      "nr": "14",
-      "text": "Afterward Jesus findeth him in the temple, and said unto him, Behold, thou art made whole: sin no more, lest a worse thing come unto thee."
+      "nr": "5",
+      "text": "For his anger endureth but a moment; in his favour is life: weeping may endure for a night, but joy cometh in the morning."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "14",
+  "verse": "5",
   "version": "kjv"
 }
