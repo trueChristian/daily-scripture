@@ -1,5 +1,5 @@
-**Psalms 30:5**
+**Jeremiah 48:10**
 
-5 For his anger endureth but a moment; in his favour is life: weeping may endure for a night, but joy cometh in the morning.
+10 Cursed be he that doeth the work of the Lord deceitfully, and cursed be he that keepeth back his sword from blood.
 
-[Thursday 03-April, 2025](https://getbible.net/kjv/Psalms/30/5)
+[Friday 04-April, 2025](https://getbible.net/kjv/Jeremiah/48/10)
