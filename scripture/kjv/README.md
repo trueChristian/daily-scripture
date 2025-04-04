@@ -1,5 +1,5 @@
-**Jeremiah 48:10**
+**Luke 12:11-12**
 
-10 Cursed be he that doeth the work of the Lord deceitfully, and cursed be he that keepeth back his sword from blood.
+11 And when they bring you unto the synagogues, and unto magistrates, and powers, take ye no thought how or what thing ye shall answer, or what ye shall say: 12 For the Holy Ghost shall teach you in the same hour what ye ought to say.
 
-[Friday 04-April, 2025](https://getbible.net/kjv/Jeremiah/48/10)
+[Saturday 05-April, 2025](https://getbible.net/kjv/Luke/12/11-12)

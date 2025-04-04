@@ -1,17 +1,21 @@
 {
-  "book": "Jeremiah",
-  "chapter": "48",
-  "date": "Friday 04-April, 2025",
-  "getbible": "https://getbible.net/kjv/Jeremiah/48/10",
-  "name": "Jeremiah 48:10",
+  "book": "Luke",
+  "chapter": "12",
+  "date": "Saturday 05-April, 2025",
+  "getbible": "https://getbible.net/kjv/Luke/12/11-12",
+  "name": "Luke 12:11-12",
   "scripture": [
     {
-      "nr": "10",
-      "text": "Cursed be he that doeth the work of the Lord deceitfully, and cursed be he that keepeth back his sword from blood."
+      "nr": "11",
+      "text": "And when they bring you unto the synagogues, and unto magistrates, and powers, take ye no thought how or what thing ye shall answer, or what ye shall say:"
+    },
+    {
+      "nr": "12",
+      "text": "For the Holy Ghost shall teach you in the same hour what ye ought to say."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "10",
+  "verse": "11-12",
   "version": "kjv"
 }
