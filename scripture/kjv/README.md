@@ -1,5 +1,5 @@
-**Luke 12:11-12**
+**Luke 21:9**
 
-11 And when they bring you unto the synagogues, and unto magistrates, and powers, take ye no thought how or what thing ye shall answer, or what ye shall say: 12 For the Holy Ghost shall teach you in the same hour what ye ought to say.
+9 But when ye shall hear of wars and commotions, be not terrified: for these things must first come to pass; but the end is not by and by.
 
-[Saturday 05-April, 2025](https://getbible.net/kjv/Luke/12/11-12)
+[Sunday 06-April, 2025](https://getbible.net/kjv/Luke/21/9)

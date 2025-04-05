@@ -1,21 +1,17 @@
 {
   "book": "Luke",
-  "chapter": "12",
-  "date": "Saturday 05-April, 2025",
-  "getbible": "https://getbible.net/kjv/Luke/12/11-12",
-  "name": "Luke 12:11-12",
+  "chapter": "21",
+  "date": "Sunday 06-April, 2025",
+  "getbible": "https://getbible.net/kjv/Luke/21/9",
+  "name": "Luke 21:9",
   "scripture": [
     {
-      "nr": "11",
-      "text": "And when they bring you unto the synagogues, and unto magistrates, and powers, take ye no thought how or what thing ye shall answer, or what ye shall say:"
-    },
-    {
-      "nr": "12",
-      "text": "For the Holy Ghost shall teach you in the same hour what ye ought to say."
+      "nr": "9",
+      "text": "But when ye shall hear of wars and commotions, be not terrified: for these things must first come to pass; but the end is not by and by."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "11-12",
+  "verse": "9",
   "version": "kjv"
 }
