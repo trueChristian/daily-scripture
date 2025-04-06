@@ -1,17 +1,17 @@
 {
-  "book": "Luke",
-  "chapter": "21",
-  "date": "Sunday 06-April, 2025",
-  "getbible": "https://getbible.net/kjv/Luke/21/9",
-  "name": "Luke 21:9",
+  "book": "1 Chronicles",
+  "chapter": "4",
+  "date": "Monday 07-April, 2025",
+  "getbible": "https://getbible.net/kjv/1 Chronicles/4/10",
+  "name": "1 Chronicles 4:10",
   "scripture": [
     {
-      "nr": "9",
-      "text": "But when ye shall hear of wars and commotions, be not terrified: for these things must first come to pass; but the end is not by and by."
+      "nr": "10",
+      "text": "And Jabez called on the God of Israel, saying, Oh that thou wouldest bless me indeed, and enlarge my coast, and that thine hand might be with me, and that thou wouldest keep me from evil, that it may not grieve me! And God granted him that which he requested."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "9",
+  "verse": "10",
   "version": "kjv"
 }
