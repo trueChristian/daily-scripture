@@ -1,17 +1,17 @@
 {
-  "book": "1 Chronicles",
-  "chapter": "4",
-  "date": "Monday 07-April, 2025",
-  "getbible": "https://getbible.net/kjv/1 Chronicles/4/10",
-  "name": "1 Chronicles 4:10",
+  "book": "Proverbs",
+  "chapter": "24",
+  "date": "Tuesday 08-April, 2025",
+  "getbible": "https://getbible.net/kjv/Proverbs/24/16",
+  "name": "Proverbs 24:16",
   "scripture": [
     {
-      "nr": "10",
-      "text": "And Jabez called on the God of Israel, saying, Oh that thou wouldest bless me indeed, and enlarge my coast, and that thine hand might be with me, and that thou wouldest keep me from evil, that it may not grieve me! And God granted him that which he requested."
+      "nr": "16",
+      "text": "For a just man falleth seven times, and riseth up again: but the wicked shall fall into mischief."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "10",
+  "verse": "16",
   "version": "kjv"
 }

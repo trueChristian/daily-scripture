@@ -1,5 +1,5 @@
-**1 Chronicles 4:10**
+**Proverbs 24:16**
 
-10 And Jabez called on the God of Israel, saying, Oh that thou wouldest bless me indeed, and enlarge my coast, and that thine hand might be with me, and that thou wouldest keep me from evil, that it may not grieve me! And God granted him that which he requested.
+16 For a just man falleth seven times, and riseth up again: but the wicked shall fall into mischief.
 
-[Monday 07-April, 2025](https://getbible.net/kjv/1 Chronicles/4/10)
+[Tuesday 08-April, 2025](https://getbible.net/kjv/Proverbs/24/16)
