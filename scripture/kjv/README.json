@@ -1,21 +1,21 @@
 {
-  "book": "Proverbs",
-  "chapter": "3",
-  "date": "Wednesday 09-April, 2025",
-  "getbible": "https://getbible.net/kjv/Proverbs/3/3-4",
-  "name": "Proverbs 3:3-4",
+  "book": "Hebrews",
+  "chapter": "5",
+  "date": "Thursday 10-April, 2025",
+  "getbible": "https://getbible.net/kjv/Hebrews/5/13-14",
+  "name": "Hebrews 5:13-14",
   "scripture": [
     {
-      "nr": "3",
-      "text": "Let not mercy and truth forsake thee: bind them about thy neck; write them upon the table of thine heart:"
+      "nr": "13",
+      "text": "For every one that useth milk is unskilful in the word of righteousness: for he is a babe."
     },
     {
-      "nr": "4",
-      "text": "So shalt thou find favour and good understanding in the sight of God and man."
+      "nr": "14",
+      "text": "But strong meat belongeth to them that are of full age, even those who by reason of use have their senses exercised to discern both good and evil. "
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "3-4",
+  "verse": "13-14",
   "version": "kjv"
 }

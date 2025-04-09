@@ -1,5 +1,5 @@
-**Proverbs 3:3-4**
+**Hebrews 5:13-14**
 
-3 Let not mercy and truth forsake thee: bind them about thy neck; write them upon the table of thine heart: 4 So shalt thou find favour and good understanding in the sight of God and man.
+13 For every one that useth milk is unskilful in the word of righteousness: for he is a babe. 14 But strong meat belongeth to them that are of full age, even those who by reason of use have their senses exercised to discern both good and evil. 
 
-[Wednesday 09-April, 2025](https://getbible.net/kjv/Proverbs/3/3-4)
+[Thursday 10-April, 2025](https://getbible.net/kjv/Hebrews/5/13-14)
