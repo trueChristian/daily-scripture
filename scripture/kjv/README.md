@@ -1,5 +1,5 @@
-**Hebrews 5:13-14**
+**Philippians 4:2**
 
-13 For every one that useth milk is unskilful in the word of righteousness: for he is a babe. 14 But strong meat belongeth to them that are of full age, even those who by reason of use have their senses exercised to discern both good and evil. 
+2 I beseech Euodias, and beseech Syntyche, that they be of the same mind in the Lord.
 
-[Thursday 10-April, 2025](https://getbible.net/kjv/Hebrews/5/13-14)
+[Friday 11-April, 2025](https://getbible.net/kjv/Philippians/4/2)

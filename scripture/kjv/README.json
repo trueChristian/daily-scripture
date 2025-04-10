@@ -1,21 +1,17 @@
 {
-  "book": "Hebrews",
-  "chapter": "5",
-  "date": "Thursday 10-April, 2025",
-  "getbible": "https://getbible.net/kjv/Hebrews/5/13-14",
-  "name": "Hebrews 5:13-14",
+  "book": "Philippians",
+  "chapter": "4",
+  "date": "Friday 11-April, 2025",
+  "getbible": "https://getbible.net/kjv/Philippians/4/2",
+  "name": "Philippians 4:2",
   "scripture": [
     {
-      "nr": "13",
-      "text": "For every one that useth milk is unskilful in the word of righteousness: for he is a babe."
-    },
-    {
-      "nr": "14",
-      "text": "But strong meat belongeth to them that are of full age, even those who by reason of use have their senses exercised to discern both good and evil. "
+      "nr": "2",
+      "text": "I beseech Euodias, and beseech Syntyche, that they be of the same mind in the Lord."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "13-14",
+  "verse": "2",
   "version": "kjv"
 }
