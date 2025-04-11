@@ -1,5 +1,5 @@
-**Philippians 4:2**
+**John 3:16-17**
 
-2 I beseech Euodias, and beseech Syntyche, that they be of the same mind in the Lord.
+16 For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life. 17 For God sent not his Son into the world to condemn the world; but that the world through him might be saved.
 
-[Friday 11-April, 2025](https://getbible.net/kjv/Philippians/4/2)
+[Saturday 12-April, 2025](https://getbible.net/kjv/John/3/16-17)
