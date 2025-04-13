@@ -1,5 +1,5 @@
-**Lamentations 3:39-40**
+**Romans 2:1**
 
-39 Wherefore doth a living man complain, a man for the punishment of his sins? 40 Let us search and try our ways, and turn again to the Lord.
+1 Therefore thou art inexcusable, O man, whosoever thou art that judgest: for wherein thou judgest another, thou condemnest thyself; for thou that judgest doest the same things.
 
-[Sunday 13-April, 2025](https://getbible.net/kjv/Lamentations/3/39-40)
+[Monday 14-April, 2025](https://getbible.net/kjv/Romans/2/1)
