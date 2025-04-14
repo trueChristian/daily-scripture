@@ -1,5 +1,5 @@
-**Romans 2:1**
+**Psalms 95:6**
 
-1 Therefore thou art inexcusable, O man, whosoever thou art that judgest: for wherein thou judgest another, thou condemnest thyself; for thou that judgest doest the same things.
+6 O come, let us worship and bow down: let us kneel before the Lord our maker.
 
-[Monday 14-April, 2025](https://getbible.net/kjv/Romans/2/1)
+[Tuesday 15-April, 2025](https://getbible.net/kjv/Psalms/95/6)
