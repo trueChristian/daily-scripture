@@ -1,14 +1,15 @@
 name: "Test Today's Scripture!"
 
 on:
-  # so we can manually run a test also
+  # Allow manual execution
   workflow_dispatch:
 
 jobs:
-  build:
-    runs-on: [ubuntu-20.04]
+  test-daily-scripture:
+    runs-on: ubuntu-22.04
+
     steps:
-      - name: Setup gitHub User Details
+      - name: Setup GitHub User Details
         env:
           GIT_USER: ${{ secrets.GIT_USER }}
           GIT_EMAIL: ${{ secrets.GIT_EMAIL }}
@@ -17,11 +18,20 @@ jobs:
           SSH_KEY: ${{ secrets.SSH_KEY }}
           SSH_PUB: ${{ secrets.SSH_PUB }}
         run: |
-          /bin/bash <(/bin/curl -s https://raw.githubusercontent.com/vdm-io/github-user/master/src/setup.sh) --gpg-key "$GPG_KEY" --gpg-user "$GPG_USER" --ssh-key "$SSH_KEY" --ssh-pub "$SSH_PUB" --git-user "$GIT_USER" --git-email "$GIT_EMAIL"
-      - name: Clone Master Repositry
+          /bin/bash <(/bin/curl -s https://raw.githubusercontent.com/vdm-io/github-user/master/src/setup.sh) \
+            --gpg-key "$GPG_KEY" \
+            --gpg-user "$GPG_USER" \
+            --ssh-key "$SSH_KEY" \
+            --ssh-pub "$SSH_PUB" \
+            --git-user "$GIT_USER" \
+            --git-email "$GIT_EMAIL"
+
+      - name: Clone Master Repository
         run: |
           /bin/git clone git@github.com:trueChristian/daily-scripture.git daily_scripture
-      - name: Build the Daily Scripture
+
+      - name: Build the Daily Scripture (Dry Run)
         run: |
           cd daily_scripture
           /bin/bash ./src/today.sh --dry
+
