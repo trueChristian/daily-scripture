@@ -1,5 +1,5 @@
-**Psalms 95:6**
+**1 Timothy 1:14**
 
-6 O come, let us worship and bow down: let us kneel before the Lord our maker.
+14 And the grace of our Lord was exceeding abundant with faith and love which is in Christ Jesus.
 
-[Tuesday 15-April, 2025](https://getbible.net/kjv/Psalms/95/6)
+[Wednesday 16-April, 2025](https://getbible.net/kjv/1 Timothy/1/14)
