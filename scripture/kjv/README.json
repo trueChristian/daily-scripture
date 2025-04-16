@@ -1,17 +1,21 @@
 {
-  "book": "1 Timothy",
-  "chapter": "1",
-  "date": "Wednesday 16-April, 2025",
-  "getbible": "https://getbible.net/kjv/1 Timothy/1/14",
-  "name": "1 Timothy 1:14",
+  "book": "Jeremiah",
+  "chapter": "23",
+  "date": "Thursday 17-April, 2025",
+  "getbible": "https://getbible.net/kjv/Jeremiah/23/28-29",
+  "name": "Jeremiah 23:28-29",
   "scripture": [
     {
-      "nr": "14",
-      "text": "And the grace of our Lord was exceeding abundant with faith and love which is in Christ Jesus."
+      "nr": "28",
+      "text": "The prophet that hath a dream, let him tell a dream; and he that hath my word, let him speak my word faithfully. What is the chaff to the wheat? saith the Lord."
+    },
+    {
+      "nr": "29",
+      "text": "Is not my word like as a fire? saith the Lord; and like a hammer that breaketh the rock in pieces?"
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "14",
+  "verse": "28-29",
   "version": "kjv"
 }
