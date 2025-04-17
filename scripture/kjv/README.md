@@ -1,5 +1,5 @@
-**Jeremiah 23:28-29**
+**2 Corinthians 2:9**
 
-28 The prophet that hath a dream, let him tell a dream; and he that hath my word, let him speak my word faithfully. What is the chaff to the wheat? saith the Lord. 29 Is not my word like as a fire? saith the Lord; and like a hammer that breaketh the rock in pieces?
+9 For to this end also did I write, that I might know the proof of you, whether ye be obedient in all things.
 
-[Thursday 17-April, 2025](https://getbible.net/kjv/Jeremiah/23/28-29)
+[Friday 18-April, 2025](https://getbible.net/kjv/2 Corinthians/2/9)
