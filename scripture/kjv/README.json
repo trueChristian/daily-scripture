@@ -1,17 +1,29 @@
 {
-  "book": "2 Corinthians",
-  "chapter": "2",
-  "date": "Friday 18-April, 2025",
-  "getbible": "https://getbible.net/kjv/2 Corinthians/2/9",
-  "name": "2 Corinthians 2:9",
+  "book": "Isaiah",
+  "chapter": "41",
+  "date": "Saturday 19-April, 2025",
+  "getbible": "https://getbible.net/kjv/Isaiah/41/17-20",
+  "name": "Isaiah 41:17-20",
   "scripture": [
     {
-      "nr": "9",
-      "text": "For to this end also did I write, that I might know the proof of you, whether ye be obedient in all things."
+      "nr": "17",
+      "text": "When the poor and needy seek water, and there is none, and their tongue faileth for thirst, I the Lord will hear them, I the God of Israel will not forsake them."
+    },
+    {
+      "nr": "18",
+      "text": "I will open rivers in high places, and fountains in the midst of the valleys: I will make the wilderness a pool of water, and the dry land springs of water."
+    },
+    {
+      "nr": "19",
+      "text": "I will plant in the wilderness the cedar, the shittah tree, and the myrtle, and the oil tree; I will set in the desert the fir tree, and the pine, and the box tree together:"
+    },
+    {
+      "nr": "20",
+      "text": "That they may see, and know, and consider, and understand together, that the hand of the Lord hath done this, and the Holy One of Israel hath created it."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "9",
+  "verse": "17-20",
   "version": "kjv"
 }
