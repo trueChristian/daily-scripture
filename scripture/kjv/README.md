@@ -1,5 +1,5 @@
-**Isaiah 32:18**
+**Matthew 9:36-38**
 
-18 And my people shall dwell in a peaceable habitation, and in sure dwellings, and in quiet resting places;
+36 But when he saw the multitudes, he was moved with compassion on them, because they fainted, and were scattered abroad, as sheep having no shepherd. 37 Then saith he unto his disciples, The harvest truly is plenteous, but the labourers are few; 38 Pray ye therefore the Lord of the harvest, that he will send forth labourers into his harvest. 
 
-[Sunday 20-April, 2025](https://getbible.net/kjv/Isaiah/32/18)
+[Monday 21-April, 2025](https://getbible.net/kjv/Matthew/9/36-38)
