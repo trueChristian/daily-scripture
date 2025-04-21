@@ -1,5 +1,5 @@
-**Matthew 9:36-38**
+**Psalms 27:3**
 
-36 But when he saw the multitudes, he was moved with compassion on them, because they fainted, and were scattered abroad, as sheep having no shepherd. 37 Then saith he unto his disciples, The harvest truly is plenteous, but the labourers are few; 38 Pray ye therefore the Lord of the harvest, that he will send forth labourers into his harvest. 
+3 Though an host should encamp against me, my heart shall not fear: though war should rise against me, in this will I be confident.
 
-[Monday 21-April, 2025](https://getbible.net/kjv/Matthew/9/36-38)
+[Tuesday 22-April, 2025](https://getbible.net/kjv/Psalms/27/3)
