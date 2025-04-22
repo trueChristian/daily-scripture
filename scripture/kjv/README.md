@@ -1,5 +1,5 @@
-**Psalms 27:3**
+**Proverbs 10:17**
 
-3 Though an host should encamp against me, my heart shall not fear: though war should rise against me, in this will I be confident.
+17 He is in the way of life that keepeth instruction: but he that refuseth reproof erreth.
 
-[Tuesday 22-April, 2025](https://getbible.net/kjv/Psalms/27/3)
+[Wednesday 23-April, 2025](https://getbible.net/kjv/Proverbs/10/17)
