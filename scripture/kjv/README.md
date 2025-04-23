@@ -1,5 +1,5 @@
-**Proverbs 10:17**
+**Hebrews 10:17**
 
-17 He is in the way of life that keepeth instruction: but he that refuseth reproof erreth.
+17 And their sins and iniquities will I remember no more.
 
-[Wednesday 23-April, 2025](https://getbible.net/kjv/Proverbs/10/17)
+[Thursday 24-April, 2025](https://getbible.net/kjv/Hebrews/10/17)
