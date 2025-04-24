@@ -1,5 +1,5 @@
-**Hebrews 10:17**
+**Proverbs 10:21**
 
-17 And their sins and iniquities will I remember no more.
+21 The lips of the righteous feed many: but fools die for want of wisdom.
 
-[Thursday 24-April, 2025](https://getbible.net/kjv/Hebrews/10/17)
+[Friday 25-April, 2025](https://getbible.net/kjv/Proverbs/10/21)
