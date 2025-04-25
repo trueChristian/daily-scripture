@@ -1,17 +1,25 @@
 {
-  "book": "Proverbs",
-  "chapter": "10",
-  "date": "Friday 25-April, 2025",
-  "getbible": "https://getbible.net/kjv/Proverbs/10/21",
-  "name": "Proverbs 10:21",
+  "book": "Luke",
+  "chapter": "22",
+  "date": "Saturday 26-April, 2025",
+  "getbible": "https://getbible.net/kjv/Luke/22/63-65",
+  "name": "Luke 22:63-65",
   "scripture": [
     {
-      "nr": "21",
-      "text": "The lips of the righteous feed many: but fools die for want of wisdom."
+      "nr": "63",
+      "text": "And the men that held Jesus mocked him, and smote him. "
+    },
+    {
+      "nr": "64",
+      "text": "And when they had blindfolded him, they struck him on the face, and asked him, saying, Prophesy, who is it that smote thee?"
+    },
+    {
+      "nr": "65",
+      "text": "And many other things blasphemously spake they against him."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "21",
+  "verse": "63-65",
   "version": "kjv"
 }
