@@ -1,5 +1,5 @@
-**Luke 22:63-65**
+**Jude 1:22-23**
 
-63 And the men that held Jesus mocked him, and smote him.  64 And when they had blindfolded him, they struck him on the face, and asked him, saying, Prophesy, who is it that smote thee? 65 And many other things blasphemously spake they against him.
+22 And of some have compassion, making a difference: 23 And others save with fear, pulling them out of the fire; hating even the garment spotted by the flesh.
 
-[Saturday 26-April, 2025](https://getbible.net/kjv/Luke/22/63-65)
+[Sunday 27-April, 2025](https://getbible.net/kjv/Jude/1/22-23)
