@@ -1,5 +1,5 @@
-**Jude 1:22-23**
+**2 John 1:5**
 
-22 And of some have compassion, making a difference: 23 And others save with fear, pulling them out of the fire; hating even the garment spotted by the flesh.
+5 And now I beseech thee, lady, not as though I wrote a new commandment unto thee, but that which we had from the beginning, that we love one another.
 
-[Sunday 27-April, 2025](https://getbible.net/kjv/Jude/1/22-23)
+[Monday 28-April, 2025](https://getbible.net/kjv/2 John/1/5)

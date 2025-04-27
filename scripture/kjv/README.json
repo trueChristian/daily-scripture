@@ -1,21 +1,17 @@
 {
-  "book": "Jude",
+  "book": "2 John",
   "chapter": "1",
-  "date": "Sunday 27-April, 2025",
-  "getbible": "https://getbible.net/kjv/Jude/1/22-23",
-  "name": "Jude 1:22-23",
+  "date": "Monday 28-April, 2025",
+  "getbible": "https://getbible.net/kjv/2 John/1/5",
+  "name": "2 John 1:5",
   "scripture": [
     {
-      "nr": "22",
-      "text": "And of some have compassion, making a difference:"
-    },
-    {
-      "nr": "23",
-      "text": "And others save with fear, pulling them out of the fire; hating even the garment spotted by the flesh."
+      "nr": "5",
+      "text": "And now I beseech thee, lady, not as though I wrote a new commandment unto thee, but that which we had from the beginning, that we love one another."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "22-23",
+  "verse": "5",
   "version": "kjv"
 }
