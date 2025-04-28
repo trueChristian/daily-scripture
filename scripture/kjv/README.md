@@ -1,5 +1,5 @@
-**2 John 1:5**
+**1 Corinthians 12:15-16**
 
-5 And now I beseech thee, lady, not as though I wrote a new commandment unto thee, but that which we had from the beginning, that we love one another.
+15 If the foot shall say, Because I am not the hand, I am not of the body; is it therefore not of the body? 16 And if the ear shall say, Because I am not the eye, I am not of the body; is it therefore not of the body?
 
-[Monday 28-April, 2025](https://getbible.net/kjv/2 John/1/5)
+[Tuesday 29-April, 2025](https://getbible.net/kjv/1 Corinthians/12/15-16)
