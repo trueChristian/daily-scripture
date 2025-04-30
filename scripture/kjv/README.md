@@ -1,5 +1,5 @@
-**Deuteronomy 33:9-10**
+**Mark 9:50**
 
-9 Who said unto his father and to his mother, I have not seen him; neither did he acknowledge his brethren, nor knew his own children: for they have observed thy word, and kept thy covenant. 10 They shall teach Jacob thy judgments, and Israel thy law: they shall put incense before thee, and whole burnt sacrifice upon thine altar.
+50 Salt is good: but if the salt have lost his saltness, wherewith will ye season it? Have salt in yourselves, and have peace one with another. 
 
-[Wednesday 30-April, 2025](https://getbible.net/kjv/Deuteronomy/33/9-10)
+[Thursday 01-May, 2025](https://getbible.net/kjv/Mark/9/50)

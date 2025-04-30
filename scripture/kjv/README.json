@@ -1,21 +1,17 @@
 {
-  "book": "Deuteronomy",
-  "chapter": "33",
-  "date": "Wednesday 30-April, 2025",
-  "getbible": "https://getbible.net/kjv/Deuteronomy/33/9-10",
-  "name": "Deuteronomy 33:9-10",
+  "book": "Mark",
+  "chapter": "9",
+  "date": "Thursday 01-May, 2025",
+  "getbible": "https://getbible.net/kjv/Mark/9/50",
+  "name": "Mark 9:50",
   "scripture": [
     {
-      "nr": "9",
-      "text": "Who said unto his father and to his mother, I have not seen him; neither did he acknowledge his brethren, nor knew his own children: for they have observed thy word, and kept thy covenant."
-    },
-    {
-      "nr": "10",
-      "text": "They shall teach Jacob thy judgments, and Israel thy law: they shall put incense before thee, and whole burnt sacrifice upon thine altar."
+      "nr": "50",
+      "text": "Salt is good: but if the salt have lost his saltness, wherewith will ye season it? Have salt in yourselves, and have peace one with another. "
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "9-10",
+  "verse": "50",
   "version": "kjv"
 }
