@@ -1,5 +1,5 @@
-**Mark 9:50**
+**Acts 20:35**
 
-50 Salt is good: but if the salt have lost his saltness, wherewith will ye season it? Have salt in yourselves, and have peace one with another. 
+35 I have shewed you all things, how that so labouring ye ought to support the weak, and to remember the words of the Lord Jesus, how he said, It is more blessed to give than to receive.
 
-[Thursday 01-May, 2025](https://getbible.net/kjv/Mark/9/50)
+[Friday 02-May, 2025](https://getbible.net/kjv/Acts/20/35)
