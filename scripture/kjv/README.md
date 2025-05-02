@@ -1,5 +1,5 @@
-**Acts 20:35**
+**Matthew 22:37-39**
 
-35 I have shewed you all things, how that so labouring ye ought to support the weak, and to remember the words of the Lord Jesus, how he said, It is more blessed to give than to receive.
+37 Jesus said unto him, Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind. 38 This is the first and great commandment. 39 And the second is like unto it, Thou shalt love thy neighbour as thyself.
 
-[Friday 02-May, 2025](https://getbible.net/kjv/Acts/20/35)
+[Saturday 03-May, 2025](https://getbible.net/kjv/Matthew/22/37-39)

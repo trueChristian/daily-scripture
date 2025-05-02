@@ -1,17 +1,25 @@
 {
-  "book": "Acts",
-  "chapter": "20",
-  "date": "Friday 02-May, 2025",
-  "getbible": "https://getbible.net/kjv/Acts/20/35",
-  "name": "Acts 20:35",
+  "book": "Matthew",
+  "chapter": "22",
+  "date": "Saturday 03-May, 2025",
+  "getbible": "https://getbible.net/kjv/Matthew/22/37-39",
+  "name": "Matthew 22:37-39",
   "scripture": [
     {
-      "nr": "35",
-      "text": "I have shewed you all things, how that so labouring ye ought to support the weak, and to remember the words of the Lord Jesus, how he said, It is more blessed to give than to receive."
+      "nr": "37",
+      "text": "Jesus said unto him, Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind."
+    },
+    {
+      "nr": "38",
+      "text": "This is the first and great commandment."
+    },
+    {
+      "nr": "39",
+      "text": "And the second is like unto it, Thou shalt love thy neighbour as thyself."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "35",
+  "verse": "37-39",
   "version": "kjv"
 }
