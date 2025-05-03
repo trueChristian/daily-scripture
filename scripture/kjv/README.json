@@ -1,25 +1,17 @@
 {
   "book": "Matthew",
-  "chapter": "22",
-  "date": "Saturday 03-May, 2025",
-  "getbible": "https://getbible.net/kjv/Matthew/22/37-39",
-  "name": "Matthew 22:37-39",
+  "chapter": "12",
+  "date": "Sunday 04-May, 2025",
+  "getbible": "https://getbible.net/kjv/Matthew/12/30",
+  "name": "Matthew 12:30",
   "scripture": [
     {
-      "nr": "37",
-      "text": "Jesus said unto him, Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind."
-    },
-    {
-      "nr": "38",
-      "text": "This is the first and great commandment."
-    },
-    {
-      "nr": "39",
-      "text": "And the second is like unto it, Thou shalt love thy neighbour as thyself."
+      "nr": "30",
+      "text": "He that is not with me is against me; and he that gathereth not with me scattereth abroad."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "37-39",
+  "verse": "30",
   "version": "kjv"
 }
