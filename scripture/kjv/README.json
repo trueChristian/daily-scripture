@@ -1,17 +1,21 @@
 {
-  "book": "1 John",
-  "chapter": "3",
-  "date": "Tuesday 06-May, 2025",
-  "getbible": "https://getbible.net/kjv/1 John/3/11",
-  "name": "1 John 3:11",
+  "book": "Job",
+  "chapter": "27",
+  "date": "Wednesday 07-May, 2025",
+  "getbible": "https://getbible.net/kjv/Job/27/5-6",
+  "name": "Job 27:5-6",
   "scripture": [
     {
-      "nr": "11",
-      "text": "For this is the message that ye heard from the beginning, that we should love one another."
+      "nr": "5",
+      "text": "God forbid that I should justify you: till I die I will not remove mine integrity from me."
+    },
+    {
+      "nr": "6",
+      "text": "My righteousness I hold fast, and will not let it go: my heart shall not reproach me so long as I live."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "11",
+  "verse": "5-6",
   "version": "kjv"
 }
