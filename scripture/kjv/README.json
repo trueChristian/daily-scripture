@@ -1,21 +1,21 @@
 {
-  "book": "Job",
-  "chapter": "27",
-  "date": "Wednesday 07-May, 2025",
-  "getbible": "https://getbible.net/kjv/Job/27/5-6",
-  "name": "Job 27:5-6",
+  "book": "Hebrews",
+  "chapter": "3",
+  "date": "Thursday 08-May, 2025",
+  "getbible": "https://getbible.net/kjv/Hebrews/3/1-2",
+  "name": "Hebrews 3:1-2",
   "scripture": [
     {
-      "nr": "5",
-      "text": "God forbid that I should justify you: till I die I will not remove mine integrity from me."
+      "nr": "1",
+      "text": "Wherefore, holy brethren, partakers of the heavenly calling, consider the Apostle and High Priest of our profession, Christ Jesus;"
     },
     {
-      "nr": "6",
-      "text": "My righteousness I hold fast, and will not let it go: my heart shall not reproach me so long as I live."
+      "nr": "2",
+      "text": "Who was faithful to him that appointed him, as also Moses was faithful in all his house."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "5-6",
+  "verse": "1-2",
   "version": "kjv"
 }

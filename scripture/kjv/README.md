@@ -1,5 +1,5 @@
-**Job 27:5-6**
+**Hebrews 3:1-2**
 
-5 God forbid that I should justify you: till I die I will not remove mine integrity from me. 6 My righteousness I hold fast, and will not let it go: my heart shall not reproach me so long as I live.
+1 Wherefore, holy brethren, partakers of the heavenly calling, consider the Apostle and High Priest of our profession, Christ Jesus; 2 Who was faithful to him that appointed him, as also Moses was faithful in all his house.
 
-[Wednesday 07-May, 2025](https://getbible.net/kjv/Job/27/5-6)
+[Thursday 08-May, 2025](https://getbible.net/kjv/Hebrews/3/1-2)
