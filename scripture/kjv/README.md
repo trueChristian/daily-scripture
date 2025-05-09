@@ -1,5 +1,5 @@
-**John 6:60**
+**Hebrews 13:2**
 
-60 Many therefore of his disciples, when they had heard this, said, This is an hard saying; who can hear it?
+2 Be not forgetful to entertain strangers: for thereby some have entertained angels unawares.
 
-[Friday 09-May, 2025](https://getbible.net/kjv/John/6/60)
+[Saturday 10-May, 2025](https://getbible.net/kjv/Hebrews/13/2)

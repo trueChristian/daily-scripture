@@ -1,17 +1,17 @@
 {
-  "book": "John",
-  "chapter": "6",
-  "date": "Friday 09-May, 2025",
-  "getbible": "https://getbible.net/kjv/John/6/60",
-  "name": "John 6:60",
+  "book": "Hebrews",
+  "chapter": "13",
+  "date": "Saturday 10-May, 2025",
+  "getbible": "https://getbible.net/kjv/Hebrews/13/2",
+  "name": "Hebrews 13:2",
   "scripture": [
     {
-      "nr": "60",
-      "text": "Many therefore of his disciples, when they had heard this, said, This is an hard saying; who can hear it?"
+      "nr": "2",
+      "text": "Be not forgetful to entertain strangers: for thereby some have entertained angels unawares."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "60",
+  "verse": "2",
   "version": "kjv"
 }
