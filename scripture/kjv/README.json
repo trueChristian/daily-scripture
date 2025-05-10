@@ -1,17 +1,17 @@
 {
-  "book": "Hebrews",
-  "chapter": "13",
-  "date": "Saturday 10-May, 2025",
-  "getbible": "https://getbible.net/kjv/Hebrews/13/2",
-  "name": "Hebrews 13:2",
+  "book": "Mark",
+  "chapter": "10",
+  "date": "Sunday 11-May, 2025",
+  "getbible": "https://getbible.net/kjv/Mark/10/27",
+  "name": "Mark 10:27",
   "scripture": [
     {
-      "nr": "2",
-      "text": "Be not forgetful to entertain strangers: for thereby some have entertained angels unawares."
+      "nr": "27",
+      "text": "And Jesus looking upon them saith, With men it is impossible, but not with God: for with God all things are possible."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "2",
+  "verse": "27",
   "version": "kjv"
 }

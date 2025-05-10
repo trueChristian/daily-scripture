@@ -1,5 +1,5 @@
-**Hebrews 13:2**
+**Mark 10:27**
 
-2 Be not forgetful to entertain strangers: for thereby some have entertained angels unawares.
+27 And Jesus looking upon them saith, With men it is impossible, but not with God: for with God all things are possible.
 
-[Saturday 10-May, 2025](https://getbible.net/kjv/Hebrews/13/2)
+[Sunday 11-May, 2025](https://getbible.net/kjv/Mark/10/27)
