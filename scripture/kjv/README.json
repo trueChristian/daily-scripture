@@ -1,17 +1,25 @@
 {
-  "book": "Mark",
-  "chapter": "10",
-  "date": "Sunday 11-May, 2025",
-  "getbible": "https://getbible.net/kjv/Mark/10/27",
-  "name": "Mark 10:27",
+  "book": "Romans",
+  "chapter": "14",
+  "date": "Monday 12-May, 2025",
+  "getbible": "https://getbible.net/kjv/Romans/14/2-4",
+  "name": "Romans 14:2-4",
   "scripture": [
     {
-      "nr": "27",
-      "text": "And Jesus looking upon them saith, With men it is impossible, but not with God: for with God all things are possible."
+      "nr": "2",
+      "text": "For one believeth that he may eat all things: another, who is weak, eateth herbs."
+    },
+    {
+      "nr": "3",
+      "text": "Let not him that eateth despise him that eateth not; and let not him which eateth not judge him that eateth: for God hath received him."
+    },
+    {
+      "nr": "4",
+      "text": "Who art thou that judgest another man’s servant? to his own master he standeth or falleth. Yea, he shall be holden up: for God is able to make him stand."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "27",
+  "verse": "2-4",
   "version": "kjv"
 }

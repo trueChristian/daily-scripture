@@ -1,5 +1,5 @@
-**Mark 10:27**
+**Romans 14:2-4**
 
-27 And Jesus looking upon them saith, With men it is impossible, but not with God: for with God all things are possible.
+2 For one believeth that he may eat all things: another, who is weak, eateth herbs. 3 Let not him that eateth despise him that eateth not; and let not him which eateth not judge him that eateth: for God hath received him. 4 Who art thou that judgest another man’s servant? to his own master he standeth or falleth. Yea, he shall be holden up: for God is able to make him stand.
 
-[Sunday 11-May, 2025](https://getbible.net/kjv/Mark/10/27)
+[Monday 12-May, 2025](https://getbible.net/kjv/Romans/14/2-4)
