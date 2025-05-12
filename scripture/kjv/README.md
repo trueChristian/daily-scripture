@@ -1,5 +1,5 @@
-**Romans 14:2-4**
+**Jeremiah 3:10**
 
-2 For one believeth that he may eat all things: another, who is weak, eateth herbs. 3 Let not him that eateth despise him that eateth not; and let not him which eateth not judge him that eateth: for God hath received him. 4 Who art thou that judgest another man’s servant? to his own master he standeth or falleth. Yea, he shall be holden up: for God is able to make him stand.
+10 And yet for all this her treacherous sister Judah hath not turned unto me with her whole heart, but feignedly, saith the Lord.
 
-[Monday 12-May, 2025](https://getbible.net/kjv/Romans/14/2-4)
+[Tuesday 13-May, 2025](https://getbible.net/kjv/Jeremiah/3/10)
