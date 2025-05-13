@@ -1,5 +1,5 @@
-**Jeremiah 3:10**
+**Job 35:13**
 
-10 And yet for all this her treacherous sister Judah hath not turned unto me with her whole heart, but feignedly, saith the Lord.
+13 Surely God will not hear vanity, neither will the Almighty regard it.
 
-[Tuesday 13-May, 2025](https://getbible.net/kjv/Jeremiah/3/10)
+[Wednesday 14-May, 2025](https://getbible.net/kjv/Job/35/13)
