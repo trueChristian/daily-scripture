@@ -1,5 +1,5 @@
-**Job 35:13**
+**Luke 23:5**
 
-13 Surely God will not hear vanity, neither will the Almighty regard it.
+5 And they were the more fierce, saying, He stirreth up the people, teaching throughout all Jewry, beginning from Galilee to this place.
 
-[Wednesday 14-May, 2025](https://getbible.net/kjv/Job/35/13)
+[Thursday 15-May, 2025](https://getbible.net/kjv/Luke/23/5)
