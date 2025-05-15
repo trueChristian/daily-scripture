@@ -1,5 +1,5 @@
-**Luke 23:5**
+**Psalms 27:14**
 
-5 And they were the more fierce, saying, He stirreth up the people, teaching throughout all Jewry, beginning from Galilee to this place.
+14 Wait on the Lord: be of good courage, and he shall strengthen thine heart: wait, I say, on the Lord. 
 
-[Thursday 15-May, 2025](https://getbible.net/kjv/Luke/23/5)
+[Friday 16-May, 2025](https://getbible.net/kjv/Psalms/27/14)

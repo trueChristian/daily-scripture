@@ -1,17 +1,17 @@
 {
-  "book": "Luke",
-  "chapter": "23",
-  "date": "Thursday 15-May, 2025",
-  "getbible": "https://getbible.net/kjv/Luke/23/5",
-  "name": "Luke 23:5",
+  "book": "Psalms",
+  "chapter": "27",
+  "date": "Friday 16-May, 2025",
+  "getbible": "https://getbible.net/kjv/Psalms/27/14",
+  "name": "Psalms 27:14",
   "scripture": [
     {
-      "nr": "5",
-      "text": "And they were the more fierce, saying, He stirreth up the people, teaching throughout all Jewry, beginning from Galilee to this place."
+      "nr": "14",
+      "text": "Wait on the Lord: be of good courage, and he shall strengthen thine heart: wait, I say, on the Lord. "
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "5",
+  "verse": "14",
   "version": "kjv"
 }
