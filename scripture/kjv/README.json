@@ -1,17 +1,21 @@
 {
-  "book": "Psalms",
-  "chapter": "27",
-  "date": "Friday 16-May, 2025",
-  "getbible": "https://getbible.net/kjv/Psalms/27/14",
-  "name": "Psalms 27:14",
+  "book": "James",
+  "chapter": "4",
+  "date": "Saturday 17-May, 2025",
+  "getbible": "https://getbible.net/kjv/James/4/9-10",
+  "name": "James 4:9-10",
   "scripture": [
     {
-      "nr": "14",
-      "text": "Wait on the Lord: be of good courage, and he shall strengthen thine heart: wait, I say, on the Lord. "
+      "nr": "9",
+      "text": "Be afflicted, and mourn, and weep: let your laughter be turned to mourning, and your joy to heaviness."
+    },
+    {
+      "nr": "10",
+      "text": "Humble yourselves in the sight of the Lord, and he shall lift you up."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "14",
+  "verse": "9-10",
   "version": "kjv"
 }
