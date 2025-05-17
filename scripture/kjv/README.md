@@ -1,5 +1,5 @@
-**James 4:9-10**
+**2 John 1:7**
 
-9 Be afflicted, and mourn, and weep: let your laughter be turned to mourning, and your joy to heaviness. 10 Humble yourselves in the sight of the Lord, and he shall lift you up.
+7 For many deceivers are entered into the world, who confess not that Jesus Christ is come in the flesh. This is a deceiver and an antichrist.
 
-[Saturday 17-May, 2025](https://getbible.net/kjv/James/4/9-10)
+[Sunday 18-May, 2025](https://getbible.net/kjv/2 John/1/7)
