@@ -1,5 +1,5 @@
-**2 John 1:7**
+**Philippians 3:17-19**
 
-7 For many deceivers are entered into the world, who confess not that Jesus Christ is come in the flesh. This is a deceiver and an antichrist.
+17 Brethren, be followers together of me, and mark them which walk so as ye have us for an ensample. 18 (For many walk, of whom I have told you often, and now tell you even weeping, that they are the enemies of the cross of Christ: 19 Whose end is destruction, whose God is their belly, and whose glory is in their shame, who mind earthly things.)
 
-[Sunday 18-May, 2025](https://getbible.net/kjv/2 John/1/7)
+[Monday 19-May, 2025](https://getbible.net/kjv/Philippians/3/17-19)

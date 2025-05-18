@@ -1,17 +1,25 @@
 {
-  "book": "2 John",
-  "chapter": "1",
-  "date": "Sunday 18-May, 2025",
-  "getbible": "https://getbible.net/kjv/2 John/1/7",
-  "name": "2 John 1:7",
+  "book": "Philippians",
+  "chapter": "3",
+  "date": "Monday 19-May, 2025",
+  "getbible": "https://getbible.net/kjv/Philippians/3/17-19",
+  "name": "Philippians 3:17-19",
   "scripture": [
     {
-      "nr": "7",
-      "text": "For many deceivers are entered into the world, who confess not that Jesus Christ is come in the flesh. This is a deceiver and an antichrist."
+      "nr": "17",
+      "text": "Brethren, be followers together of me, and mark them which walk so as ye have us for an ensample."
+    },
+    {
+      "nr": "18",
+      "text": "(For many walk, of whom I have told you often, and now tell you even weeping, that they are the enemies of the cross of Christ:"
+    },
+    {
+      "nr": "19",
+      "text": "Whose end is destruction, whose God is their belly, and whose glory is in their shame, who mind earthly things.)"
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "7",
+  "verse": "17-19",
   "version": "kjv"
 }
