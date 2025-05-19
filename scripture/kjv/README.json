@@ -1,25 +1,17 @@
 {
-  "book": "Philippians",
-  "chapter": "3",
-  "date": "Monday 19-May, 2025",
-  "getbible": "https://getbible.net/kjv/Philippians/3/17-19",
-  "name": "Philippians 3:17-19",
+  "book": "Psalms",
+  "chapter": "9",
+  "date": "Tuesday 20-May, 2025",
+  "getbible": "https://getbible.net/kjv/Psalms/9/18",
+  "name": "Psalms 9:18",
   "scripture": [
     {
-      "nr": "17",
-      "text": "Brethren, be followers together of me, and mark them which walk so as ye have us for an ensample."
-    },
-    {
       "nr": "18",
-      "text": "(For many walk, of whom I have told you often, and now tell you even weeping, that they are the enemies of the cross of Christ:"
-    },
-    {
-      "nr": "19",
-      "text": "Whose end is destruction, whose God is their belly, and whose glory is in their shame, who mind earthly things.)"
+      "text": "For the needy shall not alway be forgotten: the expectation of the poor shall not perish for ever."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "17-19",
+  "verse": "18",
   "version": "kjv"
 }
