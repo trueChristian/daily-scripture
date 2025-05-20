@@ -1,17 +1,17 @@
 {
   "book": "Psalms",
-  "chapter": "9",
-  "date": "Tuesday 20-May, 2025",
-  "getbible": "https://getbible.net/kjv/Psalms/9/18",
-  "name": "Psalms 9:18",
+  "chapter": "46",
+  "date": "Wednesday 21-May, 2025",
+  "getbible": "https://getbible.net/kjv/Psalms/46/7",
+  "name": "Psalms 46:7",
   "scripture": [
     {
-      "nr": "18",
-      "text": "For the needy shall not alway be forgotten: the expectation of the poor shall not perish for ever."
+      "nr": "7",
+      "text": "The Lord of hosts is with us; the God of Jacob is our refuge. Selah."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "18",
+  "verse": "7",
   "version": "kjv"
 }

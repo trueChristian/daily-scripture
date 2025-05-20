@@ -1,5 +1,5 @@
-**Psalms 9:18**
+**Psalms 46:7**
 
-18 For the needy shall not alway be forgotten: the expectation of the poor shall not perish for ever.
+7 The Lord of hosts is with us; the God of Jacob is our refuge. Selah.
 
-[Tuesday 20-May, 2025](https://getbible.net/kjv/Psalms/9/18)
+[Wednesday 21-May, 2025](https://getbible.net/kjv/Psalms/46/7)
