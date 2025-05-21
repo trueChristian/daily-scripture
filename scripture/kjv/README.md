@@ -1,5 +1,5 @@
-**Psalms 46:7**
+**Ephesians 4:29-30**
 
-7 The Lord of hosts is with us; the God of Jacob is our refuge. Selah.
+29 Let no corrupt communication proceed out of your mouth, but that which is good to the use of edifying, that it may minister grace unto the hearers. 30 And grieve not the holy Spirit of God, whereby ye are sealed unto the day of redemption.
 
-[Wednesday 21-May, 2025](https://getbible.net/kjv/Psalms/46/7)
+[Thursday 22-May, 2025](https://getbible.net/kjv/Ephesians/4/29-30)
