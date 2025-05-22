@@ -1,5 +1,5 @@
-**Ephesians 4:29-30**
+**John 15:12**
 
-29 Let no corrupt communication proceed out of your mouth, but that which is good to the use of edifying, that it may minister grace unto the hearers. 30 And grieve not the holy Spirit of God, whereby ye are sealed unto the day of redemption.
+12 This is my commandment, That ye love one another, as I have loved you.
 
-[Thursday 22-May, 2025](https://getbible.net/kjv/Ephesians/4/29-30)
+[Friday 23-May, 2025](https://getbible.net/kjv/John/15/12)

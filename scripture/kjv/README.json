@@ -1,21 +1,17 @@
 {
-  "book": "Ephesians",
-  "chapter": "4",
-  "date": "Thursday 22-May, 2025",
-  "getbible": "https://getbible.net/kjv/Ephesians/4/29-30",
-  "name": "Ephesians 4:29-30",
+  "book": "John",
+  "chapter": "15",
+  "date": "Friday 23-May, 2025",
+  "getbible": "https://getbible.net/kjv/John/15/12",
+  "name": "John 15:12",
   "scripture": [
     {
-      "nr": "29",
-      "text": "Let no corrupt communication proceed out of your mouth, but that which is good to the use of edifying, that it may minister grace unto the hearers."
-    },
-    {
-      "nr": "30",
-      "text": "And grieve not the holy Spirit of God, whereby ye are sealed unto the day of redemption."
+      "nr": "12",
+      "text": "This is my commandment, That ye love one another, as I have loved you."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "29-30",
+  "verse": "12",
   "version": "kjv"
 }
