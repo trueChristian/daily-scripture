@@ -1,17 +1,17 @@
 {
   "book": "John",
-  "chapter": "15",
-  "date": "Friday 23-May, 2025",
-  "getbible": "https://getbible.net/kjv/John/15/12",
-  "name": "John 15:12",
+  "chapter": "12",
+  "date": "Saturday 24-May, 2025",
+  "getbible": "https://getbible.net/kjv/John/12/25",
+  "name": "John 12:25",
   "scripture": [
     {
-      "nr": "12",
-      "text": "This is my commandment, That ye love one another, as I have loved you."
+      "nr": "25",
+      "text": "He that loveth his life shall lose it; and he that hateth his life in this world shall keep it unto life eternal."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "12",
+  "verse": "25",
   "version": "kjv"
 }

@@ -1,5 +1,5 @@
-**John 15:12**
+**John 12:25**
 
-12 This is my commandment, That ye love one another, as I have loved you.
+25 He that loveth his life shall lose it; and he that hateth his life in this world shall keep it unto life eternal.
 
-[Friday 23-May, 2025](https://getbible.net/kjv/John/15/12)
+[Saturday 24-May, 2025](https://getbible.net/kjv/John/12/25)
