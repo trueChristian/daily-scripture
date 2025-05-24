@@ -1,5 +1,5 @@
-**John 12:25**
+**Revelation 3:2**
 
-25 He that loveth his life shall lose it; and he that hateth his life in this world shall keep it unto life eternal.
+2 Be watchful, and strengthen the things which remain, that are ready to die: for I have not found thy works perfect before God.
 
-[Saturday 24-May, 2025](https://getbible.net/kjv/John/12/25)
+[Sunday 25-May, 2025](https://getbible.net/kjv/Revelation/3/2)
