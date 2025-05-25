@@ -1,17 +1,29 @@
 {
-  "book": "Revelation",
-  "chapter": "3",
-  "date": "Sunday 25-May, 2025",
-  "getbible": "https://getbible.net/kjv/Revelation/3/2",
-  "name": "Revelation 3:2",
+  "book": "1 Corinthians",
+  "chapter": "15",
+  "date": "Monday 26-May, 2025",
+  "getbible": "https://getbible.net/kjv/1 Corinthians/15/51-54",
+  "name": "1 Corinthians 15:51-54",
   "scripture": [
     {
-      "nr": "2",
-      "text": "Be watchful, and strengthen the things which remain, that are ready to die: for I have not found thy works perfect before God."
+      "nr": "51",
+      "text": "Behold, I shew you a mystery; We shall not all sleep, but we shall all be changed,"
+    },
+    {
+      "nr": "52",
+      "text": "In a moment, in the twinkling of an eye, at the last trump: for the trumpet shall sound, and the dead shall be raised incorruptible, and we shall be changed."
+    },
+    {
+      "nr": "53",
+      "text": "For this corruptible must put on incorruption, and this mortal must put on immortality."
+    },
+    {
+      "nr": "54",
+      "text": "So when this corruptible shall have put on incorruption, and this mortal shall have put on immortality, then shall be brought to pass the saying that is written, Death is swallowed up in victory."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "2",
+  "verse": "51-54",
   "version": "kjv"
 }

@@ -1,5 +1,5 @@
-**Revelation 3:2**
+**1 Corinthians 15:51-54**
 
-2 Be watchful, and strengthen the things which remain, that are ready to die: for I have not found thy works perfect before God.
+51 Behold, I shew you a mystery; We shall not all sleep, but we shall all be changed, 52 In a moment, in the twinkling of an eye, at the last trump: for the trumpet shall sound, and the dead shall be raised incorruptible, and we shall be changed. 53 For this corruptible must put on incorruption, and this mortal must put on immortality. 54 So when this corruptible shall have put on incorruption, and this mortal shall have put on immortality, then shall be brought to pass the saying that is written, Death is swallowed up in victory.
 
-[Sunday 25-May, 2025](https://getbible.net/kjv/Revelation/3/2)
+[Monday 26-May, 2025](https://getbible.net/kjv/1 Corinthians/15/51-54)
