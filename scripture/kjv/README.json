@@ -1,29 +1,17 @@
 {
-  "book": "1 Corinthians",
-  "chapter": "15",
-  "date": "Monday 26-May, 2025",
-  "getbible": "https://getbible.net/kjv/1 Corinthians/15/51-54",
-  "name": "1 Corinthians 15:51-54",
+  "book": "Philippians",
+  "chapter": "4",
+  "date": "Tuesday 27-May, 2025",
+  "getbible": "https://getbible.net/kjv/Philippians/4/23",
+  "name": "Philippians 4:23",
   "scripture": [
     {
-      "nr": "51",
-      "text": "Behold, I shew you a mystery; We shall not all sleep, but we shall all be changed,"
-    },
-    {
-      "nr": "52",
-      "text": "In a moment, in the twinkling of an eye, at the last trump: for the trumpet shall sound, and the dead shall be raised incorruptible, and we shall be changed."
-    },
-    {
-      "nr": "53",
-      "text": "For this corruptible must put on incorruption, and this mortal must put on immortality."
-    },
-    {
-      "nr": "54",
-      "text": "So when this corruptible shall have put on incorruption, and this mortal shall have put on immortality, then shall be brought to pass the saying that is written, Death is swallowed up in victory."
+      "nr": "23",
+      "text": "The grace of our Lord Jesus Christ be with you all. Amen.  It was written to the Philippians from Rome by Epaphroditus. "
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "51-54",
+  "verse": "23",
   "version": "kjv"
 }
