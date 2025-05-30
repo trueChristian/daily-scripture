@@ -1,17 +1,21 @@
 {
-  "book": "Isaiah",
-  "chapter": "1",
-  "date": "Friday 30-May, 2025",
-  "getbible": "https://getbible.net/kjv/Isaiah/1/13",
-  "name": "Isaiah 1:13",
+  "book": "Ephesians",
+  "chapter": "5",
+  "date": "Saturday 31-May, 2025",
+  "getbible": "https://getbible.net/kjv/Ephesians/5/31-32",
+  "name": "Ephesians 5:31-32",
   "scripture": [
     {
-      "nr": "13",
-      "text": "Bring no more vain oblations; incense is an abomination unto me; the new moons and sabbaths, the calling of assemblies, I cannot away with; it is iniquity, even the solemn meeting."
+      "nr": "31",
+      "text": "For this cause shall a man leave his father and mother, and shall be joined unto his wife, and they two shall be one flesh."
+    },
+    {
+      "nr": "32",
+      "text": "This is a great mystery: but I speak concerning Christ and the church."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "13",
+  "verse": "31-32",
   "version": "kjv"
 }

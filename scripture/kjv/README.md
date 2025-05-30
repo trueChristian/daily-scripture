@@ -1,5 +1,5 @@
-**Isaiah 1:13**
+**Ephesians 5:31-32**
 
-13 Bring no more vain oblations; incense is an abomination unto me; the new moons and sabbaths, the calling of assemblies, I cannot away with; it is iniquity, even the solemn meeting.
+31 For this cause shall a man leave his father and mother, and shall be joined unto his wife, and they two shall be one flesh. 32 This is a great mystery: but I speak concerning Christ and the church.
 
-[Friday 30-May, 2025](https://getbible.net/kjv/Isaiah/1/13)
+[Saturday 31-May, 2025](https://getbible.net/kjv/Ephesians/5/31-32)
