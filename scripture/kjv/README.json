@@ -1,21 +1,17 @@
 {
-  "book": "Ephesians",
-  "chapter": "5",
-  "date": "Saturday 31-May, 2025",
-  "getbible": "https://getbible.net/kjv/Ephesians/5/31-32",
-  "name": "Ephesians 5:31-32",
+  "book": "1 John",
+  "chapter": "2",
+  "date": "Sunday 01-June, 2025",
+  "getbible": "https://getbible.net/kjv/1 John/2/25",
+  "name": "1 John 2:25",
   "scripture": [
     {
-      "nr": "31",
-      "text": "For this cause shall a man leave his father and mother, and shall be joined unto his wife, and they two shall be one flesh."
-    },
-    {
-      "nr": "32",
-      "text": "This is a great mystery: but I speak concerning Christ and the church."
+      "nr": "25",
+      "text": "And this is the promise that he hath promised us, even eternal life."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "31-32",
+  "verse": "25",
   "version": "kjv"
 }

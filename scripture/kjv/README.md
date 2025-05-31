@@ -1,5 +1,5 @@
-**Ephesians 5:31-32**
+**1 John 2:25**
 
-31 For this cause shall a man leave his father and mother, and shall be joined unto his wife, and they two shall be one flesh. 32 This is a great mystery: but I speak concerning Christ and the church.
+25 And this is the promise that he hath promised us, even eternal life.
 
-[Saturday 31-May, 2025](https://getbible.net/kjv/Ephesians/5/31-32)
+[Sunday 01-June, 2025](https://getbible.net/kjv/1 John/2/25)
