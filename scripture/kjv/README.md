@@ -1,5 +1,5 @@
-**1 John 2:25**
+**Psalms 19:12**
 
-25 And this is the promise that he hath promised us, even eternal life.
+12 Who can understand his errors? cleanse thou me from secret faults.
 
-[Sunday 01-June, 2025](https://getbible.net/kjv/1 John/2/25)
+[Monday 02-June, 2025](https://getbible.net/kjv/Psalms/19/12)

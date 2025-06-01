@@ -1,17 +1,17 @@
 {
-  "book": "1 John",
-  "chapter": "2",
-  "date": "Sunday 01-June, 2025",
-  "getbible": "https://getbible.net/kjv/1 John/2/25",
-  "name": "1 John 2:25",
+  "book": "Psalms",
+  "chapter": "19",
+  "date": "Monday 02-June, 2025",
+  "getbible": "https://getbible.net/kjv/Psalms/19/12",
+  "name": "Psalms 19:12",
   "scripture": [
     {
-      "nr": "25",
-      "text": "And this is the promise that he hath promised us, even eternal life."
+      "nr": "12",
+      "text": "Who can understand his errors? cleanse thou me from secret faults."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "25",
+  "verse": "12",
   "version": "kjv"
 }
