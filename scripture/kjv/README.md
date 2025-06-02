@@ -1,5 +1,5 @@
-**Psalms 19:12**
+**Ezekiel 34:20**
 
-12 Who can understand his errors? cleanse thou me from secret faults.
+20 Therefore thus saith the Lord God unto them; Behold, I, even I, will judge between the fat cattle and between the lean cattle.
 
-[Monday 02-June, 2025](https://getbible.net/kjv/Psalms/19/12)
+[Tuesday 03-June, 2025](https://getbible.net/kjv/Ezekiel/34/20)
