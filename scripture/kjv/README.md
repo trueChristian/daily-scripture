@@ -1,5 +1,5 @@
-**Leviticus 19:19**
+**Proverbs 19:6**
 
-19 Ye shall keep my statutes. Thou shalt not let thy cattle gender with a diverse kind: thou shalt not sow thy field with mingled seed: neither shall a garment mingled of linen and woollen come upon thee.
+6 Many will intreat the favour of the prince: and every man is a friend to him that giveth gifts.
 
-[Thursday 05-June, 2025](https://getbible.net/kjv/Leviticus/19/19)
+[Friday 06-June, 2025](https://getbible.net/kjv/Proverbs/19/6)
