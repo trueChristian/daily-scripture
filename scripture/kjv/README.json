@@ -1,17 +1,17 @@
 {
-  "book": "Proverbs",
-  "chapter": "19",
-  "date": "Friday 06-June, 2025",
-  "getbible": "https://getbible.net/kjv/Proverbs/19/6",
-  "name": "Proverbs 19:6",
+  "book": "Psalms",
+  "chapter": "119",
+  "date": "Saturday 07-June, 2025",
+  "getbible": "https://getbible.net/kjv/Psalms/119/15",
+  "name": "Psalms 119:15",
   "scripture": [
     {
-      "nr": "6",
-      "text": "Many will intreat the favour of the prince: and every man is a friend to him that giveth gifts."
+      "nr": "15",
+      "text": "I will meditate in thy precepts, and have respect unto thy ways."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "6",
+  "verse": "15",
   "version": "kjv"
 }

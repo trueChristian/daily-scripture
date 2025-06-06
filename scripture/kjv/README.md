@@ -1,5 +1,5 @@
-**Proverbs 19:6**
+**Psalms 119:15**
 
-6 Many will intreat the favour of the prince: and every man is a friend to him that giveth gifts.
+15 I will meditate in thy precepts, and have respect unto thy ways.
 
-[Friday 06-June, 2025](https://getbible.net/kjv/Proverbs/19/6)
+[Saturday 07-June, 2025](https://getbible.net/kjv/Psalms/119/15)
