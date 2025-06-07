@@ -1,17 +1,17 @@
 {
-  "book": "Psalms",
-  "chapter": "119",
-  "date": "Saturday 07-June, 2025",
-  "getbible": "https://getbible.net/kjv/Psalms/119/15",
-  "name": "Psalms 119:15",
+  "book": "Daniel",
+  "chapter": "9",
+  "date": "Sunday 08-June, 2025",
+  "getbible": "https://getbible.net/kjv/Daniel/9/19",
+  "name": "Daniel 9:19",
   "scripture": [
     {
-      "nr": "15",
-      "text": "I will meditate in thy precepts, and have respect unto thy ways."
+      "nr": "19",
+      "text": "O Lord, hear; O Lord, forgive; O Lord, hearken and do; defer not, for thine own sake, O my God: for thy city and thy people are called by thy name."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "15",
+  "verse": "19",
   "version": "kjv"
 }
