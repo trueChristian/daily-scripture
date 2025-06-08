@@ -1,5 +1,5 @@
-**Daniel 9:19**
+**Hebrews 9:13-14**
 
-19 O Lord, hear; O Lord, forgive; O Lord, hearken and do; defer not, for thine own sake, O my God: for thy city and thy people are called by thy name.
+13 For if the blood of bulls and of goats, and the ashes of an heifer sprinkling the unclean, sanctifieth to the purifying of the flesh: 14 How much more shall the blood of Christ, who through the eternal Spirit offered himself without spot to God, purge your conscience from dead works to serve the living God?
 
-[Sunday 08-June, 2025](https://getbible.net/kjv/Daniel/9/19)
+[Monday 09-June, 2025](https://getbible.net/kjv/Hebrews/9/13-14)
