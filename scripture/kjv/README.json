@@ -1,21 +1,17 @@
 {
-  "book": "Hebrews",
-  "chapter": "9",
-  "date": "Monday 09-June, 2025",
-  "getbible": "https://getbible.net/kjv/Hebrews/9/13-14",
-  "name": "Hebrews 9:13-14",
+  "book": "John",
+  "chapter": "3",
+  "date": "Tuesday 10-June, 2025",
+  "getbible": "https://getbible.net/kjv/John/3/21",
+  "name": "John 3:21",
   "scripture": [
     {
-      "nr": "13",
-      "text": "For if the blood of bulls and of goats, and the ashes of an heifer sprinkling the unclean, sanctifieth to the purifying of the flesh:"
-    },
-    {
-      "nr": "14",
-      "text": "How much more shall the blood of Christ, who through the eternal Spirit offered himself without spot to God, purge your conscience from dead works to serve the living God?"
+      "nr": "21",
+      "text": "But he that doeth truth cometh to the light, that his deeds may be made manifest, that they are wrought in God."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "13-14",
+  "verse": "21",
   "version": "kjv"
 }

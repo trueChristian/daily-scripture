@@ -1,5 +1,5 @@
-**Hebrews 9:13-14**
+**John 3:21**
 
-13 For if the blood of bulls and of goats, and the ashes of an heifer sprinkling the unclean, sanctifieth to the purifying of the flesh: 14 How much more shall the blood of Christ, who through the eternal Spirit offered himself without spot to God, purge your conscience from dead works to serve the living God?
+21 But he that doeth truth cometh to the light, that his deeds may be made manifest, that they are wrought in God.
 
-[Monday 09-June, 2025](https://getbible.net/kjv/Hebrews/9/13-14)
+[Tuesday 10-June, 2025](https://getbible.net/kjv/John/3/21)
