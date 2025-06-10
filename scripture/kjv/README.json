@@ -1,17 +1,21 @@
 {
-  "book": "John",
-  "chapter": "3",
-  "date": "Tuesday 10-June, 2025",
-  "getbible": "https://getbible.net/kjv/John/3/21",
-  "name": "John 3:21",
+  "book": "Isaiah",
+  "chapter": "1",
+  "date": "Wednesday 11-June, 2025",
+  "getbible": "https://getbible.net/kjv/Isaiah/1/26-27",
+  "name": "Isaiah 1:26-27",
   "scripture": [
     {
-      "nr": "21",
-      "text": "But he that doeth truth cometh to the light, that his deeds may be made manifest, that they are wrought in God."
+      "nr": "26",
+      "text": "And I will restore thy judges as at the first, and thy counsellors as at the beginning: afterward thou shalt be called, The city of righteousness, the faithful city."
+    },
+    {
+      "nr": "27",
+      "text": "Zion shall be redeemed with judgment, and her converts with righteousness."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "21",
+  "verse": "26-27",
   "version": "kjv"
 }

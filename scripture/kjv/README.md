@@ -1,5 +1,5 @@
-**John 3:21**
+**Isaiah 1:26-27**
 
-21 But he that doeth truth cometh to the light, that his deeds may be made manifest, that they are wrought in God.
+26 And I will restore thy judges as at the first, and thy counsellors as at the beginning: afterward thou shalt be called, The city of righteousness, the faithful city. 27 Zion shall be redeemed with judgment, and her converts with righteousness.
 
-[Tuesday 10-June, 2025](https://getbible.net/kjv/John/3/21)
+[Wednesday 11-June, 2025](https://getbible.net/kjv/Isaiah/1/26-27)
