@@ -1,5 +1,5 @@
-**Isaiah 1:26-27**
+**Proverbs 28:23**
 
-26 And I will restore thy judges as at the first, and thy counsellors as at the beginning: afterward thou shalt be called, The city of righteousness, the faithful city. 27 Zion shall be redeemed with judgment, and her converts with righteousness.
+23 He that rebuketh a man afterwards shall find more favour than he that flattereth with the tongue.
 
-[Wednesday 11-June, 2025](https://getbible.net/kjv/Isaiah/1/26-27)
+[Thursday 12-June, 2025](https://getbible.net/kjv/Proverbs/28/23)
