@@ -1,17 +1,29 @@
 {
-  "book": "Proverbs",
-  "chapter": "28",
-  "date": "Thursday 12-June, 2025",
-  "getbible": "https://getbible.net/kjv/Proverbs/28/23",
-  "name": "Proverbs 28:23",
+  "book": "Psalms",
+  "chapter": "107",
+  "date": "Friday 13-June, 2025",
+  "getbible": "https://getbible.net/kjv/Psalms/107/40-43",
+  "name": "Psalms 107:40-43",
   "scripture": [
     {
-      "nr": "23",
-      "text": "He that rebuketh a man afterwards shall find more favour than he that flattereth with the tongue."
+      "nr": "40",
+      "text": "He poureth contempt upon princes, and causeth them to wander in the wilderness, where there is no way."
+    },
+    {
+      "nr": "41",
+      "text": "Yet setteth he the poor on high from affliction, and maketh him families like a flock."
+    },
+    {
+      "nr": "42",
+      "text": "The righteous shall see it, and rejoice: and all iniquity shall stop her mouth."
+    },
+    {
+      "nr": "43",
+      "text": "Whoso is wise, and will observe these things, even they shall understand the lovingkindness of the Lord. "
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "23",
+  "verse": "40-43",
   "version": "kjv"
 }

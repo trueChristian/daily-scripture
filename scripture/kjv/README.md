@@ -1,5 +1,5 @@
-**Proverbs 28:23**
+**Psalms 107:40-43**
 
-23 He that rebuketh a man afterwards shall find more favour than he that flattereth with the tongue.
+40 He poureth contempt upon princes, and causeth them to wander in the wilderness, where there is no way. 41 Yet setteth he the poor on high from affliction, and maketh him families like a flock. 42 The righteous shall see it, and rejoice: and all iniquity shall stop her mouth. 43 Whoso is wise, and will observe these things, even they shall understand the lovingkindness of the Lord. 
 
-[Thursday 12-June, 2025](https://getbible.net/kjv/Proverbs/28/23)
+[Friday 13-June, 2025](https://getbible.net/kjv/Psalms/107/40-43)
