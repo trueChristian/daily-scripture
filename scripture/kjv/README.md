@@ -1,5 +1,5 @@
-**Psalms 107:40-43**
+**Deuteronomy 32:12**
 
-40 He poureth contempt upon princes, and causeth them to wander in the wilderness, where there is no way. 41 Yet setteth he the poor on high from affliction, and maketh him families like a flock. 42 The righteous shall see it, and rejoice: and all iniquity shall stop her mouth. 43 Whoso is wise, and will observe these things, even they shall understand the lovingkindness of the Lord. 
+12 So the Lord alone did lead him, and there was no strange god with him.
 
-[Friday 13-June, 2025](https://getbible.net/kjv/Psalms/107/40-43)
+[Saturday 14-June, 2025](https://getbible.net/kjv/Deuteronomy/32/12)

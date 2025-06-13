@@ -1,29 +1,17 @@
 {
-  "book": "Psalms",
-  "chapter": "107",
-  "date": "Friday 13-June, 2025",
-  "getbible": "https://getbible.net/kjv/Psalms/107/40-43",
-  "name": "Psalms 107:40-43",
+  "book": "Deuteronomy",
+  "chapter": "32",
+  "date": "Saturday 14-June, 2025",
+  "getbible": "https://getbible.net/kjv/Deuteronomy/32/12",
+  "name": "Deuteronomy 32:12",
   "scripture": [
     {
-      "nr": "40",
-      "text": "He poureth contempt upon princes, and causeth them to wander in the wilderness, where there is no way."
-    },
-    {
-      "nr": "41",
-      "text": "Yet setteth he the poor on high from affliction, and maketh him families like a flock."
-    },
-    {
-      "nr": "42",
-      "text": "The righteous shall see it, and rejoice: and all iniquity shall stop her mouth."
-    },
-    {
-      "nr": "43",
-      "text": "Whoso is wise, and will observe these things, even they shall understand the lovingkindness of the Lord. "
+      "nr": "12",
+      "text": "So the Lord alone did lead him, and there was no strange god with him."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "40-43",
+  "verse": "12",
   "version": "kjv"
 }
