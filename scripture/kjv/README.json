@@ -1,17 +1,29 @@
 {
-  "book": "Deuteronomy",
-  "chapter": "32",
-  "date": "Saturday 14-June, 2025",
-  "getbible": "https://getbible.net/kjv/Deuteronomy/32/12",
-  "name": "Deuteronomy 32:12",
+  "book": "Mark",
+  "chapter": "12",
+  "date": "Sunday 15-June, 2025",
+  "getbible": "https://getbible.net/kjv/Mark/12/41-44",
+  "name": "Mark 12:41-44",
   "scripture": [
     {
-      "nr": "12",
-      "text": "So the Lord alone did lead him, and there was no strange god with him."
+      "nr": "41",
+      "text": "And Jesus sat over against the treasury, and beheld how the people cast money into the treasury: and many that were rich cast in much."
+    },
+    {
+      "nr": "42",
+      "text": "And there came a certain poor widow, and she threw in two mites, which make a farthing."
+    },
+    {
+      "nr": "43",
+      "text": "And he called unto him his disciples, and saith unto them, Verily I say unto you, That this poor widow hath cast more in, than all they which have cast into the treasury:"
+    },
+    {
+      "nr": "44",
+      "text": "For all they did cast in of their abundance; but she of her want did cast in all that she had, even all her living. "
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "12",
+  "verse": "41-44",
   "version": "kjv"
 }
