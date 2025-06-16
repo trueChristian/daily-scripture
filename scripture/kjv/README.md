@@ -1,5 +1,5 @@
-**Proverbs 21:13**
+**Matthew 24:12-13**
 
-13 Whoso stoppeth his ears at the cry of the poor, he also shall cry himself, but shall not be heard.
+12 And because iniquity shall abound, the love of many shall wax cold. 13 But he that shall endure unto the end, the same shall be saved.
 
-[Monday 16-June, 2025](https://getbible.net/kjv/Proverbs/21/13)
+[Tuesday 17-June, 2025](https://getbible.net/kjv/Matthew/24/12-13)
