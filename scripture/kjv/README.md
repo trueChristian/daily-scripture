@@ -1,5 +1,5 @@
-**Matthew 24:12-13**
+**Job 6:14**
 
-12 And because iniquity shall abound, the love of many shall wax cold. 13 But he that shall endure unto the end, the same shall be saved.
+14 To him that is afflicted pity should be shewed from his friend; but he forsaketh the fear of the Almighty.
 
-[Tuesday 17-June, 2025](https://getbible.net/kjv/Matthew/24/12-13)
+[Wednesday 18-June, 2025](https://getbible.net/kjv/Job/6/14)
