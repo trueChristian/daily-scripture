@@ -1,17 +1,25 @@
 {
-  "book": "Job",
-  "chapter": "6",
-  "date": "Wednesday 18-June, 2025",
-  "getbible": "https://getbible.net/kjv/Job/6/14",
-  "name": "Job 6:14",
+  "book": "Colossians",
+  "chapter": "3",
+  "date": "Thursday 19-June, 2025",
+  "getbible": "https://getbible.net/kjv/Colossians/3/3-5",
+  "name": "Colossians 3:3-5",
   "scripture": [
     {
-      "nr": "14",
-      "text": "To him that is afflicted pity should be shewed from his friend; but he forsaketh the fear of the Almighty."
+      "nr": "3",
+      "text": "For ye are dead, and your life is hid with Christ in God."
+    },
+    {
+      "nr": "4",
+      "text": "When Christ, who is our life, shall appear, then shall ye also appear with him in glory."
+    },
+    {
+      "nr": "5",
+      "text": "Mortify therefore your members which are upon the earth; fornication, uncleanness, inordinate affection, evil concupiscence, and covetousness, which is idolatry:"
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "14",
+  "verse": "3-5",
   "version": "kjv"
 }

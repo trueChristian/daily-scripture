@@ -1,5 +1,5 @@
-**Job 6:14**
+**Colossians 3:3-5**
 
-14 To him that is afflicted pity should be shewed from his friend; but he forsaketh the fear of the Almighty.
+3 For ye are dead, and your life is hid with Christ in God. 4 When Christ, who is our life, shall appear, then shall ye also appear with him in glory. 5 Mortify therefore your members which are upon the earth; fornication, uncleanness, inordinate affection, evil concupiscence, and covetousness, which is idolatry:
 
-[Wednesday 18-June, 2025](https://getbible.net/kjv/Job/6/14)
+[Thursday 19-June, 2025](https://getbible.net/kjv/Colossians/3/3-5)
