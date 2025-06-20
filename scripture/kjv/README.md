@@ -1,5 +1,5 @@
-**Proverbs 25:12**
+**Galatians 4:18**
 
-12 As an earring of gold, and an ornament of fine gold, so is a wise reprover upon an obedient ear.
+18 But it is good to be zealously affected always in a good thing, and not only when I am present with you.
 
-[Friday 20-June, 2025](https://getbible.net/kjv/Proverbs/25/12)
+[Saturday 21-June, 2025](https://getbible.net/kjv/Galatians/4/18)

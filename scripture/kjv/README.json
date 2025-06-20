@@ -1,17 +1,17 @@
 {
-  "book": "Proverbs",
-  "chapter": "25",
-  "date": "Friday 20-June, 2025",
-  "getbible": "https://getbible.net/kjv/Proverbs/25/12",
-  "name": "Proverbs 25:12",
+  "book": "Galatians",
+  "chapter": "4",
+  "date": "Saturday 21-June, 2025",
+  "getbible": "https://getbible.net/kjv/Galatians/4/18",
+  "name": "Galatians 4:18",
   "scripture": [
     {
-      "nr": "12",
-      "text": "As an earring of gold, and an ornament of fine gold, so is a wise reprover upon an obedient ear."
+      "nr": "18",
+      "text": "But it is good to be zealously affected always in a good thing, and not only when I am present with you."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "12",
+  "verse": "18",
   "version": "kjv"
 }
