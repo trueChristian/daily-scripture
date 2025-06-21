@@ -1,5 +1,5 @@
-**Galatians 4:18**
+**Ephesians 4:22-24**
 
-18 But it is good to be zealously affected always in a good thing, and not only when I am present with you.
+22 That ye put off concerning the former conversation the old man, which is corrupt according to the deceitful lusts; 23 And be renewed in the spirit of your mind; 24 And that ye put on the new man, which after God is created in righteousness and true holiness.
 
-[Saturday 21-June, 2025](https://getbible.net/kjv/Galatians/4/18)
+[Sunday 22-June, 2025](https://getbible.net/kjv/Ephesians/4/22-24)
