@@ -1,25 +1,21 @@
 {
-  "book": "Ephesians",
-  "chapter": "4",
-  "date": "Sunday 22-June, 2025",
-  "getbible": "https://getbible.net/kjv/Ephesians/4/22-24",
-  "name": "Ephesians 4:22-24",
+  "book": "Psalms",
+  "chapter": "19",
+  "date": "Monday 23-June, 2025",
+  "getbible": "https://getbible.net/kjv/Psalms/19/11-12",
+  "name": "Psalms 19:11-12",
   "scripture": [
     {
-      "nr": "22",
-      "text": "That ye put off concerning the former conversation the old man, which is corrupt according to the deceitful lusts;"
+      "nr": "11",
+      "text": "Moreover by them is thy servant warned: and in keeping of them there is great reward."
     },
     {
-      "nr": "23",
-      "text": "And be renewed in the spirit of your mind;"
-    },
-    {
-      "nr": "24",
-      "text": "And that ye put on the new man, which after God is created in righteousness and true holiness."
+      "nr": "12",
+      "text": "Who can understand his errors? cleanse thou me from secret faults."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "22-24",
+  "verse": "11-12",
   "version": "kjv"
 }
