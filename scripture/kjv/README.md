@@ -1,5 +1,5 @@
-**Psalms 19:11-12**
+**Daniel 4:37**
 
-11 Moreover by them is thy servant warned: and in keeping of them there is great reward. 12 Who can understand his errors? cleanse thou me from secret faults.
+37 Now I Nebuchadnezzar praise and extol and honour the King of heaven, all whose works are truth, and his ways judgment: and those that walk in pride he is able to abase. 
 
-[Monday 23-June, 2025](https://getbible.net/kjv/Psalms/19/11-12)
+[Tuesday 24-June, 2025](https://getbible.net/kjv/Daniel/4/37)
