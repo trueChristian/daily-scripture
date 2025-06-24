@@ -1,17 +1,17 @@
 {
-  "book": "Daniel",
-  "chapter": "4",
-  "date": "Tuesday 24-June, 2025",
-  "getbible": "https://getbible.net/kjv/Daniel/4/37",
-  "name": "Daniel 4:37",
+  "book": "John",
+  "chapter": "18",
+  "date": "Wednesday 25-June, 2025",
+  "getbible": "https://getbible.net/kjv/John/18/23",
+  "name": "John 18:23",
   "scripture": [
     {
-      "nr": "37",
-      "text": "Now I Nebuchadnezzar praise and extol and honour the King of heaven, all whose works are truth, and his ways judgment: and those that walk in pride he is able to abase. "
+      "nr": "23",
+      "text": "Jesus answered him, If I have spoken evil, bear witness of the evil: but if well, why smitest thou me?"
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "37",
+  "verse": "23",
   "version": "kjv"
 }

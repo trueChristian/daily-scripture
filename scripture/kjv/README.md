@@ -1,5 +1,5 @@
-**Daniel 4:37**
+**John 18:23**
 
-37 Now I Nebuchadnezzar praise and extol and honour the King of heaven, all whose works are truth, and his ways judgment: and those that walk in pride he is able to abase. 
+23 Jesus answered him, If I have spoken evil, bear witness of the evil: but if well, why smitest thou me?
 
-[Tuesday 24-June, 2025](https://getbible.net/kjv/Daniel/4/37)
+[Wednesday 25-June, 2025](https://getbible.net/kjv/John/18/23)
