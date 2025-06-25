@@ -1,5 +1,5 @@
-**John 18:23**
+**1 John 3:23**
 
-23 Jesus answered him, If I have spoken evil, bear witness of the evil: but if well, why smitest thou me?
+23 And this is his commandment, That we should believe on the name of his Son Jesus Christ, and love one another, as he gave us commandment.
 
-[Wednesday 25-June, 2025](https://getbible.net/kjv/John/18/23)
+[Thursday 26-June, 2025](https://getbible.net/kjv/1 John/3/23)
