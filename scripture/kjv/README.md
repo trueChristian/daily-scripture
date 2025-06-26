@@ -1,5 +1,5 @@
-**1 John 3:23**
+**Job 31:33-34**
 
-23 And this is his commandment, That we should believe on the name of his Son Jesus Christ, and love one another, as he gave us commandment.
+33 If I covered my transgressions as Adam, by hiding mine iniquity in my bosom: 34 Did I fear a great multitude, or did the contempt of families terrify me, that I kept silence, and went not out of the door?
 
-[Thursday 26-June, 2025](https://getbible.net/kjv/1 John/3/23)
+[Friday 27-June, 2025](https://getbible.net/kjv/Job/31/33-34)

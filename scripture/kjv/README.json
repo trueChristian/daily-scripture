@@ -1,17 +1,21 @@
 {
-  "book": "1 John",
-  "chapter": "3",
-  "date": "Thursday 26-June, 2025",
-  "getbible": "https://getbible.net/kjv/1 John/3/23",
-  "name": "1 John 3:23",
+  "book": "Job",
+  "chapter": "31",
+  "date": "Friday 27-June, 2025",
+  "getbible": "https://getbible.net/kjv/Job/31/33-34",
+  "name": "Job 31:33-34",
   "scripture": [
     {
-      "nr": "23",
-      "text": "And this is his commandment, That we should believe on the name of his Son Jesus Christ, and love one another, as he gave us commandment."
+      "nr": "33",
+      "text": "If I covered my transgressions as Adam, by hiding mine iniquity in my bosom:"
+    },
+    {
+      "nr": "34",
+      "text": "Did I fear a great multitude, or did the contempt of families terrify me, that I kept silence, and went not out of the door?"
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "23",
+  "verse": "33-34",
   "version": "kjv"
 }
