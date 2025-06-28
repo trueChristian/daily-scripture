@@ -1,5 +1,5 @@
-**Proverbs 29:2**
+**Ezekiel 44:30-31**
 
-2 When the righteous are in authority, the people rejoice: but when the wicked beareth rule, the people mourn.
+30 And the first of all the firstfruits of all things, and every oblation of all, of every sort of your oblations, shall be the priest’s: ye shall also give unto the priest the first of your dough, that he may cause the blessing to rest in thine house. 31 The priests shall not eat of any thing that is dead of itself, or torn, whether it be fowl or beast. 
 
-[Saturday 28-June, 2025](https://getbible.net/kjv/Proverbs/29/2)
+[Sunday 29-June, 2025](https://getbible.net/kjv/Ezekiel/44/30-31)

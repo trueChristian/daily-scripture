@@ -1,17 +1,21 @@
 {
-  "book": "Proverbs",
-  "chapter": "29",
-  "date": "Saturday 28-June, 2025",
-  "getbible": "https://getbible.net/kjv/Proverbs/29/2",
-  "name": "Proverbs 29:2",
+  "book": "Ezekiel",
+  "chapter": "44",
+  "date": "Sunday 29-June, 2025",
+  "getbible": "https://getbible.net/kjv/Ezekiel/44/30-31",
+  "name": "Ezekiel 44:30-31",
   "scripture": [
     {
-      "nr": "2",
-      "text": "When the righteous are in authority, the people rejoice: but when the wicked beareth rule, the people mourn."
+      "nr": "30",
+      "text": "And the first of all the firstfruits of all things, and every oblation of all, of every sort of your oblations, shall be the priest’s: ye shall also give unto the priest the first of your dough, that he may cause the blessing to rest in thine house."
+    },
+    {
+      "nr": "31",
+      "text": "The priests shall not eat of any thing that is dead of itself, or torn, whether it be fowl or beast. "
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "2",
+  "verse": "30-31",
   "version": "kjv"
 }
