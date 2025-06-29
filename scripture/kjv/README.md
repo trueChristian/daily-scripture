@@ -1,5 +1,5 @@
-**Ezekiel 44:30-31**
+**John 17:6**
 
-30 And the first of all the firstfruits of all things, and every oblation of all, of every sort of your oblations, shall be the priest’s: ye shall also give unto the priest the first of your dough, that he may cause the blessing to rest in thine house. 31 The priests shall not eat of any thing that is dead of itself, or torn, whether it be fowl or beast. 
+6 I have manifested thy name unto the men which thou gavest me out of the world: thine they were, and thou gavest them me; and they have kept thy word.
 
-[Sunday 29-June, 2025](https://getbible.net/kjv/Ezekiel/44/30-31)
+[Monday 30-June, 2025](https://getbible.net/kjv/John/17/6)
