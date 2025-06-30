@@ -1,17 +1,17 @@
 {
   "book": "John",
-  "chapter": "17",
-  "date": "Monday 30-June, 2025",
-  "getbible": "https://getbible.net/kjv/John/17/6",
-  "name": "John 17:6",
+  "chapter": "8",
+  "date": "Tuesday 01-July, 2025",
+  "getbible": "https://getbible.net/kjv/John/8/36",
+  "name": "John 8:36",
   "scripture": [
     {
-      "nr": "6",
-      "text": "I have manifested thy name unto the men which thou gavest me out of the world: thine they were, and thou gavest them me; and they have kept thy word."
+      "nr": "36",
+      "text": "If the Son therefore shall make you free, ye shall be free indeed."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "6",
+  "verse": "36",
   "version": "kjv"
 }
