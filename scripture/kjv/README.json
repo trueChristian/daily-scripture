@@ -1,65 +1,17 @@
 {
-  "book": "Matthew",
-  "chapter": "18",
-  "date": "Wednesday 02-July, 2025",
-  "getbible": "https://getbible.net/kjv/Matthew/18/23-35",
-  "name": "Matthew 18:23-35",
+  "book": "1 Corinthians",
+  "chapter": "4",
+  "date": "Thursday 03-July, 2025",
+  "getbible": "https://getbible.net/kjv/1 Corinthians/4/17",
+  "name": "1 Corinthians 4:17",
   "scripture": [
     {
-      "nr": "23",
-      "text": "Therefore is the kingdom of heaven likened unto a certain king, which would take account of his servants."
-    },
-    {
-      "nr": "24",
-      "text": "And when he had begun to reckon, one was brought unto him, which owed him ten thousand talents."
-    },
-    {
-      "nr": "25",
-      "text": "But forasmuch as he had not to pay, his lord commanded him to be sold, and his wife, and children, and all that he had, and payment to be made."
-    },
-    {
-      "nr": "26",
-      "text": "The servant therefore fell down, and worshipped him, saying, Lord, have patience with me, and I will pay thee all."
-    },
-    {
-      "nr": "27",
-      "text": "Then the lord of that servant was moved with compassion, and loosed him, and forgave him the debt."
-    },
-    {
-      "nr": "28",
-      "text": "But the same servant went out, and found one of his fellowservants, which owed him an hundred pence: and he laid hands on him, and took him by the throat, saying, Pay me that thou owest."
-    },
-    {
-      "nr": "29",
-      "text": "And his fellowservant fell down at his feet, and besought him, saying, Have patience with me, and I will pay thee all."
-    },
-    {
-      "nr": "30",
-      "text": "And he would not: but went and cast him into prison, till he should pay the debt."
-    },
-    {
-      "nr": "31",
-      "text": "So when his fellowservants saw what was done, they were very sorry, and came and told unto their lord all that was done."
-    },
-    {
-      "nr": "32",
-      "text": "Then his lord, after that he had called him, said unto him, O thou wicked servant, I forgave thee all that debt, because thou desiredst me:"
-    },
-    {
-      "nr": "33",
-      "text": "Shouldest not thou also have had compassion on thy fellowservant, even as I had pity on thee?"
-    },
-    {
-      "nr": "34",
-      "text": "And his lord was wroth, and delivered him to the tormentors, till he should pay all that was due unto him."
-    },
-    {
-      "nr": "35",
-      "text": "So likewise shall my heavenly Father do also unto you, if ye from your hearts forgive not every one his brother their trespasses. "
+      "nr": "17",
+      "text": "For this cause have I sent unto you Timotheus, who is my beloved son, and faithful in the Lord, who shall bring you into remembrance of my ways which be in Christ, as I teach every where in every church."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "23-35",
+  "verse": "17",
   "version": "kjv"
 }
