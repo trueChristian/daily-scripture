@@ -1,5 +1,5 @@
-**1 Corinthians 4:17**
+**Romans 8:18**
 
-17 For this cause have I sent unto you Timotheus, who is my beloved son, and faithful in the Lord, who shall bring you into remembrance of my ways which be in Christ, as I teach every where in every church.
+18 For I reckon that the sufferings of this present time are not worthy to be compared with the glory which shall be revealed in us.
 
-[Thursday 03-July, 2025](https://getbible.net/kjv/1 Corinthians/4/17)
+[Friday 04-July, 2025](https://getbible.net/kjv/Romans/8/18)

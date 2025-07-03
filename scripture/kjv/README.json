@@ -1,17 +1,17 @@
 {
-  "book": "1 Corinthians",
-  "chapter": "4",
-  "date": "Thursday 03-July, 2025",
-  "getbible": "https://getbible.net/kjv/1 Corinthians/4/17",
-  "name": "1 Corinthians 4:17",
+  "book": "Romans",
+  "chapter": "8",
+  "date": "Friday 04-July, 2025",
+  "getbible": "https://getbible.net/kjv/Romans/8/18",
+  "name": "Romans 8:18",
   "scripture": [
     {
-      "nr": "17",
-      "text": "For this cause have I sent unto you Timotheus, who is my beloved son, and faithful in the Lord, who shall bring you into remembrance of my ways which be in Christ, as I teach every where in every church."
+      "nr": "18",
+      "text": "For I reckon that the sufferings of this present time are not worthy to be compared with the glory which shall be revealed in us."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "17",
+  "verse": "18",
   "version": "kjv"
 }
