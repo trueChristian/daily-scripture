@@ -1,5 +1,5 @@
-**Romans 8:18**
+**1 Corinthians 3:7**
 
-18 For I reckon that the sufferings of this present time are not worthy to be compared with the glory which shall be revealed in us.
+7 So then neither is he that planteth any thing, neither he that watereth; but God that giveth the increase.
 
-[Friday 04-July, 2025](https://getbible.net/kjv/Romans/8/18)
+[Saturday 05-July, 2025](https://getbible.net/kjv/1 Corinthians/3/7)

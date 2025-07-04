@@ -1,17 +1,17 @@
 {
-  "book": "Romans",
-  "chapter": "8",
-  "date": "Friday 04-July, 2025",
-  "getbible": "https://getbible.net/kjv/Romans/8/18",
-  "name": "Romans 8:18",
+  "book": "1 Corinthians",
+  "chapter": "3",
+  "date": "Saturday 05-July, 2025",
+  "getbible": "https://getbible.net/kjv/1 Corinthians/3/7",
+  "name": "1 Corinthians 3:7",
   "scripture": [
     {
-      "nr": "18",
-      "text": "For I reckon that the sufferings of this present time are not worthy to be compared with the glory which shall be revealed in us."
+      "nr": "7",
+      "text": "So then neither is he that planteth any thing, neither he that watereth; but God that giveth the increase."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "18",
+  "verse": "7",
   "version": "kjv"
 }
