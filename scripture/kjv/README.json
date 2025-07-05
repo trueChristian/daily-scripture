@@ -1,17 +1,21 @@
 {
-  "book": "1 Corinthians",
-  "chapter": "3",
-  "date": "Saturday 05-July, 2025",
-  "getbible": "https://getbible.net/kjv/1 Corinthians/3/7",
-  "name": "1 Corinthians 3:7",
+  "book": "Psalms",
+  "chapter": "147",
+  "date": "Sunday 06-July, 2025",
+  "getbible": "https://getbible.net/kjv/Psalms/147/10-11",
+  "name": "Psalms 147:10-11",
   "scripture": [
     {
-      "nr": "7",
-      "text": "So then neither is he that planteth any thing, neither he that watereth; but God that giveth the increase."
+      "nr": "10",
+      "text": "He delighteth not in the strength of the horse: he taketh not pleasure in the legs of a man."
+    },
+    {
+      "nr": "11",
+      "text": "The Lord taketh pleasure in them that fear him, in those that hope in his mercy."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "7",
+  "verse": "10-11",
   "version": "kjv"
 }

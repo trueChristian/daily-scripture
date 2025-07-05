@@ -1,5 +1,5 @@
-**1 Corinthians 3:7**
+**Psalms 147:10-11**
 
-7 So then neither is he that planteth any thing, neither he that watereth; but God that giveth the increase.
+10 He delighteth not in the strength of the horse: he taketh not pleasure in the legs of a man. 11 The Lord taketh pleasure in them that fear him, in those that hope in his mercy.
 
-[Saturday 05-July, 2025](https://getbible.net/kjv/1 Corinthians/3/7)
+[Sunday 06-July, 2025](https://getbible.net/kjv/Psalms/147/10-11)
