@@ -1,21 +1,17 @@
 {
-  "book": "Psalms",
-  "chapter": "147",
-  "date": "Sunday 06-July, 2025",
-  "getbible": "https://getbible.net/kjv/Psalms/147/10-11",
-  "name": "Psalms 147:10-11",
+  "book": "Obadiah",
+  "chapter": "1",
+  "date": "Monday 07-July, 2025",
+  "getbible": "https://getbible.net/kjv/Obadiah/1/15",
+  "name": "Obadiah 1:15",
   "scripture": [
     {
-      "nr": "10",
-      "text": "He delighteth not in the strength of the horse: he taketh not pleasure in the legs of a man."
-    },
-    {
-      "nr": "11",
-      "text": "The Lord taketh pleasure in them that fear him, in those that hope in his mercy."
+      "nr": "15",
+      "text": "For the day of the Lord is near upon all the heathen: as thou hast done, it shall be done unto thee: thy reward shall return upon thine own head."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "10-11",
+  "verse": "15",
   "version": "kjv"
 }
