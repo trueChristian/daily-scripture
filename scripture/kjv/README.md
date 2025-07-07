@@ -1,5 +1,5 @@
-**Obadiah 1:15**
+**2 Corinthians 7:16**
 
-15 For the day of the Lord is near upon all the heathen: as thou hast done, it shall be done unto thee: thy reward shall return upon thine own head.
+16 I rejoice therefore that I have confidence in you in all things. 
 
-[Monday 07-July, 2025](https://getbible.net/kjv/Obadiah/1/15)
+[Tuesday 08-July, 2025](https://getbible.net/kjv/2 Corinthians/7/16)

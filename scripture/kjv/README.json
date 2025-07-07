@@ -1,17 +1,17 @@
 {
-  "book": "Obadiah",
-  "chapter": "1",
-  "date": "Monday 07-July, 2025",
-  "getbible": "https://getbible.net/kjv/Obadiah/1/15",
-  "name": "Obadiah 1:15",
+  "book": "2 Corinthians",
+  "chapter": "7",
+  "date": "Tuesday 08-July, 2025",
+  "getbible": "https://getbible.net/kjv/2 Corinthians/7/16",
+  "name": "2 Corinthians 7:16",
   "scripture": [
     {
-      "nr": "15",
-      "text": "For the day of the Lord is near upon all the heathen: as thou hast done, it shall be done unto thee: thy reward shall return upon thine own head."
+      "nr": "16",
+      "text": "I rejoice therefore that I have confidence in you in all things. "
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "15",
+  "verse": "16",
   "version": "kjv"
 }
