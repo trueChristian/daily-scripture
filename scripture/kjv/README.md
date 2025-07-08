@@ -1,5 +1,5 @@
-**2 Corinthians 7:16**
+**Matthew 23:28**
 
-16 I rejoice therefore that I have confidence in you in all things. 
+28 Even so ye also outwardly appear righteous unto men, but within ye are full of hypocrisy and iniquity.
 
-[Tuesday 08-July, 2025](https://getbible.net/kjv/2 Corinthians/7/16)
+[Wednesday 09-July, 2025](https://getbible.net/kjv/Matthew/23/28)

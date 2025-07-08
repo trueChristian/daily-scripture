@@ -1,17 +1,17 @@
 {
-  "book": "2 Corinthians",
-  "chapter": "7",
-  "date": "Tuesday 08-July, 2025",
-  "getbible": "https://getbible.net/kjv/2 Corinthians/7/16",
-  "name": "2 Corinthians 7:16",
+  "book": "Matthew",
+  "chapter": "23",
+  "date": "Wednesday 09-July, 2025",
+  "getbible": "https://getbible.net/kjv/Matthew/23/28",
+  "name": "Matthew 23:28",
   "scripture": [
     {
-      "nr": "16",
-      "text": "I rejoice therefore that I have confidence in you in all things. "
+      "nr": "28",
+      "text": "Even so ye also outwardly appear righteous unto men, but within ye are full of hypocrisy and iniquity."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "16",
+  "verse": "28",
   "version": "kjv"
 }
