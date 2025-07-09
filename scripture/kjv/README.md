@@ -1,5 +1,5 @@
-**Matthew 23:28**
+**Leviticus 19:17-18**
 
-28 Even so ye also outwardly appear righteous unto men, but within ye are full of hypocrisy and iniquity.
+17 Thou shalt not hate thy brother in thine heart: thou shalt in any wise rebuke thy neighbour, and not suffer sin upon him. 18 Thou shalt not avenge, nor bear any grudge against the children of thy people, but thou shalt love thy neighbour as thyself: I am the Lord.
 
-[Wednesday 09-July, 2025](https://getbible.net/kjv/Matthew/23/28)
+[Thursday 10-July, 2025](https://getbible.net/kjv/Leviticus/19/17-18)
