@@ -1,5 +1,5 @@
-**Psalms 62:1-2**
+**Luke 22:42**
 
-1 Truly my soul waiteth upon God: from him cometh my salvation. 2 He only is my rock and my salvation; he is my defence; I shall not be greatly moved.
+42 Saying, Father, if thou be willing, remove this cup from me: nevertheless not my will, but thine, be done.
 
-[Friday 11-July, 2025](https://getbible.net/kjv/Psalms/62/1-2)
+[Saturday 12-July, 2025](https://getbible.net/kjv/Luke/22/42)
