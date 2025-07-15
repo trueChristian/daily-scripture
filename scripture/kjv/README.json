@@ -1,21 +1,17 @@
 {
-  "book": "1 John",
-  "chapter": "4",
-  "date": "Tuesday 15-July, 2025",
-  "getbible": "https://getbible.net/kjv/1 John/4/7-8",
-  "name": "1 John 4:7-8",
+  "book": "Acts",
+  "chapter": "9",
+  "date": "Wednesday 16-July, 2025",
+  "getbible": "https://getbible.net/kjv/Acts/9/38",
+  "name": "Acts 9:38",
   "scripture": [
     {
-      "nr": "7",
-      "text": "Beloved, let us love one another: for love is of God; and every one that loveth is born of God, and knoweth God."
-    },
-    {
-      "nr": "8",
-      "text": "He that loveth not knoweth not God; for God is love."
+      "nr": "38",
+      "text": "And forasmuch as Lydda was nigh to Joppa, and the disciples had heard that Peter was there, they sent unto him two men, desiring him that he would not delay to come to them."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "7-8",
+  "verse": "38",
   "version": "kjv"
 }

@@ -1,5 +1,5 @@
-**1 John 4:7-8**
+**Acts 9:38**
 
-7 Beloved, let us love one another: for love is of God; and every one that loveth is born of God, and knoweth God. 8 He that loveth not knoweth not God; for God is love.
+38 And forasmuch as Lydda was nigh to Joppa, and the disciples had heard that Peter was there, they sent unto him two men, desiring him that he would not delay to come to them.
 
-[Tuesday 15-July, 2025](https://getbible.net/kjv/1 John/4/7-8)
+[Wednesday 16-July, 2025](https://getbible.net/kjv/Acts/9/38)
