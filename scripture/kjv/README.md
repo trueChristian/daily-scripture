@@ -1,5 +1,5 @@
-**Acts 9:38**
+**Proverbs 20:9**
 
-38 And forasmuch as Lydda was nigh to Joppa, and the disciples had heard that Peter was there, they sent unto him two men, desiring him that he would not delay to come to them.
+9 Who can say, I have made my heart clean, I am pure from my sin?
 
-[Wednesday 16-July, 2025](https://getbible.net/kjv/Acts/9/38)
+[Thursday 17-July, 2025](https://getbible.net/kjv/Proverbs/20/9)
