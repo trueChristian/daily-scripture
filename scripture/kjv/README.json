@@ -1,17 +1,17 @@
 {
-  "book": "Proverbs",
-  "chapter": "20",
-  "date": "Thursday 17-July, 2025",
-  "getbible": "https://getbible.net/kjv/Proverbs/20/9",
-  "name": "Proverbs 20:9",
+  "book": "John",
+  "chapter": "12",
+  "date": "Friday 18-July, 2025",
+  "getbible": "https://getbible.net/kjv/John/12/48",
+  "name": "John 12:48",
   "scripture": [
     {
-      "nr": "9",
-      "text": "Who can say, I have made my heart clean, I am pure from my sin?"
+      "nr": "48",
+      "text": "He that rejecteth me, and receiveth not my words, hath one that judgeth him: the word that I have spoken, the same shall judge him in the last day."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "9",
+  "verse": "48",
   "version": "kjv"
 }

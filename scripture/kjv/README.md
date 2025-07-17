@@ -1,5 +1,5 @@
-**Proverbs 20:9**
+**John 12:48**
 
-9 Who can say, I have made my heart clean, I am pure from my sin?
+48 He that rejecteth me, and receiveth not my words, hath one that judgeth him: the word that I have spoken, the same shall judge him in the last day.
 
-[Thursday 17-July, 2025](https://getbible.net/kjv/Proverbs/20/9)
+[Friday 18-July, 2025](https://getbible.net/kjv/John/12/48)
