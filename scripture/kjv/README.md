@@ -1,5 +1,5 @@
-**John 12:48**
+**Philippians 4:6**
 
-48 He that rejecteth me, and receiveth not my words, hath one that judgeth him: the word that I have spoken, the same shall judge him in the last day.
+6 Be careful for nothing; but in every thing by prayer and supplication with thanksgiving let your requests be made known unto God.
 
-[Friday 18-July, 2025](https://getbible.net/kjv/John/12/48)
+[Saturday 19-July, 2025](https://getbible.net/kjv/Philippians/4/6)

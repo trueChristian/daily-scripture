@@ -1,17 +1,17 @@
 {
-  "book": "John",
-  "chapter": "12",
-  "date": "Friday 18-July, 2025",
-  "getbible": "https://getbible.net/kjv/John/12/48",
-  "name": "John 12:48",
+  "book": "Philippians",
+  "chapter": "4",
+  "date": "Saturday 19-July, 2025",
+  "getbible": "https://getbible.net/kjv/Philippians/4/6",
+  "name": "Philippians 4:6",
   "scripture": [
     {
-      "nr": "48",
-      "text": "He that rejecteth me, and receiveth not my words, hath one that judgeth him: the word that I have spoken, the same shall judge him in the last day."
+      "nr": "6",
+      "text": "Be careful for nothing; but in every thing by prayer and supplication with thanksgiving let your requests be made known unto God."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "48",
+  "verse": "6",
   "version": "kjv"
 }
