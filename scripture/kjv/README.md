@@ -1,5 +1,5 @@
-**Isaiah 26:15**
+**Luke 7:35**
 
-15 Thou hast increased the nation, O Lord, thou hast increased the nation: thou art glorified: thou hadst removed it far unto all the ends of the earth.
+35 But wisdom is justified of all her children.
 
-[Monday 21-July, 2025](https://getbible.net/kjv/Isaiah/26/15)
+[Tuesday 22-July, 2025](https://getbible.net/kjv/Luke/7/35)

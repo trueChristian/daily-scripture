@@ -1,17 +1,17 @@
 {
-  "book": "Isaiah",
-  "chapter": "26",
-  "date": "Monday 21-July, 2025",
-  "getbible": "https://getbible.net/kjv/Isaiah/26/15",
-  "name": "Isaiah 26:15",
+  "book": "Luke",
+  "chapter": "7",
+  "date": "Tuesday 22-July, 2025",
+  "getbible": "https://getbible.net/kjv/Luke/7/35",
+  "name": "Luke 7:35",
   "scripture": [
     {
-      "nr": "15",
-      "text": "Thou hast increased the nation, O Lord, thou hast increased the nation: thou art glorified: thou hadst removed it far unto all the ends of the earth."
+      "nr": "35",
+      "text": "But wisdom is justified of all her children."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "15",
+  "verse": "35",
   "version": "kjv"
 }
