@@ -1,17 +1,17 @@
 {
-  "book": "Luke",
-  "chapter": "7",
-  "date": "Tuesday 22-July, 2025",
-  "getbible": "https://getbible.net/kjv/Luke/7/35",
-  "name": "Luke 7:35",
+  "book": "Psalms",
+  "chapter": "88",
+  "date": "Wednesday 23-July, 2025",
+  "getbible": "https://getbible.net/kjv/Psalms/88/18",
+  "name": "Psalms 88:18",
   "scripture": [
     {
-      "nr": "35",
-      "text": "But wisdom is justified of all her children."
+      "nr": "18",
+      "text": "Lover and friend hast thou put far from me, and mine acquaintance into darkness. "
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "35",
+  "verse": "18",
   "version": "kjv"
 }

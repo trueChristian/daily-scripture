@@ -1,5 +1,5 @@
-**Luke 7:35**
+**Psalms 88:18**
 
-35 But wisdom is justified of all her children.
+18 Lover and friend hast thou put far from me, and mine acquaintance into darkness. 
 
-[Tuesday 22-July, 2025](https://getbible.net/kjv/Luke/7/35)
+[Wednesday 23-July, 2025](https://getbible.net/kjv/Psalms/88/18)
