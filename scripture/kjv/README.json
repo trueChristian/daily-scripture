@@ -1,17 +1,17 @@
 {
-  "book": "Psalms",
-  "chapter": "88",
-  "date": "Wednesday 23-July, 2025",
-  "getbible": "https://getbible.net/kjv/Psalms/88/18",
-  "name": "Psalms 88:18",
+  "book": "Proverbs",
+  "chapter": "12",
+  "date": "Thursday 24-July, 2025",
+  "getbible": "https://getbible.net/kjv/Proverbs/12/24",
+  "name": "Proverbs 12:24",
   "scripture": [
     {
-      "nr": "18",
-      "text": "Lover and friend hast thou put far from me, and mine acquaintance into darkness. "
+      "nr": "24",
+      "text": "The hand of the diligent shall bear rule: but the slothful shall be under tribute."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "18",
+  "verse": "24",
   "version": "kjv"
 }

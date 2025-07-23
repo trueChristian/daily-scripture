@@ -1,5 +1,5 @@
-**Psalms 88:18**
+**Proverbs 12:24**
 
-18 Lover and friend hast thou put far from me, and mine acquaintance into darkness. 
+24 The hand of the diligent shall bear rule: but the slothful shall be under tribute.
 
-[Wednesday 23-July, 2025](https://getbible.net/kjv/Psalms/88/18)
+[Thursday 24-July, 2025](https://getbible.net/kjv/Proverbs/12/24)
