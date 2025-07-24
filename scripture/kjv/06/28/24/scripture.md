@@ -2,4 +2,4 @@
 
 2 Mercy unto you, and peace, and love, be multiplied.
 
-[Friday 28-June, 2024](https://getbible.net/kjv/Jude/1/2)
+[Friday 28-June, 2024](https://getbible.life/kjv/Jude/1/2)

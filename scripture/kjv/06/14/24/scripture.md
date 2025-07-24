@@ -2,4 +2,4 @@
 
 16 Rejoice evermore.
 
-[Friday 14-June, 2024](https://getbible.net/kjv/1 Thessalonians/5/16)
+[Friday 14-June, 2024](https://getbible.life/kjv/1 Thessalonians/5/16)

@@ -2,4 +2,4 @@
 
 19 As many as I love, I rebuke and chasten: be zealous therefore, and repent.
 
-[Monday 24-March, 2025](https://getbible.net/kjv/Revelation/3/19)
+[Monday 24-March, 2025](https://getbible.life/kjv/Revelation/3/19)

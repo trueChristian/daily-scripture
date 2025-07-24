@@ -2,4 +2,4 @@
 
 20 And whiles I was speaking, and praying, and confessing my sin and the sin of my people Israel, and presenting my supplication before the Lord my God for the holy mountain of my God; 21 Yea, whiles I was speaking in prayer, even the man Gabriel, whom I had seen in the vision at the beginning, being caused to fly swiftly, touched me about the time of the evening oblation. 22 And he informed me, and talked with me, and said, O Daniel, I am now come forth to give thee skill and understanding.
 
-[Monday 04-March, 2024](https://getbible.net/kjv/Daniel/9/20-22)
+[Monday 04-March, 2024](https://getbible.life/kjv/Daniel/9/20-22)

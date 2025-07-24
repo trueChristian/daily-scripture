@@ -2,4 +2,4 @@
 
 6 But godliness with contentment is great gain. 7 For we brought nothing into this world, and it is certain we can carry nothing out. 8 And having food and raiment let us be therewith content.
 
-[Thursday 09-May, 2024](https://getbible.net/kjv/1 Timothy/6/6-8)
+[Thursday 09-May, 2024](https://getbible.life/kjv/1 Timothy/6/6-8)

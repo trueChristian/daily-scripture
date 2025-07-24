@@ -2,4 +2,4 @@
 
 14 Stand therefore, having your loins girt about with truth, and having on the breastplate of righteousness;
 
-[Monday 31-July, 2023](https://getbible.net/kjv/Ephesians/6/14)
+[Monday 31-July, 2023](https://getbible.life/kjv/Ephesians/6/14)

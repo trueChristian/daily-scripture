@@ -2,4 +2,4 @@
 
 6 O come, let us worship and bow down: let us kneel before the Lord our maker.
 
-[Tuesday 15-April, 2025](https://getbible.net/kjv/Psalms/95/6)
+[Tuesday 15-April, 2025](https://getbible.life/kjv/Psalms/95/6)

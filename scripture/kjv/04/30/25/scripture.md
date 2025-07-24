@@ -2,4 +2,4 @@
 
 9 Who said unto his father and to his mother, I have not seen him; neither did he acknowledge his brethren, nor knew his own children: for they have observed thy word, and kept thy covenant. 10 They shall teach Jacob thy judgments, and Israel thy law: they shall put incense before thee, and whole burnt sacrifice upon thine altar.
 
-[Wednesday 30-April, 2025](https://getbible.net/kjv/Deuteronomy/33/9-10)
+[Wednesday 30-April, 2025](https://getbible.life/kjv/Deuteronomy/33/9-10)

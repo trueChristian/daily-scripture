@@ -2,4 +2,4 @@
 
 20 She stretcheth out her hand to the poor; yea, she reacheth forth her hands to the needy.
 
-[Saturday 07-December, 2024](https://getbible.net/kjv/Proverbs/31/20)
+[Saturday 07-December, 2024](https://getbible.life/kjv/Proverbs/31/20)

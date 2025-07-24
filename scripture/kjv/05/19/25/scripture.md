@@ -2,4 +2,4 @@
 
 17 Brethren, be followers together of me, and mark them which walk so as ye have us for an ensample. 18 (For many walk, of whom I have told you often, and now tell you even weeping, that they are the enemies of the cross of Christ: 19 Whose end is destruction, whose God is their belly, and whose glory is in their shame, who mind earthly things.)
 
-[Monday 19-May, 2025](https://getbible.net/kjv/Philippians/3/17-19)
+[Monday 19-May, 2025](https://getbible.life/kjv/Philippians/3/17-19)

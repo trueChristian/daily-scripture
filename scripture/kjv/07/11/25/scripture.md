@@ -2,4 +2,4 @@
 
 1 Truly my soul waiteth upon God: from him cometh my salvation. 2 He only is my rock and my salvation; he is my defence; I shall not be greatly moved.
 
-[Friday 11-July, 2025](https://getbible.net/kjv/Psalms/62/1-2)
+[Friday 11-July, 2025](https://getbible.life/kjv/Psalms/62/1-2)

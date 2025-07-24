@@ -147,7 +147,7 @@ VERSES=$(echo "$TODAY_S_SCRIPTURE" | cut -d' ' -f2 | cut -d':' -f2)
 NAME="${BOOK_NAME} ${CHAPTER}:${VERSES}"
 #███████████████████████████████████████████████████████████ GET BIBLE LINK ███
 # We set the GetBible link for this verse
-GETBIBLE_LINK="https://getbible.net/${VERSION}/${BOOK_NAME}/${CHAPTER}/${VERSES}"
+GETBIBLE_LINK="https://getbible.life/${VERSION}/${BOOK_NAME}/${CHAPTER}/${VERSES}"
 
 #████████████████████████████████████████████ SET TODAY'S SCRIPTURE IN HTML ███
 HTML="<strong>${NAME}</strong><br />

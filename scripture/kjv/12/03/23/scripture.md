@@ -2,4 +2,4 @@
 
 13 And it shall turn to you for a testimony.
 
-[Sunday 03-December, 2023](https://getbible.net/kjv/Luke/21/13)
+[Sunday 03-December, 2023](https://getbible.life/kjv/Luke/21/13)

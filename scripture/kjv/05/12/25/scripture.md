@@ -2,4 +2,4 @@
 
 2 For one believeth that he may eat all things: another, who is weak, eateth herbs. 3 Let not him that eateth despise him that eateth not; and let not him which eateth not judge him that eateth: for God hath received him. 4 Who art thou that judgest another man’s servant? to his own master he standeth or falleth. Yea, he shall be holden up: for God is able to make him stand.
 
-[Monday 12-May, 2025](https://getbible.net/kjv/Romans/14/2-4)
+[Monday 12-May, 2025](https://getbible.life/kjv/Romans/14/2-4)

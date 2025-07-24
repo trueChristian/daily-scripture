@@ -2,4 +2,4 @@
 
 26 And I will make thy tongue cleave to the roof of thy mouth, that thou shalt be dumb, and shalt not be to them a reprover: for they are a rebellious house. 27 But when I speak with thee, I will open thy mouth, and thou shalt say unto them, Thus saith the Lord God; He that heareth, let him hear; and he that forbeareth, let him forbear: for they are a rebellious house. 
 
-[Thursday 07-December, 2023](https://getbible.net/kjv/Ezekiel/3/26-27)
+[Thursday 07-December, 2023](https://getbible.life/kjv/Ezekiel/3/26-27)

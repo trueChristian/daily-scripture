@@ -2,4 +2,4 @@
 
 13 Whoso stoppeth his ears at the cry of the poor, he also shall cry himself, but shall not be heard.
 
-[Sunday 28-July, 2024](https://getbible.net/kjv/Proverbs/21/13)
+[Sunday 28-July, 2024](https://getbible.life/kjv/Proverbs/21/13)

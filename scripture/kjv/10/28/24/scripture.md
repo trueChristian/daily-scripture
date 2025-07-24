@@ -2,4 +2,4 @@
 
 46 The officers answered, Never man spake like this man.
 
-[Monday 28-October, 2024](https://getbible.net/kjv/John/7/46)
+[Monday 28-October, 2024](https://getbible.life/kjv/John/7/46)
