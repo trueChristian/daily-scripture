@@ -1,5 +1,5 @@
-**Proverbs 12:24**
+**Zephaniah 3:19**
 
-24 The hand of the diligent shall bear rule: but the slothful shall be under tribute.
+19 Behold, at that time I will undo all that afflict thee: and I will save her that halteth, and gather her that was driven out; and I will get them praise and fame in every land where they have been put to shame.
 
-[Thursday 24-July, 2025](https://getbible.life/kjv/Proverbs/12/24)
+[Friday 25-July, 2025](https://getbible.life/kjv/Zephaniah/3/19)
