@@ -1,5 +1,5 @@
-**Zephaniah 3:19**
+**1 Thessalonians 5:8-10**
 
-19 Behold, at that time I will undo all that afflict thee: and I will save her that halteth, and gather her that was driven out; and I will get them praise and fame in every land where they have been put to shame.
+8 But let us, who are of the day, be sober, putting on the breastplate of faith and love; and for an helmet, the hope of salvation. 9 For God hath not appointed us to wrath, but to obtain salvation by our Lord Jesus Christ, 10 Who died for us, that, whether we wake or sleep, we should live together with him.
 
-[Friday 25-July, 2025](https://getbible.life/kjv/Zephaniah/3/19)
+[Saturday 26-July, 2025](https://getbible.life/kjv/1 Thessalonians/5/8-10)
