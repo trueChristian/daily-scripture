@@ -1,17 +1,17 @@
 {
-  "book": "Psalms",
-  "chapter": "119",
-  "date": "Sunday 27-July, 2025",
-  "getbible": "https://getbible.life/kjv/Psalms/119/68",
-  "name": "Psalms 119:68",
+  "book": "John",
+  "chapter": "16",
+  "date": "Monday 28-July, 2025",
+  "getbible": "https://getbible.life/kjv/John/16/1",
+  "name": "John 16:1",
   "scripture": [
     {
-      "nr": "68",
-      "text": "Thou art good, and doest good; teach me thy statutes."
+      "nr": "1",
+      "text": "These things have I spoken unto you, that ye should not be offended."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "68",
+  "verse": "1",
   "version": "kjv"
 }

@@ -1,5 +1,5 @@
-**Psalms 119:68**
+**John 16:1**
 
-68 Thou art good, and doest good; teach me thy statutes.
+1 These things have I spoken unto you, that ye should not be offended.
 
-[Sunday 27-July, 2025](https://getbible.life/kjv/Psalms/119/68)
+[Monday 28-July, 2025](https://getbible.life/kjv/John/16/1)
