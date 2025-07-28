@@ -1,17 +1,17 @@
 {
-  "book": "John",
-  "chapter": "16",
-  "date": "Monday 28-July, 2025",
-  "getbible": "https://getbible.life/kjv/John/16/1",
-  "name": "John 16:1",
+  "book": "Luke",
+  "chapter": "24",
+  "date": "Tuesday 29-July, 2025",
+  "getbible": "https://getbible.life/kjv/Luke/24/25",
+  "name": "Luke 24:25",
   "scripture": [
     {
-      "nr": "1",
-      "text": "These things have I spoken unto you, that ye should not be offended."
+      "nr": "25",
+      "text": "Then he said unto them, O fools, and slow of heart to believe all that the prophets have spoken:"
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "1",
+  "verse": "25",
   "version": "kjv"
 }

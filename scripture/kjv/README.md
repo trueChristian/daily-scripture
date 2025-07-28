@@ -1,5 +1,5 @@
-**John 16:1**
+**Luke 24:25**
 
-1 These things have I spoken unto you, that ye should not be offended.
+25 Then he said unto them, O fools, and slow of heart to believe all that the prophets have spoken:
 
-[Monday 28-July, 2025](https://getbible.life/kjv/John/16/1)
+[Tuesday 29-July, 2025](https://getbible.life/kjv/Luke/24/25)
