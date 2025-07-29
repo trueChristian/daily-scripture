@@ -1,5 +1,5 @@
-**Luke 24:25**
+**Acts 7:3**
 
-25 Then he said unto them, O fools, and slow of heart to believe all that the prophets have spoken:
+3 And said unto him, Get thee out of thy country, and from thy kindred, and come into the land which I shall shew thee.
 
-[Tuesday 29-July, 2025](https://getbible.life/kjv/Luke/24/25)
+[Wednesday 30-July, 2025](https://getbible.life/kjv/Acts/7/3)
