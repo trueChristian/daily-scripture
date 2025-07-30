@@ -1,17 +1,17 @@
 {
-  "book": "Acts",
-  "chapter": "7",
-  "date": "Wednesday 30-July, 2025",
-  "getbible": "https://getbible.life/kjv/Acts/7/3",
-  "name": "Acts 7:3",
+  "book": "Luke",
+  "chapter": "24",
+  "date": "Thursday 31-July, 2025",
+  "getbible": "https://getbible.life/kjv/Luke/24/45",
+  "name": "Luke 24:45",
   "scripture": [
     {
-      "nr": "3",
-      "text": "And said unto him, Get thee out of thy country, and from thy kindred, and come into the land which I shall shew thee."
+      "nr": "45",
+      "text": "Then opened he their understanding, that they might understand the scriptures,"
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "3",
+  "verse": "45",
   "version": "kjv"
 }

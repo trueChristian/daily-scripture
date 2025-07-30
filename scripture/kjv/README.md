@@ -1,5 +1,5 @@
-**Acts 7:3**
+**Luke 24:45**
 
-3 And said unto him, Get thee out of thy country, and from thy kindred, and come into the land which I shall shew thee.
+45 Then opened he their understanding, that they might understand the scriptures,
 
-[Wednesday 30-July, 2025](https://getbible.life/kjv/Acts/7/3)
+[Thursday 31-July, 2025](https://getbible.life/kjv/Luke/24/45)
