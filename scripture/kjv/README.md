@@ -1,5 +1,5 @@
-**Luke 24:45**
+**John 8:26**
 
-45 Then opened he their understanding, that they might understand the scriptures,
+26 I have many things to say and to judge of you: but he that sent me is true; and I speak to the world those things which I have heard of him.
 
-[Thursday 31-July, 2025](https://getbible.life/kjv/Luke/24/45)
+[Friday 01-August, 2025](https://getbible.life/kjv/John/8/26)
