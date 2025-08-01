@@ -1,5 +1,5 @@
-**John 8:26**
+**John 8:34**
 
-26 I have many things to say and to judge of you: but he that sent me is true; and I speak to the world those things which I have heard of him.
+34 Jesus answered them, Verily, verily, I say unto you, Whosoever committeth sin is the servant of sin.
 
-[Friday 01-August, 2025](https://getbible.life/kjv/John/8/26)
+[Saturday 02-August, 2025](https://getbible.life/kjv/John/8/34)
