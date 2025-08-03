@@ -1,29 +1,21 @@
 {
-  "book": "Psalms",
-  "chapter": "102",
-  "date": "Sunday 03-August, 2025",
-  "getbible": "https://getbible.life/kjv/Psalms/102/17-20",
-  "name": "Psalms 102:17-20",
+  "book": "Philippians",
+  "chapter": "2",
+  "date": "Monday 04-August, 2025",
+  "getbible": "https://getbible.life/kjv/Philippians/2/15-16",
+  "name": "Philippians 2:15-16",
   "scripture": [
     {
-      "nr": "17",
-      "text": "He will regard the prayer of the destitute, and not despise their prayer."
+      "nr": "15",
+      "text": "That ye may be blameless and harmless, the sons of God, without rebuke, in the midst of a crooked and perverse nation, among whom ye shine as lights in the world;"
     },
     {
-      "nr": "18",
-      "text": "This shall be written for the generation to come: and the people which shall be created shall praise the Lord."
-    },
-    {
-      "nr": "19",
-      "text": "For he hath looked down from the height of his sanctuary; from heaven did the Lord behold the earth;"
-    },
-    {
-      "nr": "20",
-      "text": "To hear the groaning of the prisoner; to loose those that are appointed to death;"
+      "nr": "16",
+      "text": "Holding forth the word of life; that I may rejoice in the day of Christ, that I have not run in vain, neither laboured in vain."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "17-20",
+  "verse": "15-16",
   "version": "kjv"
 }

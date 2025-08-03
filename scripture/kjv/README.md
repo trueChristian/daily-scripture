@@ -1,5 +1,5 @@
-**Psalms 102:17-20**
+**Philippians 2:15-16**
 
-17 He will regard the prayer of the destitute, and not despise their prayer. 18 This shall be written for the generation to come: and the people which shall be created shall praise the Lord. 19 For he hath looked down from the height of his sanctuary; from heaven did the Lord behold the earth; 20 To hear the groaning of the prisoner; to loose those that are appointed to death;
+15 That ye may be blameless and harmless, the sons of God, without rebuke, in the midst of a crooked and perverse nation, among whom ye shine as lights in the world; 16 Holding forth the word of life; that I may rejoice in the day of Christ, that I have not run in vain, neither laboured in vain.
 
-[Sunday 03-August, 2025](https://getbible.life/kjv/Psalms/102/17-20)
+[Monday 04-August, 2025](https://getbible.life/kjv/Philippians/2/15-16)
