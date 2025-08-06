@@ -1,49 +1,17 @@
 {
-  "book": "2 Peter",
-  "chapter": "1",
-  "date": "Wednesday 06-August, 2025",
-  "getbible": "https://getbible.life/kjv/2 Peter/1/3-11",
-  "name": "2 Peter 1:3-11",
+  "book": "Luke",
+  "chapter": "7",
+  "date": "Thursday 07-August, 2025",
+  "getbible": "https://getbible.life/kjv/Luke/7/47",
+  "name": "Luke 7:47",
   "scripture": [
     {
-      "nr": "3",
-      "text": "According as his divine power hath given unto us all things that pertain unto life and godliness, through the knowledge of him that hath called us to glory and virtue:"
-    },
-    {
-      "nr": "4",
-      "text": "Whereby are given unto us exceeding great and precious promises: that by these ye might be partakers of the divine nature, having escaped the corruption that is in the world through lust."
-    },
-    {
-      "nr": "5",
-      "text": "And beside this, giving all diligence, add to your faith virtue; and to virtue knowledge;"
-    },
-    {
-      "nr": "6",
-      "text": "And to knowledge temperance; and to temperance patience; and to patience godliness;"
-    },
-    {
-      "nr": "7",
-      "text": "And to godliness brotherly kindness; and to brotherly kindness charity."
-    },
-    {
-      "nr": "8",
-      "text": "For if these things be in you, and abound, they make you that ye shall neither be barren nor unfruitful in the knowledge of our Lord Jesus Christ."
-    },
-    {
-      "nr": "9",
-      "text": "But he that lacketh these things is blind, and cannot see afar off, and hath forgotten that he was purged from his old sins."
-    },
-    {
-      "nr": "10",
-      "text": "Wherefore the rather, brethren, give diligence to make your calling and election sure: for if ye do these things, ye shall never fall:"
-    },
-    {
-      "nr": "11",
-      "text": "For so an entrance shall be ministered unto you abundantly into the everlasting kingdom of our Lord and Saviour Jesus Christ."
+      "nr": "47",
+      "text": "Wherefore I say unto thee, Her sins, which are many, are forgiven; for she loved much: but to whom little is forgiven, the same loveth little."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "3-11",
+  "verse": "47",
   "version": "kjv"
 }
