@@ -1,17 +1,17 @@
 {
-  "book": "Luke",
-  "chapter": "7",
-  "date": "Thursday 07-August, 2025",
-  "getbible": "https://getbible.life/kjv/Luke/7/47",
-  "name": "Luke 7:47",
+  "book": "Zechariah",
+  "chapter": "9",
+  "date": "Friday 08-August, 2025",
+  "getbible": "https://getbible.life/kjv/Zechariah/9/9",
+  "name": "Zechariah 9:9",
   "scripture": [
     {
-      "nr": "47",
-      "text": "Wherefore I say unto thee, Her sins, which are many, are forgiven; for she loved much: but to whom little is forgiven, the same loveth little."
+      "nr": "9",
+      "text": "Rejoice greatly, O daughter of Zion; shout, O daughter of Jerusalem: behold, thy King cometh unto thee: he is just, and having salvation; lowly, and riding upon an ass, and upon a colt the foal of an ass."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "47",
+  "verse": "9",
   "version": "kjv"
 }

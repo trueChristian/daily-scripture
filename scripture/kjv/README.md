@@ -1,5 +1,5 @@
-**Luke 7:47**
+**Zechariah 9:9**
 
-47 Wherefore I say unto thee, Her sins, which are many, are forgiven; for she loved much: but to whom little is forgiven, the same loveth little.
+9 Rejoice greatly, O daughter of Zion; shout, O daughter of Jerusalem: behold, thy King cometh unto thee: he is just, and having salvation; lowly, and riding upon an ass, and upon a colt the foal of an ass.
 
-[Thursday 07-August, 2025](https://getbible.life/kjv/Luke/7/47)
+[Friday 08-August, 2025](https://getbible.life/kjv/Zechariah/9/9)
