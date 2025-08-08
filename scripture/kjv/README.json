@@ -1,17 +1,17 @@
 {
-  "book": "Zechariah",
-  "chapter": "9",
-  "date": "Friday 08-August, 2025",
-  "getbible": "https://getbible.life/kjv/Zechariah/9/9",
-  "name": "Zechariah 9:9",
+  "book": "Job",
+  "chapter": "42",
+  "date": "Saturday 09-August, 2025",
+  "getbible": "https://getbible.life/kjv/Job/42/3",
+  "name": "Job 42:3",
   "scripture": [
     {
-      "nr": "9",
-      "text": "Rejoice greatly, O daughter of Zion; shout, O daughter of Jerusalem: behold, thy King cometh unto thee: he is just, and having salvation; lowly, and riding upon an ass, and upon a colt the foal of an ass."
+      "nr": "3",
+      "text": "Who is he that hideth counsel without knowledge? therefore have I uttered that I understood not; things too wonderful for me, which I knew not."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "9",
+  "verse": "3",
   "version": "kjv"
 }
