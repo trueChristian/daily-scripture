@@ -1,17 +1,17 @@
 {
-  "book": "Job",
-  "chapter": "42",
-  "date": "Saturday 09-August, 2025",
-  "getbible": "https://getbible.life/kjv/Job/42/3",
-  "name": "Job 42:3",
+  "book": "John",
+  "chapter": "4",
+  "date": "Sunday 10-August, 2025",
+  "getbible": "https://getbible.life/kjv/John/4/44",
+  "name": "John 4:44",
   "scripture": [
     {
-      "nr": "3",
-      "text": "Who is he that hideth counsel without knowledge? therefore have I uttered that I understood not; things too wonderful for me, which I knew not."
+      "nr": "44",
+      "text": "For Jesus himself testified, that a prophet hath no honour in his own country."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "3",
+  "verse": "44",
   "version": "kjv"
 }

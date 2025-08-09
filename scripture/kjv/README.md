@@ -1,5 +1,5 @@
-**Job 42:3**
+**John 4:44**
 
-3 Who is he that hideth counsel without knowledge? therefore have I uttered that I understood not; things too wonderful for me, which I knew not.
+44 For Jesus himself testified, that a prophet hath no honour in his own country.
 
-[Saturday 09-August, 2025](https://getbible.life/kjv/Job/42/3)
+[Sunday 10-August, 2025](https://getbible.life/kjv/John/4/44)
