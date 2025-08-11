@@ -1,5 +1,5 @@
-**Matthew 22:21**
+**Luke 6:31**
 
-21 They say unto him, Cesar’s. Then saith he unto them, Render therefore unto Cesar the things which are Cesar’s; and unto God the things that are God’s.
+31 And as ye would that men should do to you, do ye also to them likewise.
 
-[Monday 11-August, 2025](https://getbible.life/kjv/Matthew/22/21)
+[Tuesday 12-August, 2025](https://getbible.life/kjv/Luke/6/31)

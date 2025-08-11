@@ -1,17 +1,17 @@
 {
-  "book": "Matthew",
-  "chapter": "22",
-  "date": "Monday 11-August, 2025",
-  "getbible": "https://getbible.life/kjv/Matthew/22/21",
-  "name": "Matthew 22:21",
+  "book": "Luke",
+  "chapter": "6",
+  "date": "Tuesday 12-August, 2025",
+  "getbible": "https://getbible.life/kjv/Luke/6/31",
+  "name": "Luke 6:31",
   "scripture": [
     {
-      "nr": "21",
-      "text": "They say unto him, Cesar’s. Then saith he unto them, Render therefore unto Cesar the things which are Cesar’s; and unto God the things that are God’s."
+      "nr": "31",
+      "text": "And as ye would that men should do to you, do ye also to them likewise."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "21",
+  "verse": "31",
   "version": "kjv"
 }
