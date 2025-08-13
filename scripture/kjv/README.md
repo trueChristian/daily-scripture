@@ -1,5 +1,5 @@
-**Luke 22:19-20**
+**Proverbs 14:23**
 
-19 And he took bread, and gave thanks, and brake it, and gave unto them, saying, This is my body which is given for you: this do in remembrance of me. 20 Likewise also the cup after supper, saying, This cup is the new testament in my blood, which is shed for you.
+23 In all labour there is profit: but the talk of the lips tendeth only to penury.
 
-[Wednesday 13-August, 2025](https://getbible.life/kjv/Luke/22/19-20)
+[Thursday 14-August, 2025](https://getbible.life/kjv/Proverbs/14/23)

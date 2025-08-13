@@ -1,21 +1,17 @@
 {
-  "book": "Luke",
-  "chapter": "22",
-  "date": "Wednesday 13-August, 2025",
-  "getbible": "https://getbible.life/kjv/Luke/22/19-20",
-  "name": "Luke 22:19-20",
+  "book": "Proverbs",
+  "chapter": "14",
+  "date": "Thursday 14-August, 2025",
+  "getbible": "https://getbible.life/kjv/Proverbs/14/23",
+  "name": "Proverbs 14:23",
   "scripture": [
     {
-      "nr": "19",
-      "text": "And he took bread, and gave thanks, and brake it, and gave unto them, saying, This is my body which is given for you: this do in remembrance of me."
-    },
-    {
-      "nr": "20",
-      "text": "Likewise also the cup after supper, saying, This cup is the new testament in my blood, which is shed for you."
+      "nr": "23",
+      "text": "In all labour there is profit: but the talk of the lips tendeth only to penury."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "19-20",
+  "verse": "23",
   "version": "kjv"
 }
