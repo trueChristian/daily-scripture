@@ -1,17 +1,17 @@
 {
-  "book": "Proverbs",
-  "chapter": "14",
-  "date": "Thursday 14-August, 2025",
-  "getbible": "https://getbible.life/kjv/Proverbs/14/23",
-  "name": "Proverbs 14:23",
+  "book": "Job",
+  "chapter": "28",
+  "date": "Friday 15-August, 2025",
+  "getbible": "https://getbible.life/kjv/Job/28/28",
+  "name": "Job 28:28",
   "scripture": [
     {
-      "nr": "23",
-      "text": "In all labour there is profit: but the talk of the lips tendeth only to penury."
+      "nr": "28",
+      "text": "And unto man he said, Behold, the fear of the Lord, that is wisdom; and to depart from evil is understanding. "
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "23",
+  "verse": "28",
   "version": "kjv"
 }

@@ -1,5 +1,5 @@
-**Proverbs 14:23**
+**Job 28:28**
 
-23 In all labour there is profit: but the talk of the lips tendeth only to penury.
+28 And unto man he said, Behold, the fear of the Lord, that is wisdom; and to depart from evil is understanding. 
 
-[Thursday 14-August, 2025](https://getbible.life/kjv/Proverbs/14/23)
+[Friday 15-August, 2025](https://getbible.life/kjv/Job/28/28)
