@@ -1,5 +1,5 @@
-**Psalms 31:24**
+**John 3:11**
 
-24 Be of good courage, and he shall strengthen your heart, all ye that hope in the Lord. 
+11 Verily, verily, I say unto thee, We speak that we do know, and testify that we have seen; and ye receive not our witness.
 
-[Saturday 16-August, 2025](https://getbible.life/kjv/Psalms/31/24)
+[Sunday 17-August, 2025](https://getbible.life/kjv/John/3/11)

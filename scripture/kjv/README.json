@@ -1,17 +1,17 @@
 {
-  "book": "Psalms",
-  "chapter": "31",
-  "date": "Saturday 16-August, 2025",
-  "getbible": "https://getbible.life/kjv/Psalms/31/24",
-  "name": "Psalms 31:24",
+  "book": "John",
+  "chapter": "3",
+  "date": "Sunday 17-August, 2025",
+  "getbible": "https://getbible.life/kjv/John/3/11",
+  "name": "John 3:11",
   "scripture": [
     {
-      "nr": "24",
-      "text": "Be of good courage, and he shall strengthen your heart, all ye that hope in the Lord. "
+      "nr": "11",
+      "text": "Verily, verily, I say unto thee, We speak that we do know, and testify that we have seen; and ye receive not our witness."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "24",
+  "verse": "11",
   "version": "kjv"
 }
