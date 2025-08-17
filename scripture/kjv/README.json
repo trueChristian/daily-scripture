@@ -1,17 +1,17 @@
 {
-  "book": "John",
-  "chapter": "3",
-  "date": "Sunday 17-August, 2025",
-  "getbible": "https://getbible.life/kjv/John/3/11",
-  "name": "John 3:11",
+  "book": "Proverbs",
+  "chapter": "6",
+  "date": "Monday 18-August, 2025",
+  "getbible": "https://getbible.life/kjv/Proverbs/6/9",
+  "name": "Proverbs 6:9",
   "scripture": [
     {
-      "nr": "11",
-      "text": "Verily, verily, I say unto thee, We speak that we do know, and testify that we have seen; and ye receive not our witness."
+      "nr": "9",
+      "text": "How long wilt thou sleep, O sluggard? when wilt thou arise out of thy sleep?"
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "11",
+  "verse": "9",
   "version": "kjv"
 }

@@ -1,5 +1,5 @@
-**John 3:11**
+**Proverbs 6:9**
 
-11 Verily, verily, I say unto thee, We speak that we do know, and testify that we have seen; and ye receive not our witness.
+9 How long wilt thou sleep, O sluggard? when wilt thou arise out of thy sleep?
 
-[Sunday 17-August, 2025](https://getbible.life/kjv/John/3/11)
+[Monday 18-August, 2025](https://getbible.life/kjv/Proverbs/6/9)
