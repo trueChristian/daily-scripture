@@ -1,5 +1,5 @@
-**Proverbs 6:9**
+**Psalms 42:1-6**
 
-9 How long wilt thou sleep, O sluggard? when wilt thou arise out of thy sleep?
+1 As the hart panteth after the water brooks, so panteth my soul after thee, O God. 2 My soul thirsteth for God, for the living God: when shall I come and appear before God? 3 My tears have been my meat day and night, while they continually say unto me, Where is thy God? 4 When I remember these things, I pour out my soul in me: for I had gone with the multitude, I went with them to the house of God, with the voice of joy and praise, with a multitude that kept holyday. 5 Why art thou cast down, O my soul? and why art thou disquieted in me? hope thou in God: for I shall yet praise him for the help of his countenance. 6 O my God, my soul is cast down within me: therefore will I remember thee from the land of Jordan, and of the Hermonites, from the hill Mizar.
 
-[Monday 18-August, 2025](https://getbible.life/kjv/Proverbs/6/9)
+[Tuesday 19-August, 2025](https://getbible.life/kjv/Psalms/42/1-6)
