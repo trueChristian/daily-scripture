@@ -1,37 +1,17 @@
 {
-  "book": "Psalms",
-  "chapter": "42",
-  "date": "Tuesday 19-August, 2025",
-  "getbible": "https://getbible.life/kjv/Psalms/42/1-6",
-  "name": "Psalms 42:1-6",
+  "book": "Luke",
+  "chapter": "20",
+  "date": "Wednesday 20-August, 2025",
+  "getbible": "https://getbible.life/kjv/Luke/20/21",
+  "name": "Luke 20:21",
   "scripture": [
     {
-      "nr": "1",
-      "text": "As the hart panteth after the water brooks, so panteth my soul after thee, O God."
-    },
-    {
-      "nr": "2",
-      "text": "My soul thirsteth for God, for the living God: when shall I come and appear before God?"
-    },
-    {
-      "nr": "3",
-      "text": "My tears have been my meat day and night, while they continually say unto me, Where is thy God?"
-    },
-    {
-      "nr": "4",
-      "text": "When I remember these things, I pour out my soul in me: for I had gone with the multitude, I went with them to the house of God, with the voice of joy and praise, with a multitude that kept holyday."
-    },
-    {
-      "nr": "5",
-      "text": "Why art thou cast down, O my soul? and why art thou disquieted in me? hope thou in God: for I shall yet praise him for the help of his countenance."
-    },
-    {
-      "nr": "6",
-      "text": "O my God, my soul is cast down within me: therefore will I remember thee from the land of Jordan, and of the Hermonites, from the hill Mizar."
+      "nr": "21",
+      "text": "And they asked him, saying, Master, we know that thou sayest and teachest rightly, neither acceptest thou the person of any, but teachest the way of God truly:"
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "1-6",
+  "verse": "21",
   "version": "kjv"
 }
