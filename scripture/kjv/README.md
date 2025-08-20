@@ -1,5 +1,5 @@
-**Luke 20:21**
+**1 John 4:12**
 
-21 And they asked him, saying, Master, we know that thou sayest and teachest rightly, neither acceptest thou the person of any, but teachest the way of God truly:
+12 No man hath seen God at any time. If we love one another, God dwelleth in us, and his love is perfected in us.
 
-[Wednesday 20-August, 2025](https://getbible.life/kjv/Luke/20/21)
+[Thursday 21-August, 2025](https://getbible.life/kjv/1 John/4/12)

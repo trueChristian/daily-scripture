@@ -1,17 +1,17 @@
 {
-  "book": "Luke",
-  "chapter": "20",
-  "date": "Wednesday 20-August, 2025",
-  "getbible": "https://getbible.life/kjv/Luke/20/21",
-  "name": "Luke 20:21",
+  "book": "1 John",
+  "chapter": "4",
+  "date": "Thursday 21-August, 2025",
+  "getbible": "https://getbible.life/kjv/1 John/4/12",
+  "name": "1 John 4:12",
   "scripture": [
     {
-      "nr": "21",
-      "text": "And they asked him, saying, Master, we know that thou sayest and teachest rightly, neither acceptest thou the person of any, but teachest the way of God truly:"
+      "nr": "12",
+      "text": "No man hath seen God at any time. If we love one another, God dwelleth in us, and his love is perfected in us."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "21",
+  "verse": "12",
   "version": "kjv"
 }
