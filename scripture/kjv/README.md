@@ -1,5 +1,5 @@
-**1 John 4:12**
+**Jeremiah 13:15**
 
-12 No man hath seen God at any time. If we love one another, God dwelleth in us, and his love is perfected in us.
+15 Hear ye, and give ear; be not proud: for the Lord hath spoken.
 
-[Thursday 21-August, 2025](https://getbible.life/kjv/1 John/4/12)
+[Friday 22-August, 2025](https://getbible.life/kjv/Jeremiah/13/15)

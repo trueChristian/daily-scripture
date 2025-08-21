@@ -1,17 +1,17 @@
 {
-  "book": "1 John",
-  "chapter": "4",
-  "date": "Thursday 21-August, 2025",
-  "getbible": "https://getbible.life/kjv/1 John/4/12",
-  "name": "1 John 4:12",
+  "book": "Jeremiah",
+  "chapter": "13",
+  "date": "Friday 22-August, 2025",
+  "getbible": "https://getbible.life/kjv/Jeremiah/13/15",
+  "name": "Jeremiah 13:15",
   "scripture": [
     {
-      "nr": "12",
-      "text": "No man hath seen God at any time. If we love one another, God dwelleth in us, and his love is perfected in us."
+      "nr": "15",
+      "text": "Hear ye, and give ear; be not proud: for the Lord hath spoken."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "12",
+  "verse": "15",
   "version": "kjv"
 }
