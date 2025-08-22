@@ -1,5 +1,5 @@
-**Jeremiah 13:15**
+**Revelation 17:13-14**
 
-15 Hear ye, and give ear; be not proud: for the Lord hath spoken.
+13 These have one mind, and shall give their power and strength unto the beast. 14 These shall make war with the Lamb, and the Lamb shall overcome them: for he is Lord of lords, and King of kings: and they that are with him are called, and chosen, and faithful.
 
-[Friday 22-August, 2025](https://getbible.life/kjv/Jeremiah/13/15)
+[Saturday 23-August, 2025](https://getbible.life/kjv/Revelation/17/13-14)
