@@ -1,21 +1,17 @@
 {
-  "book": "Revelation",
-  "chapter": "17",
-  "date": "Saturday 23-August, 2025",
-  "getbible": "https://getbible.life/kjv/Revelation/17/13-14",
-  "name": "Revelation 17:13-14",
+  "book": "Proverbs",
+  "chapter": "19",
+  "date": "Sunday 24-August, 2025",
+  "getbible": "https://getbible.life/kjv/Proverbs/19/11",
+  "name": "Proverbs 19:11",
   "scripture": [
     {
-      "nr": "13",
-      "text": "These have one mind, and shall give their power and strength unto the beast."
-    },
-    {
-      "nr": "14",
-      "text": "These shall make war with the Lamb, and the Lamb shall overcome them: for he is Lord of lords, and King of kings: and they that are with him are called, and chosen, and faithful."
+      "nr": "11",
+      "text": "The discretion of a man deferreth his anger; and it is his glory to pass over a transgression."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "13-14",
+  "verse": "11",
   "version": "kjv"
 }
