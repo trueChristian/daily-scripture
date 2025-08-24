@@ -1,17 +1,29 @@
 {
-  "book": "Proverbs",
-  "chapter": "19",
-  "date": "Sunday 24-August, 2025",
-  "getbible": "https://getbible.life/kjv/Proverbs/19/11",
-  "name": "Proverbs 19:11",
+  "book": "Matthew",
+  "chapter": "5",
+  "date": "Monday 25-August, 2025",
+  "getbible": "https://getbible.life/kjv/Matthew/5/38-41",
+  "name": "Matthew 5:38-41",
   "scripture": [
     {
-      "nr": "11",
-      "text": "The discretion of a man deferreth his anger; and it is his glory to pass over a transgression."
+      "nr": "38",
+      "text": "Ye have heard that it hath been said, An eye for an eye, and a tooth for a tooth:"
+    },
+    {
+      "nr": "39",
+      "text": "But I say unto you, That ye resist not evil: but whosoever shall smite thee on thy right cheek, turn to him the other also."
+    },
+    {
+      "nr": "40",
+      "text": "And if any man will sue thee at the law, and take away thy coat, let him have thy cloke also."
+    },
+    {
+      "nr": "41",
+      "text": "And whosoever shall compel thee to go a mile, go with him twain."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "11",
+  "verse": "38-41",
   "version": "kjv"
 }
