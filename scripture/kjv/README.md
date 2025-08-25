@@ -1,5 +1,5 @@
-**Matthew 5:38-41**
+**Hebrews 13:13**
 
-38 Ye have heard that it hath been said, An eye for an eye, and a tooth for a tooth: 39 But I say unto you, That ye resist not evil: but whosoever shall smite thee on thy right cheek, turn to him the other also. 40 And if any man will sue thee at the law, and take away thy coat, let him have thy cloke also. 41 And whosoever shall compel thee to go a mile, go with him twain.
+13 Let us go forth therefore unto him without the camp, bearing his reproach.
 
-[Monday 25-August, 2025](https://getbible.life/kjv/Matthew/5/38-41)
+[Tuesday 26-August, 2025](https://getbible.life/kjv/Hebrews/13/13)

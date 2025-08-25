@@ -1,29 +1,17 @@
 {
-  "book": "Matthew",
-  "chapter": "5",
-  "date": "Monday 25-August, 2025",
-  "getbible": "https://getbible.life/kjv/Matthew/5/38-41",
-  "name": "Matthew 5:38-41",
+  "book": "Hebrews",
+  "chapter": "13",
+  "date": "Tuesday 26-August, 2025",
+  "getbible": "https://getbible.life/kjv/Hebrews/13/13",
+  "name": "Hebrews 13:13",
   "scripture": [
     {
-      "nr": "38",
-      "text": "Ye have heard that it hath been said, An eye for an eye, and a tooth for a tooth:"
-    },
-    {
-      "nr": "39",
-      "text": "But I say unto you, That ye resist not evil: but whosoever shall smite thee on thy right cheek, turn to him the other also."
-    },
-    {
-      "nr": "40",
-      "text": "And if any man will sue thee at the law, and take away thy coat, let him have thy cloke also."
-    },
-    {
-      "nr": "41",
-      "text": "And whosoever shall compel thee to go a mile, go with him twain."
+      "nr": "13",
+      "text": "Let us go forth therefore unto him without the camp, bearing his reproach."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "38-41",
+  "verse": "13",
   "version": "kjv"
 }
