@@ -1,17 +1,25 @@
 {
-  "book": "Hebrews",
-  "chapter": "13",
-  "date": "Tuesday 26-August, 2025",
-  "getbible": "https://getbible.life/kjv/Hebrews/13/13",
-  "name": "Hebrews 13:13",
+  "book": "Psalms",
+  "chapter": "50",
+  "date": "Wednesday 27-August, 2025",
+  "getbible": "https://getbible.life/kjv/Psalms/50/20-22",
+  "name": "Psalms 50:20-22",
   "scripture": [
     {
-      "nr": "13",
-      "text": "Let us go forth therefore unto him without the camp, bearing his reproach."
+      "nr": "20",
+      "text": "Thou sittest and speakest against thy brother; thou slanderest thine own mother’s son."
+    },
+    {
+      "nr": "21",
+      "text": "These things hast thou done, and I kept silence; thou thoughtest that I was altogether such an one as thyself: but I will reprove thee, and set them in order before thine eyes."
+    },
+    {
+      "nr": "22",
+      "text": "Now consider this, ye that forget God, lest I tear you in pieces, and there be none to deliver."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "13",
+  "verse": "20-22",
   "version": "kjv"
 }
