@@ -1,17 +1,17 @@
 {
-  "book": "1 Corinthians",
-  "chapter": "12",
-  "date": "Thursday 28-August, 2025",
-  "getbible": "https://getbible.life/kjv/1 Corinthians/12/26",
-  "name": "1 Corinthians 12:26",
+  "book": "John",
+  "chapter": "15",
+  "date": "Friday 29-August, 2025",
+  "getbible": "https://getbible.life/kjv/John/15/10",
+  "name": "John 15:10",
   "scripture": [
     {
-      "nr": "26",
-      "text": "And whether one member suffer, all the members suffer with it; or one member be honoured, all the members rejoice with it."
+      "nr": "10",
+      "text": "If ye keep my commandments, ye shall abide in my love; even as I have kept my Father’s commandments, and abide in his love."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "26",
+  "verse": "10",
   "version": "kjv"
 }

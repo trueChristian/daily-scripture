@@ -1,5 +1,5 @@
-**1 Corinthians 12:26**
+**John 15:10**
 
-26 And whether one member suffer, all the members suffer with it; or one member be honoured, all the members rejoice with it.
+10 If ye keep my commandments, ye shall abide in my love; even as I have kept my Father’s commandments, and abide in his love.
 
-[Thursday 28-August, 2025](https://getbible.life/kjv/1 Corinthians/12/26)
+[Friday 29-August, 2025](https://getbible.life/kjv/John/15/10)
