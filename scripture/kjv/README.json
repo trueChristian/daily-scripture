@@ -1,17 +1,17 @@
 {
-  "book": "John",
-  "chapter": "15",
-  "date": "Friday 29-August, 2025",
-  "getbible": "https://getbible.life/kjv/John/15/10",
-  "name": "John 15:10",
+  "book": "2 Corinthians",
+  "chapter": "4",
+  "date": "Saturday 30-August, 2025",
+  "getbible": "https://getbible.life/kjv/2 Corinthians/4/6",
+  "name": "2 Corinthians 4:6",
   "scripture": [
     {
-      "nr": "10",
-      "text": "If ye keep my commandments, ye shall abide in my love; even as I have kept my Father’s commandments, and abide in his love."
+      "nr": "6",
+      "text": "For God, who commanded the light to shine out of darkness, hath shined in our hearts, to give the light of the knowledge of the glory of God in the face of Jesus Christ."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "10",
+  "verse": "6",
   "version": "kjv"
 }

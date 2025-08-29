@@ -1,5 +1,5 @@
-**John 15:10**
+**2 Corinthians 4:6**
 
-10 If ye keep my commandments, ye shall abide in my love; even as I have kept my Father’s commandments, and abide in his love.
+6 For God, who commanded the light to shine out of darkness, hath shined in our hearts, to give the light of the knowledge of the glory of God in the face of Jesus Christ.
 
-[Friday 29-August, 2025](https://getbible.life/kjv/John/15/10)
+[Saturday 30-August, 2025](https://getbible.life/kjv/2 Corinthians/4/6)
