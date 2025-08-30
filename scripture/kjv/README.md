@@ -1,5 +1,5 @@
-**2 Corinthians 4:6**
+**Mark 6:11**
 
-6 For God, who commanded the light to shine out of darkness, hath shined in our hearts, to give the light of the knowledge of the glory of God in the face of Jesus Christ.
+11 And whosoever shall not receive you, nor hear you, when ye depart thence, shake off the dust under your feet for a testimony against them. Verily I say unto you, It shall be more tolerable for Sodom and Gomorrha in the day of judgment, than for that city.
 
-[Saturday 30-August, 2025](https://getbible.life/kjv/2 Corinthians/4/6)
+[Sunday 31-August, 2025](https://getbible.life/kjv/Mark/6/11)
