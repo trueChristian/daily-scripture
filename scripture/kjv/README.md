@@ -1,5 +1,5 @@
-**Mark 6:11**
+**Job 34:11-12**
 
-11 And whosoever shall not receive you, nor hear you, when ye depart thence, shake off the dust under your feet for a testimony against them. Verily I say unto you, It shall be more tolerable for Sodom and Gomorrha in the day of judgment, than for that city.
+11 For the work of a man shall he render unto him, and cause every man to find according to his ways. 12 Yea, surely God will not do wickedly, neither will the Almighty pervert judgment.
 
-[Sunday 31-August, 2025](https://getbible.life/kjv/Mark/6/11)
+[Monday 01-September, 2025](https://getbible.life/kjv/Job/34/11-12)

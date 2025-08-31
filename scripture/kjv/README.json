@@ -1,17 +1,21 @@
 {
-  "book": "Mark",
-  "chapter": "6",
-  "date": "Sunday 31-August, 2025",
-  "getbible": "https://getbible.life/kjv/Mark/6/11",
-  "name": "Mark 6:11",
+  "book": "Job",
+  "chapter": "34",
+  "date": "Monday 01-September, 2025",
+  "getbible": "https://getbible.life/kjv/Job/34/11-12",
+  "name": "Job 34:11-12",
   "scripture": [
     {
       "nr": "11",
-      "text": "And whosoever shall not receive you, nor hear you, when ye depart thence, shake off the dust under your feet for a testimony against them. Verily I say unto you, It shall be more tolerable for Sodom and Gomorrha in the day of judgment, than for that city."
+      "text": "For the work of a man shall he render unto him, and cause every man to find according to his ways."
+    },
+    {
+      "nr": "12",
+      "text": "Yea, surely God will not do wickedly, neither will the Almighty pervert judgment."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "11",
+  "verse": "11-12",
   "version": "kjv"
 }
