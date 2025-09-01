@@ -1,5 +1,5 @@
-**Job 34:11-12**
+**2 Corinthians 2:14**
 
-11 For the work of a man shall he render unto him, and cause every man to find according to his ways. 12 Yea, surely God will not do wickedly, neither will the Almighty pervert judgment.
+14 Now thanks be unto God, which always causeth us to triumph in Christ, and maketh manifest the savour of his knowledge by us in every place.
 
-[Monday 01-September, 2025](https://getbible.life/kjv/Job/34/11-12)
+[Tuesday 02-September, 2025](https://getbible.life/kjv/2 Corinthians/2/14)
