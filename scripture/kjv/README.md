@@ -1,5 +1,5 @@
-**2 Corinthians 2:14**
+**Hosea 8:14**
 
-14 Now thanks be unto God, which always causeth us to triumph in Christ, and maketh manifest the savour of his knowledge by us in every place.
+14 For Israel hath forgotten his Maker, and buildeth temples; and Judah hath multiplied fenced cities: but I will send a fire upon his cities, and it shall devour the palaces thereof. 
 
-[Tuesday 02-September, 2025](https://getbible.life/kjv/2 Corinthians/2/14)
+[Wednesday 03-September, 2025](https://getbible.life/kjv/Hosea/8/14)

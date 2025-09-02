@@ -1,13 +1,13 @@
 {
-  "book": "2 Corinthians",
-  "chapter": "2",
-  "date": "Tuesday 02-September, 2025",
-  "getbible": "https://getbible.life/kjv/2 Corinthians/2/14",
-  "name": "2 Corinthians 2:14",
+  "book": "Hosea",
+  "chapter": "8",
+  "date": "Wednesday 03-September, 2025",
+  "getbible": "https://getbible.life/kjv/Hosea/8/14",
+  "name": "Hosea 8:14",
   "scripture": [
     {
       "nr": "14",
-      "text": "Now thanks be unto God, which always causeth us to triumph in Christ, and maketh manifest the savour of his knowledge by us in every place."
+      "text": "For Israel hath forgotten his Maker, and buildeth temples; and Judah hath multiplied fenced cities: but I will send a fire upon his cities, and it shall devour the palaces thereof. "
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
