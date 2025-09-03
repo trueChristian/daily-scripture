@@ -1,5 +1,5 @@
-**Hosea 8:14**
+**Matthew 6:1-4**
 
-14 For Israel hath forgotten his Maker, and buildeth temples; and Judah hath multiplied fenced cities: but I will send a fire upon his cities, and it shall devour the palaces thereof. 
+1 Take heed that ye do not your alms before men, to be seen of them: otherwise ye have no reward of your Father which is in heaven. 2 Therefore when thou doest thine alms, do not sound a trumpet before thee, as the hypocrites do in the synagogues and in the streets, that they may have glory of men. Verily I say unto you, They have their reward. 3 But when thou doest alms, let not thy left hand know what thy right hand doeth: 4 That thine alms may be in secret: and thy Father which seeth in secret himself shall reward thee openly.
 
-[Wednesday 03-September, 2025](https://getbible.life/kjv/Hosea/8/14)
+[Thursday 04-September, 2025](https://getbible.life/kjv/Matthew/6/1-4)

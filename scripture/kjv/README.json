@@ -1,17 +1,29 @@
 {
-  "book": "Hosea",
-  "chapter": "8",
-  "date": "Wednesday 03-September, 2025",
-  "getbible": "https://getbible.life/kjv/Hosea/8/14",
-  "name": "Hosea 8:14",
+  "book": "Matthew",
+  "chapter": "6",
+  "date": "Thursday 04-September, 2025",
+  "getbible": "https://getbible.life/kjv/Matthew/6/1-4",
+  "name": "Matthew 6:1-4",
   "scripture": [
     {
-      "nr": "14",
-      "text": "For Israel hath forgotten his Maker, and buildeth temples; and Judah hath multiplied fenced cities: but I will send a fire upon his cities, and it shall devour the palaces thereof. "
+      "nr": "1",
+      "text": "Take heed that ye do not your alms before men, to be seen of them: otherwise ye have no reward of your Father which is in heaven."
+    },
+    {
+      "nr": "2",
+      "text": "Therefore when thou doest thine alms, do not sound a trumpet before thee, as the hypocrites do in the synagogues and in the streets, that they may have glory of men. Verily I say unto you, They have their reward."
+    },
+    {
+      "nr": "3",
+      "text": "But when thou doest alms, let not thy left hand know what thy right hand doeth:"
+    },
+    {
+      "nr": "4",
+      "text": "That thine alms may be in secret: and thy Father which seeth in secret himself shall reward thee openly."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "14",
+  "verse": "1-4",
   "version": "kjv"
 }
