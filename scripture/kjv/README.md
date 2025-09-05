@@ -1,5 +1,5 @@
-**2 Corinthians 5:9**
+**2 Corinthians 4:10**
 
-9 Wherefore we labour, that, whether present or absent, we may be accepted of him.
+10 Always bearing about in the body the dying of the Lord Jesus, that the life also of Jesus might be made manifest in our body.
 
-[Friday 05-September, 2025](https://getbible.life/kjv/2 Corinthians/5/9)
+[Saturday 06-September, 2025](https://getbible.life/kjv/2 Corinthians/4/10)

@@ -1,17 +1,17 @@
 {
   "book": "2 Corinthians",
-  "chapter": "5",
-  "date": "Friday 05-September, 2025",
-  "getbible": "https://getbible.life/kjv/2 Corinthians/5/9",
-  "name": "2 Corinthians 5:9",
+  "chapter": "4",
+  "date": "Saturday 06-September, 2025",
+  "getbible": "https://getbible.life/kjv/2 Corinthians/4/10",
+  "name": "2 Corinthians 4:10",
   "scripture": [
     {
-      "nr": "9",
-      "text": "Wherefore we labour, that, whether present or absent, we may be accepted of him."
+      "nr": "10",
+      "text": "Always bearing about in the body the dying of the Lord Jesus, that the life also of Jesus might be made manifest in our body."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "9",
+  "verse": "10",
   "version": "kjv"
 }
