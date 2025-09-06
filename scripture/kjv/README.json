@@ -1,13 +1,13 @@
 {
-  "book": "2 Corinthians",
-  "chapter": "4",
-  "date": "Saturday 06-September, 2025",
-  "getbible": "https://getbible.life/kjv/2 Corinthians/4/10",
-  "name": "2 Corinthians 4:10",
+  "book": "2 Thessalonians",
+  "chapter": "3",
+  "date": "Sunday 07-September, 2025",
+  "getbible": "https://getbible.life/kjv/2 Thessalonians/3/10",
+  "name": "2 Thessalonians 3:10",
   "scripture": [
     {
       "nr": "10",
-      "text": "Always bearing about in the body the dying of the Lord Jesus, that the life also of Jesus might be made manifest in our body."
+      "text": "For even when we were with you, this we commanded you, that if any would not work, neither should he eat."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",

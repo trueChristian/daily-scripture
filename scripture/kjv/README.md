@@ -1,5 +1,5 @@
-**2 Corinthians 4:10**
+**2 Thessalonians 3:10**
 
-10 Always bearing about in the body the dying of the Lord Jesus, that the life also of Jesus might be made manifest in our body.
+10 For even when we were with you, this we commanded you, that if any would not work, neither should he eat.
 
-[Saturday 06-September, 2025](https://getbible.life/kjv/2 Corinthians/4/10)
+[Sunday 07-September, 2025](https://getbible.life/kjv/2 Thessalonians/3/10)
