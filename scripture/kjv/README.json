@@ -1,17 +1,17 @@
 {
-  "book": "2 Thessalonians",
-  "chapter": "3",
-  "date": "Sunday 07-September, 2025",
-  "getbible": "https://getbible.life/kjv/2 Thessalonians/3/10",
-  "name": "2 Thessalonians 3:10",
+  "book": "Psalms",
+  "chapter": "37",
+  "date": "Monday 08-September, 2025",
+  "getbible": "https://getbible.life/kjv/Psalms/37/4",
+  "name": "Psalms 37:4",
   "scripture": [
     {
-      "nr": "10",
-      "text": "For even when we were with you, this we commanded you, that if any would not work, neither should he eat."
+      "nr": "4",
+      "text": "Delight thyself also in the Lord; and he shall give thee the desires of thine heart."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "10",
+  "verse": "4",
   "version": "kjv"
 }

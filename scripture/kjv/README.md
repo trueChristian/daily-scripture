@@ -1,5 +1,5 @@
-**2 Thessalonians 3:10**
+**Psalms 37:4**
 
-10 For even when we were with you, this we commanded you, that if any would not work, neither should he eat.
+4 Delight thyself also in the Lord; and he shall give thee the desires of thine heart.
 
-[Sunday 07-September, 2025](https://getbible.life/kjv/2 Thessalonians/3/10)
+[Monday 08-September, 2025](https://getbible.life/kjv/Psalms/37/4)
