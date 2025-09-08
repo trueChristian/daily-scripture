@@ -1,5 +1,5 @@
-**Psalms 37:4**
+**Nehemiah 4:17**
 
-4 Delight thyself also in the Lord; and he shall give thee the desires of thine heart.
+17 They which builded on the wall, and they that bare burdens, with those that laded, every one with one of his hands wrought in the work, and with the other hand held a weapon.
 
-[Monday 08-September, 2025](https://getbible.life/kjv/Psalms/37/4)
+[Tuesday 09-September, 2025](https://getbible.life/kjv/Nehemiah/4/17)
