@@ -1,5 +1,5 @@
-**Nehemiah 4:17**
+**Psalms 32:1**
 
-17 They which builded on the wall, and they that bare burdens, with those that laded, every one with one of his hands wrought in the work, and with the other hand held a weapon.
+1 Blessed is he whose transgression is forgiven, whose sin is covered.
 
-[Tuesday 09-September, 2025](https://getbible.life/kjv/Nehemiah/4/17)
+[Wednesday 10-September, 2025](https://getbible.life/kjv/Psalms/32/1)

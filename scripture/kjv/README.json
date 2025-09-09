@@ -1,17 +1,17 @@
 {
-  "book": "Nehemiah",
-  "chapter": "4",
-  "date": "Tuesday 09-September, 2025",
-  "getbible": "https://getbible.life/kjv/Nehemiah/4/17",
-  "name": "Nehemiah 4:17",
+  "book": "Psalms",
+  "chapter": "32",
+  "date": "Wednesday 10-September, 2025",
+  "getbible": "https://getbible.life/kjv/Psalms/32/1",
+  "name": "Psalms 32:1",
   "scripture": [
     {
-      "nr": "17",
-      "text": "They which builded on the wall, and they that bare burdens, with those that laded, every one with one of his hands wrought in the work, and with the other hand held a weapon."
+      "nr": "1",
+      "text": "Blessed is he whose transgression is forgiven, whose sin is covered."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "17",
+  "verse": "1",
   "version": "kjv"
 }
