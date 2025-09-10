@@ -1,17 +1,17 @@
 {
-  "book": "Psalms",
-  "chapter": "32",
-  "date": "Wednesday 10-September, 2025",
-  "getbible": "https://getbible.life/kjv/Psalms/32/1",
-  "name": "Psalms 32:1",
+  "book": "Luke",
+  "chapter": "16",
+  "date": "Thursday 11-September, 2025",
+  "getbible": "https://getbible.life/kjv/Luke/16/16",
+  "name": "Luke 16:16",
   "scripture": [
     {
-      "nr": "1",
-      "text": "Blessed is he whose transgression is forgiven, whose sin is covered."
+      "nr": "16",
+      "text": "The law and the prophets were until John: since that time the kingdom of God is preached, and every man presseth into it."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "1",
+  "verse": "16",
   "version": "kjv"
 }

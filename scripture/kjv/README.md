@@ -1,5 +1,5 @@
-**Psalms 32:1**
+**Luke 16:16**
 
-1 Blessed is he whose transgression is forgiven, whose sin is covered.
+16 The law and the prophets were until John: since that time the kingdom of God is preached, and every man presseth into it.
 
-[Wednesday 10-September, 2025](https://getbible.life/kjv/Psalms/32/1)
+[Thursday 11-September, 2025](https://getbible.life/kjv/Luke/16/16)
