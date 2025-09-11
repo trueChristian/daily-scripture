@@ -1,5 +1,5 @@
-**Luke 16:16**
+**Acts 2:28**
 
-16 The law and the prophets were until John: since that time the kingdom of God is preached, and every man presseth into it.
+28 Thou hast made known to me the ways of life; thou shalt make me full of joy with thy countenance.
 
-[Thursday 11-September, 2025](https://getbible.life/kjv/Luke/16/16)
+[Friday 12-September, 2025](https://getbible.life/kjv/Acts/2/28)

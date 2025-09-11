@@ -1,17 +1,17 @@
 {
-  "book": "Luke",
-  "chapter": "16",
-  "date": "Thursday 11-September, 2025",
-  "getbible": "https://getbible.life/kjv/Luke/16/16",
-  "name": "Luke 16:16",
+  "book": "Acts",
+  "chapter": "2",
+  "date": "Friday 12-September, 2025",
+  "getbible": "https://getbible.life/kjv/Acts/2/28",
+  "name": "Acts 2:28",
   "scripture": [
     {
-      "nr": "16",
-      "text": "The law and the prophets were until John: since that time the kingdom of God is preached, and every man presseth into it."
+      "nr": "28",
+      "text": "Thou hast made known to me the ways of life; thou shalt make me full of joy with thy countenance."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "16",
+  "verse": "28",
   "version": "kjv"
 }
