@@ -1,17 +1,21 @@
 {
-  "book": "Acts",
-  "chapter": "2",
-  "date": "Friday 12-September, 2025",
-  "getbible": "https://getbible.life/kjv/Acts/2/28",
-  "name": "Acts 2:28",
+  "book": "Judges",
+  "chapter": "15",
+  "date": "Saturday 13-September, 2025",
+  "getbible": "https://getbible.life/kjv/Judges/15/18-19",
+  "name": "Judges 15:18-19",
   "scripture": [
     {
-      "nr": "28",
-      "text": "Thou hast made known to me the ways of life; thou shalt make me full of joy with thy countenance."
+      "nr": "18",
+      "text": "And he was sore athirst, and called on the Lord, and said, Thou hast given this great deliverance into the hand of thy servant: and now shall I die for thirst, and fall into the hand of the uncircumcised?"
+    },
+    {
+      "nr": "19",
+      "text": "But God clave an hollow place that was in the jaw, and there came water thereout; and when he had drunk, his spirit came again, and he revived: wherefore he called the name thereof En–hakkore, which is in Lehi unto this day."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "28",
+  "verse": "18-19",
   "version": "kjv"
 }
