@@ -1,21 +1,17 @@
 {
-  "book": "Judges",
-  "chapter": "15",
-  "date": "Saturday 13-September, 2025",
-  "getbible": "https://getbible.life/kjv/Judges/15/18-19",
-  "name": "Judges 15:18-19",
+  "book": "1 Timothy",
+  "chapter": "4",
+  "date": "Sunday 14-September, 2025",
+  "getbible": "https://getbible.life/kjv/1 Timothy/4/16",
+  "name": "1 Timothy 4:16",
   "scripture": [
     {
-      "nr": "18",
-      "text": "And he was sore athirst, and called on the Lord, and said, Thou hast given this great deliverance into the hand of thy servant: and now shall I die for thirst, and fall into the hand of the uncircumcised?"
-    },
-    {
-      "nr": "19",
-      "text": "But God clave an hollow place that was in the jaw, and there came water thereout; and when he had drunk, his spirit came again, and he revived: wherefore he called the name thereof En–hakkore, which is in Lehi unto this day."
+      "nr": "16",
+      "text": "Take heed unto thyself, and unto the doctrine; continue in them: for in doing this thou shalt both save thyself, and them that hear thee. "
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "18-19",
+  "verse": "16",
   "version": "kjv"
 }
