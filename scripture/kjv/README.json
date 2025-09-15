@@ -1,17 +1,17 @@
 {
-  "book": "Psalms",
-  "chapter": "34",
-  "date": "Monday 15-September, 2025",
-  "getbible": "https://getbible.life/kjv/Psalms/34/4",
-  "name": "Psalms 34:4",
+  "book": "Romans",
+  "chapter": "8",
+  "date": "Tuesday 16-September, 2025",
+  "getbible": "https://getbible.life/kjv/Romans/8/28",
+  "name": "Romans 8:28",
   "scripture": [
     {
-      "nr": "4",
-      "text": "I sought the Lord, and he heard me, and delivered me from all my fears."
+      "nr": "28",
+      "text": "And we know that all things work together for good to them that love God, to them who are the called according to his purpose."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "4",
+  "verse": "28",
   "version": "kjv"
 }
