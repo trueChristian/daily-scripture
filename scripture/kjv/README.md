@@ -1,5 +1,5 @@
-**Romans 8:28**
+**Ephesians 2:1**
 
-28 And we know that all things work together for good to them that love God, to them who are the called according to his purpose.
+1 And you hath he quickened, who were dead in trespasses and sins;
 
-[Tuesday 16-September, 2025](https://getbible.life/kjv/Romans/8/28)
+[Wednesday 17-September, 2025](https://getbible.life/kjv/Ephesians/2/1)
