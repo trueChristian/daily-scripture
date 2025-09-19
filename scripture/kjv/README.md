@@ -1,5 +1,5 @@
-**John 11:26**
+**Isaiah 62:1**
 
-26 And whosoever liveth and believeth in me shall never die. Believest thou this?
+1 For Zion’s sake will I not hold my peace, and for Jerusalem’s sake I will not rest, until the righteousness thereof go forth as brightness, and the salvation thereof as a lamp that burneth.
 
-[Friday 19-September, 2025](https://getbible.life/kjv/John/11/26)
+[Saturday 20-September, 2025](https://getbible.life/kjv/Isaiah/62/1)

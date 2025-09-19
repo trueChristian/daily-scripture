@@ -1,17 +1,17 @@
 {
-  "book": "John",
-  "chapter": "11",
-  "date": "Friday 19-September, 2025",
-  "getbible": "https://getbible.life/kjv/John/11/26",
-  "name": "John 11:26",
+  "book": "Isaiah",
+  "chapter": "62",
+  "date": "Saturday 20-September, 2025",
+  "getbible": "https://getbible.life/kjv/Isaiah/62/1",
+  "name": "Isaiah 62:1",
   "scripture": [
     {
-      "nr": "26",
-      "text": "And whosoever liveth and believeth in me shall never die. Believest thou this?"
+      "nr": "1",
+      "text": "For Zion’s sake will I not hold my peace, and for Jerusalem’s sake I will not rest, until the righteousness thereof go forth as brightness, and the salvation thereof as a lamp that burneth."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "26",
+  "verse": "1",
   "version": "kjv"
 }
