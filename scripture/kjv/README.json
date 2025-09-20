@@ -1,17 +1,17 @@
 {
-  "book": "Isaiah",
-  "chapter": "62",
-  "date": "Saturday 20-September, 2025",
-  "getbible": "https://getbible.life/kjv/Isaiah/62/1",
-  "name": "Isaiah 62:1",
+  "book": "Proverbs",
+  "chapter": "14",
+  "date": "Sunday 21-September, 2025",
+  "getbible": "https://getbible.life/kjv/Proverbs/14/29",
+  "name": "Proverbs 14:29",
   "scripture": [
     {
-      "nr": "1",
-      "text": "For Zion’s sake will I not hold my peace, and for Jerusalem’s sake I will not rest, until the righteousness thereof go forth as brightness, and the salvation thereof as a lamp that burneth."
+      "nr": "29",
+      "text": "He that is slow to wrath is of great understanding: but he that is hasty of spirit exalteth folly."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "1",
+  "verse": "29",
   "version": "kjv"
 }
