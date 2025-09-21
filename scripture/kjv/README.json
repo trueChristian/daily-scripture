@@ -1,17 +1,17 @@
 {
-  "book": "Proverbs",
-  "chapter": "14",
-  "date": "Sunday 21-September, 2025",
-  "getbible": "https://getbible.life/kjv/Proverbs/14/29",
-  "name": "Proverbs 14:29",
+  "book": "1 Corinthians",
+  "chapter": "1",
+  "date": "Monday 22-September, 2025",
+  "getbible": "https://getbible.life/kjv/1 Corinthians/1/28",
+  "name": "1 Corinthians 1:28",
   "scripture": [
     {
-      "nr": "29",
-      "text": "He that is slow to wrath is of great understanding: but he that is hasty of spirit exalteth folly."
+      "nr": "28",
+      "text": "And base things of the world, and things which are despised, hath God chosen, yea, and things which are not, to bring to nought things that are:"
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "29",
+  "verse": "28",
   "version": "kjv"
 }
