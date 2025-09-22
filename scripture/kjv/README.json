@@ -1,17 +1,17 @@
 {
   "book": "1 Corinthians",
-  "chapter": "1",
-  "date": "Monday 22-September, 2025",
-  "getbible": "https://getbible.life/kjv/1 Corinthians/1/28",
-  "name": "1 Corinthians 1:28",
+  "chapter": "9",
+  "date": "Tuesday 23-September, 2025",
+  "getbible": "https://getbible.life/kjv/1 Corinthians/9/11",
+  "name": "1 Corinthians 9:11",
   "scripture": [
     {
-      "nr": "28",
-      "text": "And base things of the world, and things which are despised, hath God chosen, yea, and things which are not, to bring to nought things that are:"
+      "nr": "11",
+      "text": "If we have sown unto you spiritual things, is it a great thing if we shall reap your carnal things?"
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "28",
+  "verse": "11",
   "version": "kjv"
 }
