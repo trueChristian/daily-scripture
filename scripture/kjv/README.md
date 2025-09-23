@@ -1,5 +1,5 @@
-**1 Corinthians 9:11**
+**Romans 14:23**
 
-11 If we have sown unto you spiritual things, is it a great thing if we shall reap your carnal things?
+23 And he that doubteth is damned if he eat, because he eateth not of faith: for whatsoever is not of faith is sin. 
 
-[Tuesday 23-September, 2025](https://getbible.life/kjv/1 Corinthians/9/11)
+[Wednesday 24-September, 2025](https://getbible.life/kjv/Romans/14/23)
