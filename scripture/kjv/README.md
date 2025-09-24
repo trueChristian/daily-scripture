@@ -1,5 +1,5 @@
-**Romans 14:23**
+**Romans 10:1**
 
-23 And he that doubteth is damned if he eat, because he eateth not of faith: for whatsoever is not of faith is sin. 
+1 Brethren, my heart’s desire and prayer to God for Israel is, that they might be saved.
 
-[Wednesday 24-September, 2025](https://getbible.life/kjv/Romans/14/23)
+[Thursday 25-September, 2025](https://getbible.life/kjv/Romans/10/1)

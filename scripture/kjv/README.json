@@ -1,17 +1,17 @@
 {
   "book": "Romans",
-  "chapter": "14",
-  "date": "Wednesday 24-September, 2025",
-  "getbible": "https://getbible.life/kjv/Romans/14/23",
-  "name": "Romans 14:23",
+  "chapter": "10",
+  "date": "Thursday 25-September, 2025",
+  "getbible": "https://getbible.life/kjv/Romans/10/1",
+  "name": "Romans 10:1",
   "scripture": [
     {
-      "nr": "23",
-      "text": "And he that doubteth is damned if he eat, because he eateth not of faith: for whatsoever is not of faith is sin. "
+      "nr": "1",
+      "text": "Brethren, my heart’s desire and prayer to God for Israel is, that they might be saved."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "23",
+  "verse": "1",
   "version": "kjv"
 }
