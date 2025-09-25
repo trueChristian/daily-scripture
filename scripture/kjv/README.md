@@ -1,5 +1,5 @@
-**Romans 10:1**
+**John 15:11**
 
-1 Brethren, my heart’s desire and prayer to God for Israel is, that they might be saved.
+11 These things have I spoken unto you, that my joy might remain in you, and that your joy might be full.
 
-[Thursday 25-September, 2025](https://getbible.life/kjv/Romans/10/1)
+[Friday 26-September, 2025](https://getbible.life/kjv/John/15/11)
