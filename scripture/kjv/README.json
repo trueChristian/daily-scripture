@@ -1,21 +1,17 @@
 {
   "book": "Psalms",
-  "chapter": "40",
-  "date": "Saturday 27-September, 2025",
-  "getbible": "https://getbible.life/kjv/Psalms/40/9-10",
-  "name": "Psalms 40:9-10",
+  "chapter": "31",
+  "date": "Sunday 28-September, 2025",
+  "getbible": "https://getbible.life/kjv/Psalms/31/15",
+  "name": "Psalms 31:15",
   "scripture": [
     {
-      "nr": "9",
-      "text": "I have preached righteousness in the great congregation: lo, I have not refrained my lips, O Lord, thou knowest."
-    },
-    {
-      "nr": "10",
-      "text": "I have not hid thy righteousness within my heart; I have declared thy faithfulness and thy salvation: I have not concealed thy lovingkindness and thy truth from the great congregation."
+      "nr": "15",
+      "text": "My times are in thy hand: deliver me from the hand of mine enemies, and from them that persecute me."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "9-10",
+  "verse": "15",
   "version": "kjv"
 }

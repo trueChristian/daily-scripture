@@ -1,5 +1,5 @@
-**Psalms 40:9-10**
+**Psalms 31:15**
 
-9 I have preached righteousness in the great congregation: lo, I have not refrained my lips, O Lord, thou knowest. 10 I have not hid thy righteousness within my heart; I have declared thy faithfulness and thy salvation: I have not concealed thy lovingkindness and thy truth from the great congregation.
+15 My times are in thy hand: deliver me from the hand of mine enemies, and from them that persecute me.
 
-[Saturday 27-September, 2025](https://getbible.life/kjv/Psalms/40/9-10)
+[Sunday 28-September, 2025](https://getbible.life/kjv/Psalms/31/15)
