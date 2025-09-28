@@ -1,5 +1,5 @@
-**Psalms 31:15**
+**Proverbs 27:22**
 
-15 My times are in thy hand: deliver me from the hand of mine enemies, and from them that persecute me.
+22 Though thou shouldest bray a fool in a mortar among wheat with a pestle, yet will not his foolishness depart from him.
 
-[Sunday 28-September, 2025](https://getbible.life/kjv/Psalms/31/15)
+[Monday 29-September, 2025](https://getbible.life/kjv/Proverbs/27/22)
