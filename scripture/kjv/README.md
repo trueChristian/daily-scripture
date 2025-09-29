@@ -1,5 +1,5 @@
-**Proverbs 27:22**
+**Psalms 119:11**
 
-22 Though thou shouldest bray a fool in a mortar among wheat with a pestle, yet will not his foolishness depart from him.
+11 Thy word have I hid in mine heart, that I might not sin against thee.
 
-[Monday 29-September, 2025](https://getbible.life/kjv/Proverbs/27/22)
+[Tuesday 30-September, 2025](https://getbible.life/kjv/Psalms/119/11)

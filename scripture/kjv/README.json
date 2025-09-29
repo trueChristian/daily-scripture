@@ -1,17 +1,17 @@
 {
-  "book": "Proverbs",
-  "chapter": "27",
-  "date": "Monday 29-September, 2025",
-  "getbible": "https://getbible.life/kjv/Proverbs/27/22",
-  "name": "Proverbs 27:22",
+  "book": "Psalms",
+  "chapter": "119",
+  "date": "Tuesday 30-September, 2025",
+  "getbible": "https://getbible.life/kjv/Psalms/119/11",
+  "name": "Psalms 119:11",
   "scripture": [
     {
-      "nr": "22",
-      "text": "Though thou shouldest bray a fool in a mortar among wheat with a pestle, yet will not his foolishness depart from him."
+      "nr": "11",
+      "text": "Thy word have I hid in mine heart, that I might not sin against thee."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "22",
+  "verse": "11",
   "version": "kjv"
 }
