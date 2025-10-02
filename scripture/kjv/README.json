@@ -1,17 +1,17 @@
 {
-  "book": "Luke",
-  "chapter": "8",
-  "date": "Thursday 02-October, 2025",
-  "getbible": "https://getbible.life/kjv/Luke/8/11",
-  "name": "Luke 8:11",
+  "book": "Obadiah",
+  "chapter": "1",
+  "date": "Friday 03-October, 2025",
+  "getbible": "https://getbible.life/kjv/Obadiah/1/18",
+  "name": "Obadiah 1:18",
   "scripture": [
     {
-      "nr": "11",
-      "text": "Now the parable is this: The seed is the word of God."
+      "nr": "18",
+      "text": "And the house of Jacob shall be a fire, and the house of Joseph a flame, and the house of Esau for stubble, and they shall kindle in them, and devour them; and there shall not be any remaining of the house of Esau; for the Lord hath spoken it."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "11",
+  "verse": "18",
   "version": "kjv"
 }

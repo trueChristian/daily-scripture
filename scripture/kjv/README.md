@@ -1,5 +1,5 @@
-**Luke 8:11**
+**Obadiah 1:18**
 
-11 Now the parable is this: The seed is the word of God.
+18 And the house of Jacob shall be a fire, and the house of Joseph a flame, and the house of Esau for stubble, and they shall kindle in them, and devour them; and there shall not be any remaining of the house of Esau; for the Lord hath spoken it.
 
-[Thursday 02-October, 2025](https://getbible.life/kjv/Luke/8/11)
+[Friday 03-October, 2025](https://getbible.life/kjv/Obadiah/1/18)
