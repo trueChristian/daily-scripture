@@ -1,5 +1,5 @@
-**Psalms 78:22-32**
+**Philippians 3:13-14**
 
-22 Because they believed not in God, and trusted not in his salvation: 23 Though he had commanded the clouds from above, and opened the doors of heaven, 24 And had rained down manna upon them to eat, and had given them of the corn of heaven. 25 Man did eat angels’ food: he sent them meat to the full. 26 He caused an east wind to blow in the heaven: and by his power he brought in the south wind. 27 He rained flesh also upon them as dust, and feathered fowls like as the sand of the sea: 28 And he let it fall in the midst of their camp, round about their habitations. 29 So they did eat, and were well filled: for he gave them their own desire; 30 They were not estranged from their lust. But while their meat was yet in their mouths, 31 The wrath of God came upon them, and slew the fattest of them, and smote down the chosen men of Israel. 32 For all this they sinned still, and believed not for his wondrous works.
+13 Brethren, I count not myself to have apprehended: but this one thing I do, forgetting those things which are behind, and reaching forth unto those things which are before, 14 I press toward the mark for the prize of the high calling of God in Christ Jesus.
 
-[Saturday 04-October, 2025](https://getbible.life/kjv/Psalms/78/22-32)
+[Sunday 05-October, 2025](https://getbible.life/kjv/Philippians/3/13-14)
