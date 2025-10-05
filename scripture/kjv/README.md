@@ -1,5 +1,5 @@
-**Philippians 3:13-14**
+**1 Peter 5:10**
 
-13 Brethren, I count not myself to have apprehended: but this one thing I do, forgetting those things which are behind, and reaching forth unto those things which are before, 14 I press toward the mark for the prize of the high calling of God in Christ Jesus.
+10 But the God of all grace, who hath called us unto his eternal glory by Christ Jesus, after that ye have suffered a while, make you perfect, stablish, strengthen, settle you.
 
-[Sunday 05-October, 2025](https://getbible.life/kjv/Philippians/3/13-14)
+[Monday 06-October, 2025](https://getbible.life/kjv/1 Peter/5/10)
