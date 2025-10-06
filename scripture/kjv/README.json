@@ -1,17 +1,17 @@
 {
-  "book": "1 Peter",
-  "chapter": "5",
-  "date": "Monday 06-October, 2025",
-  "getbible": "https://getbible.life/kjv/1 Peter/5/10",
-  "name": "1 Peter 5:10",
+  "book": "Psalms",
+  "chapter": "42",
+  "date": "Tuesday 07-October, 2025",
+  "getbible": "https://getbible.life/kjv/Psalms/42/5",
+  "name": "Psalms 42:5",
   "scripture": [
     {
-      "nr": "10",
-      "text": "But the God of all grace, who hath called us unto his eternal glory by Christ Jesus, after that ye have suffered a while, make you perfect, stablish, strengthen, settle you."
+      "nr": "5",
+      "text": "Why art thou cast down, O my soul? and why art thou disquieted in me? hope thou in God: for I shall yet praise him for the help of his countenance."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "10",
+  "verse": "5",
   "version": "kjv"
 }

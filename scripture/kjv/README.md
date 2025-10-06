@@ -1,5 +1,5 @@
-**1 Peter 5:10**
+**Psalms 42:5**
 
-10 But the God of all grace, who hath called us unto his eternal glory by Christ Jesus, after that ye have suffered a while, make you perfect, stablish, strengthen, settle you.
+5 Why art thou cast down, O my soul? and why art thou disquieted in me? hope thou in God: for I shall yet praise him for the help of his countenance.
 
-[Monday 06-October, 2025](https://getbible.life/kjv/1 Peter/5/10)
+[Tuesday 07-October, 2025](https://getbible.life/kjv/Psalms/42/5)
