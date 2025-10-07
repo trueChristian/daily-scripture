@@ -1,5 +1,5 @@
-**Psalms 42:5**
+**Revelation 1:18**
 
-5 Why art thou cast down, O my soul? and why art thou disquieted in me? hope thou in God: for I shall yet praise him for the help of his countenance.
+18 I am he that liveth, and was dead; and, behold, I am alive for evermore, Amen; and have the keys of hell and of death.
 
-[Tuesday 07-October, 2025](https://getbible.life/kjv/Psalms/42/5)
+[Wednesday 08-October, 2025](https://getbible.life/kjv/Revelation/1/18)
