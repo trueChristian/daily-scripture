@@ -1,17 +1,17 @@
 {
-  "book": "Revelation",
-  "chapter": "1",
-  "date": "Wednesday 08-October, 2025",
-  "getbible": "https://getbible.life/kjv/Revelation/1/18",
-  "name": "Revelation 1:18",
+  "book": "Psalms",
+  "chapter": "115",
+  "date": "Thursday 09-October, 2025",
+  "getbible": "https://getbible.life/kjv/Psalms/115/1",
+  "name": "Psalms 115:1",
   "scripture": [
     {
-      "nr": "18",
-      "text": "I am he that liveth, and was dead; and, behold, I am alive for evermore, Amen; and have the keys of hell and of death."
+      "nr": "1",
+      "text": "Not unto us, O Lord, not unto us, but unto thy name give glory, for thy mercy, and for thy truth’s sake."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "18",
+  "verse": "1",
   "version": "kjv"
 }

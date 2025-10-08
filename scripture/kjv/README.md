@@ -1,5 +1,5 @@
-**Revelation 1:18**
+**Psalms 115:1**
 
-18 I am he that liveth, and was dead; and, behold, I am alive for evermore, Amen; and have the keys of hell and of death.
+1 Not unto us, O Lord, not unto us, but unto thy name give glory, for thy mercy, and for thy truth’s sake.
 
-[Wednesday 08-October, 2025](https://getbible.life/kjv/Revelation/1/18)
+[Thursday 09-October, 2025](https://getbible.life/kjv/Psalms/115/1)
