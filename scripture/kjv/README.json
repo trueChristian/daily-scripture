@@ -1,17 +1,21 @@
 {
-  "book": "Psalms",
-  "chapter": "115",
-  "date": "Thursday 09-October, 2025",
-  "getbible": "https://getbible.life/kjv/Psalms/115/1",
-  "name": "Psalms 115:1",
+  "book": "Ezekiel",
+  "chapter": "43",
+  "date": "Friday 10-October, 2025",
+  "getbible": "https://getbible.life/kjv/Ezekiel/43/10-11",
+  "name": "Ezekiel 43:10-11",
   "scripture": [
     {
-      "nr": "1",
-      "text": "Not unto us, O Lord, not unto us, but unto thy name give glory, for thy mercy, and for thy truth’s sake."
+      "nr": "10",
+      "text": "Thou son of man, shew the house to the house of Israel, that they may be ashamed of their iniquities: and let them measure the pattern."
+    },
+    {
+      "nr": "11",
+      "text": "And if they be ashamed of all that they have done, shew them the form of the house, and the fashion thereof, and the goings out thereof, and the comings in thereof, and all the forms thereof, and all the ordinances thereof, and all the forms thereof, and all the laws thereof: and write it in their sight, that they may keep the whole form thereof, and all the ordinances thereof, and do them."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "1",
+  "verse": "10-11",
   "version": "kjv"
 }
