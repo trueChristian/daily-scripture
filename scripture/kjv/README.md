@@ -1,5 +1,5 @@
-**Ezekiel 43:10-11**
+**Luke 19:41-42**
 
-10 Thou son of man, shew the house to the house of Israel, that they may be ashamed of their iniquities: and let them measure the pattern. 11 And if they be ashamed of all that they have done, shew them the form of the house, and the fashion thereof, and the goings out thereof, and the comings in thereof, and all the forms thereof, and all the ordinances thereof, and all the forms thereof, and all the laws thereof: and write it in their sight, that they may keep the whole form thereof, and all the ordinances thereof, and do them.
+41 And when he was come near, he beheld the city, and wept over it, 42 Saying, If thou hadst known, even thou, at least in this thy day, the things which belong unto thy peace! but now they are hid from thine eyes.
 
-[Friday 10-October, 2025](https://getbible.life/kjv/Ezekiel/43/10-11)
+[Saturday 11-October, 2025](https://getbible.life/kjv/Luke/19/41-42)
