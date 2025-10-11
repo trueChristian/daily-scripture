@@ -1,5 +1,5 @@
-**Luke 19:41-42**
+**Galatians 6:15-16**
 
-41 And when he was come near, he beheld the city, and wept over it, 42 Saying, If thou hadst known, even thou, at least in this thy day, the things which belong unto thy peace! but now they are hid from thine eyes.
+15 For in Christ Jesus neither circumcision availeth any thing, nor uncircumcision, but a new creature. 16 And as many as walk according to this rule, peace be on them, and mercy, and upon the Israel of God.
 
-[Saturday 11-October, 2025](https://getbible.life/kjv/Luke/19/41-42)
+[Sunday 12-October, 2025](https://getbible.life/kjv/Galatians/6/15-16)

@@ -1,21 +1,21 @@
 {
-  "book": "Luke",
-  "chapter": "19",
-  "date": "Saturday 11-October, 2025",
-  "getbible": "https://getbible.life/kjv/Luke/19/41-42",
-  "name": "Luke 19:41-42",
+  "book": "Galatians",
+  "chapter": "6",
+  "date": "Sunday 12-October, 2025",
+  "getbible": "https://getbible.life/kjv/Galatians/6/15-16",
+  "name": "Galatians 6:15-16",
   "scripture": [
     {
-      "nr": "41",
-      "text": "And when he was come near, he beheld the city, and wept over it,"
+      "nr": "15",
+      "text": "For in Christ Jesus neither circumcision availeth any thing, nor uncircumcision, but a new creature."
     },
     {
-      "nr": "42",
-      "text": "Saying, If thou hadst known, even thou, at least in this thy day, the things which belong unto thy peace! but now they are hid from thine eyes."
+      "nr": "16",
+      "text": "And as many as walk according to this rule, peace be on them, and mercy, and upon the Israel of God."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "41-42",
+  "verse": "15-16",
   "version": "kjv"
 }
