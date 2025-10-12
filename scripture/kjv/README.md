@@ -1,5 +1,5 @@
-**Galatians 6:15-16**
+**John 11:52**
 
-15 For in Christ Jesus neither circumcision availeth any thing, nor uncircumcision, but a new creature. 16 And as many as walk according to this rule, peace be on them, and mercy, and upon the Israel of God.
+52 And not for that nation only, but that also he should gather together in one the children of God that were scattered abroad.
 
-[Sunday 12-October, 2025](https://getbible.life/kjv/Galatians/6/15-16)
+[Monday 13-October, 2025](https://getbible.life/kjv/John/11/52)

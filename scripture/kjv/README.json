@@ -1,21 +1,17 @@
 {
-  "book": "Galatians",
-  "chapter": "6",
-  "date": "Sunday 12-October, 2025",
-  "getbible": "https://getbible.life/kjv/Galatians/6/15-16",
-  "name": "Galatians 6:15-16",
+  "book": "John",
+  "chapter": "11",
+  "date": "Monday 13-October, 2025",
+  "getbible": "https://getbible.life/kjv/John/11/52",
+  "name": "John 11:52",
   "scripture": [
     {
-      "nr": "15",
-      "text": "For in Christ Jesus neither circumcision availeth any thing, nor uncircumcision, but a new creature."
-    },
-    {
-      "nr": "16",
-      "text": "And as many as walk according to this rule, peace be on them, and mercy, and upon the Israel of God."
+      "nr": "52",
+      "text": "And not for that nation only, but that also he should gather together in one the children of God that were scattered abroad."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "15-16",
+  "verse": "52",
   "version": "kjv"
 }
