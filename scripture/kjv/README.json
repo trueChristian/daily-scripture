@@ -1,17 +1,17 @@
 {
-  "book": "John",
-  "chapter": "11",
-  "date": "Monday 13-October, 2025",
-  "getbible": "https://getbible.life/kjv/John/11/52",
-  "name": "John 11:52",
+  "book": "Revelation",
+  "chapter": "5",
+  "date": "Tuesday 14-October, 2025",
+  "getbible": "https://getbible.life/kjv/Revelation/5/5",
+  "name": "Revelation 5:5",
   "scripture": [
     {
-      "nr": "52",
-      "text": "And not for that nation only, but that also he should gather together in one the children of God that were scattered abroad."
+      "nr": "5",
+      "text": "And one of the elders saith unto me, Weep not: behold, the Lion of the tribe of Juda, the Root of David, hath prevailed to open the book, and to loose the seven seals thereof."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "52",
+  "verse": "5",
   "version": "kjv"
 }

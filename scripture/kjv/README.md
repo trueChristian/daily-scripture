@@ -1,5 +1,5 @@
-**John 11:52**
+**Revelation 5:5**
 
-52 And not for that nation only, but that also he should gather together in one the children of God that were scattered abroad.
+5 And one of the elders saith unto me, Weep not: behold, the Lion of the tribe of Juda, the Root of David, hath prevailed to open the book, and to loose the seven seals thereof.
 
-[Monday 13-October, 2025](https://getbible.life/kjv/John/11/52)
+[Tuesday 14-October, 2025](https://getbible.life/kjv/Revelation/5/5)
