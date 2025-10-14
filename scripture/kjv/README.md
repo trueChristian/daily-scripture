@@ -1,5 +1,5 @@
-**Revelation 5:5**
+**Romans 8:36-37**
 
-5 And one of the elders saith unto me, Weep not: behold, the Lion of the tribe of Juda, the Root of David, hath prevailed to open the book, and to loose the seven seals thereof.
+36 As it is written, For thy sake we are killed all the day long; we are accounted as sheep for the slaughter. 37 Nay, in all these things we are more than conquerors through him that loved us.
 
-[Tuesday 14-October, 2025](https://getbible.life/kjv/Revelation/5/5)
+[Wednesday 15-October, 2025](https://getbible.life/kjv/Romans/8/36-37)
