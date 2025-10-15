@@ -1,5 +1,5 @@
-**Romans 8:36-37**
+**Ezekiel 21:16-17**
 
-36 As it is written, For thy sake we are killed all the day long; we are accounted as sheep for the slaughter. 37 Nay, in all these things we are more than conquerors through him that loved us.
+16 Go thee one way or other, either on the right hand, or on the left, whithersoever thy face is set. 17 I will also smite mine hands together, and I will cause my fury to rest: I the Lord have said it.
 
-[Wednesday 15-October, 2025](https://getbible.life/kjv/Romans/8/36-37)
+[Thursday 16-October, 2025](https://getbible.life/kjv/Ezekiel/21/16-17)
