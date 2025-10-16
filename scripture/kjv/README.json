@@ -1,21 +1,17 @@
 {
-  "book": "Ezekiel",
-  "chapter": "21",
-  "date": "Thursday 16-October, 2025",
-  "getbible": "https://getbible.life/kjv/Ezekiel/21/16-17",
-  "name": "Ezekiel 21:16-17",
+  "book": "Hebrews",
+  "chapter": "12",
+  "date": "Friday 17-October, 2025",
+  "getbible": "https://getbible.life/kjv/Hebrews/12/1",
+  "name": "Hebrews 12:1",
   "scripture": [
     {
-      "nr": "16",
-      "text": "Go thee one way or other, either on the right hand, or on the left, whithersoever thy face is set."
-    },
-    {
-      "nr": "17",
-      "text": "I will also smite mine hands together, and I will cause my fury to rest: I the Lord have said it."
+      "nr": "1",
+      "text": "Wherefore seeing we also are compassed about with so great a cloud of witnesses, let us lay aside every weight, and the sin which doth so easily beset us, and let us run with patience the race that is set before us,"
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "16-17",
+  "verse": "1",
   "version": "kjv"
 }
