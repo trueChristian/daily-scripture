@@ -1,17 +1,17 @@
 {
-  "book": "Hebrews",
-  "chapter": "12",
-  "date": "Friday 17-October, 2025",
-  "getbible": "https://getbible.life/kjv/Hebrews/12/1",
-  "name": "Hebrews 12:1",
+  "book": "Psalms",
+  "chapter": "145",
+  "date": "Saturday 18-October, 2025",
+  "getbible": "https://getbible.life/kjv/Psalms/145/18",
+  "name": "Psalms 145:18",
   "scripture": [
     {
-      "nr": "1",
-      "text": "Wherefore seeing we also are compassed about with so great a cloud of witnesses, let us lay aside every weight, and the sin which doth so easily beset us, and let us run with patience the race that is set before us,"
+      "nr": "18",
+      "text": "The Lord is nigh unto all them that call upon him, to all that call upon him in truth."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "1",
+  "verse": "18",
   "version": "kjv"
 }
