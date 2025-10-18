@@ -1,5 +1,5 @@
-**Psalms 145:18**
+**Philippians 2:5-8**
 
-18 The Lord is nigh unto all them that call upon him, to all that call upon him in truth.
+5 Let this mind be in you, which was also in Christ Jesus: 6 Who, being in the form of God, thought it not robbery to be equal with God: 7 But made himself of no reputation, and took upon him the form of a servant, and was made in the likeness of men: 8 And being found in fashion as a man, he humbled himself, and became obedient unto death, even the death of the cross.
 
-[Saturday 18-October, 2025](https://getbible.life/kjv/Psalms/145/18)
+[Sunday 19-October, 2025](https://getbible.life/kjv/Philippians/2/5-8)

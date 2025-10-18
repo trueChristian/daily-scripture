@@ -1,17 +1,29 @@
 {
-  "book": "Psalms",
-  "chapter": "145",
-  "date": "Saturday 18-October, 2025",
-  "getbible": "https://getbible.life/kjv/Psalms/145/18",
-  "name": "Psalms 145:18",
+  "book": "Philippians",
+  "chapter": "2",
+  "date": "Sunday 19-October, 2025",
+  "getbible": "https://getbible.life/kjv/Philippians/2/5-8",
+  "name": "Philippians 2:5-8",
   "scripture": [
     {
-      "nr": "18",
-      "text": "The Lord is nigh unto all them that call upon him, to all that call upon him in truth."
+      "nr": "5",
+      "text": "Let this mind be in you, which was also in Christ Jesus:"
+    },
+    {
+      "nr": "6",
+      "text": "Who, being in the form of God, thought it not robbery to be equal with God:"
+    },
+    {
+      "nr": "7",
+      "text": "But made himself of no reputation, and took upon him the form of a servant, and was made in the likeness of men:"
+    },
+    {
+      "nr": "8",
+      "text": "And being found in fashion as a man, he humbled himself, and became obedient unto death, even the death of the cross."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "18",
+  "verse": "5-8",
   "version": "kjv"
 }
