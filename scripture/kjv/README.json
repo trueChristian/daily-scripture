@@ -1,29 +1,25 @@
 {
-  "book": "Philippians",
-  "chapter": "2",
-  "date": "Sunday 19-October, 2025",
-  "getbible": "https://getbible.life/kjv/Philippians/2/5-8",
-  "name": "Philippians 2:5-8",
+  "book": "1 Timothy",
+  "chapter": "6",
+  "date": "Monday 20-October, 2025",
+  "getbible": "https://getbible.life/kjv/1 Timothy/6/17-19",
+  "name": "1 Timothy 6:17-19",
   "scripture": [
     {
-      "nr": "5",
-      "text": "Let this mind be in you, which was also in Christ Jesus:"
+      "nr": "17",
+      "text": "Charge them that are rich in this world, that they be not highminded, nor trust in uncertain riches, but in the living God, who giveth us richly all things to enjoy;"
     },
     {
-      "nr": "6",
-      "text": "Who, being in the form of God, thought it not robbery to be equal with God:"
+      "nr": "18",
+      "text": "That they do good, that they be rich in good works, ready to distribute, willing to communicate;"
     },
     {
-      "nr": "7",
-      "text": "But made himself of no reputation, and took upon him the form of a servant, and was made in the likeness of men:"
-    },
-    {
-      "nr": "8",
-      "text": "And being found in fashion as a man, he humbled himself, and became obedient unto death, even the death of the cross."
+      "nr": "19",
+      "text": "Laying up in store for themselves a good foundation against the time to come, that they may lay hold on eternal life."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "5-8",
+  "verse": "17-19",
   "version": "kjv"
 }
