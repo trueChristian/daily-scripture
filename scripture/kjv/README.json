@@ -1,25 +1,17 @@
 {
-  "book": "1 Timothy",
-  "chapter": "6",
-  "date": "Monday 20-October, 2025",
-  "getbible": "https://getbible.life/kjv/1 Timothy/6/17-19",
-  "name": "1 Timothy 6:17-19",
+  "book": "1 John",
+  "chapter": "3",
+  "date": "Tuesday 21-October, 2025",
+  "getbible": "https://getbible.life/kjv/1 John/3/13",
+  "name": "1 John 3:13",
   "scripture": [
     {
-      "nr": "17",
-      "text": "Charge them that are rich in this world, that they be not highminded, nor trust in uncertain riches, but in the living God, who giveth us richly all things to enjoy;"
-    },
-    {
-      "nr": "18",
-      "text": "That they do good, that they be rich in good works, ready to distribute, willing to communicate;"
-    },
-    {
-      "nr": "19",
-      "text": "Laying up in store for themselves a good foundation against the time to come, that they may lay hold on eternal life."
+      "nr": "13",
+      "text": "Marvel not, my brethren, if the world hate you."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "17-19",
+  "verse": "13",
   "version": "kjv"
 }

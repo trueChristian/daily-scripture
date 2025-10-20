@@ -1,5 +1,5 @@
-**1 Timothy 6:17-19**
+**1 John 3:13**
 
-17 Charge them that are rich in this world, that they be not highminded, nor trust in uncertain riches, but in the living God, who giveth us richly all things to enjoy; 18 That they do good, that they be rich in good works, ready to distribute, willing to communicate; 19 Laying up in store for themselves a good foundation against the time to come, that they may lay hold on eternal life.
+13 Marvel not, my brethren, if the world hate you.
 
-[Monday 20-October, 2025](https://getbible.life/kjv/1 Timothy/6/17-19)
+[Tuesday 21-October, 2025](https://getbible.life/kjv/1 John/3/13)
