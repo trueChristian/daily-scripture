@@ -1,17 +1,21 @@
 {
-  "book": "1 John",
-  "chapter": "3",
-  "date": "Tuesday 21-October, 2025",
-  "getbible": "https://getbible.life/kjv/1 John/3/13",
-  "name": "1 John 3:13",
+  "book": "Psalms",
+  "chapter": "16",
+  "date": "Wednesday 22-October, 2025",
+  "getbible": "https://getbible.life/kjv/Psalms/16/2-3",
+  "name": "Psalms 16:2-3",
   "scripture": [
     {
-      "nr": "13",
-      "text": "Marvel not, my brethren, if the world hate you."
+      "nr": "2",
+      "text": "O my soul, thou hast said unto the Lord, Thou art my Lord: my goodness extendeth not to thee;"
+    },
+    {
+      "nr": "3",
+      "text": "But to the saints that are in the earth, and to the excellent, in whom is all my delight."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "13",
+  "verse": "2-3",
   "version": "kjv"
 }
