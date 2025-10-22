@@ -1,21 +1,17 @@
 {
-  "book": "Psalms",
-  "chapter": "16",
-  "date": "Wednesday 22-October, 2025",
-  "getbible": "https://getbible.life/kjv/Psalms/16/2-3",
-  "name": "Psalms 16:2-3",
+  "book": "1 Corinthians",
+  "chapter": "15",
+  "date": "Thursday 23-October, 2025",
+  "getbible": "https://getbible.life/kjv/1 Corinthians/15/33",
+  "name": "1 Corinthians 15:33",
   "scripture": [
     {
-      "nr": "2",
-      "text": "O my soul, thou hast said unto the Lord, Thou art my Lord: my goodness extendeth not to thee;"
-    },
-    {
-      "nr": "3",
-      "text": "But to the saints that are in the earth, and to the excellent, in whom is all my delight."
+      "nr": "33",
+      "text": "Be not deceived: evil communications corrupt good manners."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "2-3",
+  "verse": "33",
   "version": "kjv"
 }
