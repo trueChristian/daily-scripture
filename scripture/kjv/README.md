@@ -1,5 +1,5 @@
-**Luke 17:15-18**
+**Isaiah 56:10-11**
 
-15 And one of them, when he saw that he was healed, turned back, and with a loud voice glorified God, 16 And fell down on his face at his feet, giving him thanks: and he was a Samaritan. 17 And Jesus answering said, Were there not ten cleansed? but where are the nine? 18 There are not found that returned to give glory to God, save this stranger.
+10 His watchmen are blind: they are all ignorant, they are all dumb dogs, they cannot bark; sleeping, lying down, loving to slumber. 11 Yea, they are greedy dogs which can never have enough, and they are shepherds that cannot understand: they all look to their own way, every one for his gain, from his quarter.
 
-[Friday 24-October, 2025](https://getbible.life/kjv/Luke/17/15-18)
+[Saturday 25-October, 2025](https://getbible.life/kjv/Isaiah/56/10-11)
