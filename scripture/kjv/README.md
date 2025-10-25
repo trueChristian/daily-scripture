@@ -1,5 +1,5 @@
-**Isaiah 56:10-11**
+**Colossians 3:12-13**
 
-10 His watchmen are blind: they are all ignorant, they are all dumb dogs, they cannot bark; sleeping, lying down, loving to slumber. 11 Yea, they are greedy dogs which can never have enough, and they are shepherds that cannot understand: they all look to their own way, every one for his gain, from his quarter.
+12 Put on therefore, as the elect of God, holy and beloved, bowels of mercies, kindness, humbleness of mind, meekness, longsuffering; 13 Forbearing one another, and forgiving one another, if any man have a quarrel against any: even as Christ forgave you, so also do ye.
 
-[Saturday 25-October, 2025](https://getbible.life/kjv/Isaiah/56/10-11)
+[Sunday 26-October, 2025](https://getbible.life/kjv/Colossians/3/12-13)
