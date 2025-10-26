@@ -1,21 +1,17 @@
 {
-  "book": "Colossians",
-  "chapter": "3",
-  "date": "Sunday 26-October, 2025",
-  "getbible": "https://getbible.life/kjv/Colossians/3/12-13",
-  "name": "Colossians 3:12-13",
+  "book": "Ecclesiastes",
+  "chapter": "12",
+  "date": "Monday 27-October, 2025",
+  "getbible": "https://getbible.life/kjv/Ecclesiastes/12/14",
+  "name": "Ecclesiastes 12:14",
   "scripture": [
     {
-      "nr": "12",
-      "text": "Put on therefore, as the elect of God, holy and beloved, bowels of mercies, kindness, humbleness of mind, meekness, longsuffering;"
-    },
-    {
-      "nr": "13",
-      "text": "Forbearing one another, and forgiving one another, if any man have a quarrel against any: even as Christ forgave you, so also do ye."
+      "nr": "14",
+      "text": "For God shall bring every work into judgment, with every secret thing, whether it be good, or whether it be evil.  "
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "12-13",
+  "verse": "14",
   "version": "kjv"
 }

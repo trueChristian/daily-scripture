@@ -1,5 +1,5 @@
-**Colossians 3:12-13**
+**Ecclesiastes 12:14**
 
-12 Put on therefore, as the elect of God, holy and beloved, bowels of mercies, kindness, humbleness of mind, meekness, longsuffering; 13 Forbearing one another, and forgiving one another, if any man have a quarrel against any: even as Christ forgave you, so also do ye.
+14 For God shall bring every work into judgment, with every secret thing, whether it be good, or whether it be evil.  
 
-[Sunday 26-October, 2025](https://getbible.life/kjv/Colossians/3/12-13)
+[Monday 27-October, 2025](https://getbible.life/kjv/Ecclesiastes/12/14)
