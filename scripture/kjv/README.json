@@ -1,17 +1,17 @@
 {
-  "book": "Ecclesiastes",
-  "chapter": "12",
-  "date": "Monday 27-October, 2025",
-  "getbible": "https://getbible.life/kjv/Ecclesiastes/12/14",
-  "name": "Ecclesiastes 12:14",
+  "book": "Psalms",
+  "chapter": "33",
+  "date": "Tuesday 28-October, 2025",
+  "getbible": "https://getbible.life/kjv/Psalms/33/9",
+  "name": "Psalms 33:9",
   "scripture": [
     {
-      "nr": "14",
-      "text": "For God shall bring every work into judgment, with every secret thing, whether it be good, or whether it be evil.  "
+      "nr": "9",
+      "text": "For he spake, and it was done; he commanded, and it stood fast."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "14",
+  "verse": "9",
   "version": "kjv"
 }

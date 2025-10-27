@@ -1,5 +1,5 @@
-**Ecclesiastes 12:14**
+**Psalms 33:9**
 
-14 For God shall bring every work into judgment, with every secret thing, whether it be good, or whether it be evil.  
+9 For he spake, and it was done; he commanded, and it stood fast.
 
-[Monday 27-October, 2025](https://getbible.life/kjv/Ecclesiastes/12/14)
+[Tuesday 28-October, 2025](https://getbible.life/kjv/Psalms/33/9)
