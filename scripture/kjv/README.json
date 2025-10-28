@@ -1,17 +1,17 @@
 {
-  "book": "Psalms",
-  "chapter": "33",
-  "date": "Tuesday 28-October, 2025",
-  "getbible": "https://getbible.life/kjv/Psalms/33/9",
-  "name": "Psalms 33:9",
+  "book": "Proverbs",
+  "chapter": "12",
+  "date": "Wednesday 29-October, 2025",
+  "getbible": "https://getbible.life/kjv/Proverbs/12/19",
+  "name": "Proverbs 12:19",
   "scripture": [
     {
-      "nr": "9",
-      "text": "For he spake, and it was done; he commanded, and it stood fast."
+      "nr": "19",
+      "text": "The lip of truth shall be established for ever: but a lying tongue is but for a moment."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "9",
+  "verse": "19",
   "version": "kjv"
 }

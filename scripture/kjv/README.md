@@ -1,5 +1,5 @@
-**Psalms 33:9**
+**Proverbs 12:19**
 
-9 For he spake, and it was done; he commanded, and it stood fast.
+19 The lip of truth shall be established for ever: but a lying tongue is but for a moment.
 
-[Tuesday 28-October, 2025](https://getbible.life/kjv/Psalms/33/9)
+[Wednesday 29-October, 2025](https://getbible.life/kjv/Proverbs/12/19)
