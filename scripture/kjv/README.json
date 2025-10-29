@@ -1,17 +1,41 @@
 {
-  "book": "Proverbs",
-  "chapter": "12",
-  "date": "Wednesday 29-October, 2025",
-  "getbible": "https://getbible.life/kjv/Proverbs/12/19",
-  "name": "Proverbs 12:19",
+  "book": "Amos",
+  "chapter": "5",
+  "date": "Thursday 30-October, 2025",
+  "getbible": "https://getbible.life/kjv/Amos/5/18-24",
+  "name": "Amos 5:18-24",
   "scripture": [
     {
+      "nr": "18",
+      "text": "Woe unto you that desire the day of the Lord! to what end is it for you? the day of the Lord is darkness, and not light."
+    },
+    {
       "nr": "19",
-      "text": "The lip of truth shall be established for ever: but a lying tongue is but for a moment."
+      "text": "As if a man did flee from a lion, and a bear met him; or went into the house, and leaned his hand on the wall, and a serpent bit him."
+    },
+    {
+      "nr": "20",
+      "text": "Shall not the day of the Lord be darkness, and not light? even very dark, and no brightness in it?"
+    },
+    {
+      "nr": "21",
+      "text": "I hate, I despise your feast days, and I will not smell in your solemn assemblies."
+    },
+    {
+      "nr": "22",
+      "text": "Though ye offer me burnt offerings and your meat offerings, I will not accept them: neither will I regard the peace offerings of your fat beasts."
+    },
+    {
+      "nr": "23",
+      "text": "Take thou away from me the noise of thy songs; for I will not hear the melody of thy viols."
+    },
+    {
+      "nr": "24",
+      "text": "But let judgment run down as waters, and righteousness as a mighty stream."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "19",
+  "verse": "18-24",
   "version": "kjv"
 }
