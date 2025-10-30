@@ -1,41 +1,17 @@
 {
-  "book": "Amos",
-  "chapter": "5",
-  "date": "Thursday 30-October, 2025",
-  "getbible": "https://getbible.life/kjv/Amos/5/18-24",
-  "name": "Amos 5:18-24",
+  "book": "Mark",
+  "chapter": "10",
+  "date": "Friday 31-October, 2025",
+  "getbible": "https://getbible.life/kjv/Mark/10/39",
+  "name": "Mark 10:39",
   "scripture": [
     {
-      "nr": "18",
-      "text": "Woe unto you that desire the day of the Lord! to what end is it for you? the day of the Lord is darkness, and not light."
-    },
-    {
-      "nr": "19",
-      "text": "As if a man did flee from a lion, and a bear met him; or went into the house, and leaned his hand on the wall, and a serpent bit him."
-    },
-    {
-      "nr": "20",
-      "text": "Shall not the day of the Lord be darkness, and not light? even very dark, and no brightness in it?"
-    },
-    {
-      "nr": "21",
-      "text": "I hate, I despise your feast days, and I will not smell in your solemn assemblies."
-    },
-    {
-      "nr": "22",
-      "text": "Though ye offer me burnt offerings and your meat offerings, I will not accept them: neither will I regard the peace offerings of your fat beasts."
-    },
-    {
-      "nr": "23",
-      "text": "Take thou away from me the noise of thy songs; for I will not hear the melody of thy viols."
-    },
-    {
-      "nr": "24",
-      "text": "But let judgment run down as waters, and righteousness as a mighty stream."
+      "nr": "39",
+      "text": "And they said unto him, We can. And Jesus said unto them, Ye shall indeed drink of the cup that I drink of; and with the baptism that I am baptized withal shall ye be baptized:"
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "18-24",
+  "verse": "39",
   "version": "kjv"
 }
