@@ -1,17 +1,17 @@
 {
-  "book": "Mark",
-  "chapter": "10",
-  "date": "Friday 31-October, 2025",
-  "getbible": "https://getbible.life/kjv/Mark/10/39",
-  "name": "Mark 10:39",
+  "book": "John",
+  "chapter": "13",
+  "date": "Saturday 01-November, 2025",
+  "getbible": "https://getbible.life/kjv/John/13/17",
+  "name": "John 13:17",
   "scripture": [
     {
-      "nr": "39",
-      "text": "And they said unto him, We can. And Jesus said unto them, Ye shall indeed drink of the cup that I drink of; and with the baptism that I am baptized withal shall ye be baptized:"
+      "nr": "17",
+      "text": "If ye know these things, happy are ye if ye do them."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "39",
+  "verse": "17",
   "version": "kjv"
 }
