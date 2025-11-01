@@ -1,5 +1,5 @@
-**John 13:17**
+**1 Chronicles 4:10**
 
-17 If ye know these things, happy are ye if ye do them.
+10 And Jabez called on the God of Israel, saying, Oh that thou wouldest bless me indeed, and enlarge my coast, and that thine hand might be with me, and that thou wouldest keep me from evil, that it may not grieve me! And God granted him that which he requested.
 
-[Saturday 01-November, 2025](https://getbible.life/kjv/John/13/17)
+[Sunday 02-November, 2025](https://getbible.life/kjv/1 Chronicles/4/10)
