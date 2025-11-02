@@ -1,17 +1,29 @@
 {
-  "book": "1 Chronicles",
-  "chapter": "4",
-  "date": "Sunday 02-November, 2025",
-  "getbible": "https://getbible.life/kjv/1 Chronicles/4/10",
-  "name": "1 Chronicles 4:10",
+  "book": "James",
+  "chapter": "2",
+  "date": "Monday 03-November, 2025",
+  "getbible": "https://getbible.life/kjv/James/2/14-17",
+  "name": "James 2:14-17",
   "scripture": [
     {
-      "nr": "10",
-      "text": "And Jabez called on the God of Israel, saying, Oh that thou wouldest bless me indeed, and enlarge my coast, and that thine hand might be with me, and that thou wouldest keep me from evil, that it may not grieve me! And God granted him that which he requested."
+      "nr": "14",
+      "text": "What doth it profit, my brethren, though a man say he hath faith, and have not works? can faith save him?"
+    },
+    {
+      "nr": "15",
+      "text": "If a brother or sister be naked, and destitute of daily food,"
+    },
+    {
+      "nr": "16",
+      "text": "And one of you say unto them, Depart in peace, be ye warmed and filled; notwithstanding ye give them not those things which are needful to the body; what doth it profit?"
+    },
+    {
+      "nr": "17",
+      "text": "Even so faith, if it hath not works, is dead, being alone."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "10",
+  "verse": "14-17",
   "version": "kjv"
 }

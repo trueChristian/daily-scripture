@@ -1,5 +1,5 @@
-**1 Chronicles 4:10**
+**James 2:14-17**
 
-10 And Jabez called on the God of Israel, saying, Oh that thou wouldest bless me indeed, and enlarge my coast, and that thine hand might be with me, and that thou wouldest keep me from evil, that it may not grieve me! And God granted him that which he requested.
+14 What doth it profit, my brethren, though a man say he hath faith, and have not works? can faith save him? 15 If a brother or sister be naked, and destitute of daily food, 16 And one of you say unto them, Depart in peace, be ye warmed and filled; notwithstanding ye give them not those things which are needful to the body; what doth it profit? 17 Even so faith, if it hath not works, is dead, being alone.
 
-[Sunday 02-November, 2025](https://getbible.life/kjv/1 Chronicles/4/10)
+[Monday 03-November, 2025](https://getbible.life/kjv/James/2/14-17)
