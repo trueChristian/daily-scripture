@@ -1,49 +1,17 @@
 {
-  "book": "Isaiah",
-  "chapter": "3",
-  "date": "Tuesday 04-November, 2025",
-  "getbible": "https://getbible.life/kjv/Isaiah/3/16-24",
-  "name": "Isaiah 3:16-24",
+  "book": "Judges",
+  "chapter": "15",
+  "date": "Wednesday 05-November, 2025",
+  "getbible": "https://getbible.life/kjv/Judges/15/8",
+  "name": "Judges 15:8",
   "scripture": [
     {
-      "nr": "16",
-      "text": "Moreover the Lord saith, Because the daughters of Zion are haughty, and walk with stretched forth necks and wanton eyes, walking and mincing as they go, and making a tinkling with their feet:"
-    },
-    {
-      "nr": "17",
-      "text": "Therefore the Lord will smite with a scab the crown of the head of the daughters of Zion, and the Lord will discover their secret parts."
-    },
-    {
-      "nr": "18",
-      "text": "In that day the Lord will take away the bravery of their tinkling ornaments about their feet, and their cauls, and their round tires like the moon,"
-    },
-    {
-      "nr": "19",
-      "text": "The chains, and the bracelets, and the mufflers,"
-    },
-    {
-      "nr": "20",
-      "text": "The bonnets, and the ornaments of the legs, and the headbands, and the tablets, and the earrings,"
-    },
-    {
-      "nr": "21",
-      "text": "The rings, and nose jewels,"
-    },
-    {
-      "nr": "22",
-      "text": "The changeable suits of apparel, and the mantles, and the wimples, and the crisping pins,"
-    },
-    {
-      "nr": "23",
-      "text": "The glasses, and the fine linen, and the hoods, and the vails."
-    },
-    {
-      "nr": "24",
-      "text": "And it shall come to pass, that instead of sweet smell there shall be stink; and instead of a girdle a rent; and instead of well set hair baldness; and instead of a stomacher a girding of sackcloth; and burning instead of beauty."
+      "nr": "8",
+      "text": "And he smote them hip and thigh with a great slaughter: and he went down and dwelt in the top of the rock Etam."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "16-24",
+  "verse": "8",
   "version": "kjv"
 }
