@@ -1,5 +1,5 @@
-**Judges 15:8**
+**1 Corinthians 10:24**
 
-8 And he smote them hip and thigh with a great slaughter: and he went down and dwelt in the top of the rock Etam.
+24 Let no man seek his own, but every man another’s wealth. 
 
-[Wednesday 05-November, 2025](https://getbible.life/kjv/Judges/15/8)
+[Thursday 06-November, 2025](https://getbible.life/kjv/1 Corinthians/10/24)

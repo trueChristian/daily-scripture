@@ -1,17 +1,17 @@
 {
-  "book": "Judges",
-  "chapter": "15",
-  "date": "Wednesday 05-November, 2025",
-  "getbible": "https://getbible.life/kjv/Judges/15/8",
-  "name": "Judges 15:8",
+  "book": "1 Corinthians",
+  "chapter": "10",
+  "date": "Thursday 06-November, 2025",
+  "getbible": "https://getbible.life/kjv/1 Corinthians/10/24",
+  "name": "1 Corinthians 10:24",
   "scripture": [
     {
-      "nr": "8",
-      "text": "And he smote them hip and thigh with a great slaughter: and he went down and dwelt in the top of the rock Etam."
+      "nr": "24",
+      "text": "Let no man seek his own, but every man another’s wealth. "
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "8",
+  "verse": "24",
   "version": "kjv"
 }
