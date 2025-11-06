@@ -1,17 +1,17 @@
 {
-  "book": "1 Corinthians",
-  "chapter": "10",
-  "date": "Thursday 06-November, 2025",
-  "getbible": "https://getbible.life/kjv/1 Corinthians/10/24",
-  "name": "1 Corinthians 10:24",
+  "book": "Acts",
+  "chapter": "4",
+  "date": "Friday 07-November, 2025",
+  "getbible": "https://getbible.life/kjv/Acts/4/14",
+  "name": "Acts 4:14",
   "scripture": [
     {
-      "nr": "24",
-      "text": "Let no man seek his own, but every man another’s wealth. "
+      "nr": "14",
+      "text": "And beholding the man which was healed standing with them, they could say nothing against it."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "24",
+  "verse": "14",
   "version": "kjv"
 }

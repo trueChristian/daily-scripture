@@ -1,5 +1,5 @@
-**1 Corinthians 10:24**
+**Acts 4:14**
 
-24 Let no man seek his own, but every man another’s wealth. 
+14 And beholding the man which was healed standing with them, they could say nothing against it.
 
-[Thursday 06-November, 2025](https://getbible.life/kjv/1 Corinthians/10/24)
+[Friday 07-November, 2025](https://getbible.life/kjv/Acts/4/14)
