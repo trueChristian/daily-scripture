@@ -1,5 +1,5 @@
-**Acts 4:14**
+**Proverbs 15:8**
 
-14 And beholding the man which was healed standing with them, they could say nothing against it.
+8 The sacrifice of the wicked is an abomination to the Lord: but the prayer of the upright is his delight.
 
-[Friday 07-November, 2025](https://getbible.life/kjv/Acts/4/14)
+[Saturday 08-November, 2025](https://getbible.life/kjv/Proverbs/15/8)

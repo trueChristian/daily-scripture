@@ -1,17 +1,17 @@
 {
-  "book": "Acts",
-  "chapter": "4",
-  "date": "Friday 07-November, 2025",
-  "getbible": "https://getbible.life/kjv/Acts/4/14",
-  "name": "Acts 4:14",
+  "book": "Proverbs",
+  "chapter": "15",
+  "date": "Saturday 08-November, 2025",
+  "getbible": "https://getbible.life/kjv/Proverbs/15/8",
+  "name": "Proverbs 15:8",
   "scripture": [
     {
-      "nr": "14",
-      "text": "And beholding the man which was healed standing with them, they could say nothing against it."
+      "nr": "8",
+      "text": "The sacrifice of the wicked is an abomination to the Lord: but the prayer of the upright is his delight."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "14",
+  "verse": "8",
   "version": "kjv"
 }
