@@ -1,5 +1,5 @@
-**Jeremiah 32:27**
+**Jeremiah 10:23**
 
-27 Behold, I am the Lord, the God of all flesh: is there any thing too hard for me?
+23 O Lord, I know that the way of man is not in himself: it is not in man that walketh to direct his steps.
 
-[Sunday 09-November, 2025](https://getbible.life/kjv/Jeremiah/32/27)
+[Monday 10-November, 2025](https://getbible.life/kjv/Jeremiah/10/23)

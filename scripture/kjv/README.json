@@ -1,17 +1,17 @@
 {
   "book": "Jeremiah",
-  "chapter": "32",
-  "date": "Sunday 09-November, 2025",
-  "getbible": "https://getbible.life/kjv/Jeremiah/32/27",
-  "name": "Jeremiah 32:27",
+  "chapter": "10",
+  "date": "Monday 10-November, 2025",
+  "getbible": "https://getbible.life/kjv/Jeremiah/10/23",
+  "name": "Jeremiah 10:23",
   "scripture": [
     {
-      "nr": "27",
-      "text": "Behold, I am the Lord, the God of all flesh: is there any thing too hard for me?"
+      "nr": "23",
+      "text": "O Lord, I know that the way of man is not in himself: it is not in man that walketh to direct his steps."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "27",
+  "verse": "23",
   "version": "kjv"
 }
