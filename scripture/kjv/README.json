@@ -1,17 +1,17 @@
 {
-  "book": "Jeremiah",
-  "chapter": "10",
-  "date": "Monday 10-November, 2025",
-  "getbible": "https://getbible.life/kjv/Jeremiah/10/23",
-  "name": "Jeremiah 10:23",
+  "book": "Genesis",
+  "chapter": "22",
+  "date": "Tuesday 11-November, 2025",
+  "getbible": "https://getbible.life/kjv/Genesis/22/18",
+  "name": "Genesis 22:18",
   "scripture": [
     {
-      "nr": "23",
-      "text": "O Lord, I know that the way of man is not in himself: it is not in man that walketh to direct his steps."
+      "nr": "18",
+      "text": "And in thy seed shall all the nations of the earth be blessed; because thou hast obeyed my voice."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "23",
+  "verse": "18",
   "version": "kjv"
 }

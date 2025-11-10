@@ -1,5 +1,5 @@
-**Jeremiah 10:23**
+**Genesis 22:18**
 
-23 O Lord, I know that the way of man is not in himself: it is not in man that walketh to direct his steps.
+18 And in thy seed shall all the nations of the earth be blessed; because thou hast obeyed my voice.
 
-[Monday 10-November, 2025](https://getbible.life/kjv/Jeremiah/10/23)
+[Tuesday 11-November, 2025](https://getbible.life/kjv/Genesis/22/18)
