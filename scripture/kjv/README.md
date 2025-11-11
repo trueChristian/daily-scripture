@@ -1,5 +1,5 @@
-**Genesis 22:18**
+**2 Corinthians 13:5**
 
-18 And in thy seed shall all the nations of the earth be blessed; because thou hast obeyed my voice.
+5 Examine yourselves, whether ye be in the faith; prove your own selves. Know ye not your own selves, how that Jesus Christ is in you, except ye be reprobates?
 
-[Tuesday 11-November, 2025](https://getbible.life/kjv/Genesis/22/18)
+[Wednesday 12-November, 2025](https://getbible.life/kjv/2 Corinthians/13/5)

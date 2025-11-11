@@ -1,17 +1,17 @@
 {
-  "book": "Genesis",
-  "chapter": "22",
-  "date": "Tuesday 11-November, 2025",
-  "getbible": "https://getbible.life/kjv/Genesis/22/18",
-  "name": "Genesis 22:18",
+  "book": "2 Corinthians",
+  "chapter": "13",
+  "date": "Wednesday 12-November, 2025",
+  "getbible": "https://getbible.life/kjv/2 Corinthians/13/5",
+  "name": "2 Corinthians 13:5",
   "scripture": [
     {
-      "nr": "18",
-      "text": "And in thy seed shall all the nations of the earth be blessed; because thou hast obeyed my voice."
+      "nr": "5",
+      "text": "Examine yourselves, whether ye be in the faith; prove your own selves. Know ye not your own selves, how that Jesus Christ is in you, except ye be reprobates?"
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "18",
+  "verse": "5",
   "version": "kjv"
 }
