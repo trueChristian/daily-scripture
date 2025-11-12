@@ -1,17 +1,17 @@
 {
-  "book": "2 Corinthians",
-  "chapter": "13",
-  "date": "Wednesday 12-November, 2025",
-  "getbible": "https://getbible.life/kjv/2 Corinthians/13/5",
-  "name": "2 Corinthians 13:5",
+  "book": "1 Peter",
+  "chapter": "2",
+  "date": "Thursday 13-November, 2025",
+  "getbible": "https://getbible.life/kjv/1 Peter/2/25",
+  "name": "1 Peter 2:25",
   "scripture": [
     {
-      "nr": "5",
-      "text": "Examine yourselves, whether ye be in the faith; prove your own selves. Know ye not your own selves, how that Jesus Christ is in you, except ye be reprobates?"
+      "nr": "25",
+      "text": "For ye were as sheep going astray; but are now returned unto the Shepherd and Bishop of your souls. "
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "5",
+  "verse": "25",
   "version": "kjv"
 }

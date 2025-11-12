@@ -1,5 +1,5 @@
-**2 Corinthians 13:5**
+**1 Peter 2:25**
 
-5 Examine yourselves, whether ye be in the faith; prove your own selves. Know ye not your own selves, how that Jesus Christ is in you, except ye be reprobates?
+25 For ye were as sheep going astray; but are now returned unto the Shepherd and Bishop of your souls. 
 
-[Wednesday 12-November, 2025](https://getbible.life/kjv/2 Corinthians/13/5)
+[Thursday 13-November, 2025](https://getbible.life/kjv/1 Peter/2/25)
