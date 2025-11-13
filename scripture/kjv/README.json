@@ -1,17 +1,17 @@
 {
-  "book": "1 Peter",
-  "chapter": "2",
-  "date": "Thursday 13-November, 2025",
-  "getbible": "https://getbible.life/kjv/1 Peter/2/25",
-  "name": "1 Peter 2:25",
+  "book": "Proverbs",
+  "chapter": "24",
+  "date": "Friday 14-November, 2025",
+  "getbible": "https://getbible.life/kjv/Proverbs/24/16",
+  "name": "Proverbs 24:16",
   "scripture": [
     {
-      "nr": "25",
-      "text": "For ye were as sheep going astray; but are now returned unto the Shepherd and Bishop of your souls. "
+      "nr": "16",
+      "text": "For a just man falleth seven times, and riseth up again: but the wicked shall fall into mischief."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "25",
+  "verse": "16",
   "version": "kjv"
 }

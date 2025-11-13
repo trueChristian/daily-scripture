@@ -1,5 +1,5 @@
-**1 Peter 2:25**
+**Proverbs 24:16**
 
-25 For ye were as sheep going astray; but are now returned unto the Shepherd and Bishop of your souls. 
+16 For a just man falleth seven times, and riseth up again: but the wicked shall fall into mischief.
 
-[Thursday 13-November, 2025](https://getbible.life/kjv/1 Peter/2/25)
+[Friday 14-November, 2025](https://getbible.life/kjv/Proverbs/24/16)
