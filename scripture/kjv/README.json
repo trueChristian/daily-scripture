@@ -1,13 +1,13 @@
 {
-  "book": "Proverbs",
-  "chapter": "15",
-  "date": "Sunday 16-November, 2025",
-  "getbible": "https://getbible.life/kjv/Proverbs/15/4",
-  "name": "Proverbs 15:4",
+  "book": "Revelation",
+  "chapter": "21",
+  "date": "Monday 17-November, 2025",
+  "getbible": "https://getbible.life/kjv/Revelation/21/4",
+  "name": "Revelation 21:4",
   "scripture": [
     {
       "nr": "4",
-      "text": "A wholesome tongue is a tree of life: but perverseness therein is a breach in the spirit."
+      "text": "And God shall wipe away all tears from their eyes; and there shall be no more death, neither sorrow, nor crying, neither shall there be any more pain: for the former things are passed away."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",

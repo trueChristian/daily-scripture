@@ -1,5 +1,5 @@
-**Proverbs 15:4**
+**Revelation 21:4**
 
-4 A wholesome tongue is a tree of life: but perverseness therein is a breach in the spirit.
+4 And God shall wipe away all tears from their eyes; and there shall be no more death, neither sorrow, nor crying, neither shall there be any more pain: for the former things are passed away.
 
-[Sunday 16-November, 2025](https://getbible.life/kjv/Proverbs/15/4)
+[Monday 17-November, 2025](https://getbible.life/kjv/Revelation/21/4)
