@@ -1,17 +1,17 @@
 {
-  "book": "Revelation",
-  "chapter": "21",
-  "date": "Monday 17-November, 2025",
-  "getbible": "https://getbible.life/kjv/Revelation/21/4",
-  "name": "Revelation 21:4",
+  "book": "Acts",
+  "chapter": "3",
+  "date": "Tuesday 18-November, 2025",
+  "getbible": "https://getbible.life/kjv/Acts/3/16",
+  "name": "Acts 3:16",
   "scripture": [
     {
-      "nr": "4",
-      "text": "And God shall wipe away all tears from their eyes; and there shall be no more death, neither sorrow, nor crying, neither shall there be any more pain: for the former things are passed away."
+      "nr": "16",
+      "text": "And his name through faith in his name hath made this man strong, whom ye see and know: yea, the faith which is by him hath given him this perfect soundness in the presence of you all."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "4",
+  "verse": "16",
   "version": "kjv"
 }

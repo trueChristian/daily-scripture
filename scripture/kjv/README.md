@@ -1,5 +1,5 @@
-**Revelation 21:4**
+**Acts 3:16**
 
-4 And God shall wipe away all tears from their eyes; and there shall be no more death, neither sorrow, nor crying, neither shall there be any more pain: for the former things are passed away.
+16 And his name through faith in his name hath made this man strong, whom ye see and know: yea, the faith which is by him hath given him this perfect soundness in the presence of you all.
 
-[Monday 17-November, 2025](https://getbible.life/kjv/Revelation/21/4)
+[Tuesday 18-November, 2025](https://getbible.life/kjv/Acts/3/16)
