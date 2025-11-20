@@ -1,17 +1,17 @@
 {
-  "book": "Ecclesiastes",
-  "chapter": "12",
-  "date": "Thursday 20-November, 2025",
-  "getbible": "https://getbible.life/kjv/Ecclesiastes/12/13",
-  "name": "Ecclesiastes 12:13",
+  "book": "Proverbs",
+  "chapter": "27",
+  "date": "Friday 21-November, 2025",
+  "getbible": "https://getbible.life/kjv/Proverbs/27/7",
+  "name": "Proverbs 27:7",
   "scripture": [
     {
-      "nr": "13",
-      "text": "Let us hear the conclusion of the whole matter: Fear God, and keep his commandments: for this is the whole duty of man."
+      "nr": "7",
+      "text": "The full soul loatheth an honeycomb; but to the hungry soul every bitter thing is sweet."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "13",
+  "verse": "7",
   "version": "kjv"
 }
