@@ -1,17 +1,17 @@
 {
-  "book": "Proverbs",
-  "chapter": "27",
-  "date": "Friday 21-November, 2025",
-  "getbible": "https://getbible.life/kjv/Proverbs/27/7",
-  "name": "Proverbs 27:7",
+  "book": "Psalms",
+  "chapter": "49",
+  "date": "Saturday 22-November, 2025",
+  "getbible": "https://getbible.life/kjv/Psalms/49/3",
+  "name": "Psalms 49:3",
   "scripture": [
     {
-      "nr": "7",
-      "text": "The full soul loatheth an honeycomb; but to the hungry soul every bitter thing is sweet."
+      "nr": "3",
+      "text": "My mouth shall speak of wisdom; and the meditation of my heart shall be of understanding."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "7",
+  "verse": "3",
   "version": "kjv"
 }

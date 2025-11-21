@@ -1,5 +1,5 @@
-**Proverbs 27:7**
+**Psalms 49:3**
 
-7 The full soul loatheth an honeycomb; but to the hungry soul every bitter thing is sweet.
+3 My mouth shall speak of wisdom; and the meditation of my heart shall be of understanding.
 
-[Friday 21-November, 2025](https://getbible.life/kjv/Proverbs/27/7)
+[Saturday 22-November, 2025](https://getbible.life/kjv/Psalms/49/3)
