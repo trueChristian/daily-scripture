@@ -1,17 +1,17 @@
 {
-  "book": "Psalms",
-  "chapter": "49",
-  "date": "Saturday 22-November, 2025",
-  "getbible": "https://getbible.life/kjv/Psalms/49/3",
-  "name": "Psalms 49:3",
+  "book": "Jonah",
+  "chapter": "2",
+  "date": "Sunday 23-November, 2025",
+  "getbible": "https://getbible.life/kjv/Jonah/2/9",
+  "name": "Jonah 2:9",
   "scripture": [
     {
-      "nr": "3",
-      "text": "My mouth shall speak of wisdom; and the meditation of my heart shall be of understanding."
+      "nr": "9",
+      "text": "But I will sacrifice unto thee with the voice of thanksgiving; I will pay that that I have vowed. Salvation is of the Lord."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "3",
+  "verse": "9",
   "version": "kjv"
 }
