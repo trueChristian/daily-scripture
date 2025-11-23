@@ -1,5 +1,5 @@
-**Jonah 2:9**
+**Deuteronomy 32:39**
 
-9 But I will sacrifice unto thee with the voice of thanksgiving; I will pay that that I have vowed. Salvation is of the Lord.
+39 See now that I, even I, am he, and there is no god with me: I kill, and I make alive; I wound, and I heal: neither is there any that can deliver out of my hand.
 
-[Sunday 23-November, 2025](https://getbible.life/kjv/Jonah/2/9)
+[Monday 24-November, 2025](https://getbible.life/kjv/Deuteronomy/32/39)

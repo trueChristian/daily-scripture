@@ -1,17 +1,17 @@
 {
-  "book": "Jonah",
-  "chapter": "2",
-  "date": "Sunday 23-November, 2025",
-  "getbible": "https://getbible.life/kjv/Jonah/2/9",
-  "name": "Jonah 2:9",
+  "book": "Deuteronomy",
+  "chapter": "32",
+  "date": "Monday 24-November, 2025",
+  "getbible": "https://getbible.life/kjv/Deuteronomy/32/39",
+  "name": "Deuteronomy 32:39",
   "scripture": [
     {
-      "nr": "9",
-      "text": "But I will sacrifice unto thee with the voice of thanksgiving; I will pay that that I have vowed. Salvation is of the Lord."
+      "nr": "39",
+      "text": "See now that I, even I, am he, and there is no god with me: I kill, and I make alive; I wound, and I heal: neither is there any that can deliver out of my hand."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "9",
+  "verse": "39",
   "version": "kjv"
 }
