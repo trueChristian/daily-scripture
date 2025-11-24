@@ -1,5 +1,5 @@
-**Deuteronomy 32:39**
+**Isaiah 58:1**
 
-39 See now that I, even I, am he, and there is no god with me: I kill, and I make alive; I wound, and I heal: neither is there any that can deliver out of my hand.
+1 Cry aloud, spare not, lift up thy voice like a trumpet, and shew my people their transgression, and the house of Jacob their sins.
 
-[Monday 24-November, 2025](https://getbible.life/kjv/Deuteronomy/32/39)
+[Tuesday 25-November, 2025](https://getbible.life/kjv/Isaiah/58/1)
