@@ -1,17 +1,17 @@
 {
-  "book": "Isaiah",
-  "chapter": "58",
-  "date": "Tuesday 25-November, 2025",
-  "getbible": "https://getbible.life/kjv/Isaiah/58/1",
-  "name": "Isaiah 58:1",
+  "book": "Galatians",
+  "chapter": "5",
+  "date": "Wednesday 26-November, 2025",
+  "getbible": "https://getbible.life/kjv/Galatians/5/25",
+  "name": "Galatians 5:25",
   "scripture": [
     {
-      "nr": "1",
-      "text": "Cry aloud, spare not, lift up thy voice like a trumpet, and shew my people their transgression, and the house of Jacob their sins."
+      "nr": "25",
+      "text": "If we live in the Spirit, let us also walk in the Spirit."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "1",
+  "verse": "25",
   "version": "kjv"
 }

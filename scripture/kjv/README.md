@@ -1,5 +1,5 @@
-**Isaiah 58:1**
+**Galatians 5:25**
 
-1 Cry aloud, spare not, lift up thy voice like a trumpet, and shew my people their transgression, and the house of Jacob their sins.
+25 If we live in the Spirit, let us also walk in the Spirit.
 
-[Tuesday 25-November, 2025](https://getbible.life/kjv/Isaiah/58/1)
+[Wednesday 26-November, 2025](https://getbible.life/kjv/Galatians/5/25)
