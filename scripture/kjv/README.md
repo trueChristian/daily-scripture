@@ -1,5 +1,5 @@
-**Galatians 5:25**
+**Galatians 6:14**
 
-25 If we live in the Spirit, let us also walk in the Spirit.
+14 But God forbid that I should glory, save in the cross of our Lord Jesus Christ, by whom the world is crucified unto me, and I unto the world.
 
-[Wednesday 26-November, 2025](https://getbible.life/kjv/Galatians/5/25)
+[Thursday 27-November, 2025](https://getbible.life/kjv/Galatians/6/14)

@@ -1,17 +1,17 @@
 {
   "book": "Galatians",
-  "chapter": "5",
-  "date": "Wednesday 26-November, 2025",
-  "getbible": "https://getbible.life/kjv/Galatians/5/25",
-  "name": "Galatians 5:25",
+  "chapter": "6",
+  "date": "Thursday 27-November, 2025",
+  "getbible": "https://getbible.life/kjv/Galatians/6/14",
+  "name": "Galatians 6:14",
   "scripture": [
     {
-      "nr": "25",
-      "text": "If we live in the Spirit, let us also walk in the Spirit."
+      "nr": "14",
+      "text": "But God forbid that I should glory, save in the cross of our Lord Jesus Christ, by whom the world is crucified unto me, and I unto the world."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "25",
+  "verse": "14",
   "version": "kjv"
 }
