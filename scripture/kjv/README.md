@@ -1,5 +1,5 @@
-**Galatians 6:14**
+**Isaiah 60:14**
 
-14 But God forbid that I should glory, save in the cross of our Lord Jesus Christ, by whom the world is crucified unto me, and I unto the world.
+14 The sons also of them that afflicted thee shall come bending unto thee; and all they that despised thee shall bow themselves down at the soles of thy feet; and they shall call thee, The city of the Lord, The Zion of the Holy One of Israel.
 
-[Thursday 27-November, 2025](https://getbible.life/kjv/Galatians/6/14)
+[Friday 28-November, 2025](https://getbible.life/kjv/Isaiah/60/14)
