@@ -1,17 +1,17 @@
 {
-  "book": "Isaiah",
-  "chapter": "60",
-  "date": "Friday 28-November, 2025",
-  "getbible": "https://getbible.life/kjv/Isaiah/60/14",
-  "name": "Isaiah 60:14",
+  "book": "1 Corinthians",
+  "chapter": "16",
+  "date": "Saturday 29-November, 2025",
+  "getbible": "https://getbible.life/kjv/1 Corinthians/16/13",
+  "name": "1 Corinthians 16:13",
   "scripture": [
     {
-      "nr": "14",
-      "text": "The sons also of them that afflicted thee shall come bending unto thee; and all they that despised thee shall bow themselves down at the soles of thy feet; and they shall call thee, The city of the Lord, The Zion of the Holy One of Israel."
+      "nr": "13",
+      "text": "Watch ye, stand fast in the faith, quit you like men, be strong."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "14",
+  "verse": "13",
   "version": "kjv"
 }

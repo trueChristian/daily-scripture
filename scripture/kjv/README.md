@@ -1,5 +1,5 @@
-**Isaiah 60:14**
+**1 Corinthians 16:13**
 
-14 The sons also of them that afflicted thee shall come bending unto thee; and all they that despised thee shall bow themselves down at the soles of thy feet; and they shall call thee, The city of the Lord, The Zion of the Holy One of Israel.
+13 Watch ye, stand fast in the faith, quit you like men, be strong.
 
-[Friday 28-November, 2025](https://getbible.life/kjv/Isaiah/60/14)
+[Saturday 29-November, 2025](https://getbible.life/kjv/1 Corinthians/16/13)
