@@ -1,5 +1,5 @@
-**1 Corinthians 16:13**
+**Psalms 78:13**
 
-13 Watch ye, stand fast in the faith, quit you like men, be strong.
+13 He divided the sea, and caused them to pass through; and he made the waters to stand as an heap.
 
-[Saturday 29-November, 2025](https://getbible.life/kjv/1 Corinthians/16/13)
+[Sunday 30-November, 2025](https://getbible.life/kjv/Psalms/78/13)
