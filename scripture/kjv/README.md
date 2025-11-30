@@ -1,5 +1,5 @@
-**Psalms 78:13**
+**Matthew 25:20**
 
-13 He divided the sea, and caused them to pass through; and he made the waters to stand as an heap.
+20 And so he that had received five talents came and brought other five talents, saying, Lord, thou deliveredst unto me five talents: behold, I have gained beside them five talents more.
 
-[Sunday 30-November, 2025](https://getbible.life/kjv/Psalms/78/13)
+[Monday 01-December, 2025](https://getbible.life/kjv/Matthew/25/20)
