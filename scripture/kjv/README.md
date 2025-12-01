@@ -1,5 +1,5 @@
-**Matthew 25:20**
+**Hosea 14:9**
 
-20 And so he that had received five talents came and brought other five talents, saying, Lord, thou deliveredst unto me five talents: behold, I have gained beside them five talents more.
+9 Who is wise, and he shall understand these things? prudent, and he shall know them? for the ways of the Lord are right, and the just shall walk in them: but the transgressors shall fall therein.  
 
-[Monday 01-December, 2025](https://getbible.life/kjv/Matthew/25/20)
+[Tuesday 02-December, 2025](https://getbible.life/kjv/Hosea/14/9)
