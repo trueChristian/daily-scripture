@@ -1,17 +1,21 @@
 {
-  "book": "Hosea",
-  "chapter": "14",
-  "date": "Tuesday 02-December, 2025",
-  "getbible": "https://getbible.life/kjv/Hosea/14/9",
-  "name": "Hosea 14:9",
+  "book": "Psalms",
+  "chapter": "109",
+  "date": "Wednesday 03-December, 2025",
+  "getbible": "https://getbible.life/kjv/Psalms/109/30-31",
+  "name": "Psalms 109:30-31",
   "scripture": [
     {
-      "nr": "9",
-      "text": "Who is wise, and he shall understand these things? prudent, and he shall know them? for the ways of the Lord are right, and the just shall walk in them: but the transgressors shall fall therein.  "
+      "nr": "30",
+      "text": "I will greatly praise the Lord with my mouth; yea, I will praise him among the multitude."
+    },
+    {
+      "nr": "31",
+      "text": "For he shall stand at the right hand of the poor, to save him from those that condemn his soul. "
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "9",
+  "verse": "30-31",
   "version": "kjv"
 }
