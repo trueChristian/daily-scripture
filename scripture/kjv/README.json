@@ -1,21 +1,17 @@
 {
   "book": "Psalms",
   "chapter": "109",
-  "date": "Wednesday 03-December, 2025",
-  "getbible": "https://getbible.life/kjv/Psalms/109/30-31",
-  "name": "Psalms 109:30-31",
+  "date": "Thursday 04-December, 2025",
+  "getbible": "https://getbible.life/kjv/Psalms/109/4",
+  "name": "Psalms 109:4",
   "scripture": [
     {
-      "nr": "30",
-      "text": "I will greatly praise the Lord with my mouth; yea, I will praise him among the multitude."
-    },
-    {
-      "nr": "31",
-      "text": "For he shall stand at the right hand of the poor, to save him from those that condemn his soul. "
+      "nr": "4",
+      "text": "For my love they are my adversaries: but I give myself unto prayer."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "30-31",
+  "verse": "4",
   "version": "kjv"
 }
