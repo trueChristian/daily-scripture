@@ -1,5 +1,5 @@
-**Psalms 109:4**
+**Revelation 3:20**
 
-4 For my love they are my adversaries: but I give myself unto prayer.
+20 Behold, I stand at the door, and knock: if any man hear my voice, and open the door, I will come in to him, and will sup with him, and he with me.
 
-[Thursday 04-December, 2025](https://getbible.life/kjv/Psalms/109/4)
+[Friday 05-December, 2025](https://getbible.life/kjv/Revelation/3/20)
