@@ -1,5 +1,5 @@
-**Revelation 3:20**
+**Hebrews 13:5-6**
 
-20 Behold, I stand at the door, and knock: if any man hear my voice, and open the door, I will come in to him, and will sup with him, and he with me.
+5 Let your conversation be without covetousness; and be content with such things as ye have: for he hath said, I will never leave thee, nor forsake thee. 6 So that we may boldly say, The Lord is my helper, and I will not fear what man shall do unto me.
 
-[Friday 05-December, 2025](https://getbible.life/kjv/Revelation/3/20)
+[Saturday 06-December, 2025](https://getbible.life/kjv/Hebrews/13/5-6)
