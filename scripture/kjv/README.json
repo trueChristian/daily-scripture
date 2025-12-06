@@ -1,21 +1,17 @@
 {
-  "book": "Hebrews",
-  "chapter": "13",
-  "date": "Saturday 06-December, 2025",
-  "getbible": "https://getbible.life/kjv/Hebrews/13/5-6",
-  "name": "Hebrews 13:5-6",
+  "book": "Psalms",
+  "chapter": "125",
+  "date": "Sunday 07-December, 2025",
+  "getbible": "https://getbible.life/kjv/Psalms/125/1",
+  "name": "Psalms 125:1",
   "scripture": [
     {
-      "nr": "5",
-      "text": "Let your conversation be without covetousness; and be content with such things as ye have: for he hath said, I will never leave thee, nor forsake thee."
-    },
-    {
-      "nr": "6",
-      "text": "So that we may boldly say, The Lord is my helper, and I will not fear what man shall do unto me."
+      "nr": "1",
+      "text": "They that trust in the Lord shall be as mount Zion, which cannot be removed, but abideth for ever."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "5-6",
+  "verse": "1",
   "version": "kjv"
 }
