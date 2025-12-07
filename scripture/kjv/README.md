@@ -1,5 +1,5 @@
-**Psalms 125:1**
+**Psalms 4:8**
 
-1 They that trust in the Lord shall be as mount Zion, which cannot be removed, but abideth for ever.
+8 I will both lay me down in peace, and sleep: for thou, Lord, only makest me dwell in safety. 
 
-[Sunday 07-December, 2025](https://getbible.life/kjv/Psalms/125/1)
+[Monday 08-December, 2025](https://getbible.life/kjv/Psalms/4/8)

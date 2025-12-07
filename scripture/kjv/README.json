@@ -1,17 +1,17 @@
 {
   "book": "Psalms",
-  "chapter": "125",
-  "date": "Sunday 07-December, 2025",
-  "getbible": "https://getbible.life/kjv/Psalms/125/1",
-  "name": "Psalms 125:1",
+  "chapter": "4",
+  "date": "Monday 08-December, 2025",
+  "getbible": "https://getbible.life/kjv/Psalms/4/8",
+  "name": "Psalms 4:8",
   "scripture": [
     {
-      "nr": "1",
-      "text": "They that trust in the Lord shall be as mount Zion, which cannot be removed, but abideth for ever."
+      "nr": "8",
+      "text": "I will both lay me down in peace, and sleep: for thou, Lord, only makest me dwell in safety. "
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "1",
+  "verse": "8",
   "version": "kjv"
 }
