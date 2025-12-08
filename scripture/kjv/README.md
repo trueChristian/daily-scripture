@@ -1,5 +1,5 @@
-**Psalms 4:8**
+**1 John 4:4**
 
-8 I will both lay me down in peace, and sleep: for thou, Lord, only makest me dwell in safety. 
+4 Ye are of God, little children, and have overcome them: because greater is he that is in you, than he that is in the world.
 
-[Monday 08-December, 2025](https://getbible.life/kjv/Psalms/4/8)
+[Tuesday 09-December, 2025](https://getbible.life/kjv/1 John/4/4)

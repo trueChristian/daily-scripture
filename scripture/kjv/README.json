@@ -1,17 +1,17 @@
 {
-  "book": "Psalms",
+  "book": "1 John",
   "chapter": "4",
-  "date": "Monday 08-December, 2025",
-  "getbible": "https://getbible.life/kjv/Psalms/4/8",
-  "name": "Psalms 4:8",
+  "date": "Tuesday 09-December, 2025",
+  "getbible": "https://getbible.life/kjv/1 John/4/4",
+  "name": "1 John 4:4",
   "scripture": [
     {
-      "nr": "8",
-      "text": "I will both lay me down in peace, and sleep: for thou, Lord, only makest me dwell in safety. "
+      "nr": "4",
+      "text": "Ye are of God, little children, and have overcome them: because greater is he that is in you, than he that is in the world."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "8",
+  "verse": "4",
   "version": "kjv"
 }
