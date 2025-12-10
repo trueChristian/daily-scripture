@@ -1,37 +1,17 @@
 {
-  "book": "Job",
-  "chapter": "29",
-  "date": "Wednesday 10-December, 2025",
-  "getbible": "https://getbible.life/kjv/Job/29/12-17",
-  "name": "Job 29:12-17",
+  "book": "Psalms",
+  "chapter": "51",
+  "date": "Thursday 11-December, 2025",
+  "getbible": "https://getbible.life/kjv/Psalms/51/7",
+  "name": "Psalms 51:7",
   "scripture": [
     {
-      "nr": "12",
-      "text": "Because I delivered the poor that cried, and the fatherless, and him that had none to help him."
-    },
-    {
-      "nr": "13",
-      "text": "The blessing of him that was ready to perish came upon me: and I caused the widow’s heart to sing for joy."
-    },
-    {
-      "nr": "14",
-      "text": "I put on righteousness, and it clothed me: my judgment was as a robe and a diadem."
-    },
-    {
-      "nr": "15",
-      "text": "I was eyes to the blind, and feet was I to the lame."
-    },
-    {
-      "nr": "16",
-      "text": "I was a father to the poor: and the cause which I knew not I searched out."
-    },
-    {
-      "nr": "17",
-      "text": "And I brake the jaws of the wicked, and plucked the spoil out of his teeth."
+      "nr": "7",
+      "text": "Purge me with hyssop, and I shall be clean: wash me, and I shall be whiter than snow."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "12-17",
+  "verse": "7",
   "version": "kjv"
 }
