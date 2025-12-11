@@ -1,17 +1,17 @@
 {
   "book": "Psalms",
-  "chapter": "51",
-  "date": "Thursday 11-December, 2025",
-  "getbible": "https://getbible.life/kjv/Psalms/51/7",
-  "name": "Psalms 51:7",
+  "chapter": "82",
+  "date": "Friday 12-December, 2025",
+  "getbible": "https://getbible.life/kjv/Psalms/82/1",
+  "name": "Psalms 82:1",
   "scripture": [
     {
-      "nr": "7",
-      "text": "Purge me with hyssop, and I shall be clean: wash me, and I shall be whiter than snow."
+      "nr": "1",
+      "text": "God standeth in the congregation of the mighty; he judgeth among the gods."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "7",
+  "verse": "1",
   "version": "kjv"
 }

@@ -1,5 +1,5 @@
-**Psalms 51:7**
+**Psalms 82:1**
 
-7 Purge me with hyssop, and I shall be clean: wash me, and I shall be whiter than snow.
+1 God standeth in the congregation of the mighty; he judgeth among the gods.
 
-[Thursday 11-December, 2025](https://getbible.life/kjv/Psalms/51/7)
+[Friday 12-December, 2025](https://getbible.life/kjv/Psalms/82/1)
