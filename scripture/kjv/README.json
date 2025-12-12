@@ -1,17 +1,17 @@
 {
-  "book": "Psalms",
-  "chapter": "82",
-  "date": "Friday 12-December, 2025",
-  "getbible": "https://getbible.life/kjv/Psalms/82/1",
-  "name": "Psalms 82:1",
+  "book": "Obadiah",
+  "chapter": "1",
+  "date": "Saturday 13-December, 2025",
+  "getbible": "https://getbible.life/kjv/Obadiah/1/12",
+  "name": "Obadiah 1:12",
   "scripture": [
     {
-      "nr": "1",
-      "text": "God standeth in the congregation of the mighty; he judgeth among the gods."
+      "nr": "12",
+      "text": "But thou shouldest not have looked on the day of thy brother in the day that he became a stranger; neither shouldest thou have rejoiced over the children of Judah in the day of their destruction; neither shouldest thou have spoken proudly in the day of distress."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "1",
+  "verse": "12",
   "version": "kjv"
 }

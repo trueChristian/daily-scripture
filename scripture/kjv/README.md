@@ -1,5 +1,5 @@
-**Psalms 82:1**
+**Obadiah 1:12**
 
-1 God standeth in the congregation of the mighty; he judgeth among the gods.
+12 But thou shouldest not have looked on the day of thy brother in the day that he became a stranger; neither shouldest thou have rejoiced over the children of Judah in the day of their destruction; neither shouldest thou have spoken proudly in the day of distress.
 
-[Friday 12-December, 2025](https://getbible.life/kjv/Psalms/82/1)
+[Saturday 13-December, 2025](https://getbible.life/kjv/Obadiah/1/12)
