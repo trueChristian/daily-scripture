@@ -1,17 +1,21 @@
 {
-  "book": "Obadiah",
-  "chapter": "1",
-  "date": "Saturday 13-December, 2025",
-  "getbible": "https://getbible.life/kjv/Obadiah/1/12",
-  "name": "Obadiah 1:12",
+  "book": "Titus",
+  "chapter": "3",
+  "date": "Sunday 14-December, 2025",
+  "getbible": "https://getbible.life/kjv/Titus/3/8-9",
+  "name": "Titus 3:8-9",
   "scripture": [
     {
-      "nr": "12",
-      "text": "But thou shouldest not have looked on the day of thy brother in the day that he became a stranger; neither shouldest thou have rejoiced over the children of Judah in the day of their destruction; neither shouldest thou have spoken proudly in the day of distress."
+      "nr": "8",
+      "text": "This is a faithful saying, and these things I will that thou affirm constantly, that they which have believed in God might be careful to maintain good works. These things are good and profitable unto men."
+    },
+    {
+      "nr": "9",
+      "text": "But avoid foolish questions, and genealogies, and contentions, and strivings about the law; for they are unprofitable and vain."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "12",
+  "verse": "8-9",
   "version": "kjv"
 }
