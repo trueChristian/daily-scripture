@@ -1,21 +1,17 @@
 {
-  "book": "Titus",
-  "chapter": "3",
-  "date": "Sunday 14-December, 2025",
-  "getbible": "https://getbible.life/kjv/Titus/3/8-9",
-  "name": "Titus 3:8-9",
+  "book": "1 Corinthians",
+  "chapter": "2",
+  "date": "Monday 15-December, 2025",
+  "getbible": "https://getbible.life/kjv/1 Corinthians/2/10",
+  "name": "1 Corinthians 2:10",
   "scripture": [
     {
-      "nr": "8",
-      "text": "This is a faithful saying, and these things I will that thou affirm constantly, that they which have believed in God might be careful to maintain good works. These things are good and profitable unto men."
-    },
-    {
-      "nr": "9",
-      "text": "But avoid foolish questions, and genealogies, and contentions, and strivings about the law; for they are unprofitable and vain."
+      "nr": "10",
+      "text": "But God hath revealed them unto us by his Spirit: for the Spirit searcheth all things, yea, the deep things of God."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "8-9",
+  "verse": "10",
   "version": "kjv"
 }

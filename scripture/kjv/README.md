@@ -1,5 +1,5 @@
-**Titus 3:8-9**
+**1 Corinthians 2:10**
 
-8 This is a faithful saying, and these things I will that thou affirm constantly, that they which have believed in God might be careful to maintain good works. These things are good and profitable unto men. 9 But avoid foolish questions, and genealogies, and contentions, and strivings about the law; for they are unprofitable and vain.
+10 But God hath revealed them unto us by his Spirit: for the Spirit searcheth all things, yea, the deep things of God.
 
-[Sunday 14-December, 2025](https://getbible.life/kjv/Titus/3/8-9)
+[Monday 15-December, 2025](https://getbible.life/kjv/1 Corinthians/2/10)
