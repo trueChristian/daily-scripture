@@ -1,5 +1,5 @@
-**1 Corinthians 2:10**
+**1 John 3:24**
 
-10 But God hath revealed them unto us by his Spirit: for the Spirit searcheth all things, yea, the deep things of God.
+24 And he that keepeth his commandments dwelleth in him, and he in him. And hereby we know that he abideth in us, by the Spirit which he hath given us. 
 
-[Monday 15-December, 2025](https://getbible.life/kjv/1 Corinthians/2/10)
+[Tuesday 16-December, 2025](https://getbible.life/kjv/1 John/3/24)

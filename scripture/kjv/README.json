@@ -1,17 +1,17 @@
 {
-  "book": "1 Corinthians",
-  "chapter": "2",
-  "date": "Monday 15-December, 2025",
-  "getbible": "https://getbible.life/kjv/1 Corinthians/2/10",
-  "name": "1 Corinthians 2:10",
+  "book": "1 John",
+  "chapter": "3",
+  "date": "Tuesday 16-December, 2025",
+  "getbible": "https://getbible.life/kjv/1 John/3/24",
+  "name": "1 John 3:24",
   "scripture": [
     {
-      "nr": "10",
-      "text": "But God hath revealed them unto us by his Spirit: for the Spirit searcheth all things, yea, the deep things of God."
+      "nr": "24",
+      "text": "And he that keepeth his commandments dwelleth in him, and he in him. And hereby we know that he abideth in us, by the Spirit which he hath given us. "
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "10",
+  "verse": "24",
   "version": "kjv"
 }
