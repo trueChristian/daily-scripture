@@ -1,5 +1,5 @@
-**1 John 3:24**
+**Isaiah 45:2**
 
-24 And he that keepeth his commandments dwelleth in him, and he in him. And hereby we know that he abideth in us, by the Spirit which he hath given us. 
+2 I will go before thee, and make the crooked places straight: I will break in pieces the gates of brass, and cut in sunder the bars of iron:
 
-[Tuesday 16-December, 2025](https://getbible.life/kjv/1 John/3/24)
+[Wednesday 17-December, 2025](https://getbible.life/kjv/Isaiah/45/2)
