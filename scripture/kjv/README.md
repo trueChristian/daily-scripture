@@ -1,5 +1,5 @@
-**Isaiah 45:2**
+**Amos 5:10**
 
-2 I will go before thee, and make the crooked places straight: I will break in pieces the gates of brass, and cut in sunder the bars of iron:
+10 They hate him that rebuketh in the gate, and they abhor him that speaketh uprightly.
 
-[Wednesday 17-December, 2025](https://getbible.life/kjv/Isaiah/45/2)
+[Thursday 18-December, 2025](https://getbible.life/kjv/Amos/5/10)
