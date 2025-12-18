@@ -1,17 +1,17 @@
 {
-  "book": "Amos",
-  "chapter": "5",
-  "date": "Thursday 18-December, 2025",
-  "getbible": "https://getbible.life/kjv/Amos/5/10",
-  "name": "Amos 5:10",
+  "book": "Hebrews",
+  "chapter": "3",
+  "date": "Friday 19-December, 2025",
+  "getbible": "https://getbible.life/kjv/Hebrews/3/12",
+  "name": "Hebrews 3:12",
   "scripture": [
     {
-      "nr": "10",
-      "text": "They hate him that rebuketh in the gate, and they abhor him that speaketh uprightly."
+      "nr": "12",
+      "text": "Take heed, brethren, lest there be in any of you an evil heart of unbelief, in departing from the living God."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "10",
+  "verse": "12",
   "version": "kjv"
 }

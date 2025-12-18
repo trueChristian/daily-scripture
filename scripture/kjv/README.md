@@ -1,5 +1,5 @@
-**Amos 5:10**
+**Hebrews 3:12**
 
-10 They hate him that rebuketh in the gate, and they abhor him that speaketh uprightly.
+12 Take heed, brethren, lest there be in any of you an evil heart of unbelief, in departing from the living God.
 
-[Thursday 18-December, 2025](https://getbible.life/kjv/Amos/5/10)
+[Friday 19-December, 2025](https://getbible.life/kjv/Hebrews/3/12)
