@@ -1,21 +1,25 @@
 {
-  "book": "Daniel",
-  "chapter": "10",
-  "date": "Saturday 20-December, 2025",
-  "getbible": "https://getbible.life/kjv/Daniel/10/18-19",
-  "name": "Daniel 10:18-19",
+  "book": "Job",
+  "chapter": "19",
+  "date": "Sunday 21-December, 2025",
+  "getbible": "https://getbible.life/kjv/Job/19/25-27",
+  "name": "Job 19:25-27",
   "scripture": [
     {
-      "nr": "18",
-      "text": "Then there came again and touched me one like the appearance of a man, and he strengthened me,"
+      "nr": "25",
+      "text": "For I know that my redeemer liveth, and that he shall stand at the latter day upon the earth:"
     },
     {
-      "nr": "19",
-      "text": "And said, O man greatly beloved, fear not: peace be unto thee, be strong, yea, be strong. And when he had spoken unto me, I was strengthened, and said, Let my lord speak; for thou hast strengthened me."
+      "nr": "26",
+      "text": "And though after my skin worms destroy this body, yet in my flesh shall I see God:"
+    },
+    {
+      "nr": "27",
+      "text": "Whom I shall see for myself, and mine eyes shall behold, and not another; though my reins be consumed within me."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "18-19",
+  "verse": "25-27",
   "version": "kjv"
 }
