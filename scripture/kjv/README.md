@@ -1,5 +1,5 @@
-**Job 19:25-27**
+**John 7:7**
 
-25 For I know that my redeemer liveth, and that he shall stand at the latter day upon the earth: 26 And though after my skin worms destroy this body, yet in my flesh shall I see God: 27 Whom I shall see for myself, and mine eyes shall behold, and not another; though my reins be consumed within me.
+7 The world cannot hate you; but me it hateth, because I testify of it, that the works thereof are evil.
 
-[Sunday 21-December, 2025](https://getbible.life/kjv/Job/19/25-27)
+[Monday 22-December, 2025](https://getbible.life/kjv/John/7/7)
