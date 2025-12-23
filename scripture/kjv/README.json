@@ -1,25 +1,21 @@
 {
-  "book": "1 John",
-  "chapter": "4",
-  "date": "Tuesday 23-December, 2025",
-  "getbible": "https://getbible.life/kjv/1 John/4/1-3",
-  "name": "1 John 4:1-3",
+  "book": "Psalms",
+  "chapter": "107",
+  "date": "Wednesday 24-December, 2025",
+  "getbible": "https://getbible.life/kjv/Psalms/107/29-30",
+  "name": "Psalms 107:29-30",
   "scripture": [
     {
-      "nr": "1",
-      "text": "Beloved, believe not every spirit, but try the spirits whether they are of God: because many false prophets are gone out into the world."
+      "nr": "29",
+      "text": "He maketh the storm a calm, so that the waves thereof are still."
     },
     {
-      "nr": "2",
-      "text": "Hereby know ye the Spirit of God: Every spirit that confesseth that Jesus Christ is come in the flesh is of God:"
-    },
-    {
-      "nr": "3",
-      "text": "And every spirit that confesseth not that Jesus Christ is come in the flesh is not of God: and this is that spirit of antichrist, whereof ye have heard that it should come; and even now already is it in the world."
+      "nr": "30",
+      "text": "Then are they glad because they be quiet; so he bringeth them unto their desired haven."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "1-3",
+  "verse": "29-30",
   "version": "kjv"
 }
