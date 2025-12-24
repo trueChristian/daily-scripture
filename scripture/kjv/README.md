@@ -1,5 +1,5 @@
-**Psalms 107:29-30**
+**Luke 22:61-62**
 
-29 He maketh the storm a calm, so that the waves thereof are still. 30 Then are they glad because they be quiet; so he bringeth them unto their desired haven.
+61 And the Lord turned, and looked upon Peter. And Peter remembered the word of the Lord, how he had said unto him, Before the cock crow, thou shalt deny me thrice. 62 And Peter went out, and wept bitterly.
 
-[Wednesday 24-December, 2025](https://getbible.life/kjv/Psalms/107/29-30)
+[Thursday 25-December, 2025](https://getbible.life/kjv/Luke/22/61-62)
