@@ -1,21 +1,17 @@
 {
-  "book": "Luke",
-  "chapter": "22",
-  "date": "Thursday 25-December, 2025",
-  "getbible": "https://getbible.life/kjv/Luke/22/61-62",
-  "name": "Luke 22:61-62",
+  "book": "John",
+  "chapter": "9",
+  "date": "Friday 26-December, 2025",
+  "getbible": "https://getbible.life/kjv/John/9/34",
+  "name": "John 9:34",
   "scripture": [
     {
-      "nr": "61",
-      "text": "And the Lord turned, and looked upon Peter. And Peter remembered the word of the Lord, how he had said unto him, Before the cock crow, thou shalt deny me thrice."
-    },
-    {
-      "nr": "62",
-      "text": "And Peter went out, and wept bitterly."
+      "nr": "34",
+      "text": "They answered and said unto him, Thou wast altogether born in sins, and dost thou teach us? And they cast him out."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "61-62",
+  "verse": "34",
   "version": "kjv"
 }

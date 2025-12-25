@@ -1,5 +1,5 @@
-**Luke 22:61-62**
+**John 9:34**
 
-61 And the Lord turned, and looked upon Peter. And Peter remembered the word of the Lord, how he had said unto him, Before the cock crow, thou shalt deny me thrice. 62 And Peter went out, and wept bitterly.
+34 They answered and said unto him, Thou wast altogether born in sins, and dost thou teach us? And they cast him out.
 
-[Thursday 25-December, 2025](https://getbible.life/kjv/Luke/22/61-62)
+[Friday 26-December, 2025](https://getbible.life/kjv/John/9/34)
