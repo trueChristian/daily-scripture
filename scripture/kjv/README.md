@@ -1,5 +1,5 @@
-**John 9:34**
+**Isaiah 60:20**
 
-34 They answered and said unto him, Thou wast altogether born in sins, and dost thou teach us? And they cast him out.
+20 Thy sun shall no more go down; neither shall thy moon withdraw itself: for the Lord shall be thine everlasting light, and the days of thy mourning shall be ended.
 
-[Friday 26-December, 2025](https://getbible.life/kjv/John/9/34)
+[Saturday 27-December, 2025](https://getbible.life/kjv/Isaiah/60/20)

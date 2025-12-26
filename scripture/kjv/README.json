@@ -1,17 +1,17 @@
 {
-  "book": "John",
-  "chapter": "9",
-  "date": "Friday 26-December, 2025",
-  "getbible": "https://getbible.life/kjv/John/9/34",
-  "name": "John 9:34",
+  "book": "Isaiah",
+  "chapter": "60",
+  "date": "Saturday 27-December, 2025",
+  "getbible": "https://getbible.life/kjv/Isaiah/60/20",
+  "name": "Isaiah 60:20",
   "scripture": [
     {
-      "nr": "34",
-      "text": "They answered and said unto him, Thou wast altogether born in sins, and dost thou teach us? And they cast him out."
+      "nr": "20",
+      "text": "Thy sun shall no more go down; neither shall thy moon withdraw itself: for the Lord shall be thine everlasting light, and the days of thy mourning shall be ended."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "34",
+  "verse": "20",
   "version": "kjv"
 }
