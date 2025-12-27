@@ -1,17 +1,17 @@
 {
-  "book": "Isaiah",
-  "chapter": "60",
-  "date": "Saturday 27-December, 2025",
-  "getbible": "https://getbible.life/kjv/Isaiah/60/20",
-  "name": "Isaiah 60:20",
+  "book": "Romans",
+  "chapter": "11",
+  "date": "Sunday 28-December, 2025",
+  "getbible": "https://getbible.life/kjv/Romans/11/14",
+  "name": "Romans 11:14",
   "scripture": [
     {
-      "nr": "20",
-      "text": "Thy sun shall no more go down; neither shall thy moon withdraw itself: for the Lord shall be thine everlasting light, and the days of thy mourning shall be ended."
+      "nr": "14",
+      "text": "If by any means I may provoke to emulation them which are my flesh, and might save some of them."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "20",
+  "verse": "14",
   "version": "kjv"
 }

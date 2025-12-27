@@ -1,5 +1,5 @@
-**Isaiah 60:20**
+**Romans 11:14**
 
-20 Thy sun shall no more go down; neither shall thy moon withdraw itself: for the Lord shall be thine everlasting light, and the days of thy mourning shall be ended.
+14 If by any means I may provoke to emulation them which are my flesh, and might save some of them.
 
-[Saturday 27-December, 2025](https://getbible.life/kjv/Isaiah/60/20)
+[Sunday 28-December, 2025](https://getbible.life/kjv/Romans/11/14)
