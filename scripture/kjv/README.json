@@ -1,17 +1,17 @@
 {
-  "book": "Romans",
-  "chapter": "11",
-  "date": "Sunday 28-December, 2025",
-  "getbible": "https://getbible.life/kjv/Romans/11/14",
-  "name": "Romans 11:14",
+  "book": "John",
+  "chapter": "17",
+  "date": "Monday 29-December, 2025",
+  "getbible": "https://getbible.life/kjv/John/17/23",
+  "name": "John 17:23",
   "scripture": [
     {
-      "nr": "14",
-      "text": "If by any means I may provoke to emulation them which are my flesh, and might save some of them."
+      "nr": "23",
+      "text": "I in them, and thou in me, that they may be made perfect in one; and that the world may know that thou hast sent me, and hast loved them, as thou hast loved me."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "14",
+  "verse": "23",
   "version": "kjv"
 }

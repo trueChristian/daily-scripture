@@ -1,5 +1,5 @@
-**Romans 11:14**
+**John 17:23**
 
-14 If by any means I may provoke to emulation them which are my flesh, and might save some of them.
+23 I in them, and thou in me, that they may be made perfect in one; and that the world may know that thou hast sent me, and hast loved them, as thou hast loved me.
 
-[Sunday 28-December, 2025](https://getbible.life/kjv/Romans/11/14)
+[Monday 29-December, 2025](https://getbible.life/kjv/John/17/23)
