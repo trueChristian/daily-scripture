@@ -1,5 +1,5 @@
-**John 17:23**
+**Acts 5:32**
 
-23 I in them, and thou in me, that they may be made perfect in one; and that the world may know that thou hast sent me, and hast loved them, as thou hast loved me.
+32 And we are his witnesses of these things; and so is also the Holy Ghost, whom God hath given to them that obey him.
 
-[Monday 29-December, 2025](https://getbible.life/kjv/John/17/23)
+[Tuesday 30-December, 2025](https://getbible.life/kjv/Acts/5/32)
