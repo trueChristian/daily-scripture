@@ -1,5 +1,5 @@
-**Acts 5:32**
+**Mark 10:42-45**
 
-32 And we are his witnesses of these things; and so is also the Holy Ghost, whom God hath given to them that obey him.
+42 But Jesus called them to him, and saith unto them, Ye know that they which are accounted to rule over the Gentiles exercise lordship over them; and their great ones exercise authority upon them. 43 But so shall it not be among you: but whosoever will be great among you, shall be your minister: 44 And whosoever of you will be the chiefest, shall be servant of all. 45 For even the Son of man came not to be ministered unto, but to minister, and to give his life a ransom for many.
 
-[Tuesday 30-December, 2025](https://getbible.life/kjv/Acts/5/32)
+[Wednesday 31-December, 2025](https://getbible.life/kjv/Mark/10/42-45)
