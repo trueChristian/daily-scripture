@@ -1,29 +1,17 @@
 {
-  "book": "Mark",
-  "chapter": "10",
-  "date": "Wednesday 31-December, 2025",
-  "getbible": "https://getbible.life/kjv/Mark/10/42-45",
-  "name": "Mark 10:42-45",
+  "book": "Matthew",
+  "chapter": "6",
+  "date": "Thursday 01-January, 2026",
+  "getbible": "https://getbible.life/kjv/Matthew/6/10",
+  "name": "Matthew 6:10",
   "scripture": [
     {
-      "nr": "42",
-      "text": "But Jesus called them to him, and saith unto them, Ye know that they which are accounted to rule over the Gentiles exercise lordship over them; and their great ones exercise authority upon them."
-    },
-    {
-      "nr": "43",
-      "text": "But so shall it not be among you: but whosoever will be great among you, shall be your minister:"
-    },
-    {
-      "nr": "44",
-      "text": "And whosoever of you will be the chiefest, shall be servant of all."
-    },
-    {
-      "nr": "45",
-      "text": "For even the Son of man came not to be ministered unto, but to minister, and to give his life a ransom for many."
+      "nr": "10",
+      "text": "Thy kingdom come. Thy will be done in earth, as it is in heaven."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "42-45",
+  "verse": "10",
   "version": "kjv"
 }
