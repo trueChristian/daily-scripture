@@ -1,5 +1,5 @@
-**2 Corinthians 9:15**
+**Proverbs 10:12**
 
-15 Thanks be unto God for his unspeakable gift. 
+12 Hatred stirreth up strifes: but love covereth all sins.
 
-[Saturday 03-January, 2026](https://getbible.life/kjv/2 Corinthians/9/15)
+[Sunday 04-January, 2026](https://getbible.life/kjv/Proverbs/10/12)

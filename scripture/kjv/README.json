@@ -1,17 +1,17 @@
 {
-  "book": "2 Corinthians",
-  "chapter": "9",
-  "date": "Saturday 03-January, 2026",
-  "getbible": "https://getbible.life/kjv/2 Corinthians/9/15",
-  "name": "2 Corinthians 9:15",
+  "book": "Proverbs",
+  "chapter": "10",
+  "date": "Sunday 04-January, 2026",
+  "getbible": "https://getbible.life/kjv/Proverbs/10/12",
+  "name": "Proverbs 10:12",
   "scripture": [
     {
-      "nr": "15",
-      "text": "Thanks be unto God for his unspeakable gift. "
+      "nr": "12",
+      "text": "Hatred stirreth up strifes: but love covereth all sins."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "15",
+  "verse": "12",
   "version": "kjv"
 }
