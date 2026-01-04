@@ -1,17 +1,21 @@
 {
-  "book": "Proverbs",
-  "chapter": "10",
-  "date": "Sunday 04-January, 2026",
-  "getbible": "https://getbible.life/kjv/Proverbs/10/12",
-  "name": "Proverbs 10:12",
+  "book": "James",
+  "chapter": "2",
+  "date": "Monday 05-January, 2026",
+  "getbible": "https://getbible.life/kjv/James/2/12-13",
+  "name": "James 2:12-13",
   "scripture": [
     {
       "nr": "12",
-      "text": "Hatred stirreth up strifes: but love covereth all sins."
+      "text": "So speak ye, and so do, as they that shall be judged by the law of liberty."
+    },
+    {
+      "nr": "13",
+      "text": "For he shall have judgment without mercy, that hath shewed no mercy; and mercy rejoiceth against judgment."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "12",
+  "verse": "12-13",
   "version": "kjv"
 }

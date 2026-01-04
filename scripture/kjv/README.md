@@ -1,5 +1,5 @@
-**Proverbs 10:12**
+**James 2:12-13**
 
-12 Hatred stirreth up strifes: but love covereth all sins.
+12 So speak ye, and so do, as they that shall be judged by the law of liberty. 13 For he shall have judgment without mercy, that hath shewed no mercy; and mercy rejoiceth against judgment.
 
-[Sunday 04-January, 2026](https://getbible.life/kjv/Proverbs/10/12)
+[Monday 05-January, 2026](https://getbible.life/kjv/James/2/12-13)
