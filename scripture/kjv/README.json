@@ -1,21 +1,25 @@
 {
-  "book": "James",
-  "chapter": "2",
-  "date": "Monday 05-January, 2026",
-  "getbible": "https://getbible.life/kjv/James/2/12-13",
-  "name": "James 2:12-13",
+  "book": "Luke",
+  "chapter": "21",
+  "date": "Tuesday 06-January, 2026",
+  "getbible": "https://getbible.life/kjv/Luke/21/17-19",
+  "name": "Luke 21:17-19",
   "scripture": [
     {
-      "nr": "12",
-      "text": "So speak ye, and so do, as they that shall be judged by the law of liberty."
+      "nr": "17",
+      "text": "And ye shall be hated of all men for my name’s sake."
     },
     {
-      "nr": "13",
-      "text": "For he shall have judgment without mercy, that hath shewed no mercy; and mercy rejoiceth against judgment."
+      "nr": "18",
+      "text": "But there shall not an hair of your head perish."
+    },
+    {
+      "nr": "19",
+      "text": "In your patience possess ye your souls."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "12-13",
+  "verse": "17-19",
   "version": "kjv"
 }

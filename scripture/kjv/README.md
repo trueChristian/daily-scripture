@@ -1,5 +1,5 @@
-**James 2:12-13**
+**Luke 21:17-19**
 
-12 So speak ye, and so do, as they that shall be judged by the law of liberty. 13 For he shall have judgment without mercy, that hath shewed no mercy; and mercy rejoiceth against judgment.
+17 And ye shall be hated of all men for my name’s sake. 18 But there shall not an hair of your head perish. 19 In your patience possess ye your souls.
 
-[Monday 05-January, 2026](https://getbible.life/kjv/James/2/12-13)
+[Tuesday 06-January, 2026](https://getbible.life/kjv/Luke/21/17-19)
