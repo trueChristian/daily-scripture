@@ -1,17 +1,17 @@
 {
-  "book": "Mark",
-  "chapter": "14",
-  "date": "Saturday 10-January, 2026",
-  "getbible": "https://getbible.life/kjv/Mark/14/38",
-  "name": "Mark 14:38",
+  "book": "1 Corinthians",
+  "chapter": "11",
+  "date": "Sunday 11-January, 2026",
+  "getbible": "https://getbible.life/kjv/1 Corinthians/11/16",
+  "name": "1 Corinthians 11:16",
   "scripture": [
     {
-      "nr": "38",
-      "text": "Watch ye and pray, lest ye enter into temptation. The spirit truly is ready, but the flesh is weak."
+      "nr": "16",
+      "text": "But if any man seem to be contentious, we have no such custom, neither the churches of God."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "38",
+  "verse": "16",
   "version": "kjv"
 }

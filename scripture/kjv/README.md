@@ -1,5 +1,5 @@
-**Mark 14:38**
+**1 Corinthians 11:16**
 
-38 Watch ye and pray, lest ye enter into temptation. The spirit truly is ready, but the flesh is weak.
+16 But if any man seem to be contentious, we have no such custom, neither the churches of God.
 
-[Saturday 10-January, 2026](https://getbible.life/kjv/Mark/14/38)
+[Sunday 11-January, 2026](https://getbible.life/kjv/1 Corinthians/11/16)
