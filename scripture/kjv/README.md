@@ -1,5 +1,5 @@
-**1 Corinthians 11:16**
+**John 3:34**
 
-16 But if any man seem to be contentious, we have no such custom, neither the churches of God.
+34 For he whom God hath sent speaketh the words of God: for God giveth not the Spirit by measure unto him. 
 
-[Sunday 11-January, 2026](https://getbible.life/kjv/1 Corinthians/11/16)
+[Monday 12-January, 2026](https://getbible.life/kjv/John/3/34)

@@ -1,17 +1,17 @@
 {
-  "book": "1 Corinthians",
-  "chapter": "11",
-  "date": "Sunday 11-January, 2026",
-  "getbible": "https://getbible.life/kjv/1 Corinthians/11/16",
-  "name": "1 Corinthians 11:16",
+  "book": "John",
+  "chapter": "3",
+  "date": "Monday 12-January, 2026",
+  "getbible": "https://getbible.life/kjv/John/3/34",
+  "name": "John 3:34",
   "scripture": [
     {
-      "nr": "16",
-      "text": "But if any man seem to be contentious, we have no such custom, neither the churches of God."
+      "nr": "34",
+      "text": "For he whom God hath sent speaketh the words of God: for God giveth not the Spirit by measure unto him. "
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "16",
+  "verse": "34",
   "version": "kjv"
 }
