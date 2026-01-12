@@ -1,5 +1,5 @@
-**John 3:34**
+**Proverbs 16:17**
 
-34 For he whom God hath sent speaketh the words of God: for God giveth not the Spirit by measure unto him. 
+17 The highway of the upright is to depart from evil: he that keepeth his way preserveth his soul.
 
-[Monday 12-January, 2026](https://getbible.life/kjv/John/3/34)
+[Tuesday 13-January, 2026](https://getbible.life/kjv/Proverbs/16/17)

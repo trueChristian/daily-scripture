@@ -1,17 +1,17 @@
 {
-  "book": "John",
-  "chapter": "3",
-  "date": "Monday 12-January, 2026",
-  "getbible": "https://getbible.life/kjv/John/3/34",
-  "name": "John 3:34",
+  "book": "Proverbs",
+  "chapter": "16",
+  "date": "Tuesday 13-January, 2026",
+  "getbible": "https://getbible.life/kjv/Proverbs/16/17",
+  "name": "Proverbs 16:17",
   "scripture": [
     {
-      "nr": "34",
-      "text": "For he whom God hath sent speaketh the words of God: for God giveth not the Spirit by measure unto him. "
+      "nr": "17",
+      "text": "The highway of the upright is to depart from evil: he that keepeth his way preserveth his soul."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "34",
+  "verse": "17",
   "version": "kjv"
 }
