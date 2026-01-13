@@ -1,5 +1,5 @@
-**Proverbs 16:17**
+**Proverbs 22:24**
 
-17 The highway of the upright is to depart from evil: he that keepeth his way preserveth his soul.
+24 Make no friendship with an angry man; and with a furious man thou shalt not go:
 
-[Tuesday 13-January, 2026](https://getbible.life/kjv/Proverbs/16/17)
+[Wednesday 14-January, 2026](https://getbible.life/kjv/Proverbs/22/24)

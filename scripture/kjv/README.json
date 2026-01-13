@@ -1,17 +1,17 @@
 {
   "book": "Proverbs",
-  "chapter": "16",
-  "date": "Tuesday 13-January, 2026",
-  "getbible": "https://getbible.life/kjv/Proverbs/16/17",
-  "name": "Proverbs 16:17",
+  "chapter": "22",
+  "date": "Wednesday 14-January, 2026",
+  "getbible": "https://getbible.life/kjv/Proverbs/22/24",
+  "name": "Proverbs 22:24",
   "scripture": [
     {
-      "nr": "17",
-      "text": "The highway of the upright is to depart from evil: he that keepeth his way preserveth his soul."
+      "nr": "24",
+      "text": "Make no friendship with an angry man; and with a furious man thou shalt not go:"
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "17",
+  "verse": "24",
   "version": "kjv"
 }
