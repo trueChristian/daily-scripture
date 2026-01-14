@@ -1,17 +1,17 @@
 {
-  "book": "Proverbs",
-  "chapter": "22",
-  "date": "Wednesday 14-January, 2026",
-  "getbible": "https://getbible.life/kjv/Proverbs/22/24",
-  "name": "Proverbs 22:24",
+  "book": "Hosea",
+  "chapter": "6",
+  "date": "Thursday 15-January, 2026",
+  "getbible": "https://getbible.life/kjv/Hosea/6/11",
+  "name": "Hosea 6:11",
   "scripture": [
     {
-      "nr": "24",
-      "text": "Make no friendship with an angry man; and with a furious man thou shalt not go:"
+      "nr": "11",
+      "text": "Also, O Judah, he hath set an harvest for thee, when I returned the captivity of my people. "
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "24",
+  "verse": "11",
   "version": "kjv"
 }

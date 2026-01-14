@@ -1,5 +1,5 @@
-**Proverbs 22:24**
+**Hosea 6:11**
 
-24 Make no friendship with an angry man; and with a furious man thou shalt not go:
+11 Also, O Judah, he hath set an harvest for thee, when I returned the captivity of my people. 
 
-[Wednesday 14-January, 2026](https://getbible.life/kjv/Proverbs/22/24)
+[Thursday 15-January, 2026](https://getbible.life/kjv/Hosea/6/11)
