@@ -1,17 +1,21 @@
 {
-  "book": "Hosea",
-  "chapter": "6",
-  "date": "Thursday 15-January, 2026",
-  "getbible": "https://getbible.life/kjv/Hosea/6/11",
-  "name": "Hosea 6:11",
+  "book": "Isaiah",
+  "chapter": "60",
+  "date": "Friday 16-January, 2026",
+  "getbible": "https://getbible.life/kjv/Isaiah/60/1-2",
+  "name": "Isaiah 60:1-2",
   "scripture": [
     {
-      "nr": "11",
-      "text": "Also, O Judah, he hath set an harvest for thee, when I returned the captivity of my people. "
+      "nr": "1",
+      "text": "Arise, shine; for thy light is come, and the glory of the Lord is risen upon thee."
+    },
+    {
+      "nr": "2",
+      "text": "For, behold, the darkness shall cover the earth, and gross darkness the people: but the Lord shall arise upon thee, and his glory shall be seen upon thee."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "11",
+  "verse": "1-2",
   "version": "kjv"
 }

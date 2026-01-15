@@ -1,5 +1,5 @@
-**Hosea 6:11**
+**Isaiah 60:1-2**
 
-11 Also, O Judah, he hath set an harvest for thee, when I returned the captivity of my people. 
+1 Arise, shine; for thy light is come, and the glory of the Lord is risen upon thee. 2 For, behold, the darkness shall cover the earth, and gross darkness the people: but the Lord shall arise upon thee, and his glory shall be seen upon thee.
 
-[Thursday 15-January, 2026](https://getbible.life/kjv/Hosea/6/11)
+[Friday 16-January, 2026](https://getbible.life/kjv/Isaiah/60/1-2)
