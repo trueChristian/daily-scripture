@@ -1,5 +1,5 @@
-**Isaiah 60:1-2**
+**2 Corinthians 9:9**
 
-1 Arise, shine; for thy light is come, and the glory of the Lord is risen upon thee. 2 For, behold, the darkness shall cover the earth, and gross darkness the people: but the Lord shall arise upon thee, and his glory shall be seen upon thee.
+9 (As it is written, He hath dispersed abroad; he hath given to the poor: his righteousness remaineth for ever.
 
-[Friday 16-January, 2026](https://getbible.life/kjv/Isaiah/60/1-2)
+[Saturday 17-January, 2026](https://getbible.life/kjv/2 Corinthians/9/9)
