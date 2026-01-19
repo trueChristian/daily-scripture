@@ -1,5 +1,5 @@
-**Jonah 2:6**
+**Ecclesiastes 7:27**
 
-6 I went down to the bottoms of the mountains; the earth with her bars was about me for ever: yet hast thou brought up my life from corruption, O Lord my God.
+27 Behold, this have I found, saith the preacher, counting one by one, to find out the account:
 
-[Monday 19-January, 2026](https://getbible.life/kjv/Jonah/2/6)
+[Tuesday 20-January, 2026](https://getbible.life/kjv/Ecclesiastes/7/27)
