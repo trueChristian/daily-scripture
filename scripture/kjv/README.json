@@ -1,17 +1,17 @@
 {
-  "book": "Jeremiah",
-  "chapter": "29",
-  "date": "Friday 23-January, 2026",
-  "getbible": "https://getbible.life/kjv/Jeremiah/29/11",
-  "name": "Jeremiah 29:11",
+  "book": "3 John",
+  "chapter": "1",
+  "date": "Saturday 24-January, 2026",
+  "getbible": "https://getbible.life/kjv/3 John/1/4",
+  "name": "3 John 1:4",
   "scripture": [
     {
-      "nr": "11",
-      "text": "For I know the thoughts that I think toward you, saith the Lord, thoughts of peace, and not of evil, to give you an expected end."
+      "nr": "4",
+      "text": "I have no greater joy than to hear that my children walk in truth."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "11",
+  "verse": "4",
   "version": "kjv"
 }

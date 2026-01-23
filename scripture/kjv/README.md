@@ -1,5 +1,5 @@
-**Jeremiah 29:11**
+**3 John 1:4**
 
-11 For I know the thoughts that I think toward you, saith the Lord, thoughts of peace, and not of evil, to give you an expected end.
+4 I have no greater joy than to hear that my children walk in truth.
 
-[Friday 23-January, 2026](https://getbible.life/kjv/Jeremiah/29/11)
+[Saturday 24-January, 2026](https://getbible.life/kjv/3 John/1/4)
