@@ -1,5 +1,5 @@
-**3 John 1:4**
+**Amos 3:7**
 
-4 I have no greater joy than to hear that my children walk in truth.
+7 Surely the Lord God will do nothing, but he revealeth his secret unto his servants the prophets.
 
-[Saturday 24-January, 2026](https://getbible.life/kjv/3 John/1/4)
+[Sunday 25-January, 2026](https://getbible.life/kjv/Amos/3/7)

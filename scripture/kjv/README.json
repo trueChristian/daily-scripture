@@ -1,17 +1,17 @@
 {
-  "book": "3 John",
-  "chapter": "1",
-  "date": "Saturday 24-January, 2026",
-  "getbible": "https://getbible.life/kjv/3 John/1/4",
-  "name": "3 John 1:4",
+  "book": "Amos",
+  "chapter": "3",
+  "date": "Sunday 25-January, 2026",
+  "getbible": "https://getbible.life/kjv/Amos/3/7",
+  "name": "Amos 3:7",
   "scripture": [
     {
-      "nr": "4",
-      "text": "I have no greater joy than to hear that my children walk in truth."
+      "nr": "7",
+      "text": "Surely the Lord God will do nothing, but he revealeth his secret unto his servants the prophets."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "4",
+  "verse": "7",
   "version": "kjv"
 }
