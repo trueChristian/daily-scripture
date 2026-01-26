@@ -1,17 +1,17 @@
 {
-  "book": "Revelation",
-  "chapter": "3",
-  "date": "Monday 26-January, 2026",
-  "getbible": "https://getbible.life/kjv/Revelation/3/12",
-  "name": "Revelation 3:12",
+  "book": "Genesis",
+  "chapter": "24",
+  "date": "Tuesday 27-January, 2026",
+  "getbible": "https://getbible.life/kjv/Genesis/24/31",
+  "name": "Genesis 24:31",
   "scripture": [
     {
-      "nr": "12",
-      "text": "Him that overcometh will I make a pillar in the temple of my God, and he shall go no more out: and I will write upon him the name of my God, and the name of the city of my God, which is new Jerusalem, which cometh down out of heaven from my God: and I will write upon him my new name."
+      "nr": "31",
+      "text": "And he said, Come in, thou blessed of the Lord; wherefore standest thou without? for I have prepared the house, and room for the camels."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "12",
+  "verse": "31",
   "version": "kjv"
 }
