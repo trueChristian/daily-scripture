@@ -1,5 +1,5 @@
-**Genesis 24:31**
+**Isaiah 59:19**
 
-31 And he said, Come in, thou blessed of the Lord; wherefore standest thou without? for I have prepared the house, and room for the camels.
+19 So shall they fear the name of the Lord from the west, and his glory from the rising of the sun. When the enemy shall come in like a flood, the Spirit of the Lord shall lift up a standard against him.
 
-[Tuesday 27-January, 2026](https://getbible.life/kjv/Genesis/24/31)
+[Wednesday 28-January, 2026](https://getbible.life/kjv/Isaiah/59/19)
