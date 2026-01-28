@@ -1,5 +1,5 @@
-**Isaiah 59:19**
+**Genesis 15:5**
 
-19 So shall they fear the name of the Lord from the west, and his glory from the rising of the sun. When the enemy shall come in like a flood, the Spirit of the Lord shall lift up a standard against him.
+5 And he brought him forth abroad, and said, Look now toward heaven, and tell the stars, if thou be able to number them: and he said unto him, So shall thy seed be.
 
-[Wednesday 28-January, 2026](https://getbible.life/kjv/Isaiah/59/19)
+[Thursday 29-January, 2026](https://getbible.life/kjv/Genesis/15/5)

@@ -1,17 +1,17 @@
 {
-  "book": "Isaiah",
-  "chapter": "59",
-  "date": "Wednesday 28-January, 2026",
-  "getbible": "https://getbible.life/kjv/Isaiah/59/19",
-  "name": "Isaiah 59:19",
+  "book": "Genesis",
+  "chapter": "15",
+  "date": "Thursday 29-January, 2026",
+  "getbible": "https://getbible.life/kjv/Genesis/15/5",
+  "name": "Genesis 15:5",
   "scripture": [
     {
-      "nr": "19",
-      "text": "So shall they fear the name of the Lord from the west, and his glory from the rising of the sun. When the enemy shall come in like a flood, the Spirit of the Lord shall lift up a standard against him."
+      "nr": "5",
+      "text": "And he brought him forth abroad, and said, Look now toward heaven, and tell the stars, if thou be able to number them: and he said unto him, So shall thy seed be."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "19",
+  "verse": "5",
   "version": "kjv"
 }
