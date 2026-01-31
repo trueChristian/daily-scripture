@@ -1,5 +1,5 @@
-**Matthew 19:16-24**
+**Psalms 9:9-10**
 
-16 And, behold, one came and said unto him, Good Master, what good thing shall I do, that I may have eternal life? 17 And he said unto him, Why callest thou me good? there is none good but one, that is, God: but if thou wilt enter into life, keep the commandments. 18 He saith unto him, Which? Jesus said, Thou shalt do no murder, Thou shalt not commit adultery, Thou shalt not steal, Thou shalt not bear false witness, 19 Honour thy father and thy mother: and, Thou shalt love thy neighbour as thyself. 20 The young man saith unto him, All these things have I kept from my youth up: what lack I yet? 21 Jesus said unto him, If thou wilt be perfect, go and sell that thou hast, and give to the poor, and thou shalt have treasure in heaven: and come and follow me. 22 But when the young man heard that saying, he went away sorrowful: for he had great possessions. 23 Then said Jesus unto his disciples, Verily I say unto you, That a rich man shall hardly enter into the kingdom of heaven. 24 And again I say unto you, It is easier for a camel to go through the eye of a needle, than for a rich man to enter into the kingdom of God.
+9 The Lord also will be a refuge for the oppressed, a refuge in times of trouble. 10 And they that know thy name will put their trust in thee: for thou, Lord, hast not forsaken them that seek thee.
 
-[Saturday 31-January, 2026](https://getbible.life/kjv/Matthew/19/16-24)
+[Sunday 01-February, 2026](https://getbible.life/kjv/Psalms/9/9-10)
