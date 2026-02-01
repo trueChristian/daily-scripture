@@ -1,5 +1,5 @@
-**Psalms 9:9-10**
+**Galatians 3:28**
 
-9 The Lord also will be a refuge for the oppressed, a refuge in times of trouble. 10 And they that know thy name will put their trust in thee: for thou, Lord, hast not forsaken them that seek thee.
+28 There is neither Jew nor Greek, there is neither bond nor free, there is neither male nor female: for ye are all one in Christ Jesus.
 
-[Sunday 01-February, 2026](https://getbible.life/kjv/Psalms/9/9-10)
+[Monday 02-February, 2026](https://getbible.life/kjv/Galatians/3/28)
