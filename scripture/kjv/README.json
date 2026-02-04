@@ -1,25 +1,17 @@
 {
-  "book": "Romans",
-  "chapter": "11",
-  "date": "Wednesday 04-February, 2026",
-  "getbible": "https://getbible.life/kjv/Romans/11/3-5",
-  "name": "Romans 11:3-5",
+  "book": "Proverbs",
+  "chapter": "17",
+  "date": "Thursday 05-February, 2026",
+  "getbible": "https://getbible.life/kjv/Proverbs/17/17",
+  "name": "Proverbs 17:17",
   "scripture": [
     {
-      "nr": "3",
-      "text": "Lord, they have killed thy prophets, and digged down thine altars; and I am left alone, and they seek my life."
-    },
-    {
-      "nr": "4",
-      "text": "But what saith the answer of God unto him? I have reserved to myself seven thousand men, who have not bowed the knee to the image of Baal."
-    },
-    {
-      "nr": "5",
-      "text": "Even so then at this present time also there is a remnant according to the election of grace."
+      "nr": "17",
+      "text": "A friend loveth at all times, and a brother is born for adversity."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "3-5",
+  "verse": "17",
   "version": "kjv"
 }
