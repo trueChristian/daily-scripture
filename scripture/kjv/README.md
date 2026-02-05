@@ -1,5 +1,5 @@
-**Proverbs 17:17**
+**Psalms 3:6**
 
-17 A friend loveth at all times, and a brother is born for adversity.
+6 I will not be afraid of ten thousands of people, that have set themselves against me round about.
 
-[Thursday 05-February, 2026](https://getbible.life/kjv/Proverbs/17/17)
+[Friday 06-February, 2026](https://getbible.life/kjv/Psalms/3/6)

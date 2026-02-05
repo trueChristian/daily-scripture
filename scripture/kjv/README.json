@@ -1,17 +1,17 @@
 {
-  "book": "Proverbs",
-  "chapter": "17",
-  "date": "Thursday 05-February, 2026",
-  "getbible": "https://getbible.life/kjv/Proverbs/17/17",
-  "name": "Proverbs 17:17",
+  "book": "Psalms",
+  "chapter": "3",
+  "date": "Friday 06-February, 2026",
+  "getbible": "https://getbible.life/kjv/Psalms/3/6",
+  "name": "Psalms 3:6",
   "scripture": [
     {
-      "nr": "17",
-      "text": "A friend loveth at all times, and a brother is born for adversity."
+      "nr": "6",
+      "text": "I will not be afraid of ten thousands of people, that have set themselves against me round about."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "17",
+  "verse": "6",
   "version": "kjv"
 }
