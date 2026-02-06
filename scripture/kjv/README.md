@@ -1,5 +1,5 @@
-**Psalms 3:6**
+**Proverbs 3:7**
 
-6 I will not be afraid of ten thousands of people, that have set themselves against me round about.
+7 Be not wise in thine own eyes: fear the Lord, and depart from evil.
 
-[Friday 06-February, 2026](https://getbible.life/kjv/Psalms/3/6)
+[Saturday 07-February, 2026](https://getbible.life/kjv/Proverbs/3/7)
