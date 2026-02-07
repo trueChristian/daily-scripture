@@ -1,5 +1,5 @@
-**Proverbs 3:7**
+**1 Corinthians 3:3-4**
 
-7 Be not wise in thine own eyes: fear the Lord, and depart from evil.
+3 For ye are yet carnal: for whereas there is among you envying, and strife, and divisions, are ye not carnal, and walk as men? 4 For while one saith, I am of Paul; and another, I am of Apollos; are ye not carnal?
 
-[Saturday 07-February, 2026](https://getbible.life/kjv/Proverbs/3/7)
+[Sunday 08-February, 2026](https://getbible.life/kjv/1 Corinthians/3/3-4)
