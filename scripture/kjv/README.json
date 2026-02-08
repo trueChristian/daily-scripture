@@ -1,21 +1,21 @@
 {
-  "book": "1 Corinthians",
-  "chapter": "3",
-  "date": "Sunday 08-February, 2026",
-  "getbible": "https://getbible.life/kjv/1 Corinthians/3/3-4",
-  "name": "1 Corinthians 3:3-4",
+  "book": "Psalms",
+  "chapter": "62",
+  "date": "Monday 09-February, 2026",
+  "getbible": "https://getbible.life/kjv/Psalms/62/1-2",
+  "name": "Psalms 62:1-2",
   "scripture": [
     {
-      "nr": "3",
-      "text": "For ye are yet carnal: for whereas there is among you envying, and strife, and divisions, are ye not carnal, and walk as men?"
+      "nr": "1",
+      "text": "Truly my soul waiteth upon God: from him cometh my salvation."
     },
     {
-      "nr": "4",
-      "text": "For while one saith, I am of Paul; and another, I am of Apollos; are ye not carnal?"
+      "nr": "2",
+      "text": "He only is my rock and my salvation; he is my defence; I shall not be greatly moved."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "3-4",
+  "verse": "1-2",
   "version": "kjv"
 }

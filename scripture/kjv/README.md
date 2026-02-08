@@ -1,5 +1,5 @@
-**1 Corinthians 3:3-4**
+**Psalms 62:1-2**
 
-3 For ye are yet carnal: for whereas there is among you envying, and strife, and divisions, are ye not carnal, and walk as men? 4 For while one saith, I am of Paul; and another, I am of Apollos; are ye not carnal?
+1 Truly my soul waiteth upon God: from him cometh my salvation. 2 He only is my rock and my salvation; he is my defence; I shall not be greatly moved.
 
-[Sunday 08-February, 2026](https://getbible.life/kjv/1 Corinthians/3/3-4)
+[Monday 09-February, 2026](https://getbible.life/kjv/Psalms/62/1-2)
