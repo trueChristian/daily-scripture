@@ -1,5 +1,5 @@
-**Luke 21:13**
+**Revelation 3:2**
 
-13 And it shall turn to you for a testimony.
+2 Be watchful, and strengthen the things which remain, that are ready to die: for I have not found thy works perfect before God.
 
-[Wednesday 11-February, 2026](https://getbible.life/kjv/Luke/21/13)
+[Thursday 12-February, 2026](https://getbible.life/kjv/Revelation/3/2)
