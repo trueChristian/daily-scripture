@@ -1,17 +1,17 @@
 {
-  "book": "Revelation",
+  "book": "Isaiah",
   "chapter": "3",
-  "date": "Thursday 12-February, 2026",
-  "getbible": "https://getbible.life/kjv/Revelation/3/2",
-  "name": "Revelation 3:2",
+  "date": "Friday 13-February, 2026",
+  "getbible": "https://getbible.life/kjv/Isaiah/3/11",
+  "name": "Isaiah 3:11",
   "scripture": [
     {
-      "nr": "2",
-      "text": "Be watchful, and strengthen the things which remain, that are ready to die: for I have not found thy works perfect before God."
+      "nr": "11",
+      "text": "Woe unto the wicked! it shall be ill with him: for the reward of his hands shall be given him."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "2",
+  "verse": "11",
   "version": "kjv"
 }

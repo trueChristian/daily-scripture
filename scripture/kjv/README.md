@@ -1,5 +1,5 @@
-**Revelation 3:2**
+**Isaiah 3:11**
 
-2 Be watchful, and strengthen the things which remain, that are ready to die: for I have not found thy works perfect before God.
+11 Woe unto the wicked! it shall be ill with him: for the reward of his hands shall be given him.
 
-[Thursday 12-February, 2026](https://getbible.life/kjv/Revelation/3/2)
+[Friday 13-February, 2026](https://getbible.life/kjv/Isaiah/3/11)
