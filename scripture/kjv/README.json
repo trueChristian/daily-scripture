@@ -1,17 +1,21 @@
 {
-  "book": "Isaiah",
-  "chapter": "3",
-  "date": "Friday 13-February, 2026",
-  "getbible": "https://getbible.life/kjv/Isaiah/3/11",
-  "name": "Isaiah 3:11",
+  "book": "1 Thessalonians",
+  "chapter": "4",
+  "date": "Saturday 14-February, 2026",
+  "getbible": "https://getbible.life/kjv/1 Thessalonians/4/11-12",
+  "name": "1 Thessalonians 4:11-12",
   "scripture": [
     {
       "nr": "11",
-      "text": "Woe unto the wicked! it shall be ill with him: for the reward of his hands shall be given him."
+      "text": "And that ye study to be quiet, and to do your own business, and to work with your own hands, as we commanded you;"
+    },
+    {
+      "nr": "12",
+      "text": "That ye may walk honestly toward them that are without, and that ye may have lack of nothing."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "11",
+  "verse": "11-12",
   "version": "kjv"
 }

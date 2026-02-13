@@ -1,5 +1,5 @@
-**Isaiah 3:11**
+**1 Thessalonians 4:11-12**
 
-11 Woe unto the wicked! it shall be ill with him: for the reward of his hands shall be given him.
+11 And that ye study to be quiet, and to do your own business, and to work with your own hands, as we commanded you; 12 That ye may walk honestly toward them that are without, and that ye may have lack of nothing.
 
-[Friday 13-February, 2026](https://getbible.life/kjv/Isaiah/3/11)
+[Saturday 14-February, 2026](https://getbible.life/kjv/1 Thessalonians/4/11-12)
