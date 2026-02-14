@@ -1,21 +1,21 @@
 {
-  "book": "1 Thessalonians",
-  "chapter": "4",
-  "date": "Saturday 14-February, 2026",
-  "getbible": "https://getbible.life/kjv/1 Thessalonians/4/11-12",
-  "name": "1 Thessalonians 4:11-12",
+  "book": "1 John",
+  "chapter": "5",
+  "date": "Sunday 15-February, 2026",
+  "getbible": "https://getbible.life/kjv/1 John/5/12-13",
+  "name": "1 John 5:12-13",
   "scripture": [
     {
-      "nr": "11",
-      "text": "And that ye study to be quiet, and to do your own business, and to work with your own hands, as we commanded you;"
+      "nr": "12",
+      "text": "He that hath the Son hath life; and he that hath not the Son of God hath not life."
     },
     {
-      "nr": "12",
-      "text": "That ye may walk honestly toward them that are without, and that ye may have lack of nothing."
+      "nr": "13",
+      "text": "These things have I written unto you that believe on the name of the Son of God; that ye may know that ye have eternal life, and that ye may believe on the name of the Son of God."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "11-12",
+  "verse": "12-13",
   "version": "kjv"
 }
