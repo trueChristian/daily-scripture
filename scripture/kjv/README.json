@@ -1,21 +1,29 @@
 {
-  "book": "1 John",
-  "chapter": "5",
-  "date": "Sunday 15-February, 2026",
-  "getbible": "https://getbible.life/kjv/1 John/5/12-13",
-  "name": "1 John 5:12-13",
+  "book": "Joshua",
+  "chapter": "23",
+  "date": "Monday 16-February, 2026",
+  "getbible": "https://getbible.life/kjv/Joshua/23/8-11",
+  "name": "Joshua 23:8-11",
   "scripture": [
     {
-      "nr": "12",
-      "text": "He that hath the Son hath life; and he that hath not the Son of God hath not life."
+      "nr": "8",
+      "text": "But cleave unto the Lord your God, as ye have done unto this day."
     },
     {
-      "nr": "13",
-      "text": "These things have I written unto you that believe on the name of the Son of God; that ye may know that ye have eternal life, and that ye may believe on the name of the Son of God."
+      "nr": "9",
+      "text": "For the Lord hath driven out from before you great nations and strong: but as for you, no man hath been able to stand before you unto this day."
+    },
+    {
+      "nr": "10",
+      "text": "One man of you shall chase a thousand: for the Lord your God, he it is that fighteth for you, as he hath promised you."
+    },
+    {
+      "nr": "11",
+      "text": "Take good heed therefore unto yourselves, that ye love the Lord your God."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "12-13",
+  "verse": "8-11",
   "version": "kjv"
 }
