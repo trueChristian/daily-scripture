@@ -1,17 +1,21 @@
 {
-  "book": "1 John",
-  "chapter": "2",
-  "date": "Tuesday 17-February, 2026",
-  "getbible": "https://getbible.life/kjv/1 John/2/20",
-  "name": "1 John 2:20",
+  "book": "Romans",
+  "chapter": "1",
+  "date": "Wednesday 18-February, 2026",
+  "getbible": "https://getbible.life/kjv/Romans/1/14-15",
+  "name": "Romans 1:14-15",
   "scripture": [
     {
-      "nr": "20",
-      "text": "But ye have an unction from the Holy One, and ye know all things."
+      "nr": "14",
+      "text": "I am debtor both to the Greeks, and to the Barbarians; both to the wise, and to the unwise."
+    },
+    {
+      "nr": "15",
+      "text": "So, as much as in me is, I am ready to preach the gospel to you that are at Rome also."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "20",
+  "verse": "14-15",
   "version": "kjv"
 }
