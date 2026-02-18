@@ -1,5 +1,5 @@
-**Romans 1:14-15**
+**Hebrews 6:15**
 
-14 I am debtor both to the Greeks, and to the Barbarians; both to the wise, and to the unwise. 15 So, as much as in me is, I am ready to preach the gospel to you that are at Rome also.
+15 And so, after he had patiently endured, he obtained the promise.
 
-[Wednesday 18-February, 2026](https://getbible.life/kjv/Romans/1/14-15)
+[Thursday 19-February, 2026](https://getbible.life/kjv/Hebrews/6/15)
