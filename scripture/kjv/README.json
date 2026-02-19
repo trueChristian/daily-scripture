@@ -1,17 +1,33 @@
 {
-  "book": "Hebrews",
-  "chapter": "6",
-  "date": "Thursday 19-February, 2026",
-  "getbible": "https://getbible.life/kjv/Hebrews/6/15",
-  "name": "Hebrews 6:15",
+  "book": "Psalms",
+  "chapter": "63",
+  "date": "Friday 20-February, 2026",
+  "getbible": "https://getbible.life/kjv/Psalms/63/4-8",
+  "name": "Psalms 63:4-8",
   "scripture": [
     {
-      "nr": "15",
-      "text": "And so, after he had patiently endured, he obtained the promise."
+      "nr": "4",
+      "text": "Thus will I bless thee while I live: I will lift up my hands in thy name."
+    },
+    {
+      "nr": "5",
+      "text": "My soul shall be satisfied as with marrow and fatness; and my mouth shall praise thee with joyful lips:"
+    },
+    {
+      "nr": "6",
+      "text": "When I remember thee upon my bed, and meditate on thee in the night watches."
+    },
+    {
+      "nr": "7",
+      "text": "Because thou hast been my help, therefore in the shadow of thy wings will I rejoice."
+    },
+    {
+      "nr": "8",
+      "text": "My soul followeth hard after thee: thy right hand upholdeth me."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "15",
+  "verse": "4-8",
   "version": "kjv"
 }
