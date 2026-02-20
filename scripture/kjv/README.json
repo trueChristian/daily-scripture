@@ -1,33 +1,17 @@
 {
-  "book": "Psalms",
-  "chapter": "63",
-  "date": "Friday 20-February, 2026",
-  "getbible": "https://getbible.life/kjv/Psalms/63/4-8",
-  "name": "Psalms 63:4-8",
+  "book": "Revelation",
+  "chapter": "22",
+  "date": "Saturday 21-February, 2026",
+  "getbible": "https://getbible.life/kjv/Revelation/22/12",
+  "name": "Revelation 22:12",
   "scripture": [
     {
-      "nr": "4",
-      "text": "Thus will I bless thee while I live: I will lift up my hands in thy name."
-    },
-    {
-      "nr": "5",
-      "text": "My soul shall be satisfied as with marrow and fatness; and my mouth shall praise thee with joyful lips:"
-    },
-    {
-      "nr": "6",
-      "text": "When I remember thee upon my bed, and meditate on thee in the night watches."
-    },
-    {
-      "nr": "7",
-      "text": "Because thou hast been my help, therefore in the shadow of thy wings will I rejoice."
-    },
-    {
-      "nr": "8",
-      "text": "My soul followeth hard after thee: thy right hand upholdeth me."
+      "nr": "12",
+      "text": "And, behold, I come quickly; and my reward is with me, to give every man according as his work shall be."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "4-8",
+  "verse": "12",
   "version": "kjv"
 }

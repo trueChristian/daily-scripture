@@ -1,5 +1,5 @@
-**Psalms 63:4-8**
+**Revelation 22:12**
 
-4 Thus will I bless thee while I live: I will lift up my hands in thy name. 5 My soul shall be satisfied as with marrow and fatness; and my mouth shall praise thee with joyful lips: 6 When I remember thee upon my bed, and meditate on thee in the night watches. 7 Because thou hast been my help, therefore in the shadow of thy wings will I rejoice. 8 My soul followeth hard after thee: thy right hand upholdeth me.
+12 And, behold, I come quickly; and my reward is with me, to give every man according as his work shall be.
 
-[Friday 20-February, 2026](https://getbible.life/kjv/Psalms/63/4-8)
+[Saturday 21-February, 2026](https://getbible.life/kjv/Revelation/22/12)
