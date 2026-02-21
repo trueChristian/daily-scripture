@@ -1,17 +1,25 @@
 {
-  "book": "Revelation",
-  "chapter": "22",
-  "date": "Saturday 21-February, 2026",
-  "getbible": "https://getbible.life/kjv/Revelation/22/12",
-  "name": "Revelation 22:12",
+  "book": "Isaiah",
+  "chapter": "55",
+  "date": "Sunday 22-February, 2026",
+  "getbible": "https://getbible.life/kjv/Isaiah/55/1-3",
+  "name": "Isaiah 55:1-3",
   "scripture": [
     {
-      "nr": "12",
-      "text": "And, behold, I come quickly; and my reward is with me, to give every man according as his work shall be."
+      "nr": "1",
+      "text": "Ho, every one that thirsteth, come ye to the waters, and he that hath no money; come ye, buy, and eat; yea, come, buy wine and milk without money and without price."
+    },
+    {
+      "nr": "2",
+      "text": "Wherefore do ye spend money for that which is not bread? and your labour for that which satisfieth not? hearken diligently unto me, and eat ye that which is good, and let your soul delight itself in fatness."
+    },
+    {
+      "nr": "3",
+      "text": "Incline your ear, and come unto me: hear, and your soul shall live; and I will make an everlasting covenant with you, even the sure mercies of David."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "12",
+  "verse": "1-3",
   "version": "kjv"
 }
