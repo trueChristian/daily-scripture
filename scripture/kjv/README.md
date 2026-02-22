@@ -1,5 +1,5 @@
-**Isaiah 55:1-3**
+**Psalms 65:9-13**
 
-1 Ho, every one that thirsteth, come ye to the waters, and he that hath no money; come ye, buy, and eat; yea, come, buy wine and milk without money and without price. 2 Wherefore do ye spend money for that which is not bread? and your labour for that which satisfieth not? hearken diligently unto me, and eat ye that which is good, and let your soul delight itself in fatness. 3 Incline your ear, and come unto me: hear, and your soul shall live; and I will make an everlasting covenant with you, even the sure mercies of David.
+9 Thou visitest the earth, and waterest it: thou greatly enrichest it with the river of God, which is full of water: thou preparest them corn, when thou hast so provided for it. 10 Thou waterest the ridges thereof abundantly: thou settlest the furrows thereof: thou makest it soft with showers: thou blessest the springing thereof. 11 Thou crownest the year with thy goodness; and thy paths drop fatness. 12 They drop upon the pastures of the wilderness: and the little hills rejoice on every side. 13 The pastures are clothed with flocks; the valleys also are covered over with corn; they shout for joy, they also sing. 
 
-[Sunday 22-February, 2026](https://getbible.life/kjv/Isaiah/55/1-3)
+[Monday 23-February, 2026](https://getbible.life/kjv/Psalms/65/9-13)
