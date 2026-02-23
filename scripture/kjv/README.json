@@ -1,33 +1,17 @@
 {
-  "book": "Psalms",
-  "chapter": "65",
-  "date": "Monday 23-February, 2026",
-  "getbible": "https://getbible.life/kjv/Psalms/65/9-13",
-  "name": "Psalms 65:9-13",
+  "book": "Isaiah",
+  "chapter": "6",
+  "date": "Tuesday 24-February, 2026",
+  "getbible": "https://getbible.life/kjv/Isaiah/6/8",
+  "name": "Isaiah 6:8",
   "scripture": [
     {
-      "nr": "9",
-      "text": "Thou visitest the earth, and waterest it: thou greatly enrichest it with the river of God, which is full of water: thou preparest them corn, when thou hast so provided for it."
-    },
-    {
-      "nr": "10",
-      "text": "Thou waterest the ridges thereof abundantly: thou settlest the furrows thereof: thou makest it soft with showers: thou blessest the springing thereof."
-    },
-    {
-      "nr": "11",
-      "text": "Thou crownest the year with thy goodness; and thy paths drop fatness."
-    },
-    {
-      "nr": "12",
-      "text": "They drop upon the pastures of the wilderness: and the little hills rejoice on every side."
-    },
-    {
-      "nr": "13",
-      "text": "The pastures are clothed with flocks; the valleys also are covered over with corn; they shout for joy, they also sing. "
+      "nr": "8",
+      "text": "Also I heard the voice of the Lord, saying, Whom shall I send, and who will go for us? Then said I, Here am I; send me."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "9-13",
+  "verse": "8",
   "version": "kjv"
 }
