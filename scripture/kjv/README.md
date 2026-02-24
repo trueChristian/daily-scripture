@@ -1,5 +1,5 @@
-**Isaiah 6:8**
+**Romans 2:4**
 
-8 Also I heard the voice of the Lord, saying, Whom shall I send, and who will go for us? Then said I, Here am I; send me.
+4 Or despisest thou the riches of his goodness and forbearance and longsuffering; not knowing that the goodness of God leadeth thee to repentance?
 
-[Tuesday 24-February, 2026](https://getbible.life/kjv/Isaiah/6/8)
+[Wednesday 25-February, 2026](https://getbible.life/kjv/Romans/2/4)
