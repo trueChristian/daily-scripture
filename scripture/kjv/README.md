@@ -1,5 +1,5 @@
-**Romans 2:4**
+**Matthew 7:28-29**
 
-4 Or despisest thou the riches of his goodness and forbearance and longsuffering; not knowing that the goodness of God leadeth thee to repentance?
+28 And it came to pass, when Jesus had ended these sayings, the people were astonished at his doctrine: 29 For he taught them as one having authority, and not as the scribes. 
 
-[Wednesday 25-February, 2026](https://getbible.life/kjv/Romans/2/4)
+[Thursday 26-February, 2026](https://getbible.life/kjv/Matthew/7/28-29)

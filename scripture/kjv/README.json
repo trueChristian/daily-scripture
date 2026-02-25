@@ -1,17 +1,21 @@
 {
-  "book": "Romans",
-  "chapter": "2",
-  "date": "Wednesday 25-February, 2026",
-  "getbible": "https://getbible.life/kjv/Romans/2/4",
-  "name": "Romans 2:4",
+  "book": "Matthew",
+  "chapter": "7",
+  "date": "Thursday 26-February, 2026",
+  "getbible": "https://getbible.life/kjv/Matthew/7/28-29",
+  "name": "Matthew 7:28-29",
   "scripture": [
     {
-      "nr": "4",
-      "text": "Or despisest thou the riches of his goodness and forbearance and longsuffering; not knowing that the goodness of God leadeth thee to repentance?"
+      "nr": "28",
+      "text": "And it came to pass, when Jesus had ended these sayings, the people were astonished at his doctrine:"
+    },
+    {
+      "nr": "29",
+      "text": "For he taught them as one having authority, and not as the scribes. "
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "4",
+  "verse": "28-29",
   "version": "kjv"
 }
