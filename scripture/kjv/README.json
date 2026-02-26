@@ -1,21 +1,21 @@
 {
-  "book": "Matthew",
-  "chapter": "7",
-  "date": "Thursday 26-February, 2026",
-  "getbible": "https://getbible.life/kjv/Matthew/7/28-29",
-  "name": "Matthew 7:28-29",
+  "book": "Isaiah",
+  "chapter": "66",
+  "date": "Friday 27-February, 2026",
+  "getbible": "https://getbible.life/kjv/Isaiah/66/13-14",
+  "name": "Isaiah 66:13-14",
   "scripture": [
     {
-      "nr": "28",
-      "text": "And it came to pass, when Jesus had ended these sayings, the people were astonished at his doctrine:"
+      "nr": "13",
+      "text": "As one whom his mother comforteth, so will I comfort you; and ye shall be comforted in Jerusalem."
     },
     {
-      "nr": "29",
-      "text": "For he taught them as one having authority, and not as the scribes. "
+      "nr": "14",
+      "text": "And when ye see this, your heart shall rejoice, and your bones shall flourish like an herb: and the hand of the Lord shall be known toward his servants, and his indignation toward his enemies."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "28-29",
+  "verse": "13-14",
   "version": "kjv"
 }

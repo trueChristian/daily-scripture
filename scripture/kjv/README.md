@@ -1,5 +1,5 @@
-**Matthew 7:28-29**
+**Isaiah 66:13-14**
 
-28 And it came to pass, when Jesus had ended these sayings, the people were astonished at his doctrine: 29 For he taught them as one having authority, and not as the scribes. 
+13 As one whom his mother comforteth, so will I comfort you; and ye shall be comforted in Jerusalem. 14 And when ye see this, your heart shall rejoice, and your bones shall flourish like an herb: and the hand of the Lord shall be known toward his servants, and his indignation toward his enemies.
 
-[Thursday 26-February, 2026](https://getbible.life/kjv/Matthew/7/28-29)
+[Friday 27-February, 2026](https://getbible.life/kjv/Isaiah/66/13-14)
