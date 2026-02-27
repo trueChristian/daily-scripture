@@ -1,21 +1,17 @@
 {
-  "book": "Isaiah",
-  "chapter": "66",
-  "date": "Friday 27-February, 2026",
-  "getbible": "https://getbible.life/kjv/Isaiah/66/13-14",
-  "name": "Isaiah 66:13-14",
+  "book": "Leviticus",
+  "chapter": "19",
+  "date": "Saturday 28-February, 2026",
+  "getbible": "https://getbible.life/kjv/Leviticus/19/15",
+  "name": "Leviticus 19:15",
   "scripture": [
     {
-      "nr": "13",
-      "text": "As one whom his mother comforteth, so will I comfort you; and ye shall be comforted in Jerusalem."
-    },
-    {
-      "nr": "14",
-      "text": "And when ye see this, your heart shall rejoice, and your bones shall flourish like an herb: and the hand of the Lord shall be known toward his servants, and his indignation toward his enemies."
+      "nr": "15",
+      "text": "Ye shall do no unrighteousness in judgment: thou shalt not respect the person of the poor, nor honour the person of the mighty: but in righteousness shalt thou judge thy neighbour."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "13-14",
+  "verse": "15",
   "version": "kjv"
 }

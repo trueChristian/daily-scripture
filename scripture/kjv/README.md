@@ -1,5 +1,5 @@
-**Isaiah 66:13-14**
+**Leviticus 19:15**
 
-13 As one whom his mother comforteth, so will I comfort you; and ye shall be comforted in Jerusalem. 14 And when ye see this, your heart shall rejoice, and your bones shall flourish like an herb: and the hand of the Lord shall be known toward his servants, and his indignation toward his enemies.
+15 Ye shall do no unrighteousness in judgment: thou shalt not respect the person of the poor, nor honour the person of the mighty: but in righteousness shalt thou judge thy neighbour.
 
-[Friday 27-February, 2026](https://getbible.life/kjv/Isaiah/66/13-14)
+[Saturday 28-February, 2026](https://getbible.life/kjv/Leviticus/19/15)
