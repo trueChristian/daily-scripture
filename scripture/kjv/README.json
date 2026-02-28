@@ -1,17 +1,17 @@
 {
-  "book": "Leviticus",
-  "chapter": "19",
-  "date": "Saturday 28-February, 2026",
-  "getbible": "https://getbible.life/kjv/Leviticus/19/15",
-  "name": "Leviticus 19:15",
+  "book": "Zephaniah",
+  "chapter": "3",
+  "date": "Sunday 01-March, 2026",
+  "getbible": "https://getbible.life/kjv/Zephaniah/3/17",
+  "name": "Zephaniah 3:17",
   "scripture": [
     {
-      "nr": "15",
-      "text": "Ye shall do no unrighteousness in judgment: thou shalt not respect the person of the poor, nor honour the person of the mighty: but in righteousness shalt thou judge thy neighbour."
+      "nr": "17",
+      "text": "The Lord thy God in the midst of thee is mighty; he will save, he will rejoice over thee with joy; he will rest in his love, he will joy over thee with singing."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "15",
+  "verse": "17",
   "version": "kjv"
 }

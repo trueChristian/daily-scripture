@@ -1,5 +1,5 @@
-**Leviticus 19:15**
+**Zephaniah 3:17**
 
-15 Ye shall do no unrighteousness in judgment: thou shalt not respect the person of the poor, nor honour the person of the mighty: but in righteousness shalt thou judge thy neighbour.
+17 The Lord thy God in the midst of thee is mighty; he will save, he will rejoice over thee with joy; he will rest in his love, he will joy over thee with singing.
 
-[Saturday 28-February, 2026](https://getbible.life/kjv/Leviticus/19/15)
+[Sunday 01-March, 2026](https://getbible.life/kjv/Zephaniah/3/17)
