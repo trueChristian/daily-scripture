@@ -1,17 +1,17 @@
 {
-  "book": "Zephaniah",
-  "chapter": "3",
-  "date": "Sunday 01-March, 2026",
-  "getbible": "https://getbible.life/kjv/Zephaniah/3/17",
-  "name": "Zephaniah 3:17",
+  "book": "1 Corinthians",
+  "chapter": "12",
+  "date": "Monday 02-March, 2026",
+  "getbible": "https://getbible.life/kjv/1 Corinthians/12/24",
+  "name": "1 Corinthians 12:24",
   "scripture": [
     {
-      "nr": "17",
-      "text": "The Lord thy God in the midst of thee is mighty; he will save, he will rejoice over thee with joy; he will rest in his love, he will joy over thee with singing."
+      "nr": "24",
+      "text": "For our comely parts have no need: but God hath tempered the body together, having given more abundant honour to that part which lacked:"
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "17",
+  "verse": "24",
   "version": "kjv"
 }

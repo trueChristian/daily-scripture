@@ -1,5 +1,5 @@
-**Zephaniah 3:17**
+**1 Corinthians 12:24**
 
-17 The Lord thy God in the midst of thee is mighty; he will save, he will rejoice over thee with joy; he will rest in his love, he will joy over thee with singing.
+24 For our comely parts have no need: but God hath tempered the body together, having given more abundant honour to that part which lacked:
 
-[Sunday 01-March, 2026](https://getbible.life/kjv/Zephaniah/3/17)
+[Monday 02-March, 2026](https://getbible.life/kjv/1 Corinthians/12/24)
