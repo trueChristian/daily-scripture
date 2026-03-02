@@ -1,5 +1,5 @@
-**1 Corinthians 12:24**
+**Psalms 39:11**
 
-24 For our comely parts have no need: but God hath tempered the body together, having given more abundant honour to that part which lacked:
+11 When thou with rebukes dost correct man for iniquity, thou makest his beauty to consume away like a moth: surely every man is vanity. Selah.
 
-[Monday 02-March, 2026](https://getbible.life/kjv/1 Corinthians/12/24)
+[Tuesday 03-March, 2026](https://getbible.life/kjv/Psalms/39/11)

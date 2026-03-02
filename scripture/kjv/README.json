@@ -1,17 +1,17 @@
 {
-  "book": "1 Corinthians",
-  "chapter": "12",
-  "date": "Monday 02-March, 2026",
-  "getbible": "https://getbible.life/kjv/1 Corinthians/12/24",
-  "name": "1 Corinthians 12:24",
+  "book": "Psalms",
+  "chapter": "39",
+  "date": "Tuesday 03-March, 2026",
+  "getbible": "https://getbible.life/kjv/Psalms/39/11",
+  "name": "Psalms 39:11",
   "scripture": [
     {
-      "nr": "24",
-      "text": "For our comely parts have no need: but God hath tempered the body together, having given more abundant honour to that part which lacked:"
+      "nr": "11",
+      "text": "When thou with rebukes dost correct man for iniquity, thou makest his beauty to consume away like a moth: surely every man is vanity. Selah."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "24",
+  "verse": "11",
   "version": "kjv"
 }
