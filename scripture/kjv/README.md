@@ -1,5 +1,5 @@
-**Psalms 39:11**
+**Proverbs 19:2**
 
-11 When thou with rebukes dost correct man for iniquity, thou makest his beauty to consume away like a moth: surely every man is vanity. Selah.
+2 Also, that the soul be without knowledge, it is not good; and he that hasteth with his feet sinneth.
 
-[Tuesday 03-March, 2026](https://getbible.life/kjv/Psalms/39/11)
+[Wednesday 04-March, 2026](https://getbible.life/kjv/Proverbs/19/2)

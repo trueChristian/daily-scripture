@@ -1,17 +1,17 @@
 {
-  "book": "Psalms",
-  "chapter": "39",
-  "date": "Tuesday 03-March, 2026",
-  "getbible": "https://getbible.life/kjv/Psalms/39/11",
-  "name": "Psalms 39:11",
+  "book": "Proverbs",
+  "chapter": "19",
+  "date": "Wednesday 04-March, 2026",
+  "getbible": "https://getbible.life/kjv/Proverbs/19/2",
+  "name": "Proverbs 19:2",
   "scripture": [
     {
-      "nr": "11",
-      "text": "When thou with rebukes dost correct man for iniquity, thou makest his beauty to consume away like a moth: surely every man is vanity. Selah."
+      "nr": "2",
+      "text": "Also, that the soul be without knowledge, it is not good; and he that hasteth with his feet sinneth."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "11",
+  "verse": "2",
   "version": "kjv"
 }
