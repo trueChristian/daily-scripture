@@ -1,5 +1,5 @@
-**Proverbs 19:2**
+**Jeremiah 4:3**
 
-2 Also, that the soul be without knowledge, it is not good; and he that hasteth with his feet sinneth.
+3 For thus saith the Lord to the men of Judah and Jerusalem, Break up your fallow ground, and sow not among thorns.
 
-[Wednesday 04-March, 2026](https://getbible.life/kjv/Proverbs/19/2)
+[Thursday 05-March, 2026](https://getbible.life/kjv/Jeremiah/4/3)
