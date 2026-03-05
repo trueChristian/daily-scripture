@@ -1,17 +1,25 @@
 {
-  "book": "Jeremiah",
-  "chapter": "4",
-  "date": "Thursday 05-March, 2026",
-  "getbible": "https://getbible.life/kjv/Jeremiah/4/3",
-  "name": "Jeremiah 4:3",
+  "book": "Psalms",
+  "chapter": "36",
+  "date": "Friday 06-March, 2026",
+  "getbible": "https://getbible.life/kjv/Psalms/36/7-9",
+  "name": "Psalms 36:7-9",
   "scripture": [
     {
-      "nr": "3",
-      "text": "For thus saith the Lord to the men of Judah and Jerusalem, Break up your fallow ground, and sow not among thorns."
+      "nr": "7",
+      "text": "How excellent is thy lovingkindness, O God! therefore the children of men put their trust under the shadow of thy wings."
+    },
+    {
+      "nr": "8",
+      "text": "They shall be abundantly satisfied with the fatness of thy house; and thou shalt make them drink of the river of thy pleasures."
+    },
+    {
+      "nr": "9",
+      "text": "For with thee is the fountain of life: in thy light shall we see light."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "3",
+  "verse": "7-9",
   "version": "kjv"
 }
