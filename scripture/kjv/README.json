@@ -1,25 +1,17 @@
 {
-  "book": "Psalms",
-  "chapter": "36",
-  "date": "Friday 06-March, 2026",
-  "getbible": "https://getbible.life/kjv/Psalms/36/7-9",
-  "name": "Psalms 36:7-9",
+  "book": "Proverbs",
+  "chapter": "19",
+  "date": "Saturday 07-March, 2026",
+  "getbible": "https://getbible.life/kjv/Proverbs/19/18",
+  "name": "Proverbs 19:18",
   "scripture": [
     {
-      "nr": "7",
-      "text": "How excellent is thy lovingkindness, O God! therefore the children of men put their trust under the shadow of thy wings."
-    },
-    {
-      "nr": "8",
-      "text": "They shall be abundantly satisfied with the fatness of thy house; and thou shalt make them drink of the river of thy pleasures."
-    },
-    {
-      "nr": "9",
-      "text": "For with thee is the fountain of life: in thy light shall we see light."
+      "nr": "18",
+      "text": "Chasten thy son while there is hope, and let not thy soul spare for his crying."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "7-9",
+  "verse": "18",
   "version": "kjv"
 }
