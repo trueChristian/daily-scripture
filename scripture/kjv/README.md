@@ -1,5 +1,5 @@
-**Proverbs 19:18**
+**Matthew 4:19-20**
 
-18 Chasten thy son while there is hope, and let not thy soul spare for his crying.
+19 And he saith unto them, Follow me, and I will make you fishers of men. 20 And they straightway left their nets, and followed him.
 
-[Saturday 07-March, 2026](https://getbible.life/kjv/Proverbs/19/18)
+[Sunday 08-March, 2026](https://getbible.life/kjv/Matthew/4/19-20)

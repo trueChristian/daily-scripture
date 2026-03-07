@@ -1,17 +1,21 @@
 {
-  "book": "Proverbs",
-  "chapter": "19",
-  "date": "Saturday 07-March, 2026",
-  "getbible": "https://getbible.life/kjv/Proverbs/19/18",
-  "name": "Proverbs 19:18",
+  "book": "Matthew",
+  "chapter": "4",
+  "date": "Sunday 08-March, 2026",
+  "getbible": "https://getbible.life/kjv/Matthew/4/19-20",
+  "name": "Matthew 4:19-20",
   "scripture": [
     {
-      "nr": "18",
-      "text": "Chasten thy son while there is hope, and let not thy soul spare for his crying."
+      "nr": "19",
+      "text": "And he saith unto them, Follow me, and I will make you fishers of men."
+    },
+    {
+      "nr": "20",
+      "text": "And they straightway left their nets, and followed him."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "18",
+  "verse": "19-20",
   "version": "kjv"
 }
