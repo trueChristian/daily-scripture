@@ -1,5 +1,5 @@
-**Matthew 4:19-20**
+**John 11:6-7**
 
-19 And he saith unto them, Follow me, and I will make you fishers of men. 20 And they straightway left their nets, and followed him.
+6 When he had heard therefore that he was sick, he abode two days still in the same place where he was. 7 Then after that saith he to his disciples, Let us go into Judea again.
 
-[Sunday 08-March, 2026](https://getbible.life/kjv/Matthew/4/19-20)
+[Monday 09-March, 2026](https://getbible.life/kjv/John/11/6-7)
