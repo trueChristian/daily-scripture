@@ -1,21 +1,17 @@
 {
-  "book": "John",
-  "chapter": "11",
-  "date": "Monday 09-March, 2026",
-  "getbible": "https://getbible.life/kjv/John/11/6-7",
-  "name": "John 11:6-7",
+  "book": "2 Thessalonians",
+  "chapter": "3",
+  "date": "Tuesday 10-March, 2026",
+  "getbible": "https://getbible.life/kjv/2 Thessalonians/3/13",
+  "name": "2 Thessalonians 3:13",
   "scripture": [
     {
-      "nr": "6",
-      "text": "When he had heard therefore that he was sick, he abode two days still in the same place where he was."
-    },
-    {
-      "nr": "7",
-      "text": "Then after that saith he to his disciples, Let us go into Judea again."
+      "nr": "13",
+      "text": "But ye, brethren, be not weary in well doing."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "6-7",
+  "verse": "13",
   "version": "kjv"
 }

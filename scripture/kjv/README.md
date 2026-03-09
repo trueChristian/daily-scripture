@@ -1,5 +1,5 @@
-**John 11:6-7**
+**2 Thessalonians 3:13**
 
-6 When he had heard therefore that he was sick, he abode two days still in the same place where he was. 7 Then after that saith he to his disciples, Let us go into Judea again.
+13 But ye, brethren, be not weary in well doing.
 
-[Monday 09-March, 2026](https://getbible.life/kjv/John/11/6-7)
+[Tuesday 10-March, 2026](https://getbible.life/kjv/2 Thessalonians/3/13)
