@@ -1,5 +1,5 @@
-**2 Thessalonians 3:13**
+**Ezekiel 37:7-10**
 
-13 But ye, brethren, be not weary in well doing.
+7 So I prophesied as I was commanded: and as I prophesied, there was a noise, and behold a shaking, and the bones came together, bone to his bone. 8 And when I beheld, lo, the sinews and the flesh came up upon them, and the skin covered them above: but there was no breath in them. 9 Then said he unto me, Prophesy unto the wind, prophesy, son of man, and say to the wind, Thus saith the Lord God; Come from the four winds, O breath, and breathe upon these slain, that they may live. 10 So I prophesied as he commanded me, and the breath came into them, and they lived, and stood up upon their feet, an exceeding great army.
 
-[Tuesday 10-March, 2026](https://getbible.life/kjv/2 Thessalonians/3/13)
+[Wednesday 11-March, 2026](https://getbible.life/kjv/Ezekiel/37/7-10)
