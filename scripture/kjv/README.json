@@ -1,29 +1,17 @@
 {
-  "book": "Ezekiel",
-  "chapter": "37",
-  "date": "Wednesday 11-March, 2026",
-  "getbible": "https://getbible.life/kjv/Ezekiel/37/7-10",
-  "name": "Ezekiel 37:7-10",
+  "book": "Romans",
+  "chapter": "9",
+  "date": "Thursday 12-March, 2026",
+  "getbible": "https://getbible.life/kjv/Romans/9/27",
+  "name": "Romans 9:27",
   "scripture": [
     {
-      "nr": "7",
-      "text": "So I prophesied as I was commanded: and as I prophesied, there was a noise, and behold a shaking, and the bones came together, bone to his bone."
-    },
-    {
-      "nr": "8",
-      "text": "And when I beheld, lo, the sinews and the flesh came up upon them, and the skin covered them above: but there was no breath in them."
-    },
-    {
-      "nr": "9",
-      "text": "Then said he unto me, Prophesy unto the wind, prophesy, son of man, and say to the wind, Thus saith the Lord God; Come from the four winds, O breath, and breathe upon these slain, that they may live."
-    },
-    {
-      "nr": "10",
-      "text": "So I prophesied as he commanded me, and the breath came into them, and they lived, and stood up upon their feet, an exceeding great army."
+      "nr": "27",
+      "text": "Esaias also crieth concerning Israel, Though the number of the children of Israel be as the sand of the sea, a remnant shall be saved:"
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "7-10",
+  "verse": "27",
   "version": "kjv"
 }
