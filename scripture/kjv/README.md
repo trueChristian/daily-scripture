@@ -1,5 +1,5 @@
-**Romans 9:27**
+**Philippians 2:1-2**
 
-27 Esaias also crieth concerning Israel, Though the number of the children of Israel be as the sand of the sea, a remnant shall be saved:
+1 If there be therefore any consolation in Christ, if any comfort of love, if any fellowship of the Spirit, if any bowels and mercies, 2 Fulfil ye my joy, that ye be likeminded, having the same love, being of one accord, of one mind.
 
-[Thursday 12-March, 2026](https://getbible.life/kjv/Romans/9/27)
+[Friday 13-March, 2026](https://getbible.life/kjv/Philippians/2/1-2)
