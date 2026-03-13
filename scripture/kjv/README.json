@@ -1,21 +1,25 @@
 {
-  "book": "Philippians",
-  "chapter": "2",
-  "date": "Friday 13-March, 2026",
-  "getbible": "https://getbible.life/kjv/Philippians/2/1-2",
-  "name": "Philippians 2:1-2",
+  "book": "Hebrews",
+  "chapter": "11",
+  "date": "Saturday 14-March, 2026",
+  "getbible": "https://getbible.life/kjv/Hebrews/11/24-26",
+  "name": "Hebrews 11:24-26",
   "scripture": [
     {
-      "nr": "1",
-      "text": "If there be therefore any consolation in Christ, if any comfort of love, if any fellowship of the Spirit, if any bowels and mercies,"
+      "nr": "24",
+      "text": "By faith Moses, when he was come to years, refused to be called the son of Pharaoh’s daughter;"
     },
     {
-      "nr": "2",
-      "text": "Fulfil ye my joy, that ye be likeminded, having the same love, being of one accord, of one mind."
+      "nr": "25",
+      "text": "Choosing rather to suffer affliction with the people of God, than to enjoy the pleasures of sin for a season;"
+    },
+    {
+      "nr": "26",
+      "text": "Esteeming the reproach of Christ greater riches than the treasures in Egypt: for he had respect unto the recompence of the reward."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "1-2",
+  "verse": "24-26",
   "version": "kjv"
 }
