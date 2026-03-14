@@ -1,25 +1,21 @@
 {
-  "book": "Hebrews",
-  "chapter": "11",
-  "date": "Saturday 14-March, 2026",
-  "getbible": "https://getbible.life/kjv/Hebrews/11/24-26",
-  "name": "Hebrews 11:24-26",
+  "book": "Psalms",
+  "chapter": "119",
+  "date": "Sunday 15-March, 2026",
+  "getbible": "https://getbible.life/kjv/Psalms/119/59-60",
+  "name": "Psalms 119:59-60",
   "scripture": [
     {
-      "nr": "24",
-      "text": "By faith Moses, when he was come to years, refused to be called the son of Pharaoh’s daughter;"
+      "nr": "59",
+      "text": "I thought on my ways, and turned my feet unto thy testimonies."
     },
     {
-      "nr": "25",
-      "text": "Choosing rather to suffer affliction with the people of God, than to enjoy the pleasures of sin for a season;"
-    },
-    {
-      "nr": "26",
-      "text": "Esteeming the reproach of Christ greater riches than the treasures in Egypt: for he had respect unto the recompence of the reward."
+      "nr": "60",
+      "text": "I made haste, and delayed not to keep thy commandments."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "24-26",
+  "verse": "59-60",
   "version": "kjv"
 }
