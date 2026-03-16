@@ -1,37 +1,25 @@
 {
-  "book": "Psalms",
-  "chapter": "128",
-  "date": "Monday 16-March, 2026",
-  "getbible": "https://getbible.life/kjv/Psalms/128/1-6",
-  "name": "Psalms 128:1-6",
+  "book": "John",
+  "chapter": "10",
+  "date": "Tuesday 17-March, 2026",
+  "getbible": "https://getbible.life/kjv/John/10/19-21",
+  "name": "John 10:19-21",
   "scripture": [
     {
-      "nr": "1",
-      "text": "Blessed is every one that feareth the Lord; that walketh in his ways."
+      "nr": "19",
+      "text": "There was a division therefore again among the Jews for these sayings."
     },
     {
-      "nr": "2",
-      "text": "For thou shalt eat the labour of thine hands: happy shalt thou be, and it shall be well with thee."
+      "nr": "20",
+      "text": "And many of them said, He hath a devil, and is mad; why hear ye him?"
     },
     {
-      "nr": "3",
-      "text": "Thy wife shall be as a fruitful vine by the sides of thine house: thy children like olive plants round about thy table."
-    },
-    {
-      "nr": "4",
-      "text": "Behold, that thus shall the man be blessed that feareth the Lord."
-    },
-    {
-      "nr": "5",
-      "text": "The Lord shall bless thee out of Zion: and thou shalt see the good of Jerusalem all the days of thy life."
-    },
-    {
-      "nr": "6",
-      "text": "Yea, thou shalt see thy children’s children, and peace upon Israel. "
+      "nr": "21",
+      "text": "Others said, These are not the words of him that hath a devil. Can a devil open the eyes of the blind?"
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "1-6",
+  "verse": "19-21",
   "version": "kjv"
 }
