@@ -1,25 +1,17 @@
 {
   "book": "John",
-  "chapter": "10",
-  "date": "Tuesday 17-March, 2026",
-  "getbible": "https://getbible.life/kjv/John/10/19-21",
-  "name": "John 10:19-21",
+  "chapter": "4",
+  "date": "Wednesday 18-March, 2026",
+  "getbible": "https://getbible.life/kjv/John/4/48",
+  "name": "John 4:48",
   "scripture": [
     {
-      "nr": "19",
-      "text": "There was a division therefore again among the Jews for these sayings."
-    },
-    {
-      "nr": "20",
-      "text": "And many of them said, He hath a devil, and is mad; why hear ye him?"
-    },
-    {
-      "nr": "21",
-      "text": "Others said, These are not the words of him that hath a devil. Can a devil open the eyes of the blind?"
+      "nr": "48",
+      "text": "Then said Jesus unto him, Except ye see signs and wonders, ye will not believe."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "19-21",
+  "verse": "48",
   "version": "kjv"
 }

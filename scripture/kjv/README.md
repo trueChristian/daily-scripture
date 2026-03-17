@@ -1,5 +1,5 @@
-**John 10:19-21**
+**John 4:48**
 
-19 There was a division therefore again among the Jews for these sayings. 20 And many of them said, He hath a devil, and is mad; why hear ye him? 21 Others said, These are not the words of him that hath a devil. Can a devil open the eyes of the blind?
+48 Then said Jesus unto him, Except ye see signs and wonders, ye will not believe.
 
-[Tuesday 17-March, 2026](https://getbible.life/kjv/John/10/19-21)
+[Wednesday 18-March, 2026](https://getbible.life/kjv/John/4/48)
