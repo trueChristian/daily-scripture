@@ -1,5 +1,5 @@
-**John 4:48**
+**Proverbs 12:18**
 
-48 Then said Jesus unto him, Except ye see signs and wonders, ye will not believe.
+18 There is that speaketh like the piercings of a sword: but the tongue of the wise is health.
 
-[Wednesday 18-March, 2026](https://getbible.life/kjv/John/4/48)
+[Thursday 19-March, 2026](https://getbible.life/kjv/Proverbs/12/18)

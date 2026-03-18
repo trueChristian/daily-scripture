@@ -1,17 +1,17 @@
 {
-  "book": "John",
-  "chapter": "4",
-  "date": "Wednesday 18-March, 2026",
-  "getbible": "https://getbible.life/kjv/John/4/48",
-  "name": "John 4:48",
+  "book": "Proverbs",
+  "chapter": "12",
+  "date": "Thursday 19-March, 2026",
+  "getbible": "https://getbible.life/kjv/Proverbs/12/18",
+  "name": "Proverbs 12:18",
   "scripture": [
     {
-      "nr": "48",
-      "text": "Then said Jesus unto him, Except ye see signs and wonders, ye will not believe."
+      "nr": "18",
+      "text": "There is that speaketh like the piercings of a sword: but the tongue of the wise is health."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "48",
+  "verse": "18",
   "version": "kjv"
 }
