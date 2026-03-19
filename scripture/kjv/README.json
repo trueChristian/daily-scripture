@@ -1,17 +1,17 @@
 {
-  "book": "Proverbs",
-  "chapter": "12",
-  "date": "Thursday 19-March, 2026",
-  "getbible": "https://getbible.life/kjv/Proverbs/12/18",
-  "name": "Proverbs 12:18",
+  "book": "1 John",
+  "chapter": "2",
+  "date": "Friday 20-March, 2026",
+  "getbible": "https://getbible.life/kjv/1 John/2/29",
+  "name": "1 John 2:29",
   "scripture": [
     {
-      "nr": "18",
-      "text": "There is that speaketh like the piercings of a sword: but the tongue of the wise is health."
+      "nr": "29",
+      "text": "If ye know that he is righteous, ye know that every one that doeth righteousness is born of him. "
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "18",
+  "verse": "29",
   "version": "kjv"
 }

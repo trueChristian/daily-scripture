@@ -1,5 +1,5 @@
-**Proverbs 12:18**
+**1 John 2:29**
 
-18 There is that speaketh like the piercings of a sword: but the tongue of the wise is health.
+29 If ye know that he is righteous, ye know that every one that doeth righteousness is born of him. 
 
-[Thursday 19-March, 2026](https://getbible.life/kjv/Proverbs/12/18)
+[Friday 20-March, 2026](https://getbible.life/kjv/1 John/2/29)
