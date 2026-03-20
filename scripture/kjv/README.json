@@ -1,17 +1,25 @@
 {
-  "book": "1 John",
+  "book": "2 Timothy",
   "chapter": "2",
-  "date": "Friday 20-March, 2026",
-  "getbible": "https://getbible.life/kjv/1 John/2/29",
-  "name": "1 John 2:29",
+  "date": "Saturday 21-March, 2026",
+  "getbible": "https://getbible.life/kjv/2 Timothy/2/24-26",
+  "name": "2 Timothy 2:24-26",
   "scripture": [
     {
-      "nr": "29",
-      "text": "If ye know that he is righteous, ye know that every one that doeth righteousness is born of him. "
+      "nr": "24",
+      "text": "And the servant of the Lord must not strive; but be gentle unto all men, apt to teach, patient,"
+    },
+    {
+      "nr": "25",
+      "text": "In meekness instructing those that oppose themselves; if God peradventure will give them repentance to the acknowledging of the truth;"
+    },
+    {
+      "nr": "26",
+      "text": "And that they may recover themselves out of the snare of the devil, who are taken captive by him at his will. "
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "29",
+  "verse": "24-26",
   "version": "kjv"
 }
