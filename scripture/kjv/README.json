@@ -1,25 +1,21 @@
 {
-  "book": "2 Timothy",
-  "chapter": "2",
-  "date": "Saturday 21-March, 2026",
-  "getbible": "https://getbible.life/kjv/2 Timothy/2/24-26",
-  "name": "2 Timothy 2:24-26",
+  "book": "Psalms",
+  "chapter": "46",
+  "date": "Sunday 22-March, 2026",
+  "getbible": "https://getbible.life/kjv/Psalms/46/1-2",
+  "name": "Psalms 46:1-2",
   "scripture": [
     {
-      "nr": "24",
-      "text": "And the servant of the Lord must not strive; but be gentle unto all men, apt to teach, patient,"
+      "nr": "1",
+      "text": "God is our refuge and strength, a very present help in trouble."
     },
     {
-      "nr": "25",
-      "text": "In meekness instructing those that oppose themselves; if God peradventure will give them repentance to the acknowledging of the truth;"
-    },
-    {
-      "nr": "26",
-      "text": "And that they may recover themselves out of the snare of the devil, who are taken captive by him at his will. "
+      "nr": "2",
+      "text": "Therefore will not we fear, though the earth be removed, and though the mountains be carried into the midst of the sea;"
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "24-26",
+  "verse": "1-2",
   "version": "kjv"
 }
