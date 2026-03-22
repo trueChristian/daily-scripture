@@ -1,21 +1,17 @@
 {
-  "book": "Psalms",
-  "chapter": "46",
-  "date": "Sunday 22-March, 2026",
-  "getbible": "https://getbible.life/kjv/Psalms/46/1-2",
-  "name": "Psalms 46:1-2",
+  "book": "Proverbs",
+  "chapter": "12",
+  "date": "Monday 23-March, 2026",
+  "getbible": "https://getbible.life/kjv/Proverbs/12/15",
+  "name": "Proverbs 12:15",
   "scripture": [
     {
-      "nr": "1",
-      "text": "God is our refuge and strength, a very present help in trouble."
-    },
-    {
-      "nr": "2",
-      "text": "Therefore will not we fear, though the earth be removed, and though the mountains be carried into the midst of the sea;"
+      "nr": "15",
+      "text": "The way of a fool is right in his own eyes: but he that hearkeneth unto counsel is wise."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "1-2",
+  "verse": "15",
   "version": "kjv"
 }

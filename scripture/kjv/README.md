@@ -1,5 +1,5 @@
-**Psalms 46:1-2**
+**Proverbs 12:15**
 
-1 God is our refuge and strength, a very present help in trouble. 2 Therefore will not we fear, though the earth be removed, and though the mountains be carried into the midst of the sea;
+15 The way of a fool is right in his own eyes: but he that hearkeneth unto counsel is wise.
 
-[Sunday 22-March, 2026](https://getbible.life/kjv/Psalms/46/1-2)
+[Monday 23-March, 2026](https://getbible.life/kjv/Proverbs/12/15)
