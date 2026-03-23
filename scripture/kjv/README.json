@@ -1,17 +1,17 @@
 {
   "book": "Proverbs",
-  "chapter": "12",
-  "date": "Monday 23-March, 2026",
-  "getbible": "https://getbible.life/kjv/Proverbs/12/15",
-  "name": "Proverbs 12:15",
+  "chapter": "17",
+  "date": "Tuesday 24-March, 2026",
+  "getbible": "https://getbible.life/kjv/Proverbs/17/26",
+  "name": "Proverbs 17:26",
   "scripture": [
     {
-      "nr": "15",
-      "text": "The way of a fool is right in his own eyes: but he that hearkeneth unto counsel is wise."
+      "nr": "26",
+      "text": "Also to punish the just is not good, nor to strike princes for equity."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "15",
+  "verse": "26",
   "version": "kjv"
 }

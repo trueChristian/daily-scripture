@@ -1,5 +1,5 @@
-**Proverbs 12:15**
+**Proverbs 17:26**
 
-15 The way of a fool is right in his own eyes: but he that hearkeneth unto counsel is wise.
+26 Also to punish the just is not good, nor to strike princes for equity.
 
-[Monday 23-March, 2026](https://getbible.life/kjv/Proverbs/12/15)
+[Tuesday 24-March, 2026](https://getbible.life/kjv/Proverbs/17/26)
