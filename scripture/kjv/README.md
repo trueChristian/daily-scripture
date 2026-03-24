@@ -1,5 +1,5 @@
-**Proverbs 17:26**
+**Jonah 3:2**
 
-26 Also to punish the just is not good, nor to strike princes for equity.
+2 Arise, go unto Nineveh, that great city, and preach unto it the preaching that I bid thee.
 
-[Tuesday 24-March, 2026](https://getbible.life/kjv/Proverbs/17/26)
+[Wednesday 25-March, 2026](https://getbible.life/kjv/Jonah/3/2)

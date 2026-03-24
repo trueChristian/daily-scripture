@@ -1,17 +1,17 @@
 {
-  "book": "Proverbs",
-  "chapter": "17",
-  "date": "Tuesday 24-March, 2026",
-  "getbible": "https://getbible.life/kjv/Proverbs/17/26",
-  "name": "Proverbs 17:26",
+  "book": "Jonah",
+  "chapter": "3",
+  "date": "Wednesday 25-March, 2026",
+  "getbible": "https://getbible.life/kjv/Jonah/3/2",
+  "name": "Jonah 3:2",
   "scripture": [
     {
-      "nr": "26",
-      "text": "Also to punish the just is not good, nor to strike princes for equity."
+      "nr": "2",
+      "text": "Arise, go unto Nineveh, that great city, and preach unto it the preaching that I bid thee."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "26",
+  "verse": "2",
   "version": "kjv"
 }
