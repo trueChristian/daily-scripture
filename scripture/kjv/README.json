@@ -1,17 +1,17 @@
 {
-  "book": "Jonah",
-  "chapter": "3",
-  "date": "Wednesday 25-March, 2026",
-  "getbible": "https://getbible.life/kjv/Jonah/3/2",
-  "name": "Jonah 3:2",
+  "book": "Proverbs",
+  "chapter": "18",
+  "date": "Thursday 26-March, 2026",
+  "getbible": "https://getbible.life/kjv/Proverbs/18/14",
+  "name": "Proverbs 18:14",
   "scripture": [
     {
-      "nr": "2",
-      "text": "Arise, go unto Nineveh, that great city, and preach unto it the preaching that I bid thee."
+      "nr": "14",
+      "text": "The spirit of a man will sustain his infirmity; but a wounded spirit who can bear?"
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "2",
+  "verse": "14",
   "version": "kjv"
 }

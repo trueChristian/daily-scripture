@@ -1,5 +1,5 @@
-**Jonah 3:2**
+**Proverbs 18:14**
 
-2 Arise, go unto Nineveh, that great city, and preach unto it the preaching that I bid thee.
+14 The spirit of a man will sustain his infirmity; but a wounded spirit who can bear?
 
-[Wednesday 25-March, 2026](https://getbible.life/kjv/Jonah/3/2)
+[Thursday 26-March, 2026](https://getbible.life/kjv/Proverbs/18/14)
