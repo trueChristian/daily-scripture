@@ -1,5 +1,5 @@
-**Proverbs 18:14**
+**Proverbs 11:25**
 
-14 The spirit of a man will sustain his infirmity; but a wounded spirit who can bear?
+25 The liberal soul shall be made fat: and he that watereth shall be watered also himself.
 
-[Thursday 26-March, 2026](https://getbible.life/kjv/Proverbs/18/14)
+[Friday 27-March, 2026](https://getbible.life/kjv/Proverbs/11/25)
