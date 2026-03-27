@@ -1,5 +1,5 @@
-**Proverbs 11:25**
+**Isaiah 33:17**
 
-25 The liberal soul shall be made fat: and he that watereth shall be watered also himself.
+17 Thine eyes shall see the king in his beauty: they shall behold the land that is very far off.
 
-[Friday 27-March, 2026](https://getbible.life/kjv/Proverbs/11/25)
+[Saturday 28-March, 2026](https://getbible.life/kjv/Isaiah/33/17)
