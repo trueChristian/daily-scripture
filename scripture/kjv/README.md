@@ -1,5 +1,5 @@
-**Isaiah 33:17**
+**Matthew 24:12-13**
 
-17 Thine eyes shall see the king in his beauty: they shall behold the land that is very far off.
+12 And because iniquity shall abound, the love of many shall wax cold. 13 But he that shall endure unto the end, the same shall be saved.
 
-[Saturday 28-March, 2026](https://getbible.life/kjv/Isaiah/33/17)
+[Sunday 29-March, 2026](https://getbible.life/kjv/Matthew/24/12-13)
