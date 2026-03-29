@@ -1,5 +1,5 @@
-**Matthew 24:12-13**
+**Isaiah 61:11**
 
-12 And because iniquity shall abound, the love of many shall wax cold. 13 But he that shall endure unto the end, the same shall be saved.
+11 For as the earth bringeth forth her bud, and as the garden causeth the things that are sown in it to spring forth; so the Lord God will cause righteousness and praise to spring forth before all the nations. 
 
-[Sunday 29-March, 2026](https://getbible.life/kjv/Matthew/24/12-13)
+[Monday 30-March, 2026](https://getbible.life/kjv/Isaiah/61/11)
