@@ -1,17 +1,17 @@
 {
-  "book": "Isaiah",
-  "chapter": "61",
-  "date": "Monday 30-March, 2026",
-  "getbible": "https://getbible.life/kjv/Isaiah/61/11",
-  "name": "Isaiah 61:11",
+  "book": "Psalms",
+  "chapter": "69",
+  "date": "Tuesday 31-March, 2026",
+  "getbible": "https://getbible.life/kjv/Psalms/69/19",
+  "name": "Psalms 69:19",
   "scripture": [
     {
-      "nr": "11",
-      "text": "For as the earth bringeth forth her bud, and as the garden causeth the things that are sown in it to spring forth; so the Lord God will cause righteousness and praise to spring forth before all the nations. "
+      "nr": "19",
+      "text": "Thou hast known my reproach, and my shame, and my dishonour: mine adversaries are all before thee."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "11",
+  "verse": "19",
   "version": "kjv"
 }
