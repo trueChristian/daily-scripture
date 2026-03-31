@@ -1,5 +1,5 @@
-**Psalms 69:19**
+**1 Corinthians 10:33**
 
-19 Thou hast known my reproach, and my shame, and my dishonour: mine adversaries are all before thee.
+33 Even as I please all men in all things, not seeking mine own profit, but the profit of many, that they may be saved. 
 
-[Tuesday 31-March, 2026](https://getbible.life/kjv/Psalms/69/19)
+[Wednesday 01-April, 2026](https://getbible.life/kjv/1 Corinthians/10/33)

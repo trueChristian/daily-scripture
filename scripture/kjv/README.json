@@ -1,17 +1,17 @@
 {
-  "book": "Psalms",
-  "chapter": "69",
-  "date": "Tuesday 31-March, 2026",
-  "getbible": "https://getbible.life/kjv/Psalms/69/19",
-  "name": "Psalms 69:19",
+  "book": "1 Corinthians",
+  "chapter": "10",
+  "date": "Wednesday 01-April, 2026",
+  "getbible": "https://getbible.life/kjv/1 Corinthians/10/33",
+  "name": "1 Corinthians 10:33",
   "scripture": [
     {
-      "nr": "19",
-      "text": "Thou hast known my reproach, and my shame, and my dishonour: mine adversaries are all before thee."
+      "nr": "33",
+      "text": "Even as I please all men in all things, not seeking mine own profit, but the profit of many, that they may be saved. "
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "19",
+  "verse": "33",
   "version": "kjv"
 }
