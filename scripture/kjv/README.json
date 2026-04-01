@@ -1,17 +1,21 @@
 {
-  "book": "1 Corinthians",
-  "chapter": "10",
-  "date": "Wednesday 01-April, 2026",
-  "getbible": "https://getbible.life/kjv/1 Corinthians/10/33",
-  "name": "1 Corinthians 10:33",
+  "book": "Hebrews",
+  "chapter": "6",
+  "date": "Thursday 02-April, 2026",
+  "getbible": "https://getbible.life/kjv/Hebrews/6/11-12",
+  "name": "Hebrews 6:11-12",
   "scripture": [
     {
-      "nr": "33",
-      "text": "Even as I please all men in all things, not seeking mine own profit, but the profit of many, that they may be saved. "
+      "nr": "11",
+      "text": "And we desire that every one of you do shew the same diligence to the full assurance of hope unto the end:"
+    },
+    {
+      "nr": "12",
+      "text": "That ye be not slothful, but followers of them who through faith and patience inherit the promises."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "33",
+  "verse": "11-12",
   "version": "kjv"
 }

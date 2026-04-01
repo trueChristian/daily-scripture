@@ -1,5 +1,5 @@
-**1 Corinthians 10:33**
+**Hebrews 6:11-12**
 
-33 Even as I please all men in all things, not seeking mine own profit, but the profit of many, that they may be saved. 
+11 And we desire that every one of you do shew the same diligence to the full assurance of hope unto the end: 12 That ye be not slothful, but followers of them who through faith and patience inherit the promises.
 
-[Wednesday 01-April, 2026](https://getbible.life/kjv/1 Corinthians/10/33)
+[Thursday 02-April, 2026](https://getbible.life/kjv/Hebrews/6/11-12)
