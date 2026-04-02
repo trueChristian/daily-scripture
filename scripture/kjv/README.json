@@ -1,21 +1,25 @@
 {
-  "book": "Hebrews",
-  "chapter": "6",
-  "date": "Thursday 02-April, 2026",
-  "getbible": "https://getbible.life/kjv/Hebrews/6/11-12",
-  "name": "Hebrews 6:11-12",
+  "book": "Revelation",
+  "chapter": "3",
+  "date": "Friday 03-April, 2026",
+  "getbible": "https://getbible.life/kjv/Revelation/3/17-19",
+  "name": "Revelation 3:17-19",
   "scripture": [
     {
-      "nr": "11",
-      "text": "And we desire that every one of you do shew the same diligence to the full assurance of hope unto the end:"
+      "nr": "17",
+      "text": "Because thou sayest, I am rich, and increased with goods, and have need of nothing; and knowest not that thou art wretched, and miserable, and poor, and blind, and naked:"
     },
     {
-      "nr": "12",
-      "text": "That ye be not slothful, but followers of them who through faith and patience inherit the promises."
+      "nr": "18",
+      "text": "I counsel thee to buy of me gold tried in the fire, that thou mayest be rich; and white raiment, that thou mayest be clothed, and that the shame of thy nakedness do not appear; and anoint thine eyes with eyesalve, that thou mayest see."
+    },
+    {
+      "nr": "19",
+      "text": "As many as I love, I rebuke and chasten: be zealous therefore, and repent."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "11-12",
+  "verse": "17-19",
   "version": "kjv"
 }
