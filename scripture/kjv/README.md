@@ -1,5 +1,5 @@
-**James 4:9-10**
+**1 John 5:10**
 
-9 Be afflicted, and mourn, and weep: let your laughter be turned to mourning, and your joy to heaviness. 10 Humble yourselves in the sight of the Lord, and he shall lift you up.
+10 He that believeth on the Son of God hath the witness in himself: he that believeth not God hath made him a liar; because he believeth not the record that God gave of his Son.
 
-[Saturday 04-April, 2026](https://getbible.life/kjv/James/4/9-10)
+[Sunday 05-April, 2026](https://getbible.life/kjv/1 John/5/10)

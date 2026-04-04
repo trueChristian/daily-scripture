@@ -1,21 +1,17 @@
 {
-  "book": "James",
-  "chapter": "4",
-  "date": "Saturday 04-April, 2026",
-  "getbible": "https://getbible.life/kjv/James/4/9-10",
-  "name": "James 4:9-10",
+  "book": "1 John",
+  "chapter": "5",
+  "date": "Sunday 05-April, 2026",
+  "getbible": "https://getbible.life/kjv/1 John/5/10",
+  "name": "1 John 5:10",
   "scripture": [
     {
-      "nr": "9",
-      "text": "Be afflicted, and mourn, and weep: let your laughter be turned to mourning, and your joy to heaviness."
-    },
-    {
       "nr": "10",
-      "text": "Humble yourselves in the sight of the Lord, and he shall lift you up."
+      "text": "He that believeth on the Son of God hath the witness in himself: he that believeth not God hath made him a liar; because he believeth not the record that God gave of his Son."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "9-10",
+  "verse": "10",
   "version": "kjv"
 }
