@@ -1,17 +1,17 @@
 {
-  "book": "1 John",
-  "chapter": "5",
-  "date": "Sunday 05-April, 2026",
-  "getbible": "https://getbible.life/kjv/1 John/5/10",
-  "name": "1 John 5:10",
+  "book": "Proverbs",
+  "chapter": "4",
+  "date": "Monday 06-April, 2026",
+  "getbible": "https://getbible.life/kjv/Proverbs/4/8",
+  "name": "Proverbs 4:8",
   "scripture": [
     {
-      "nr": "10",
-      "text": "He that believeth on the Son of God hath the witness in himself: he that believeth not God hath made him a liar; because he believeth not the record that God gave of his Son."
+      "nr": "8",
+      "text": "Exalt her, and she shall promote thee: she shall bring thee to honour, when thou dost embrace her."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "10",
+  "verse": "8",
   "version": "kjv"
 }
