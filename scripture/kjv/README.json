@@ -1,17 +1,17 @@
 {
-  "book": "Proverbs",
-  "chapter": "4",
-  "date": "Monday 06-April, 2026",
-  "getbible": "https://getbible.life/kjv/Proverbs/4/8",
-  "name": "Proverbs 4:8",
+  "book": "Psalms",
+  "chapter": "112",
+  "date": "Tuesday 07-April, 2026",
+  "getbible": "https://getbible.life/kjv/Psalms/112/4",
+  "name": "Psalms 112:4",
   "scripture": [
     {
-      "nr": "8",
-      "text": "Exalt her, and she shall promote thee: she shall bring thee to honour, when thou dost embrace her."
+      "nr": "4",
+      "text": "Unto the upright there ariseth light in the darkness: he is gracious, and full of compassion, and righteous."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "8",
+  "verse": "4",
   "version": "kjv"
 }

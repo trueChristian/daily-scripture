@@ -1,5 +1,5 @@
-**Proverbs 4:8**
+**Psalms 112:4**
 
-8 Exalt her, and she shall promote thee: she shall bring thee to honour, when thou dost embrace her.
+4 Unto the upright there ariseth light in the darkness: he is gracious, and full of compassion, and righteous.
 
-[Monday 06-April, 2026](https://getbible.life/kjv/Proverbs/4/8)
+[Tuesday 07-April, 2026](https://getbible.life/kjv/Psalms/112/4)
