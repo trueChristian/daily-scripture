@@ -1,13 +1,13 @@
 {
-  "book": "Psalms",
-  "chapter": "112",
-  "date": "Tuesday 07-April, 2026",
-  "getbible": "https://getbible.life/kjv/Psalms/112/4",
-  "name": "Psalms 112:4",
+  "book": "Ecclesiastes",
+  "chapter": "5",
+  "date": "Wednesday 08-April, 2026",
+  "getbible": "https://getbible.life/kjv/Ecclesiastes/5/4",
+  "name": "Ecclesiastes 5:4",
   "scripture": [
     {
       "nr": "4",
-      "text": "Unto the upright there ariseth light in the darkness: he is gracious, and full of compassion, and righteous."
+      "text": "When thou vowest a vow unto God, defer not to pay it; for he hath no pleasure in fools: pay that which thou hast vowed."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",

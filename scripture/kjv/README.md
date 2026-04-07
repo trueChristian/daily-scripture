@@ -1,5 +1,5 @@
-**Psalms 112:4**
+**Ecclesiastes 5:4**
 
-4 Unto the upright there ariseth light in the darkness: he is gracious, and full of compassion, and righteous.
+4 When thou vowest a vow unto God, defer not to pay it; for he hath no pleasure in fools: pay that which thou hast vowed.
 
-[Tuesday 07-April, 2026](https://getbible.life/kjv/Psalms/112/4)
+[Wednesday 08-April, 2026](https://getbible.life/kjv/Ecclesiastes/5/4)
