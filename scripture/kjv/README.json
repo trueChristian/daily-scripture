@@ -1,17 +1,17 @@
 {
-  "book": "Ecclesiastes",
-  "chapter": "5",
-  "date": "Wednesday 08-April, 2026",
-  "getbible": "https://getbible.life/kjv/Ecclesiastes/5/4",
-  "name": "Ecclesiastes 5:4",
+  "book": "Acts",
+  "chapter": "9",
+  "date": "Thursday 09-April, 2026",
+  "getbible": "https://getbible.life/kjv/Acts/9/11",
+  "name": "Acts 9:11",
   "scripture": [
     {
-      "nr": "4",
-      "text": "When thou vowest a vow unto God, defer not to pay it; for he hath no pleasure in fools: pay that which thou hast vowed."
+      "nr": "11",
+      "text": "And the Lord said unto him, Arise, and go into the street which is called Straight, and enquire in the house of Judas for one called Saul, of Tarsus: for, behold, he prayeth,"
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "4",
+  "verse": "11",
   "version": "kjv"
 }
