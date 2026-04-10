@@ -1,29 +1,17 @@
 {
-  "book": "Ephesians",
-  "chapter": "5",
-  "date": "Friday 10-April, 2026",
-  "getbible": "https://getbible.life/kjv/Ephesians/5/8-11",
-  "name": "Ephesians 5:8-11",
+  "book": "Luke",
+  "chapter": "21",
+  "date": "Saturday 11-April, 2026",
+  "getbible": "https://getbible.life/kjv/Luke/21/36",
+  "name": "Luke 21:36",
   "scripture": [
     {
-      "nr": "8",
-      "text": "For ye were sometimes darkness, but now are ye light in the Lord: walk as children of light:"
-    },
-    {
-      "nr": "9",
-      "text": "(For the fruit of the Spirit is in all goodness and righteousness and truth;)"
-    },
-    {
-      "nr": "10",
-      "text": "Proving what is acceptable unto the Lord."
-    },
-    {
-      "nr": "11",
-      "text": "And have no fellowship with the unfruitful works of darkness, but rather reprove them. "
+      "nr": "36",
+      "text": "Watch ye therefore, and pray always, that ye may be accounted worthy to escape all these things that shall come to pass, and to stand before the Son of man."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "8-11",
+  "verse": "36",
   "version": "kjv"
 }

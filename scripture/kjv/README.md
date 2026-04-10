@@ -1,5 +1,5 @@
-**Ephesians 5:8-11**
+**Luke 21:36**
 
-8 For ye were sometimes darkness, but now are ye light in the Lord: walk as children of light: 9 (For the fruit of the Spirit is in all goodness and righteousness and truth;) 10 Proving what is acceptable unto the Lord. 11 And have no fellowship with the unfruitful works of darkness, but rather reprove them. 
+36 Watch ye therefore, and pray always, that ye may be accounted worthy to escape all these things that shall come to pass, and to stand before the Son of man.
 
-[Friday 10-April, 2026](https://getbible.life/kjv/Ephesians/5/8-11)
+[Saturday 11-April, 2026](https://getbible.life/kjv/Luke/21/36)
