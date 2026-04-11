@@ -1,5 +1,5 @@
-**Luke 21:36**
+**Luke 2:27**
 
-36 Watch ye therefore, and pray always, that ye may be accounted worthy to escape all these things that shall come to pass, and to stand before the Son of man.
+27 And he came by the Spirit into the temple: and when the parents brought in the child Jesus, to do for him after the custom of the law,
 
-[Saturday 11-April, 2026](https://getbible.life/kjv/Luke/21/36)
+[Sunday 12-April, 2026](https://getbible.life/kjv/Luke/2/27)

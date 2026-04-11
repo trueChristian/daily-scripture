@@ -1,17 +1,17 @@
 {
   "book": "Luke",
-  "chapter": "21",
-  "date": "Saturday 11-April, 2026",
-  "getbible": "https://getbible.life/kjv/Luke/21/36",
-  "name": "Luke 21:36",
+  "chapter": "2",
+  "date": "Sunday 12-April, 2026",
+  "getbible": "https://getbible.life/kjv/Luke/2/27",
+  "name": "Luke 2:27",
   "scripture": [
     {
-      "nr": "36",
-      "text": "Watch ye therefore, and pray always, that ye may be accounted worthy to escape all these things that shall come to pass, and to stand before the Son of man."
+      "nr": "27",
+      "text": "And he came by the Spirit into the temple: and when the parents brought in the child Jesus, to do for him after the custom of the law,"
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "36",
+  "verse": "27",
   "version": "kjv"
 }
