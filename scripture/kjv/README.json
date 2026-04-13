@@ -1,17 +1,17 @@
 {
-  "book": "Psalms",
-  "chapter": "104",
-  "date": "Monday 13-April, 2026",
-  "getbible": "https://getbible.life/kjv/Psalms/104/35",
-  "name": "Psalms 104:35",
+  "book": "John",
+  "chapter": "6",
+  "date": "Tuesday 14-April, 2026",
+  "getbible": "https://getbible.life/kjv/John/6/39",
+  "name": "John 6:39",
   "scripture": [
     {
-      "nr": "35",
-      "text": "Let the sinners be consumed out of the earth, and let the wicked be no more. Bless thou the Lord, O my soul. Praise ye the Lord. "
+      "nr": "39",
+      "text": "And this is the Father’s will which hath sent me, that of all which he hath given me I should lose nothing, but should raise it up again at the last day."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "35",
+  "verse": "39",
   "version": "kjv"
 }

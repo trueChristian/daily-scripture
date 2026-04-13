@@ -1,5 +1,5 @@
-**Psalms 104:35**
+**John 6:39**
 
-35 Let the sinners be consumed out of the earth, and let the wicked be no more. Bless thou the Lord, O my soul. Praise ye the Lord. 
+39 And this is the Father’s will which hath sent me, that of all which he hath given me I should lose nothing, but should raise it up again at the last day.
 
-[Monday 13-April, 2026](https://getbible.life/kjv/Psalms/104/35)
+[Tuesday 14-April, 2026](https://getbible.life/kjv/John/6/39)
