@@ -1,5 +1,5 @@
-**Ezekiel 47:12**
+**2 Timothy 2:8**
 
-12 And by the river upon the bank thereof, on this side and on that side, shall grow all trees for meat, whose leaf shall not fade, neither shall the fruit thereof be consumed: it shall bring forth new fruit according to his months, because their waters they issued out of the sanctuary: and the fruit thereof shall be for meat, and the leaf thereof for medicine.
+8 Remember that Jesus Christ of the seed of David was raised from the dead according to my gospel:
 
-[Wednesday 15-April, 2026](https://getbible.life/kjv/Ezekiel/47/12)
+[Thursday 16-April, 2026](https://getbible.life/kjv/2 Timothy/2/8)
