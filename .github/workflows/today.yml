@@ -13,22 +13,15 @@ jobs:
     runs-on: ubuntu-22.04
 
     steps:
-      - name: Setup GitHub User Details
-        env:
-          GIT_USER: ${{ secrets.GIT_USER }}
-          GIT_EMAIL: ${{ secrets.GIT_EMAIL }}
-          GPG_USER: ${{ secrets.GPG_USER }}
-          GPG_KEY: ${{ secrets.GPG_KEY }}
-          SSH_KEY: ${{ secrets.SSH_KEY }}
-          SSH_PUB: ${{ secrets.SSH_PUB }}
-        run: |
-          /bin/bash <(/bin/curl -s https://raw.githubusercontent.com/vdm-io/github-user/master/src/setup.sh) \
-            --gpg-key "$GPG_KEY" \
-            --gpg-user "$GPG_USER" \
-            --ssh-key "$SSH_KEY" \
-            --ssh-pub "$SSH_PUB" \
-            --git-user "$GIT_USER" \
-            --git-email "$GIT_EMAIL"
+      - name: Setup gitHub User Details
+        uses: octoleo/git-user@v2
+        with:
+          gpg-key: ${{ secrets.GPG_KEY }}
+          gpg-user: ${{ secrets.GPG_USER }}
+          ssh-key: ${{ secrets.SSH_KEY }}
+          ssh-pub: ${{ secrets.SSH_PUB }}
+          git-user: ${{ secrets.GIT_USER }}
+          git-email: ${{ secrets.GIT_EMAIL }}
 
       - name: Clone Master Repository
         run: |
