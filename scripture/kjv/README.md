@@ -1,5 +1,5 @@
-**2 Timothy 2:8**
+**Psalms 130:3-4**
 
-8 Remember that Jesus Christ of the seed of David was raised from the dead according to my gospel:
+3 If thou, Lord, shouldest mark iniquities, O Lord, who shall stand? 4 But there is forgiveness with thee, that thou mayest be feared.
 
-[Thursday 16-April, 2026](https://getbible.life/kjv/2 Timothy/2/8)
+[Friday 17-April, 2026](https://getbible.life/kjv/Psalms/130/3-4)

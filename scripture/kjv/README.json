@@ -1,17 +1,21 @@
 {
-  "book": "2 Timothy",
-  "chapter": "2",
-  "date": "Thursday 16-April, 2026",
-  "getbible": "https://getbible.life/kjv/2 Timothy/2/8",
-  "name": "2 Timothy 2:8",
+  "book": "Psalms",
+  "chapter": "130",
+  "date": "Friday 17-April, 2026",
+  "getbible": "https://getbible.life/kjv/Psalms/130/3-4",
+  "name": "Psalms 130:3-4",
   "scripture": [
     {
-      "nr": "8",
-      "text": "Remember that Jesus Christ of the seed of David was raised from the dead according to my gospel:"
+      "nr": "3",
+      "text": "If thou, Lord, shouldest mark iniquities, O Lord, who shall stand?"
+    },
+    {
+      "nr": "4",
+      "text": "But there is forgiveness with thee, that thou mayest be feared."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "8",
+  "verse": "3-4",
   "version": "kjv"
 }
