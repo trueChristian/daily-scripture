@@ -1,21 +1,17 @@
 {
-  "book": "Psalms",
-  "chapter": "130",
-  "date": "Friday 17-April, 2026",
-  "getbible": "https://getbible.life/kjv/Psalms/130/3-4",
-  "name": "Psalms 130:3-4",
+  "book": "John",
+  "chapter": "15",
+  "date": "Saturday 18-April, 2026",
+  "getbible": "https://getbible.life/kjv/John/15/17",
+  "name": "John 15:17",
   "scripture": [
     {
-      "nr": "3",
-      "text": "If thou, Lord, shouldest mark iniquities, O Lord, who shall stand?"
-    },
-    {
-      "nr": "4",
-      "text": "But there is forgiveness with thee, that thou mayest be feared."
+      "nr": "17",
+      "text": "These things I command you, that ye love one another."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "3-4",
+  "verse": "17",
   "version": "kjv"
 }
