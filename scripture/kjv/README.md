@@ -1,5 +1,5 @@
-**John 15:17**
+**Isaiah 54:11-12**
 
-17 These things I command you, that ye love one another.
+11 O thou afflicted, tossed with tempest, and not comforted, behold, I will lay thy stones with fair colours, and lay thy foundations with sapphires. 12 And I will make thy windows of agates, and thy gates of carbuncles, and all thy borders of pleasant stones.
 
-[Saturday 18-April, 2026](https://getbible.life/kjv/John/15/17)
+[Sunday 19-April, 2026](https://getbible.life/kjv/Isaiah/54/11-12)

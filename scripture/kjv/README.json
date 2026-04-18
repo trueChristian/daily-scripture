@@ -1,17 +1,21 @@
 {
-  "book": "John",
-  "chapter": "15",
-  "date": "Saturday 18-April, 2026",
-  "getbible": "https://getbible.life/kjv/John/15/17",
-  "name": "John 15:17",
+  "book": "Isaiah",
+  "chapter": "54",
+  "date": "Sunday 19-April, 2026",
+  "getbible": "https://getbible.life/kjv/Isaiah/54/11-12",
+  "name": "Isaiah 54:11-12",
   "scripture": [
     {
-      "nr": "17",
-      "text": "These things I command you, that ye love one another."
+      "nr": "11",
+      "text": "O thou afflicted, tossed with tempest, and not comforted, behold, I will lay thy stones with fair colours, and lay thy foundations with sapphires."
+    },
+    {
+      "nr": "12",
+      "text": "And I will make thy windows of agates, and thy gates of carbuncles, and all thy borders of pleasant stones."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "17",
+  "verse": "11-12",
   "version": "kjv"
 }
