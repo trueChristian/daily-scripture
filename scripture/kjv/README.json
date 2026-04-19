@@ -1,21 +1,21 @@
 {
-  "book": "Isaiah",
-  "chapter": "54",
-  "date": "Sunday 19-April, 2026",
-  "getbible": "https://getbible.life/kjv/Isaiah/54/11-12",
-  "name": "Isaiah 54:11-12",
+  "book": "Luke",
+  "chapter": "19",
+  "date": "Monday 20-April, 2026",
+  "getbible": "https://getbible.life/kjv/Luke/19/8-9",
+  "name": "Luke 19:8-9",
   "scripture": [
     {
-      "nr": "11",
-      "text": "O thou afflicted, tossed with tempest, and not comforted, behold, I will lay thy stones with fair colours, and lay thy foundations with sapphires."
+      "nr": "8",
+      "text": "And Zaccheus stood, and said unto the Lord; Behold, Lord, the half of my goods I give to the poor; and if I have taken any thing from any man by false accusation, I restore him fourfold."
     },
     {
-      "nr": "12",
-      "text": "And I will make thy windows of agates, and thy gates of carbuncles, and all thy borders of pleasant stones."
+      "nr": "9",
+      "text": "And Jesus said unto him, This day is salvation come to this house, forsomuch as he also is a son of Abraham."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "11-12",
+  "verse": "8-9",
   "version": "kjv"
 }

@@ -1,5 +1,5 @@
-**Isaiah 54:11-12**
+**Luke 19:8-9**
 
-11 O thou afflicted, tossed with tempest, and not comforted, behold, I will lay thy stones with fair colours, and lay thy foundations with sapphires. 12 And I will make thy windows of agates, and thy gates of carbuncles, and all thy borders of pleasant stones.
+8 And Zaccheus stood, and said unto the Lord; Behold, Lord, the half of my goods I give to the poor; and if I have taken any thing from any man by false accusation, I restore him fourfold. 9 And Jesus said unto him, This day is salvation come to this house, forsomuch as he also is a son of Abraham.
 
-[Sunday 19-April, 2026](https://getbible.life/kjv/Isaiah/54/11-12)
+[Monday 20-April, 2026](https://getbible.life/kjv/Luke/19/8-9)
