@@ -1,21 +1,17 @@
 {
   "book": "Luke",
-  "chapter": "19",
-  "date": "Monday 20-April, 2026",
-  "getbible": "https://getbible.life/kjv/Luke/19/8-9",
-  "name": "Luke 19:8-9",
+  "chapter": "23",
+  "date": "Tuesday 21-April, 2026",
+  "getbible": "https://getbible.life/kjv/Luke/23/34",
+  "name": "Luke 23:34",
   "scripture": [
     {
-      "nr": "8",
-      "text": "And Zaccheus stood, and said unto the Lord; Behold, Lord, the half of my goods I give to the poor; and if I have taken any thing from any man by false accusation, I restore him fourfold."
-    },
-    {
-      "nr": "9",
-      "text": "And Jesus said unto him, This day is salvation come to this house, forsomuch as he also is a son of Abraham."
+      "nr": "34",
+      "text": "Then said Jesus, Father, forgive them; for they know not what they do. And they parted his raiment, and cast lots."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "8-9",
+  "verse": "34",
   "version": "kjv"
 }
