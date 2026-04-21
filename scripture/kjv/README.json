@@ -1,17 +1,25 @@
 {
-  "book": "Luke",
-  "chapter": "23",
-  "date": "Tuesday 21-April, 2026",
-  "getbible": "https://getbible.life/kjv/Luke/23/34",
-  "name": "Luke 23:34",
+  "book": "Ephesians",
+  "chapter": "1",
+  "date": "Wednesday 22-April, 2026",
+  "getbible": "https://getbible.life/kjv/Ephesians/1/15-17",
+  "name": "Ephesians 1:15-17",
   "scripture": [
     {
-      "nr": "34",
-      "text": "Then said Jesus, Father, forgive them; for they know not what they do. And they parted his raiment, and cast lots."
+      "nr": "15",
+      "text": "Wherefore I also, after I heard of your faith in the Lord Jesus, and love unto all the saints,"
+    },
+    {
+      "nr": "16",
+      "text": "Cease not to give thanks for you, making mention of you in my prayers;"
+    },
+    {
+      "nr": "17",
+      "text": "That the God of our Lord Jesus Christ, the Father of glory, may give unto you the spirit of wisdom and revelation in the knowledge of him:"
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "34",
+  "verse": "15-17",
   "version": "kjv"
 }

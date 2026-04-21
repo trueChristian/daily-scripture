@@ -1,5 +1,5 @@
-**Luke 23:34**
+**Ephesians 1:15-17**
 
-34 Then said Jesus, Father, forgive them; for they know not what they do. And they parted his raiment, and cast lots.
+15 Wherefore I also, after I heard of your faith in the Lord Jesus, and love unto all the saints, 16 Cease not to give thanks for you, making mention of you in my prayers; 17 That the God of our Lord Jesus Christ, the Father of glory, may give unto you the spirit of wisdom and revelation in the knowledge of him:
 
-[Tuesday 21-April, 2026](https://getbible.life/kjv/Luke/23/34)
+[Wednesday 22-April, 2026](https://getbible.life/kjv/Ephesians/1/15-17)
