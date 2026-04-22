@@ -1,5 +1,5 @@
-**Ephesians 1:15-17**
+**Proverbs 8:32-33**
 
-15 Wherefore I also, after I heard of your faith in the Lord Jesus, and love unto all the saints, 16 Cease not to give thanks for you, making mention of you in my prayers; 17 That the God of our Lord Jesus Christ, the Father of glory, may give unto you the spirit of wisdom and revelation in the knowledge of him:
+32 Now therefore hearken unto me, O ye children: for blessed are they that keep my ways. 33 Hear instruction, and be wise, and refuse it not.
 
-[Wednesday 22-April, 2026](https://getbible.life/kjv/Ephesians/1/15-17)
+[Thursday 23-April, 2026](https://getbible.life/kjv/Proverbs/8/32-33)

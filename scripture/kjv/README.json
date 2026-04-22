@@ -1,25 +1,21 @@
 {
-  "book": "Ephesians",
-  "chapter": "1",
-  "date": "Wednesday 22-April, 2026",
-  "getbible": "https://getbible.life/kjv/Ephesians/1/15-17",
-  "name": "Ephesians 1:15-17",
+  "book": "Proverbs",
+  "chapter": "8",
+  "date": "Thursday 23-April, 2026",
+  "getbible": "https://getbible.life/kjv/Proverbs/8/32-33",
+  "name": "Proverbs 8:32-33",
   "scripture": [
     {
-      "nr": "15",
-      "text": "Wherefore I also, after I heard of your faith in the Lord Jesus, and love unto all the saints,"
+      "nr": "32",
+      "text": "Now therefore hearken unto me, O ye children: for blessed are they that keep my ways."
     },
     {
-      "nr": "16",
-      "text": "Cease not to give thanks for you, making mention of you in my prayers;"
-    },
-    {
-      "nr": "17",
-      "text": "That the God of our Lord Jesus Christ, the Father of glory, may give unto you the spirit of wisdom and revelation in the knowledge of him:"
+      "nr": "33",
+      "text": "Hear instruction, and be wise, and refuse it not."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "15-17",
+  "verse": "32-33",
   "version": "kjv"
 }
