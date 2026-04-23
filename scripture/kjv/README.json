@@ -1,21 +1,29 @@
 {
-  "book": "Proverbs",
-  "chapter": "8",
-  "date": "Thursday 23-April, 2026",
-  "getbible": "https://getbible.life/kjv/Proverbs/8/32-33",
-  "name": "Proverbs 8:32-33",
+  "book": "Psalms",
+  "chapter": "107",
+  "date": "Friday 24-April, 2026",
+  "getbible": "https://getbible.life/kjv/Psalms/107/4-7",
+  "name": "Psalms 107:4-7",
   "scripture": [
     {
-      "nr": "32",
-      "text": "Now therefore hearken unto me, O ye children: for blessed are they that keep my ways."
+      "nr": "4",
+      "text": "They wandered in the wilderness in a solitary way; they found no city to dwell in."
     },
     {
-      "nr": "33",
-      "text": "Hear instruction, and be wise, and refuse it not."
+      "nr": "5",
+      "text": "Hungry and thirsty, their soul fainted in them."
+    },
+    {
+      "nr": "6",
+      "text": "Then they cried unto the Lord in their trouble, and he delivered them out of their distresses."
+    },
+    {
+      "nr": "7",
+      "text": "And he led them forth by the right way, that they might go to a city of habitation."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "32-33",
+  "verse": "4-7",
   "version": "kjv"
 }
