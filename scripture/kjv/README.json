@@ -1,29 +1,17 @@
 {
-  "book": "Psalms",
-  "chapter": "107",
-  "date": "Friday 24-April, 2026",
-  "getbible": "https://getbible.life/kjv/Psalms/107/4-7",
-  "name": "Psalms 107:4-7",
+  "book": "Genesis",
+  "chapter": "29",
+  "date": "Saturday 25-April, 2026",
+  "getbible": "https://getbible.life/kjv/Genesis/29/20",
+  "name": "Genesis 29:20",
   "scripture": [
     {
-      "nr": "4",
-      "text": "They wandered in the wilderness in a solitary way; they found no city to dwell in."
-    },
-    {
-      "nr": "5",
-      "text": "Hungry and thirsty, their soul fainted in them."
-    },
-    {
-      "nr": "6",
-      "text": "Then they cried unto the Lord in their trouble, and he delivered them out of their distresses."
-    },
-    {
-      "nr": "7",
-      "text": "And he led them forth by the right way, that they might go to a city of habitation."
+      "nr": "20",
+      "text": "And Jacob served seven years for Rachel; and they seemed unto him but a few days, for the love he had to her."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "4-7",
+  "verse": "20",
   "version": "kjv"
 }
