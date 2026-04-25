@@ -1,5 +1,5 @@
-**Genesis 29:20**
+**Jonah 2:7**
 
-20 And Jacob served seven years for Rachel; and they seemed unto him but a few days, for the love he had to her.
+7 When my soul fainted within me I remembered the Lord: and my prayer came in unto thee, into thine holy temple.
 
-[Saturday 25-April, 2026](https://getbible.life/kjv/Genesis/29/20)
+[Sunday 26-April, 2026](https://getbible.life/kjv/Jonah/2/7)
