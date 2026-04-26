@@ -1,17 +1,21 @@
 {
-  "book": "Jonah",
-  "chapter": "2",
-  "date": "Sunday 26-April, 2026",
-  "getbible": "https://getbible.life/kjv/Jonah/2/7",
-  "name": "Jonah 2:7",
+  "book": "Matthew",
+  "chapter": "18",
+  "date": "Monday 27-April, 2026",
+  "getbible": "https://getbible.life/kjv/Matthew/18/19-20",
+  "name": "Matthew 18:19-20",
   "scripture": [
     {
-      "nr": "7",
-      "text": "When my soul fainted within me I remembered the Lord: and my prayer came in unto thee, into thine holy temple."
+      "nr": "19",
+      "text": "Again I say unto you, That if two of you shall agree on earth as touching any thing that they shall ask, it shall be done for them of my Father which is in heaven."
+    },
+    {
+      "nr": "20",
+      "text": "For where two or three are gathered together in my name, there am I in the midst of them."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "7",
+  "verse": "19-20",
   "version": "kjv"
 }

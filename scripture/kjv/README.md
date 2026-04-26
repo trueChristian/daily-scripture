@@ -1,5 +1,5 @@
-**Jonah 2:7**
+**Matthew 18:19-20**
 
-7 When my soul fainted within me I remembered the Lord: and my prayer came in unto thee, into thine holy temple.
+19 Again I say unto you, That if two of you shall agree on earth as touching any thing that they shall ask, it shall be done for them of my Father which is in heaven. 20 For where two or three are gathered together in my name, there am I in the midst of them.
 
-[Sunday 26-April, 2026](https://getbible.life/kjv/Jonah/2/7)
+[Monday 27-April, 2026](https://getbible.life/kjv/Matthew/18/19-20)
