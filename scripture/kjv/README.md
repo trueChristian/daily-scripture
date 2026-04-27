@@ -1,5 +1,5 @@
-**Matthew 18:19-20**
+**Ephesians 2:6-7**
 
-19 Again I say unto you, That if two of you shall agree on earth as touching any thing that they shall ask, it shall be done for them of my Father which is in heaven. 20 For where two or three are gathered together in my name, there am I in the midst of them.
+6 And hath raised us up together, and made us sit together in heavenly places in Christ Jesus: 7 That in the ages to come he might shew the exceeding riches of his grace in his kindness toward us through Christ Jesus.
 
-[Monday 27-April, 2026](https://getbible.life/kjv/Matthew/18/19-20)
+[Tuesday 28-April, 2026](https://getbible.life/kjv/Ephesians/2/6-7)

@@ -1,21 +1,21 @@
 {
-  "book": "Matthew",
-  "chapter": "18",
-  "date": "Monday 27-April, 2026",
-  "getbible": "https://getbible.life/kjv/Matthew/18/19-20",
-  "name": "Matthew 18:19-20",
+  "book": "Ephesians",
+  "chapter": "2",
+  "date": "Tuesday 28-April, 2026",
+  "getbible": "https://getbible.life/kjv/Ephesians/2/6-7",
+  "name": "Ephesians 2:6-7",
   "scripture": [
     {
-      "nr": "19",
-      "text": "Again I say unto you, That if two of you shall agree on earth as touching any thing that they shall ask, it shall be done for them of my Father which is in heaven."
+      "nr": "6",
+      "text": "And hath raised us up together, and made us sit together in heavenly places in Christ Jesus:"
     },
     {
-      "nr": "20",
-      "text": "For where two or three are gathered together in my name, there am I in the midst of them."
+      "nr": "7",
+      "text": "That in the ages to come he might shew the exceeding riches of his grace in his kindness toward us through Christ Jesus."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "19-20",
+  "verse": "6-7",
   "version": "kjv"
 }
