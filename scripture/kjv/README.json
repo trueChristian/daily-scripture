@@ -1,21 +1,17 @@
 {
-  "book": "Ephesians",
-  "chapter": "2",
-  "date": "Tuesday 28-April, 2026",
-  "getbible": "https://getbible.life/kjv/Ephesians/2/6-7",
-  "name": "Ephesians 2:6-7",
+  "book": "John",
+  "chapter": "21",
+  "date": "Wednesday 29-April, 2026",
+  "getbible": "https://getbible.life/kjv/John/21/17",
+  "name": "John 21:17",
   "scripture": [
     {
-      "nr": "6",
-      "text": "And hath raised us up together, and made us sit together in heavenly places in Christ Jesus:"
-    },
-    {
-      "nr": "7",
-      "text": "That in the ages to come he might shew the exceeding riches of his grace in his kindness toward us through Christ Jesus."
+      "nr": "17",
+      "text": "He saith unto him the third time, Simon, son of Jonas, lovest thou me? Peter was grieved because he said unto him the third time, Lovest thou me? And he said unto him, Lord, thou knowest all things; thou knowest that I love thee. Jesus saith unto him, Feed my sheep."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "6-7",
+  "verse": "17",
   "version": "kjv"
 }
