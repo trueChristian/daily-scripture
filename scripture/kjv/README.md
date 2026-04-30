@@ -1,5 +1,5 @@
-**2 Corinthians 3:17**
+**Jeremiah 48:10**
 
-17 Now the Lord is that Spirit: and where the Spirit of the Lord is, there is liberty.
+10 Cursed be he that doeth the work of the Lord deceitfully, and cursed be he that keepeth back his sword from blood.
 
-[Thursday 30-April, 2026](https://getbible.life/kjv/2 Corinthians/3/17)
+[Friday 01-May, 2026](https://getbible.life/kjv/Jeremiah/48/10)

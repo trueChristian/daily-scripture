@@ -1,17 +1,17 @@
 {
-  "book": "2 Corinthians",
-  "chapter": "3",
-  "date": "Thursday 30-April, 2026",
-  "getbible": "https://getbible.life/kjv/2 Corinthians/3/17",
-  "name": "2 Corinthians 3:17",
+  "book": "Jeremiah",
+  "chapter": "48",
+  "date": "Friday 01-May, 2026",
+  "getbible": "https://getbible.life/kjv/Jeremiah/48/10",
+  "name": "Jeremiah 48:10",
   "scripture": [
     {
-      "nr": "17",
-      "text": "Now the Lord is that Spirit: and where the Spirit of the Lord is, there is liberty."
+      "nr": "10",
+      "text": "Cursed be he that doeth the work of the Lord deceitfully, and cursed be he that keepeth back his sword from blood."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "17",
+  "verse": "10",
   "version": "kjv"
 }
