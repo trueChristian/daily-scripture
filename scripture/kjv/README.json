@@ -1,17 +1,29 @@
 {
-  "book": "Jeremiah",
-  "chapter": "48",
-  "date": "Friday 01-May, 2026",
-  "getbible": "https://getbible.life/kjv/Jeremiah/48/10",
-  "name": "Jeremiah 48:10",
+  "book": "Genesis",
+  "chapter": "14",
+  "date": "Saturday 02-May, 2026",
+  "getbible": "https://getbible.life/kjv/Genesis/14/21-24",
+  "name": "Genesis 14:21-24",
   "scripture": [
     {
-      "nr": "10",
-      "text": "Cursed be he that doeth the work of the Lord deceitfully, and cursed be he that keepeth back his sword from blood."
+      "nr": "21",
+      "text": "And the king of Sodom said unto Abram, Give me the persons, and take the goods to thyself."
+    },
+    {
+      "nr": "22",
+      "text": "And Abram said to the king of Sodom, I have lift up mine hand unto the Lord, the most high God, the possessor of heaven and earth,"
+    },
+    {
+      "nr": "23",
+      "text": "That I will not take from a thread even to a shoelatchet, and that I will not take any thing that is thine, lest thou shouldest say, I have made Abram rich:"
+    },
+    {
+      "nr": "24",
+      "text": "Save only that which the young men have eaten, and the portion of the men which went with me, Aner, Eshcol, and Mamre; let them take their portion. "
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "10",
+  "verse": "21-24",
   "version": "kjv"
 }
