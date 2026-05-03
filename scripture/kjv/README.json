@@ -1,17 +1,17 @@
 {
-  "book": "Isaiah",
-  "chapter": "61",
-  "date": "Sunday 03-May, 2026",
-  "getbible": "https://getbible.life/kjv/Isaiah/61/9",
-  "name": "Isaiah 61:9",
+  "book": "Psalms",
+  "chapter": "145",
+  "date": "Monday 04-May, 2026",
+  "getbible": "https://getbible.life/kjv/Psalms/145/18",
+  "name": "Psalms 145:18",
   "scripture": [
     {
-      "nr": "9",
-      "text": "And their seed shall be known among the Gentiles, and their offspring among the people: all that see them shall acknowledge them, that they are the seed which the Lord hath blessed."
+      "nr": "18",
+      "text": "The Lord is nigh unto all them that call upon him, to all that call upon him in truth."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "9",
+  "verse": "18",
   "version": "kjv"
 }

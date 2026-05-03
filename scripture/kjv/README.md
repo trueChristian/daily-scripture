@@ -1,5 +1,5 @@
-**Isaiah 61:9**
+**Psalms 145:18**
 
-9 And their seed shall be known among the Gentiles, and their offspring among the people: all that see them shall acknowledge them, that they are the seed which the Lord hath blessed.
+18 The Lord is nigh unto all them that call upon him, to all that call upon him in truth.
 
-[Sunday 03-May, 2026](https://getbible.life/kjv/Isaiah/61/9)
+[Monday 04-May, 2026](https://getbible.life/kjv/Psalms/145/18)
