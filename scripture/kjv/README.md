@@ -1,5 +1,5 @@
-**Psalms 145:18**
+**2 Corinthians 7:5**
 
-18 The Lord is nigh unto all them that call upon him, to all that call upon him in truth.
+5 For, when we were come into Macedonia, our flesh had no rest, but we were troubled on every side; without were fightings, within were fears.
 
-[Monday 04-May, 2026](https://getbible.life/kjv/Psalms/145/18)
+[Tuesday 05-May, 2026](https://getbible.life/kjv/2 Corinthians/7/5)
