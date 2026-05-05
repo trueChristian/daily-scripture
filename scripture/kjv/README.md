@@ -1,5 +1,5 @@
-**2 Corinthians 7:5**
+**John 3:20**
 
-5 For, when we were come into Macedonia, our flesh had no rest, but we were troubled on every side; without were fightings, within were fears.
+20 For every one that doeth evil hateth the light, neither cometh to the light, lest his deeds should be reproved.
 
-[Tuesday 05-May, 2026](https://getbible.life/kjv/2 Corinthians/7/5)
+[Wednesday 06-May, 2026](https://getbible.life/kjv/John/3/20)

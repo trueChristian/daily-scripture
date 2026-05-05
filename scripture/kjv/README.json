@@ -1,17 +1,17 @@
 {
-  "book": "2 Corinthians",
-  "chapter": "7",
-  "date": "Tuesday 05-May, 2026",
-  "getbible": "https://getbible.life/kjv/2 Corinthians/7/5",
-  "name": "2 Corinthians 7:5",
+  "book": "John",
+  "chapter": "3",
+  "date": "Wednesday 06-May, 2026",
+  "getbible": "https://getbible.life/kjv/John/3/20",
+  "name": "John 3:20",
   "scripture": [
     {
-      "nr": "5",
-      "text": "For, when we were come into Macedonia, our flesh had no rest, but we were troubled on every side; without were fightings, within were fears."
+      "nr": "20",
+      "text": "For every one that doeth evil hateth the light, neither cometh to the light, lest his deeds should be reproved."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "5",
+  "verse": "20",
   "version": "kjv"
 }
