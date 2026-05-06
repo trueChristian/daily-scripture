@@ -1,5 +1,5 @@
-**John 3:20**
+**Colossians 2:6**
 
-20 For every one that doeth evil hateth the light, neither cometh to the light, lest his deeds should be reproved.
+6 As ye have therefore received Christ Jesus the Lord, so walk ye in him:
 
-[Wednesday 06-May, 2026](https://getbible.life/kjv/John/3/20)
+[Thursday 07-May, 2026](https://getbible.life/kjv/Colossians/2/6)
