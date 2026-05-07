@@ -1,5 +1,5 @@
-**Colossians 2:6**
+**Ephesians 4:25**
 
-6 As ye have therefore received Christ Jesus the Lord, so walk ye in him:
+25 Wherefore putting away lying, speak every man truth with his neighbour: for we are members one of another.
 
-[Thursday 07-May, 2026](https://getbible.life/kjv/Colossians/2/6)
+[Friday 08-May, 2026](https://getbible.life/kjv/Ephesians/4/25)
