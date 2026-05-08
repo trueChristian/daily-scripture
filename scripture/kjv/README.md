@@ -1,5 +1,5 @@
-**Ephesians 4:25**
+**Matthew 11:6**
 
-25 Wherefore putting away lying, speak every man truth with his neighbour: for we are members one of another.
+6 And blessed is he, whosoever shall not be offended in me.
 
-[Friday 08-May, 2026](https://getbible.life/kjv/Ephesians/4/25)
+[Saturday 09-May, 2026](https://getbible.life/kjv/Matthew/11/6)
