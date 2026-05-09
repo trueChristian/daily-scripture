@@ -1,5 +1,5 @@
-**Matthew 11:6**
+**Philippians 2:4**
 
-6 And blessed is he, whosoever shall not be offended in me.
+4 Look not every man on his own things, but every man also on the things of others.
 
-[Saturday 09-May, 2026](https://getbible.life/kjv/Matthew/11/6)
+[Sunday 10-May, 2026](https://getbible.life/kjv/Philippians/2/4)

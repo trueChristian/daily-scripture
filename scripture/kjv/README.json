@@ -1,17 +1,17 @@
 {
-  "book": "Matthew",
-  "chapter": "11",
-  "date": "Saturday 09-May, 2026",
-  "getbible": "https://getbible.life/kjv/Matthew/11/6",
-  "name": "Matthew 11:6",
+  "book": "Philippians",
+  "chapter": "2",
+  "date": "Sunday 10-May, 2026",
+  "getbible": "https://getbible.life/kjv/Philippians/2/4",
+  "name": "Philippians 2:4",
   "scripture": [
     {
-      "nr": "6",
-      "text": "And blessed is he, whosoever shall not be offended in me."
+      "nr": "4",
+      "text": "Look not every man on his own things, but every man also on the things of others."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "6",
+  "verse": "4",
   "version": "kjv"
 }
