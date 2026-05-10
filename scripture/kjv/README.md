@@ -1,5 +1,5 @@
-**Philippians 2:4**
+**Job 1:5**
 
-4 Look not every man on his own things, but every man also on the things of others.
+5 And it was so, when the days of their feasting were gone about, that Job sent and sanctified them, and rose up early in the morning, and offered burnt offerings according to the number of them all: for Job said, It may be that my sons have sinned, and cursed God in their hearts. Thus did Job continually.
 
-[Sunday 10-May, 2026](https://getbible.life/kjv/Philippians/2/4)
+[Monday 11-May, 2026](https://getbible.life/kjv/Job/1/5)

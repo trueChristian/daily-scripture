@@ -1,17 +1,17 @@
 {
-  "book": "Philippians",
-  "chapter": "2",
-  "date": "Sunday 10-May, 2026",
-  "getbible": "https://getbible.life/kjv/Philippians/2/4",
-  "name": "Philippians 2:4",
+  "book": "Job",
+  "chapter": "1",
+  "date": "Monday 11-May, 2026",
+  "getbible": "https://getbible.life/kjv/Job/1/5",
+  "name": "Job 1:5",
   "scripture": [
     {
-      "nr": "4",
-      "text": "Look not every man on his own things, but every man also on the things of others."
+      "nr": "5",
+      "text": "And it was so, when the days of their feasting were gone about, that Job sent and sanctified them, and rose up early in the morning, and offered burnt offerings according to the number of them all: for Job said, It may be that my sons have sinned, and cursed God in their hearts. Thus did Job continually."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "4",
+  "verse": "5",
   "version": "kjv"
 }
