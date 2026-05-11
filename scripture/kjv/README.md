@@ -1,5 +1,5 @@
-**Job 1:5**
+**Acts 21:13**
 
-5 And it was so, when the days of their feasting were gone about, that Job sent and sanctified them, and rose up early in the morning, and offered burnt offerings according to the number of them all: for Job said, It may be that my sons have sinned, and cursed God in their hearts. Thus did Job continually.
+13 Then Paul answered, What mean ye to weep and to break mine heart? for I am ready not to be bound only, but also to die at Jerusalem for the name of the Lord Jesus.
 
-[Monday 11-May, 2026](https://getbible.life/kjv/Job/1/5)
+[Tuesday 12-May, 2026](https://getbible.life/kjv/Acts/21/13)
