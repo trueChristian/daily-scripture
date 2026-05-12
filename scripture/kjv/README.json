@@ -1,17 +1,17 @@
 {
-  "book": "Acts",
-  "chapter": "21",
-  "date": "Tuesday 12-May, 2026",
-  "getbible": "https://getbible.life/kjv/Acts/21/13",
-  "name": "Acts 21:13",
+  "book": "1 Corinthians",
+  "chapter": "1",
+  "date": "Wednesday 13-May, 2026",
+  "getbible": "https://getbible.life/kjv/1 Corinthians/1/28",
+  "name": "1 Corinthians 1:28",
   "scripture": [
     {
-      "nr": "13",
-      "text": "Then Paul answered, What mean ye to weep and to break mine heart? for I am ready not to be bound only, but also to die at Jerusalem for the name of the Lord Jesus."
+      "nr": "28",
+      "text": "And base things of the world, and things which are despised, hath God chosen, yea, and things which are not, to bring to nought things that are:"
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "13",
+  "verse": "28",
   "version": "kjv"
 }

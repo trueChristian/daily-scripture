@@ -1,5 +1,5 @@
-**Acts 21:13**
+**1 Corinthians 1:28**
 
-13 Then Paul answered, What mean ye to weep and to break mine heart? for I am ready not to be bound only, but also to die at Jerusalem for the name of the Lord Jesus.
+28 And base things of the world, and things which are despised, hath God chosen, yea, and things which are not, to bring to nought things that are:
 
-[Tuesday 12-May, 2026](https://getbible.life/kjv/Acts/21/13)
+[Wednesday 13-May, 2026](https://getbible.life/kjv/1 Corinthians/1/28)
