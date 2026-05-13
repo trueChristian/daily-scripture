@@ -1,5 +1,5 @@
-**1 Corinthians 1:28**
+**Isaiah 28:23-29**
 
-28 And base things of the world, and things which are despised, hath God chosen, yea, and things which are not, to bring to nought things that are:
+23 Give ye ear, and hear my voice; hearken, and hear my speech. 24 Doth the plowman plow all day to sow? doth he open and break the clods of his ground? 25 When he hath made plain the face thereof, doth he not cast abroad the fitches, and scatter the cummin, and cast in the principal wheat and the appointed barley and the rie in their place? 26 For his God doth instruct him to discretion, and doth teach him. 27 For the fitches are not threshed with a threshing instrument, neither is a cart wheel turned about upon the cummin; but the fitches are beaten out with a staff, and the cummin with a rod. 28 Bread corn is bruised; because he will not ever be threshing it, nor break it with the wheel of his cart, nor bruise it with his horsemen. 29 This also cometh forth from the Lord of hosts, which is wonderful in counsel, and excellent in working. 
 
-[Wednesday 13-May, 2026](https://getbible.life/kjv/1 Corinthians/1/28)
+[Thursday 14-May, 2026](https://getbible.life/kjv/Isaiah/28/23-29)
