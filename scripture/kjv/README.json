@@ -1,41 +1,17 @@
 {
-  "book": "Isaiah",
-  "chapter": "28",
-  "date": "Thursday 14-May, 2026",
-  "getbible": "https://getbible.life/kjv/Isaiah/28/23-29",
-  "name": "Isaiah 28:23-29",
+  "book": "Luke",
+  "chapter": "16",
+  "date": "Friday 15-May, 2026",
+  "getbible": "https://getbible.life/kjv/Luke/16/15",
+  "name": "Luke 16:15",
   "scripture": [
     {
-      "nr": "23",
-      "text": "Give ye ear, and hear my voice; hearken, and hear my speech."
-    },
-    {
-      "nr": "24",
-      "text": "Doth the plowman plow all day to sow? doth he open and break the clods of his ground?"
-    },
-    {
-      "nr": "25",
-      "text": "When he hath made plain the face thereof, doth he not cast abroad the fitches, and scatter the cummin, and cast in the principal wheat and the appointed barley and the rie in their place?"
-    },
-    {
-      "nr": "26",
-      "text": "For his God doth instruct him to discretion, and doth teach him."
-    },
-    {
-      "nr": "27",
-      "text": "For the fitches are not threshed with a threshing instrument, neither is a cart wheel turned about upon the cummin; but the fitches are beaten out with a staff, and the cummin with a rod."
-    },
-    {
-      "nr": "28",
-      "text": "Bread corn is bruised; because he will not ever be threshing it, nor break it with the wheel of his cart, nor bruise it with his horsemen."
-    },
-    {
-      "nr": "29",
-      "text": "This also cometh forth from the Lord of hosts, which is wonderful in counsel, and excellent in working. "
+      "nr": "15",
+      "text": "And he said unto them, Ye are they which justify yourselves before men; but God knoweth your hearts: for that which is highly esteemed among men is abomination in the sight of God."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "23-29",
+  "verse": "15",
   "version": "kjv"
 }
