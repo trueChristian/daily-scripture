@@ -1,5 +1,5 @@
-**Luke 16:15**
+**John 14:12**
 
-15 And he said unto them, Ye are they which justify yourselves before men; but God knoweth your hearts: for that which is highly esteemed among men is abomination in the sight of God.
+12 Verily, verily, I say unto you, He that believeth on me, the works that I do shall he do also; and greater works than these shall he do; because I go unto my Father.
 
-[Friday 15-May, 2026](https://getbible.life/kjv/Luke/16/15)
+[Saturday 16-May, 2026](https://getbible.life/kjv/John/14/12)

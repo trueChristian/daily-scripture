@@ -1,17 +1,17 @@
 {
-  "book": "Luke",
-  "chapter": "16",
-  "date": "Friday 15-May, 2026",
-  "getbible": "https://getbible.life/kjv/Luke/16/15",
-  "name": "Luke 16:15",
+  "book": "John",
+  "chapter": "14",
+  "date": "Saturday 16-May, 2026",
+  "getbible": "https://getbible.life/kjv/John/14/12",
+  "name": "John 14:12",
   "scripture": [
     {
-      "nr": "15",
-      "text": "And he said unto them, Ye are they which justify yourselves before men; but God knoweth your hearts: for that which is highly esteemed among men is abomination in the sight of God."
+      "nr": "12",
+      "text": "Verily, verily, I say unto you, He that believeth on me, the works that I do shall he do also; and greater works than these shall he do; because I go unto my Father."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "15",
+  "verse": "12",
   "version": "kjv"
 }
