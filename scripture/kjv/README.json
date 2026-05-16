@@ -1,17 +1,17 @@
 {
-  "book": "John",
-  "chapter": "14",
-  "date": "Saturday 16-May, 2026",
-  "getbible": "https://getbible.life/kjv/John/14/12",
-  "name": "John 14:12",
+  "book": "Proverbs",
+  "chapter": "13",
+  "date": "Sunday 17-May, 2026",
+  "getbible": "https://getbible.life/kjv/Proverbs/13/10",
+  "name": "Proverbs 13:10",
   "scripture": [
     {
-      "nr": "12",
-      "text": "Verily, verily, I say unto you, He that believeth on me, the works that I do shall he do also; and greater works than these shall he do; because I go unto my Father."
+      "nr": "10",
+      "text": "Only by pride cometh contention: but with the well advised is wisdom."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "12",
+  "verse": "10",
   "version": "kjv"
 }

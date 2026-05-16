@@ -1,5 +1,5 @@
-**John 14:12**
+**Proverbs 13:10**
 
-12 Verily, verily, I say unto you, He that believeth on me, the works that I do shall he do also; and greater works than these shall he do; because I go unto my Father.
+10 Only by pride cometh contention: but with the well advised is wisdom.
 
-[Saturday 16-May, 2026](https://getbible.life/kjv/John/14/12)
+[Sunday 17-May, 2026](https://getbible.life/kjv/Proverbs/13/10)
