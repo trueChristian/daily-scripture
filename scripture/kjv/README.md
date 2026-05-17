@@ -1,5 +1,5 @@
-**Proverbs 13:10**
+**Romans 9:1-2**
 
-10 Only by pride cometh contention: but with the well advised is wisdom.
+1 I say the truth in Christ, I lie not, my conscience also bearing me witness in the Holy Ghost, 2 That I have great heaviness and continual sorrow in my heart.
 
-[Sunday 17-May, 2026](https://getbible.life/kjv/Proverbs/13/10)
+[Monday 18-May, 2026](https://getbible.life/kjv/Romans/9/1-2)

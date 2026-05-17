@@ -1,17 +1,21 @@
 {
-  "book": "Proverbs",
-  "chapter": "13",
-  "date": "Sunday 17-May, 2026",
-  "getbible": "https://getbible.life/kjv/Proverbs/13/10",
-  "name": "Proverbs 13:10",
+  "book": "Romans",
+  "chapter": "9",
+  "date": "Monday 18-May, 2026",
+  "getbible": "https://getbible.life/kjv/Romans/9/1-2",
+  "name": "Romans 9:1-2",
   "scripture": [
     {
-      "nr": "10",
-      "text": "Only by pride cometh contention: but with the well advised is wisdom."
+      "nr": "1",
+      "text": "I say the truth in Christ, I lie not, my conscience also bearing me witness in the Holy Ghost,"
+    },
+    {
+      "nr": "2",
+      "text": "That I have great heaviness and continual sorrow in my heart."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "10",
+  "verse": "1-2",
   "version": "kjv"
 }
