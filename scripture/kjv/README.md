@@ -1,5 +1,5 @@
-**Romans 9:1-2**
+**Romans 5:8**
 
-1 I say the truth in Christ, I lie not, my conscience also bearing me witness in the Holy Ghost, 2 That I have great heaviness and continual sorrow in my heart.
+8 But God commendeth his love toward us, in that, while we were yet sinners, Christ died for us.
 
-[Monday 18-May, 2026](https://getbible.life/kjv/Romans/9/1-2)
+[Tuesday 19-May, 2026](https://getbible.life/kjv/Romans/5/8)

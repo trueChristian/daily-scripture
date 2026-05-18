@@ -1,21 +1,17 @@
 {
   "book": "Romans",
-  "chapter": "9",
-  "date": "Monday 18-May, 2026",
-  "getbible": "https://getbible.life/kjv/Romans/9/1-2",
-  "name": "Romans 9:1-2",
+  "chapter": "5",
+  "date": "Tuesday 19-May, 2026",
+  "getbible": "https://getbible.life/kjv/Romans/5/8",
+  "name": "Romans 5:8",
   "scripture": [
     {
-      "nr": "1",
-      "text": "I say the truth in Christ, I lie not, my conscience also bearing me witness in the Holy Ghost,"
-    },
-    {
-      "nr": "2",
-      "text": "That I have great heaviness and continual sorrow in my heart."
+      "nr": "8",
+      "text": "But God commendeth his love toward us, in that, while we were yet sinners, Christ died for us."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "1-2",
+  "verse": "8",
   "version": "kjv"
 }
