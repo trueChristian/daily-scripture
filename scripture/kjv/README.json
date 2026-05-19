@@ -1,17 +1,17 @@
 {
-  "book": "Romans",
-  "chapter": "5",
-  "date": "Tuesday 19-May, 2026",
-  "getbible": "https://getbible.life/kjv/Romans/5/8",
-  "name": "Romans 5:8",
+  "book": "Acts",
+  "chapter": "12",
+  "date": "Wednesday 20-May, 2026",
+  "getbible": "https://getbible.life/kjv/Acts/12/2",
+  "name": "Acts 12:2",
   "scripture": [
     {
-      "nr": "8",
-      "text": "But God commendeth his love toward us, in that, while we were yet sinners, Christ died for us."
+      "nr": "2",
+      "text": "And he killed James the brother of John with the sword."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "8",
+  "verse": "2",
   "version": "kjv"
 }

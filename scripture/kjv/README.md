@@ -1,5 +1,5 @@
-**Romans 5:8**
+**Acts 12:2**
 
-8 But God commendeth his love toward us, in that, while we were yet sinners, Christ died for us.
+2 And he killed James the brother of John with the sword.
 
-[Tuesday 19-May, 2026](https://getbible.life/kjv/Romans/5/8)
+[Wednesday 20-May, 2026](https://getbible.life/kjv/Acts/12/2)
