@@ -1,5 +1,5 @@
-**Acts 12:2**
+**Ruth 3:10**
 
-2 And he killed James the brother of John with the sword.
+10 And he said, Blessed be thou of the Lord, my daughter: for thou hast shewed more kindness in the latter end than at the beginning, inasmuch as thou followedst not young men, whether poor or rich.
 
-[Wednesday 20-May, 2026](https://getbible.life/kjv/Acts/12/2)
+[Thursday 21-May, 2026](https://getbible.life/kjv/Ruth/3/10)
