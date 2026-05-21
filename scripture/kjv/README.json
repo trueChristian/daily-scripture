@@ -1,17 +1,17 @@
 {
-  "book": "Ruth",
+  "book": "Isaiah",
   "chapter": "3",
-  "date": "Thursday 21-May, 2026",
-  "getbible": "https://getbible.life/kjv/Ruth/3/10",
-  "name": "Ruth 3:10",
+  "date": "Friday 22-May, 2026",
+  "getbible": "https://getbible.life/kjv/Isaiah/3/12",
+  "name": "Isaiah 3:12",
   "scripture": [
     {
-      "nr": "10",
-      "text": "And he said, Blessed be thou of the Lord, my daughter: for thou hast shewed more kindness in the latter end than at the beginning, inasmuch as thou followedst not young men, whether poor or rich."
+      "nr": "12",
+      "text": "As for my people, children are their oppressors, and women rule over them. O my people, they which lead thee cause thee to err, and destroy the way of thy paths."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "10",
+  "verse": "12",
   "version": "kjv"
 }

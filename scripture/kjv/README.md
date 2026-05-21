@@ -1,5 +1,5 @@
-**Ruth 3:10**
+**Isaiah 3:12**
 
-10 And he said, Blessed be thou of the Lord, my daughter: for thou hast shewed more kindness in the latter end than at the beginning, inasmuch as thou followedst not young men, whether poor or rich.
+12 As for my people, children are their oppressors, and women rule over them. O my people, they which lead thee cause thee to err, and destroy the way of thy paths.
 
-[Thursday 21-May, 2026](https://getbible.life/kjv/Ruth/3/10)
+[Friday 22-May, 2026](https://getbible.life/kjv/Isaiah/3/12)
