@@ -1,5 +1,5 @@
-**Isaiah 3:12**
+**Jude 1:3**
 
-12 As for my people, children are their oppressors, and women rule over them. O my people, they which lead thee cause thee to err, and destroy the way of thy paths.
+3 Beloved, when I gave all diligence to write unto you of the common salvation, it was needful for me to write unto you, and exhort you that ye should earnestly contend for the faith which was once delivered unto the saints.
 
-[Friday 22-May, 2026](https://getbible.life/kjv/Isaiah/3/12)
+[Saturday 23-May, 2026](https://getbible.life/kjv/Jude/1/3)
