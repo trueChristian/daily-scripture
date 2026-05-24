@@ -1,25 +1,25 @@
 {
-  "book": "Psalms",
-  "chapter": "68",
-  "date": "Sunday 24-May, 2026",
-  "getbible": "https://getbible.life/kjv/Psalms/68/24-26",
-  "name": "Psalms 68:24-26",
+  "book": "Matthew",
+  "chapter": "12",
+  "date": "Monday 25-May, 2026",
+  "getbible": "https://getbible.life/kjv/Matthew/12/35-37",
+  "name": "Matthew 12:35-37",
   "scripture": [
     {
-      "nr": "24",
-      "text": "They have seen thy goings, O God; even the goings of my God, my King, in the sanctuary."
+      "nr": "35",
+      "text": "A good man out of the good treasure of the heart bringeth forth good things: and an evil man out of the evil treasure bringeth forth evil things."
     },
     {
-      "nr": "25",
-      "text": "The singers went before, the players on instruments followed after; among them were the damsels playing with timbrels."
+      "nr": "36",
+      "text": "But I say unto you, That every idle word that men shall speak, they shall give account thereof in the day of judgment."
     },
     {
-      "nr": "26",
-      "text": "Bless ye God in the congregations, even the Lord, from the fountain of Israel."
+      "nr": "37",
+      "text": "For by thy words thou shalt be justified, and by thy words thou shalt be condemned."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "24-26",
+  "verse": "35-37",
   "version": "kjv"
 }

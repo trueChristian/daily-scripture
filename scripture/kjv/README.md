@@ -1,5 +1,5 @@
-**Psalms 68:24-26**
+**Matthew 12:35-37**
 
-24 They have seen thy goings, O God; even the goings of my God, my King, in the sanctuary. 25 The singers went before, the players on instruments followed after; among them were the damsels playing with timbrels. 26 Bless ye God in the congregations, even the Lord, from the fountain of Israel.
+35 A good man out of the good treasure of the heart bringeth forth good things: and an evil man out of the evil treasure bringeth forth evil things. 36 But I say unto you, That every idle word that men shall speak, they shall give account thereof in the day of judgment. 37 For by thy words thou shalt be justified, and by thy words thou shalt be condemned.
 
-[Sunday 24-May, 2026](https://getbible.life/kjv/Psalms/68/24-26)
+[Monday 25-May, 2026](https://getbible.life/kjv/Matthew/12/35-37)
