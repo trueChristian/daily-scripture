@@ -1,5 +1,5 @@
-**Matthew 12:35-37**
+**John 15:12**
 
-35 A good man out of the good treasure of the heart bringeth forth good things: and an evil man out of the evil treasure bringeth forth evil things. 36 But I say unto you, That every idle word that men shall speak, they shall give account thereof in the day of judgment. 37 For by thy words thou shalt be justified, and by thy words thou shalt be condemned.
+12 This is my commandment, That ye love one another, as I have loved you.
 
-[Monday 25-May, 2026](https://getbible.life/kjv/Matthew/12/35-37)
+[Tuesday 26-May, 2026](https://getbible.life/kjv/John/15/12)
