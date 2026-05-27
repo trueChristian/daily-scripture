@@ -1,5 +1,5 @@
-**Mark 12:10-11**
+**Luke 24:53**
 
-10 And have ye not read this scripture; The stone which the builders rejected is become the head of the corner: 11 This was the Lord’s doing, and it is marvellous in our eyes?
+53 And were continually in the temple, praising and blessing God. Amen.  
 
-[Wednesday 27-May, 2026](https://getbible.life/kjv/Mark/12/10-11)
+[Thursday 28-May, 2026](https://getbible.life/kjv/Luke/24/53)
