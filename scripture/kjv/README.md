@@ -1,5 +1,5 @@
-**Luke 24:53**
+**Proverbs 29:20**
 
-53 And were continually in the temple, praising and blessing God. Amen.  
+20 Seest thou a man that is hasty in his words? there is more hope of a fool than of him.
 
-[Thursday 28-May, 2026](https://getbible.life/kjv/Luke/24/53)
+[Friday 29-May, 2026](https://getbible.life/kjv/Proverbs/29/20)

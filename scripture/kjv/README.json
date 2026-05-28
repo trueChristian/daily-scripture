@@ -1,17 +1,17 @@
 {
-  "book": "Luke",
-  "chapter": "24",
-  "date": "Thursday 28-May, 2026",
-  "getbible": "https://getbible.life/kjv/Luke/24/53",
-  "name": "Luke 24:53",
+  "book": "Proverbs",
+  "chapter": "29",
+  "date": "Friday 29-May, 2026",
+  "getbible": "https://getbible.life/kjv/Proverbs/29/20",
+  "name": "Proverbs 29:20",
   "scripture": [
     {
-      "nr": "53",
-      "text": "And were continually in the temple, praising and blessing God. Amen.  "
+      "nr": "20",
+      "text": "Seest thou a man that is hasty in his words? there is more hope of a fool than of him."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "53",
+  "verse": "20",
   "version": "kjv"
 }
