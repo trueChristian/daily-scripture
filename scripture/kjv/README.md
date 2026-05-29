@@ -1,5 +1,5 @@
-**Proverbs 29:20**
+**2 Corinthians 5:9**
 
-20 Seest thou a man that is hasty in his words? there is more hope of a fool than of him.
+9 Wherefore we labour, that, whether present or absent, we may be accepted of him.
 
-[Friday 29-May, 2026](https://getbible.life/kjv/Proverbs/29/20)
+[Saturday 30-May, 2026](https://getbible.life/kjv/2 Corinthians/5/9)

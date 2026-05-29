@@ -1,17 +1,17 @@
 {
-  "book": "Proverbs",
-  "chapter": "29",
-  "date": "Friday 29-May, 2026",
-  "getbible": "https://getbible.life/kjv/Proverbs/29/20",
-  "name": "Proverbs 29:20",
+  "book": "2 Corinthians",
+  "chapter": "5",
+  "date": "Saturday 30-May, 2026",
+  "getbible": "https://getbible.life/kjv/2 Corinthians/5/9",
+  "name": "2 Corinthians 5:9",
   "scripture": [
     {
-      "nr": "20",
-      "text": "Seest thou a man that is hasty in his words? there is more hope of a fool than of him."
+      "nr": "9",
+      "text": "Wherefore we labour, that, whether present or absent, we may be accepted of him."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "20",
+  "verse": "9",
   "version": "kjv"
 }
