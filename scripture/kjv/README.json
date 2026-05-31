@@ -1,25 +1,21 @@
 {
   "book": "Psalms",
-  "chapter": "32",
-  "date": "Sunday 31-May, 2026",
-  "getbible": "https://getbible.life/kjv/Psalms/32/3-5",
-  "name": "Psalms 32:3-5",
+  "chapter": "127",
+  "date": "Monday 01-June, 2026",
+  "getbible": "https://getbible.life/kjv/Psalms/127/1-2",
+  "name": "Psalms 127:1-2",
   "scripture": [
     {
-      "nr": "3",
-      "text": "When I kept silence, my bones waxed old through my roaring all the day long."
+      "nr": "1",
+      "text": "Except the Lord build the house, they labour in vain that build it: except the Lord keep the city, the watchman waketh but in vain."
     },
     {
-      "nr": "4",
-      "text": "For day and night thy hand was heavy upon me: my moisture is turned into the drought of summer. Selah."
-    },
-    {
-      "nr": "5",
-      "text": "I acknowledged my sin unto thee, and mine iniquity have I not hid. I said, I will confess my transgressions unto the Lord; and thou forgavest the iniquity of my sin. Selah."
+      "nr": "2",
+      "text": "It is vain for you to rise up early, to sit up late, to eat the bread of sorrows: for so he giveth his beloved sleep."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "3-5",
+  "verse": "1-2",
   "version": "kjv"
 }

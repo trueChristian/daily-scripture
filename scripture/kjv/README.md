@@ -1,5 +1,5 @@
-**Psalms 32:3-5**
+**Psalms 127:1-2**
 
-3 When I kept silence, my bones waxed old through my roaring all the day long. 4 For day and night thy hand was heavy upon me: my moisture is turned into the drought of summer. Selah. 5 I acknowledged my sin unto thee, and mine iniquity have I not hid. I said, I will confess my transgressions unto the Lord; and thou forgavest the iniquity of my sin. Selah.
+1 Except the Lord build the house, they labour in vain that build it: except the Lord keep the city, the watchman waketh but in vain. 2 It is vain for you to rise up early, to sit up late, to eat the bread of sorrows: for so he giveth his beloved sleep.
 
-[Sunday 31-May, 2026](https://getbible.life/kjv/Psalms/32/3-5)
+[Monday 01-June, 2026](https://getbible.life/kjv/Psalms/127/1-2)
