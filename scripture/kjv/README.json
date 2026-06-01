@@ -1,21 +1,17 @@
 {
-  "book": "Psalms",
-  "chapter": "127",
-  "date": "Monday 01-June, 2026",
-  "getbible": "https://getbible.life/kjv/Psalms/127/1-2",
-  "name": "Psalms 127:1-2",
+  "book": "Matthew",
+  "chapter": "14",
+  "date": "Tuesday 02-June, 2026",
+  "getbible": "https://getbible.life/kjv/Matthew/14/23",
+  "name": "Matthew 14:23",
   "scripture": [
     {
-      "nr": "1",
-      "text": "Except the Lord build the house, they labour in vain that build it: except the Lord keep the city, the watchman waketh but in vain."
-    },
-    {
-      "nr": "2",
-      "text": "It is vain for you to rise up early, to sit up late, to eat the bread of sorrows: for so he giveth his beloved sleep."
+      "nr": "23",
+      "text": "And when he had sent the multitudes away, he went up into a mountain apart to pray: and when the evening was come, he was there alone."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "1-2",
+  "verse": "23",
   "version": "kjv"
 }

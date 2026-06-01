@@ -1,5 +1,5 @@
-**Psalms 127:1-2**
+**Matthew 14:23**
 
-1 Except the Lord build the house, they labour in vain that build it: except the Lord keep the city, the watchman waketh but in vain. 2 It is vain for you to rise up early, to sit up late, to eat the bread of sorrows: for so he giveth his beloved sleep.
+23 And when he had sent the multitudes away, he went up into a mountain apart to pray: and when the evening was come, he was there alone.
 
-[Monday 01-June, 2026](https://getbible.life/kjv/Psalms/127/1-2)
+[Tuesday 02-June, 2026](https://getbible.life/kjv/Matthew/14/23)
