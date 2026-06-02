@@ -1,5 +1,5 @@
-**Matthew 14:23**
+**Proverbs 3:35**
 
-23 And when he had sent the multitudes away, he went up into a mountain apart to pray: and when the evening was come, he was there alone.
+35 The wise shall inherit glory: but shame shall be the promotion of fools. 
 
-[Tuesday 02-June, 2026](https://getbible.life/kjv/Matthew/14/23)
+[Wednesday 03-June, 2026](https://getbible.life/kjv/Proverbs/3/35)

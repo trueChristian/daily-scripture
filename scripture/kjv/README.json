@@ -1,17 +1,17 @@
 {
-  "book": "Matthew",
-  "chapter": "14",
-  "date": "Tuesday 02-June, 2026",
-  "getbible": "https://getbible.life/kjv/Matthew/14/23",
-  "name": "Matthew 14:23",
+  "book": "Proverbs",
+  "chapter": "3",
+  "date": "Wednesday 03-June, 2026",
+  "getbible": "https://getbible.life/kjv/Proverbs/3/35",
+  "name": "Proverbs 3:35",
   "scripture": [
     {
-      "nr": "23",
-      "text": "And when he had sent the multitudes away, he went up into a mountain apart to pray: and when the evening was come, he was there alone."
+      "nr": "35",
+      "text": "The wise shall inherit glory: but shame shall be the promotion of fools. "
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "23",
+  "verse": "35",
   "version": "kjv"
 }
