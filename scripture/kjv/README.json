@@ -1,17 +1,17 @@
 {
-  "book": "Proverbs",
-  "chapter": "3",
-  "date": "Wednesday 03-June, 2026",
-  "getbible": "https://getbible.life/kjv/Proverbs/3/35",
-  "name": "Proverbs 3:35",
+  "book": "Matthew",
+  "chapter": "5",
+  "date": "Thursday 04-June, 2026",
+  "getbible": "https://getbible.life/kjv/Matthew/5/3",
+  "name": "Matthew 5:3",
   "scripture": [
     {
-      "nr": "35",
-      "text": "The wise shall inherit glory: but shame shall be the promotion of fools. "
+      "nr": "3",
+      "text": "Blessed are the poor in spirit: for theirs is the kingdom of heaven."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "35",
+  "verse": "3",
   "version": "kjv"
 }
