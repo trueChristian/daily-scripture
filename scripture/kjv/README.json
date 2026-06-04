@@ -1,17 +1,17 @@
 {
-  "book": "Matthew",
-  "chapter": "5",
-  "date": "Thursday 04-June, 2026",
-  "getbible": "https://getbible.life/kjv/Matthew/5/3",
-  "name": "Matthew 5:3",
+  "book": "Daniel",
+  "chapter": "3",
+  "date": "Friday 05-June, 2026",
+  "getbible": "https://getbible.life/kjv/Daniel/3/27",
+  "name": "Daniel 3:27",
   "scripture": [
     {
-      "nr": "3",
-      "text": "Blessed are the poor in spirit: for theirs is the kingdom of heaven."
+      "nr": "27",
+      "text": "And the princes, governors, and captains, and the king’s counsellors, being gathered together, saw these men, upon whose bodies the fire had no power, nor was an hair of their head singed, neither were their coats changed, nor the smell of fire had passed on them."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "3",
+  "verse": "27",
   "version": "kjv"
 }

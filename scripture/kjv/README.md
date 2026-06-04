@@ -1,5 +1,5 @@
-**Matthew 5:3**
+**Daniel 3:27**
 
-3 Blessed are the poor in spirit: for theirs is the kingdom of heaven.
+27 And the princes, governors, and captains, and the king’s counsellors, being gathered together, saw these men, upon whose bodies the fire had no power, nor was an hair of their head singed, neither were their coats changed, nor the smell of fire had passed on them.
 
-[Thursday 04-June, 2026](https://getbible.life/kjv/Matthew/5/3)
+[Friday 05-June, 2026](https://getbible.life/kjv/Daniel/3/27)
