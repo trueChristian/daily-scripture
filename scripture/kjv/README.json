@@ -1,17 +1,17 @@
 {
-  "book": "Daniel",
-  "chapter": "3",
-  "date": "Friday 05-June, 2026",
-  "getbible": "https://getbible.life/kjv/Daniel/3/27",
-  "name": "Daniel 3:27",
+  "book": "Luke",
+  "chapter": "1",
+  "date": "Saturday 06-June, 2026",
+  "getbible": "https://getbible.life/kjv/Luke/1/45",
+  "name": "Luke 1:45",
   "scripture": [
     {
-      "nr": "27",
-      "text": "And the princes, governors, and captains, and the king’s counsellors, being gathered together, saw these men, upon whose bodies the fire had no power, nor was an hair of their head singed, neither were their coats changed, nor the smell of fire had passed on them."
+      "nr": "45",
+      "text": "And blessed is she that believed: for there shall be a performance of those things which were told her from the Lord."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "27",
+  "verse": "45",
   "version": "kjv"
 }

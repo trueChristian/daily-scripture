@@ -1,5 +1,5 @@
-**Daniel 3:27**
+**Luke 1:45**
 
-27 And the princes, governors, and captains, and the king’s counsellors, being gathered together, saw these men, upon whose bodies the fire had no power, nor was an hair of their head singed, neither were their coats changed, nor the smell of fire had passed on them.
+45 And blessed is she that believed: for there shall be a performance of those things which were told her from the Lord.
 
-[Friday 05-June, 2026](https://getbible.life/kjv/Daniel/3/27)
+[Saturday 06-June, 2026](https://getbible.life/kjv/Luke/1/45)
