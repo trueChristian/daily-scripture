@@ -1,5 +1,5 @@
-**Luke 1:45**
+**Matthew 23:28**
 
-45 And blessed is she that believed: for there shall be a performance of those things which were told her from the Lord.
+28 Even so ye also outwardly appear righteous unto men, but within ye are full of hypocrisy and iniquity.
 
-[Saturday 06-June, 2026](https://getbible.life/kjv/Luke/1/45)
+[Sunday 07-June, 2026](https://getbible.life/kjv/Matthew/23/28)

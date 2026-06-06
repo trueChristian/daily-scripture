@@ -1,17 +1,17 @@
 {
-  "book": "Luke",
-  "chapter": "1",
-  "date": "Saturday 06-June, 2026",
-  "getbible": "https://getbible.life/kjv/Luke/1/45",
-  "name": "Luke 1:45",
+  "book": "Matthew",
+  "chapter": "23",
+  "date": "Sunday 07-June, 2026",
+  "getbible": "https://getbible.life/kjv/Matthew/23/28",
+  "name": "Matthew 23:28",
   "scripture": [
     {
-      "nr": "45",
-      "text": "And blessed is she that believed: for there shall be a performance of those things which were told her from the Lord."
+      "nr": "28",
+      "text": "Even so ye also outwardly appear righteous unto men, but within ye are full of hypocrisy and iniquity."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "45",
+  "verse": "28",
   "version": "kjv"
 }
