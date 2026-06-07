@@ -1,5 +1,5 @@
-**Matthew 23:28**
+**Luke 24:49**
 
-28 Even so ye also outwardly appear righteous unto men, but within ye are full of hypocrisy and iniquity.
+49 And, behold, I send the promise of my Father upon you: but tarry ye in the city of Jerusalem, until ye be endued with power from on high.
 
-[Sunday 07-June, 2026](https://getbible.life/kjv/Matthew/23/28)
+[Monday 08-June, 2026](https://getbible.life/kjv/Luke/24/49)

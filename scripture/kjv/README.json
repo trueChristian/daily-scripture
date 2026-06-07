@@ -1,17 +1,17 @@
 {
-  "book": "Matthew",
-  "chapter": "23",
-  "date": "Sunday 07-June, 2026",
-  "getbible": "https://getbible.life/kjv/Matthew/23/28",
-  "name": "Matthew 23:28",
+  "book": "Luke",
+  "chapter": "24",
+  "date": "Monday 08-June, 2026",
+  "getbible": "https://getbible.life/kjv/Luke/24/49",
+  "name": "Luke 24:49",
   "scripture": [
     {
-      "nr": "28",
-      "text": "Even so ye also outwardly appear righteous unto men, but within ye are full of hypocrisy and iniquity."
+      "nr": "49",
+      "text": "And, behold, I send the promise of my Father upon you: but tarry ye in the city of Jerusalem, until ye be endued with power from on high."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "28",
+  "verse": "49",
   "version": "kjv"
 }
