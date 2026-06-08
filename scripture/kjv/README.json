@@ -1,17 +1,21 @@
 {
-  "book": "Luke",
-  "chapter": "24",
-  "date": "Monday 08-June, 2026",
-  "getbible": "https://getbible.life/kjv/Luke/24/49",
-  "name": "Luke 24:49",
+  "book": "Proverbs",
+  "chapter": "22",
+  "date": "Tuesday 09-June, 2026",
+  "getbible": "https://getbible.life/kjv/Proverbs/22/20-21",
+  "name": "Proverbs 22:20-21",
   "scripture": [
     {
-      "nr": "49",
-      "text": "And, behold, I send the promise of my Father upon you: but tarry ye in the city of Jerusalem, until ye be endued with power from on high."
+      "nr": "20",
+      "text": "Have not I written to thee excellent things in counsels and knowledge,"
+    },
+    {
+      "nr": "21",
+      "text": "That I might make thee know the certainty of the words of truth; that thou mightest answer the words of truth to them that send unto thee?"
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "49",
+  "verse": "20-21",
   "version": "kjv"
 }
