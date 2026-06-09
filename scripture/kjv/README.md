@@ -1,5 +1,5 @@
-**Proverbs 22:20-21**
+**Acts 9:32**
 
-20 Have not I written to thee excellent things in counsels and knowledge, 21 That I might make thee know the certainty of the words of truth; that thou mightest answer the words of truth to them that send unto thee?
+32 And it came to pass, as Peter passed throughout all quarters, he came down also to the saints which dwelt at Lydda.
 
-[Tuesday 09-June, 2026](https://getbible.life/kjv/Proverbs/22/20-21)
+[Wednesday 10-June, 2026](https://getbible.life/kjv/Acts/9/32)

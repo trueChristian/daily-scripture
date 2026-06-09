@@ -1,21 +1,17 @@
 {
-  "book": "Proverbs",
-  "chapter": "22",
-  "date": "Tuesday 09-June, 2026",
-  "getbible": "https://getbible.life/kjv/Proverbs/22/20-21",
-  "name": "Proverbs 22:20-21",
+  "book": "Acts",
+  "chapter": "9",
+  "date": "Wednesday 10-June, 2026",
+  "getbible": "https://getbible.life/kjv/Acts/9/32",
+  "name": "Acts 9:32",
   "scripture": [
     {
-      "nr": "20",
-      "text": "Have not I written to thee excellent things in counsels and knowledge,"
-    },
-    {
-      "nr": "21",
-      "text": "That I might make thee know the certainty of the words of truth; that thou mightest answer the words of truth to them that send unto thee?"
+      "nr": "32",
+      "text": "And it came to pass, as Peter passed throughout all quarters, he came down also to the saints which dwelt at Lydda."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "20-21",
+  "verse": "32",
   "version": "kjv"
 }
