@@ -1,17 +1,17 @@
 {
-  "book": "Acts",
-  "chapter": "9",
-  "date": "Wednesday 10-June, 2026",
-  "getbible": "https://getbible.life/kjv/Acts/9/32",
-  "name": "Acts 9:32",
+  "book": "Daniel",
+  "chapter": "4",
+  "date": "Thursday 11-June, 2026",
+  "getbible": "https://getbible.life/kjv/Daniel/4/26",
+  "name": "Daniel 4:26",
   "scripture": [
     {
-      "nr": "32",
-      "text": "And it came to pass, as Peter passed throughout all quarters, he came down also to the saints which dwelt at Lydda."
+      "nr": "26",
+      "text": "And whereas they commanded to leave the stump of the tree roots; thy kingdom shall be sure unto thee, after that thou shalt have known that the heavens do rule."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "32",
+  "verse": "26",
   "version": "kjv"
 }

@@ -1,5 +1,5 @@
-**Acts 9:32**
+**Daniel 4:26**
 
-32 And it came to pass, as Peter passed throughout all quarters, he came down also to the saints which dwelt at Lydda.
+26 And whereas they commanded to leave the stump of the tree roots; thy kingdom shall be sure unto thee, after that thou shalt have known that the heavens do rule.
 
-[Wednesday 10-June, 2026](https://getbible.life/kjv/Acts/9/32)
+[Thursday 11-June, 2026](https://getbible.life/kjv/Daniel/4/26)
