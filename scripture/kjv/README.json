@@ -1,17 +1,33 @@
 {
-  "book": "Daniel",
-  "chapter": "4",
-  "date": "Thursday 11-June, 2026",
-  "getbible": "https://getbible.life/kjv/Daniel/4/26",
-  "name": "Daniel 4:26",
+  "book": "Matthew",
+  "chapter": "22",
+  "date": "Friday 12-June, 2026",
+  "getbible": "https://getbible.life/kjv/Matthew/22/41-45",
+  "name": "Matthew 22:41-45",
   "scripture": [
     {
-      "nr": "26",
-      "text": "And whereas they commanded to leave the stump of the tree roots; thy kingdom shall be sure unto thee, after that thou shalt have known that the heavens do rule."
+      "nr": "41",
+      "text": "While the Pharisees were gathered together, Jesus asked them,"
+    },
+    {
+      "nr": "42",
+      "text": "Saying, What think ye of Christ? whose son is he? They say unto him, The Son of David."
+    },
+    {
+      "nr": "43",
+      "text": "He saith unto them, How then doth David in spirit call him Lord, saying,"
+    },
+    {
+      "nr": "44",
+      "text": "The Lord said unto my Lord, Sit thou on my right hand, till I make thine enemies thy footstool?"
+    },
+    {
+      "nr": "45",
+      "text": "If David then call him Lord, how is he his son?"
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "26",
+  "verse": "41-45",
   "version": "kjv"
 }
