@@ -1,33 +1,21 @@
 {
-  "book": "Matthew",
-  "chapter": "22",
-  "date": "Friday 12-June, 2026",
-  "getbible": "https://getbible.life/kjv/Matthew/22/41-45",
-  "name": "Matthew 22:41-45",
+  "book": "Luke",
+  "chapter": "12",
+  "date": "Saturday 13-June, 2026",
+  "getbible": "https://getbible.life/kjv/Luke/12/2-3",
+  "name": "Luke 12:2-3",
   "scripture": [
     {
-      "nr": "41",
-      "text": "While the Pharisees were gathered together, Jesus asked them,"
+      "nr": "2",
+      "text": "For there is nothing covered, that shall not be revealed; neither hid, that shall not be known."
     },
     {
-      "nr": "42",
-      "text": "Saying, What think ye of Christ? whose son is he? They say unto him, The Son of David."
-    },
-    {
-      "nr": "43",
-      "text": "He saith unto them, How then doth David in spirit call him Lord, saying,"
-    },
-    {
-      "nr": "44",
-      "text": "The Lord said unto my Lord, Sit thou on my right hand, till I make thine enemies thy footstool?"
-    },
-    {
-      "nr": "45",
-      "text": "If David then call him Lord, how is he his son?"
+      "nr": "3",
+      "text": "Therefore whatsoever ye have spoken in darkness shall be heard in the light; and that which ye have spoken in the ear in closets shall be proclaimed upon the housetops."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "41-45",
+  "verse": "2-3",
   "version": "kjv"
 }
