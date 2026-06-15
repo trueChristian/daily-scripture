@@ -1,5 +1,5 @@
-**Job 11:13-19**
+**1 Corinthians 2:7**
 
-13 If thou prepare thine heart, and stretch out thine hands toward him; 14 If iniquity be in thine hand, put it far away, and let not wickedness dwell in thy tabernacles. 15 For then shalt thou lift up thy face without spot; yea, thou shalt be stedfast, and shalt not fear: 16 Because thou shalt forget thy misery, and remember it as waters that pass away: 17 And thine age shall be clearer than the noonday; thou shalt shine forth, thou shalt be as the morning. 18 And thou shalt be secure, because there is hope; yea, thou shalt dig about thee, and thou shalt take thy rest in safety. 19 Also thou shalt lie down, and none shall make thee afraid; yea, many shall make suit unto thee.
+7 But we speak the wisdom of God in a mystery, even the hidden wisdom, which God ordained before the world unto our glory:
 
-[Monday 15-June, 2026](https://getbible.life/kjv/Job/11/13-19)
+[Tuesday 16-June, 2026](https://getbible.life/kjv/1 Corinthians/2/7)
