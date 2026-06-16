@@ -1,17 +1,17 @@
 {
-  "book": "1 Corinthians",
-  "chapter": "2",
-  "date": "Tuesday 16-June, 2026",
-  "getbible": "https://getbible.life/kjv/1 Corinthians/2/7",
-  "name": "1 Corinthians 2:7",
+  "book": "Hebrews",
+  "chapter": "13",
+  "date": "Wednesday 17-June, 2026",
+  "getbible": "https://getbible.life/kjv/Hebrews/13/13",
+  "name": "Hebrews 13:13",
   "scripture": [
     {
-      "nr": "7",
-      "text": "But we speak the wisdom of God in a mystery, even the hidden wisdom, which God ordained before the world unto our glory:"
+      "nr": "13",
+      "text": "Let us go forth therefore unto him without the camp, bearing his reproach."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "7",
+  "verse": "13",
   "version": "kjv"
 }

@@ -1,5 +1,5 @@
-**1 Corinthians 2:7**
+**Hebrews 13:13**
 
-7 But we speak the wisdom of God in a mystery, even the hidden wisdom, which God ordained before the world unto our glory:
+13 Let us go forth therefore unto him without the camp, bearing his reproach.
 
-[Tuesday 16-June, 2026](https://getbible.life/kjv/1 Corinthians/2/7)
+[Wednesday 17-June, 2026](https://getbible.life/kjv/Hebrews/13/13)
