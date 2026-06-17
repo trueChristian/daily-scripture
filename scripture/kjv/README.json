@@ -1,17 +1,17 @@
 {
-  "book": "Hebrews",
-  "chapter": "13",
-  "date": "Wednesday 17-June, 2026",
-  "getbible": "https://getbible.life/kjv/Hebrews/13/13",
-  "name": "Hebrews 13:13",
+  "book": "Psalms",
+  "chapter": "119",
+  "date": "Thursday 18-June, 2026",
+  "getbible": "https://getbible.life/kjv/Psalms/119/9",
+  "name": "Psalms 119:9",
   "scripture": [
     {
-      "nr": "13",
-      "text": "Let us go forth therefore unto him without the camp, bearing his reproach."
+      "nr": "9",
+      "text": " Wherewithal shall a young man cleanse his way? by taking heed thereto according to thy word."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "13",
+  "verse": "9",
   "version": "kjv"
 }
