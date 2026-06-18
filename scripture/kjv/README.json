@@ -1,17 +1,17 @@
 {
-  "book": "Psalms",
-  "chapter": "119",
-  "date": "Thursday 18-June, 2026",
-  "getbible": "https://getbible.life/kjv/Psalms/119/9",
-  "name": "Psalms 119:9",
+  "book": "Habakkuk",
+  "chapter": "2",
+  "date": "Friday 19-June, 2026",
+  "getbible": "https://getbible.life/kjv/Habakkuk/2/2",
+  "name": "Habakkuk 2:2",
   "scripture": [
     {
-      "nr": "9",
-      "text": " Wherewithal shall a young man cleanse his way? by taking heed thereto according to thy word."
+      "nr": "2",
+      "text": "And the Lord answered me, and said, Write the vision, and make it plain upon tables, that he may run that readeth it."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "9",
+  "verse": "2",
   "version": "kjv"
 }

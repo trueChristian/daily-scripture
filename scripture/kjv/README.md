@@ -1,5 +1,5 @@
-**Psalms 119:9**
+**Habakkuk 2:2**
 
-9  Wherewithal shall a young man cleanse his way? by taking heed thereto according to thy word.
+2 And the Lord answered me, and said, Write the vision, and make it plain upon tables, that he may run that readeth it.
 
-[Thursday 18-June, 2026](https://getbible.life/kjv/Psalms/119/9)
+[Friday 19-June, 2026](https://getbible.life/kjv/Habakkuk/2/2)
