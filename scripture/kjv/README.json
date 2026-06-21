@@ -1,17 +1,17 @@
 {
-  "book": "Mark",
-  "chapter": "16",
-  "date": "Sunday 21-June, 2026",
-  "getbible": "https://getbible.life/kjv/Mark/16/20",
-  "name": "Mark 16:20",
+  "book": "John",
+  "chapter": "12",
+  "date": "Monday 22-June, 2026",
+  "getbible": "https://getbible.life/kjv/John/12/19",
+  "name": "John 12:19",
   "scripture": [
     {
-      "nr": "20",
-      "text": "And they went forth, and preached every where, the Lord working with them, and confirming the word with signs following. Amen.  "
+      "nr": "19",
+      "text": "The Pharisees therefore said among themselves, Perceive ye how ye prevail nothing? behold, the world is gone after him."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "20",
+  "verse": "19",
   "version": "kjv"
 }

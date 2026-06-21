@@ -1,5 +1,5 @@
-**Mark 16:20**
+**John 12:19**
 
-20 And they went forth, and preached every where, the Lord working with them, and confirming the word with signs following. Amen.  
+19 The Pharisees therefore said among themselves, Perceive ye how ye prevail nothing? behold, the world is gone after him.
 
-[Sunday 21-June, 2026](https://getbible.life/kjv/Mark/16/20)
+[Monday 22-June, 2026](https://getbible.life/kjv/John/12/19)
