@@ -1,17 +1,29 @@
 {
-  "book": "John",
-  "chapter": "12",
-  "date": "Monday 22-June, 2026",
-  "getbible": "https://getbible.life/kjv/John/12/19",
-  "name": "John 12:19",
+  "book": "Jeremiah",
+  "chapter": "6",
+  "date": "Tuesday 23-June, 2026",
+  "getbible": "https://getbible.life/kjv/Jeremiah/6/27-30",
+  "name": "Jeremiah 6:27-30",
   "scripture": [
     {
-      "nr": "19",
-      "text": "The Pharisees therefore said among themselves, Perceive ye how ye prevail nothing? behold, the world is gone after him."
+      "nr": "27",
+      "text": "I have set thee for a tower and a fortress among my people, that thou mayest know and try their way."
+    },
+    {
+      "nr": "28",
+      "text": "They are all grievous revolters, walking with slanders: they are brass and iron; they are all corrupters."
+    },
+    {
+      "nr": "29",
+      "text": "The bellows are burned, the lead is consumed of the fire; the founder melteth in vain: for the wicked are not plucked away."
+    },
+    {
+      "nr": "30",
+      "text": "Reprobate silver shall men call them, because the Lord hath rejected them. "
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "19",
+  "verse": "27-30",
   "version": "kjv"
 }

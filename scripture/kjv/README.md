@@ -1,5 +1,5 @@
-**John 12:19**
+**Jeremiah 6:27-30**
 
-19 The Pharisees therefore said among themselves, Perceive ye how ye prevail nothing? behold, the world is gone after him.
+27 I have set thee for a tower and a fortress among my people, that thou mayest know and try their way. 28 They are all grievous revolters, walking with slanders: they are brass and iron; they are all corrupters. 29 The bellows are burned, the lead is consumed of the fire; the founder melteth in vain: for the wicked are not plucked away. 30 Reprobate silver shall men call them, because the Lord hath rejected them. 
 
-[Monday 22-June, 2026](https://getbible.life/kjv/John/12/19)
+[Tuesday 23-June, 2026](https://getbible.life/kjv/Jeremiah/6/27-30)
