@@ -1,5 +1,5 @@
-**Jeremiah 6:27-30**
+**Luke 20:23**
 
-27 I have set thee for a tower and a fortress among my people, that thou mayest know and try their way. 28 They are all grievous revolters, walking with slanders: they are brass and iron; they are all corrupters. 29 The bellows are burned, the lead is consumed of the fire; the founder melteth in vain: for the wicked are not plucked away. 30 Reprobate silver shall men call them, because the Lord hath rejected them. 
+23 But he perceived their craftiness, and said unto them, Why tempt ye me?
 
-[Tuesday 23-June, 2026](https://getbible.life/kjv/Jeremiah/6/27-30)
+[Wednesday 24-June, 2026](https://getbible.life/kjv/Luke/20/23)
