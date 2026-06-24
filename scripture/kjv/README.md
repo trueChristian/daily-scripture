@@ -1,5 +1,5 @@
-**Luke 20:23**
+**Proverbs 22:15**
 
-23 But he perceived their craftiness, and said unto them, Why tempt ye me?
+15 Foolishness is bound in the heart of a child; but the rod of correction shall drive it far from him.
 
-[Wednesday 24-June, 2026](https://getbible.life/kjv/Luke/20/23)
+[Thursday 25-June, 2026](https://getbible.life/kjv/Proverbs/22/15)

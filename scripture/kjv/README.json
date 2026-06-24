@@ -1,17 +1,17 @@
 {
-  "book": "Luke",
-  "chapter": "20",
-  "date": "Wednesday 24-June, 2026",
-  "getbible": "https://getbible.life/kjv/Luke/20/23",
-  "name": "Luke 20:23",
+  "book": "Proverbs",
+  "chapter": "22",
+  "date": "Thursday 25-June, 2026",
+  "getbible": "https://getbible.life/kjv/Proverbs/22/15",
+  "name": "Proverbs 22:15",
   "scripture": [
     {
-      "nr": "23",
-      "text": "But he perceived their craftiness, and said unto them, Why tempt ye me?"
+      "nr": "15",
+      "text": "Foolishness is bound in the heart of a child; but the rod of correction shall drive it far from him."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "23",
+  "verse": "15",
   "version": "kjv"
 }
