@@ -1,5 +1,5 @@
-**Proverbs 22:15**
+**1 Corinthians 1:8**
 
-15 Foolishness is bound in the heart of a child; but the rod of correction shall drive it far from him.
+8 Who shall also confirm you unto the end, that ye may be blameless in the day of our Lord Jesus Christ.
 
-[Thursday 25-June, 2026](https://getbible.life/kjv/Proverbs/22/15)
+[Friday 26-June, 2026](https://getbible.life/kjv/1 Corinthians/1/8)
