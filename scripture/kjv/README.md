@@ -1,5 +1,5 @@
-**1 Corinthians 1:8**
+**Ezekiel 3:17-19**
 
-8 Who shall also confirm you unto the end, that ye may be blameless in the day of our Lord Jesus Christ.
+17 Son of man, I have made thee a watchman unto the house of Israel: therefore hear the word at my mouth, and give them warning from me. 18 When I say unto the wicked, Thou shalt surely die; and thou givest him not warning, nor speakest to warn the wicked from his wicked way, to save his life; the same wicked man shall die in his iniquity; but his blood will I require at thine hand. 19 Yet if thou warn the wicked, and he turn not from his wickedness, nor from his wicked way, he shall die in his iniquity; but thou hast delivered thy soul.
 
-[Friday 26-June, 2026](https://getbible.life/kjv/1 Corinthians/1/8)
+[Saturday 27-June, 2026](https://getbible.life/kjv/Ezekiel/3/17-19)
