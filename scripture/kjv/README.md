@@ -1,5 +1,5 @@
-**1 Corinthians 15:41-42**
+**Matthew 17:19-21**
 
-41 There is one glory of the sun, and another glory of the moon, and another glory of the stars: for one star differeth from another star in glory. 42 So also is the resurrection of the dead. It is sown in corruption; it is raised in incorruption:
+19 Then came the disciples to Jesus apart, and said, Why could not we cast him out? 20 And Jesus said unto them, Because of your unbelief: for verily I say unto you, If ye have faith as a grain of mustard seed, ye shall say unto this mountain, Remove hence to yonder place; and it shall remove; and nothing shall be impossible unto you. 21 Howbeit this kind goeth not out but by prayer and fasting.
 
-[Sunday 28-June, 2026](https://getbible.life/kjv/1 Corinthians/15/41-42)
+[Monday 29-June, 2026](https://getbible.life/kjv/Matthew/17/19-21)
