@@ -1,17 +1,17 @@
 {
-  "book": "2 Corinthians",
-  "chapter": "4",
-  "date": "Tuesday 30-June, 2026",
-  "getbible": "https://getbible.life/kjv/2 Corinthians/4/9",
-  "name": "2 Corinthians 4:9",
+  "book": "Matthew",
+  "chapter": "5",
+  "date": "Wednesday 01-July, 2026",
+  "getbible": "https://getbible.life/kjv/Matthew/5/19",
+  "name": "Matthew 5:19",
   "scripture": [
     {
-      "nr": "9",
-      "text": "Persecuted, but not forsaken; cast down, but not destroyed;"
+      "nr": "19",
+      "text": "Whosoever therefore shall break one of these least commandments, and shall teach men so, he shall be called the least in the kingdom of heaven: but whosoever shall do and teach them, the same shall be called great in the kingdom of heaven."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "9",
+  "verse": "19",
   "version": "kjv"
 }
