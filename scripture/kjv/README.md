@@ -1,5 +1,5 @@
-**Matthew 5:19**
+**1 Corinthians 10:23**
 
-19 Whosoever therefore shall break one of these least commandments, and shall teach men so, he shall be called the least in the kingdom of heaven: but whosoever shall do and teach them, the same shall be called great in the kingdom of heaven.
+23 All things are lawful for me, but all things are not expedient: all things are lawful for me, but all things edify not.
 
-[Wednesday 01-July, 2026](https://getbible.life/kjv/Matthew/5/19)
+[Thursday 02-July, 2026](https://getbible.life/kjv/1 Corinthians/10/23)
