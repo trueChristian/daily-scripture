@@ -1,5 +1,5 @@
-**1 Corinthians 10:23**
+**Matthew 11:25**
 
-23 All things are lawful for me, but all things are not expedient: all things are lawful for me, but all things edify not.
+25 At that time Jesus answered and said, I thank thee, O Father, Lord of heaven and earth, because thou hast hid these things from the wise and prudent, and hast revealed them unto babes.
 
-[Thursday 02-July, 2026](https://getbible.life/kjv/1 Corinthians/10/23)
+[Friday 03-July, 2026](https://getbible.life/kjv/Matthew/11/25)
