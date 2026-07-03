@@ -1,5 +1,5 @@
-**Matthew 11:25**
+**Isaiah 41:14**
 
-25 At that time Jesus answered and said, I thank thee, O Father, Lord of heaven and earth, because thou hast hid these things from the wise and prudent, and hast revealed them unto babes.
+14 Fear not, thou worm Jacob, and ye men of Israel; I will help thee, saith the Lord, and thy redeemer, the Holy One of Israel.
 
-[Friday 03-July, 2026](https://getbible.life/kjv/Matthew/11/25)
+[Saturday 04-July, 2026](https://getbible.life/kjv/Isaiah/41/14)

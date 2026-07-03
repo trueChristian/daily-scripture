@@ -1,17 +1,17 @@
 {
-  "book": "Matthew",
-  "chapter": "11",
-  "date": "Friday 03-July, 2026",
-  "getbible": "https://getbible.life/kjv/Matthew/11/25",
-  "name": "Matthew 11:25",
+  "book": "Isaiah",
+  "chapter": "41",
+  "date": "Saturday 04-July, 2026",
+  "getbible": "https://getbible.life/kjv/Isaiah/41/14",
+  "name": "Isaiah 41:14",
   "scripture": [
     {
-      "nr": "25",
-      "text": "At that time Jesus answered and said, I thank thee, O Father, Lord of heaven and earth, because thou hast hid these things from the wise and prudent, and hast revealed them unto babes."
+      "nr": "14",
+      "text": "Fear not, thou worm Jacob, and ye men of Israel; I will help thee, saith the Lord, and thy redeemer, the Holy One of Israel."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "25",
+  "verse": "14",
   "version": "kjv"
 }
