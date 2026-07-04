@@ -1,5 +1,5 @@
-**Isaiah 41:14**
+**Mark 10:39**
 
-14 Fear not, thou worm Jacob, and ye men of Israel; I will help thee, saith the Lord, and thy redeemer, the Holy One of Israel.
+39 And they said unto him, We can. And Jesus said unto them, Ye shall indeed drink of the cup that I drink of; and with the baptism that I am baptized withal shall ye be baptized:
 
-[Saturday 04-July, 2026](https://getbible.life/kjv/Isaiah/41/14)
+[Sunday 05-July, 2026](https://getbible.life/kjv/Mark/10/39)

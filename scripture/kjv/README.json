@@ -1,17 +1,17 @@
 {
-  "book": "Isaiah",
-  "chapter": "41",
-  "date": "Saturday 04-July, 2026",
-  "getbible": "https://getbible.life/kjv/Isaiah/41/14",
-  "name": "Isaiah 41:14",
+  "book": "Mark",
+  "chapter": "10",
+  "date": "Sunday 05-July, 2026",
+  "getbible": "https://getbible.life/kjv/Mark/10/39",
+  "name": "Mark 10:39",
   "scripture": [
     {
-      "nr": "14",
-      "text": "Fear not, thou worm Jacob, and ye men of Israel; I will help thee, saith the Lord, and thy redeemer, the Holy One of Israel."
+      "nr": "39",
+      "text": "And they said unto him, We can. And Jesus said unto them, Ye shall indeed drink of the cup that I drink of; and with the baptism that I am baptized withal shall ye be baptized:"
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "14",
+  "verse": "39",
   "version": "kjv"
 }
