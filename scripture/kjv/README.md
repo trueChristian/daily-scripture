@@ -1,5 +1,5 @@
-**Mark 10:39**
+**1 Corinthians 14:1**
 
-39 And they said unto him, We can. And Jesus said unto them, Ye shall indeed drink of the cup that I drink of; and with the baptism that I am baptized withal shall ye be baptized:
+1 Follow after charity, and desire spiritual gifts, but rather that ye may prophesy.
 
-[Sunday 05-July, 2026](https://getbible.life/kjv/Mark/10/39)
+[Monday 06-July, 2026](https://getbible.life/kjv/1 Corinthians/14/1)
