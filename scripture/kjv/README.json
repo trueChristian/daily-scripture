@@ -1,17 +1,17 @@
 {
-  "book": "1 Corinthians",
-  "chapter": "14",
-  "date": "Monday 06-July, 2026",
-  "getbible": "https://getbible.life/kjv/1 Corinthians/14/1",
-  "name": "1 Corinthians 14:1",
+  "book": "Psalms",
+  "chapter": "16",
+  "date": "Tuesday 07-July, 2026",
+  "getbible": "https://getbible.life/kjv/Psalms/16/11",
+  "name": "Psalms 16:11",
   "scripture": [
     {
-      "nr": "1",
-      "text": "Follow after charity, and desire spiritual gifts, but rather that ye may prophesy."
+      "nr": "11",
+      "text": "Thou wilt shew me the path of life: in thy presence is fulness of joy; at thy right hand there are pleasures for evermore. "
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "1",
+  "verse": "11",
   "version": "kjv"
 }
