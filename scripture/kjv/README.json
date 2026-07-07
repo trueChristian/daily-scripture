@@ -1,17 +1,25 @@
 {
-  "book": "Psalms",
-  "chapter": "16",
-  "date": "Tuesday 07-July, 2026",
-  "getbible": "https://getbible.life/kjv/Psalms/16/11",
-  "name": "Psalms 16:11",
+  "book": "1 Thessalonians",
+  "chapter": "5",
+  "date": "Wednesday 08-July, 2026",
+  "getbible": "https://getbible.life/kjv/1 Thessalonians/5/8-10",
+  "name": "1 Thessalonians 5:8-10",
   "scripture": [
     {
-      "nr": "11",
-      "text": "Thou wilt shew me the path of life: in thy presence is fulness of joy; at thy right hand there are pleasures for evermore. "
+      "nr": "8",
+      "text": "But let us, who are of the day, be sober, putting on the breastplate of faith and love; and for an helmet, the hope of salvation."
+    },
+    {
+      "nr": "9",
+      "text": "For God hath not appointed us to wrath, but to obtain salvation by our Lord Jesus Christ,"
+    },
+    {
+      "nr": "10",
+      "text": "Who died for us, that, whether we wake or sleep, we should live together with him."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "11",
+  "verse": "8-10",
   "version": "kjv"
 }

@@ -1,5 +1,5 @@
-**Psalms 16:11**
+**1 Thessalonians 5:8-10**
 
-11 Thou wilt shew me the path of life: in thy presence is fulness of joy; at thy right hand there are pleasures for evermore. 
+8 But let us, who are of the day, be sober, putting on the breastplate of faith and love; and for an helmet, the hope of salvation. 9 For God hath not appointed us to wrath, but to obtain salvation by our Lord Jesus Christ, 10 Who died for us, that, whether we wake or sleep, we should live together with him.
 
-[Tuesday 07-July, 2026](https://getbible.life/kjv/Psalms/16/11)
+[Wednesday 08-July, 2026](https://getbible.life/kjv/1 Thessalonians/5/8-10)
