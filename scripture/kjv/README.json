@@ -1,25 +1,12 @@
 {
-  "book": "1 Thessalonians",
-  "chapter": "5",
-  "date": "Wednesday 08-July, 2026",
-  "getbible": "https://getbible.life/kjv/1 Thessalonians/5/8-10",
-  "name": "1 Thessalonians 5:8-10",
-  "scripture": [
-    {
-      "nr": "8",
-      "text": "But let us, who are of the day, be sober, putting on the breastplate of faith and love; and for an helmet, the hope of salvation."
-    },
-    {
-      "nr": "9",
-      "text": "For God hath not appointed us to wrath, but to obtain salvation by our Lord Jesus Christ,"
-    },
-    {
-      "nr": "10",
-      "text": "Who died for us, that, whether we wake or sleep, we should live together with him."
-    }
-  ],
+  "book": "Proverbs",
+  "chapter": "4",
+  "date": "Thursday 09-July, 2026",
+  "getbible": "https://getbible.life/kjv/Proverbs/4/18",
+  "name": "Proverbs 4:18",
+  "scripture": [],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "8-10",
+  "verse": "18",
   "version": "kjv"
 }
