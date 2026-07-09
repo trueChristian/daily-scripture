@@ -1,5 +1,5 @@
-**Proverbs 4:18**
+**Psalms 34:7**
 
-18 But the path of the just is as the shining light, that shineth more and more unto the perfect day.
+7 The angel of the Lord encampeth round about them that fear him, and delivereth them.
 
-[Thursday 09-July, 2026](https://getbible.life/kjv/Proverbs/4/18)
+[Friday 10-July, 2026](https://getbible.life/kjv/Psalms/34/7)
