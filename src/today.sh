@@ -123,6 +123,15 @@ if [ -z "${TODAY_S_SCRIPTURE}" ]; then
   rm -f "${TMP}"
 fi
 
+#███████████████████████████████████████████████████████ VALIDATE SCRIPTURE ███
+# trim any surrounding whitespace from the reference
+TODAY_S_SCRIPTURE=$(echo "${TODAY_S_SCRIPTURE}" | sed -e 's/^[[:space:]]*//' -e 's/[[:space:]]*$//')
+# make sure we actually have a scripture reference to work with
+if [ -z "${TODAY_S_SCRIPTURE}" ]; then
+  echo >&2 "No scripture reference was selected (is ${SORTED} empty or too short?). Aborting."
+  exit 1
+fi
+
 #█████████████████████████████████████████████ SHOW WHAT SCRIPTURE SELECTED ███
 if (("$DRY_RUN" == 1)); then
   echo "selected: $TODAY_S_SCRIPTURE"
@@ -130,21 +139,52 @@ if (("$DRY_RUN" == 1)); then
 fi
 
 #███████████████████████████████████████████████████████ GET SCRIPTURE TEXT ███
-# Get the verses from the getBible API
-TODAY_S_SCRIPTURE_TEXT=$(bash <(curl -s https://raw.githubusercontent.com/getbible/getverse/master/src/chapter.sh) -s="${TODAY_S_SCRIPTURE}" -v="${VERSION}" )
+# url-encode the scripture reference so spaces and colons are safe in the URL
+SCRIPTURE_QUERY=$(jq -rn --arg ref "${TODAY_S_SCRIPTURE}" '$ref | @uri')
+# Get the verses from the getBible query API
+SCRIPTURE_RESPONSE=$(curl -s -f --connect-timeout 10 --max-time 30 --retry 3 --retry-delay 2 \
+  "https://query.getbible.net/v2/${VERSION}/${SCRIPTURE_QUERY}")
+CURL_STATUS=$?
+# make sure the request itself succeeded (curl -f fails on HTTP errors like 404)
+if [ "${CURL_STATUS}" -ne 0 ] || [ -z "${SCRIPTURE_RESPONSE}" ]; then
+  echo >&2 "Failed to get (${TODAY_S_SCRIPTURE}) in (${VERSION}) from the getBible API (curl: ${CURL_STATUS}). Aborting."
+  exit 1
+fi
+# make sure the response is valid JSON
+if ! jq -e . >/dev/null 2>&1 <<<"${SCRIPTURE_RESPONSE}"; then
+  echo >&2 "The getBible API returned invalid JSON for (${TODAY_S_SCRIPTURE}) in (${VERSION}). Aborting."
+  exit 1
+fi
+# build the verse lines (nr text) one verse per line
+TODAY_S_SCRIPTURE_TEXT=$(
+  jq <<<"${SCRIPTURE_RESPONSE}" -r '
+    [.[] | .verses[]?]
+    | map("\(.verse) \(.text | gsub("^\\s+|\\s+$"; ""))")
+    | join("\n")
+  '
+)
+# make sure we actually got verses back
+if [ -z "${TODAY_S_SCRIPTURE_TEXT}" ]; then
+  echo >&2 "The getBible API returned no verses for (${TODAY_S_SCRIPTURE}) in (${VERSION}). Aborting."
+  exit 1
+fi
 
 #███████████████████████████████████████████████████████ GET SCRIPTURE NAME ███
-# get the book number
-BOOK_NUMBER=$(echo "$TODAY_S_SCRIPTURE" | cut -d' ' -f1)
-# get the list of books from the API to get the book number
-BOOKS=$(curl -s "https://api.getbible.net/v2/${VERSION}/books.json")
-BOOK_NAME=$(echo "$BOOKS" | jq -r ".[] | select(.nr == ${BOOK_NUMBER}) | .name")
+# the response is keyed by (abbreviation_book_chapter), so we take the first object
+# get the book name
+BOOK_NAME=$(jq <<<"${SCRIPTURE_RESPONSE}" -r '[.[]][0].book_name // empty')
 # get the chapter
-CHAPTER=$(echo "$TODAY_S_SCRIPTURE" | cut -d' ' -f2 | cut -d':' -f1)
-# get the verses
-VERSES=$(echo "$TODAY_S_SCRIPTURE" | cut -d' ' -f2 | cut -d':' -f2)
+CHAPTER=$(jq <<<"${SCRIPTURE_RESPONSE}" -r '[.[]][0].chapter // empty')
+# get the verses (everything after the colon in the reference)
+VERSES="${TODAY_S_SCRIPTURE##*:}"
+# make sure the API gave us the book details
+if [ -z "${BOOK_NAME}" ] || [ -z "${CHAPTER}" ]; then
+  echo >&2 "The getBible API returned no book details for (${TODAY_S_SCRIPTURE}) in (${VERSION}). Aborting."
+  exit 1
+fi
 # Set the passage name
 NAME="${BOOK_NAME} ${CHAPTER}:${VERSES}"
+
 #███████████████████████████████████████████████████████████ GET BIBLE LINK ███
 # We set the GetBible link for this verse
 GETBIBLE_LINK="https://getbible.life/${VERSION}/${BOOK_NAME}/${CHAPTER}/${VERSES}"
@@ -155,24 +195,15 @@ ${TODAY_S_SCRIPTURE_TEXT//$'\n'/ }<br /><br />
 <a id=\"daily-scripture-link\" href=\"${GETBIBLE_LINK}\">${TODAY}</a>"
 
 #████████████████████████████████████████████ SET TODAY'S SCRIPTURE IN JSON ███
-# convert text to json
-IFS=$'\n'; TODAY_S_SCRIPTURE_ARRAY=( $TODAY_S_SCRIPTURE_TEXT )
-TODAY_S_SCRIPTURE_JSON='[]'
-for line in "${TODAY_S_SCRIPTURE_ARRAY[@]}"; do
-  # shellcheck disable=SC2001
-  text_nr=$(echo "${line}" | sed 's@^[^0-9]*\([0-9]\+\).*@\1@')
-  text="${line#$text_nr }"
-  TODAY_S_SCRIPTURE_JSON="$(
-      jq <<<"$TODAY_S_SCRIPTURE_JSON" -c \
-        --arg nr "$text_nr" \
-        --arg text "$text" '
-  			. += [{
-  				nr: $nr,
-  				text: $text
-  			}]
-  		'
-    )"
-done
+# convert the verses to json (nr stays a string to keep the old format)
+TODAY_S_SCRIPTURE_JSON=$(
+  jq <<<"${SCRIPTURE_RESPONSE}" -c '
+    [.[] | .verses[]? | {
+      nr: (.verse | tostring),
+      text: (.text | gsub("^\\s+|\\s+$"; ""))
+    }]
+  '
+)
 # build the json object
 JSON='{}';  JSON="$(
     jq <<<"$JSON" -c \
