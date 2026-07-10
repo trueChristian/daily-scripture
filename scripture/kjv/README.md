@@ -1,5 +1,5 @@
-**Psalms 34:7**
+**1 John 2:9-11**
 
-7 The angel of the Lord encampeth round about them that fear him, and delivereth them.
+9 He that saith he is in the light, and hateth his brother, is in darkness even until now. 10 He that loveth his brother abideth in the light, and there is none occasion of stumbling in him. 11 But he that hateth his brother is in darkness, and walketh in darkness, and knoweth not whither he goeth, because that darkness hath blinded his eyes.
 
-[Friday 10-July, 2026](https://getbible.life/kjv/Psalms/34/7)
+[Saturday 11-July, 2026](https://getbible.life/kjv/1 John/2/9-11)
