@@ -1,25 +1,21 @@
 {
-  "book": "1 John",
-  "chapter": "2",
-  "date": "Saturday 11-July, 2026",
-  "getbible": "https://getbible.life/kjv/1 John/2/9-11",
-  "name": "1 John 2:9-11",
+  "book": "Ezekiel",
+  "chapter": "47",
+  "date": "Sunday 12-July, 2026",
+  "getbible": "https://getbible.life/kjv/Ezekiel/47/10-11",
+  "name": "Ezekiel 47:10-11",
   "scripture": [
     {
-      "nr": "9",
-      "text": "He that saith he is in the light, and hateth his brother, is in darkness even until now."
-    },
-    {
       "nr": "10",
-      "text": "He that loveth his brother abideth in the light, and there is none occasion of stumbling in him."
+      "text": "And it shall come to pass, that the fishers shall stand upon it from En–gedi even unto En–eglaim; they shall be a place to spread forth nets; their fish shall be according to their kinds, as the fish of the great sea, exceeding many."
     },
     {
       "nr": "11",
-      "text": "But he that hateth his brother is in darkness, and walketh in darkness, and knoweth not whither he goeth, because that darkness hath blinded his eyes."
+      "text": "But the miry places thereof and the marishes thereof shall not be healed; they shall be given to salt."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "9-11",
+  "verse": "10-11",
   "version": "kjv"
 }

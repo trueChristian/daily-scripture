@@ -1,5 +1,5 @@
-**1 John 2:9-11**
+**Ezekiel 47:10-11**
 
-9 He that saith he is in the light, and hateth his brother, is in darkness even until now. 10 He that loveth his brother abideth in the light, and there is none occasion of stumbling in him. 11 But he that hateth his brother is in darkness, and walketh in darkness, and knoweth not whither he goeth, because that darkness hath blinded his eyes.
+10 And it shall come to pass, that the fishers shall stand upon it from En–gedi even unto En–eglaim; they shall be a place to spread forth nets; their fish shall be according to their kinds, as the fish of the great sea, exceeding many. 11 But the miry places thereof and the marishes thereof shall not be healed; they shall be given to salt.
 
-[Saturday 11-July, 2026](https://getbible.life/kjv/1%20John/2/9-11)
+[Sunday 12-July, 2026](https://getbible.life/kjv/Ezekiel/47/10-11)
