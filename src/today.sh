@@ -173,6 +173,7 @@ fi
 # the response is keyed by (abbreviation_book_chapter), so we take the first object
 # get the book name
 BOOK_NAME=$(jq <<<"${SCRIPTURE_RESPONSE}" -r '[.[]][0].book_name // empty')
+ENCODED_BOOK_NAME="$(jq -rn --arg value "$BOOK_NAME" '$value | @uri')"
 # get the chapter
 CHAPTER=$(jq <<<"${SCRIPTURE_RESPONSE}" -r '[.[]][0].chapter // empty')
 # get the verses (everything after the colon in the reference)
@@ -188,6 +189,7 @@ NAME="${BOOK_NAME} ${CHAPTER}:${VERSES}"
 #███████████████████████████████████████████████████████████ GET BIBLE LINK ███
 # We set the GetBible link for this verse
 GETBIBLE_LINK="https://getbible.life/${VERSION}/${BOOK_NAME}/${CHAPTER}/${VERSES}"
+GETBIBLE_ENCODED_LINK="https://getbible.life/${VERSION}/${ENCODED_BOOK_NAME}/${CHAPTER}/${VERSES}"
 
 #████████████████████████████████████████████ SET TODAY'S SCRIPTURE IN HTML ███
 HTML="<strong>${NAME}</strong><br />
@@ -243,7 +245,7 @@ MARKDOWN="**${NAME}**
 
 ${TODAY_S_SCRIPTURE_TEXT//$'\n'/ }
 
-[${TODAY}](${GETBIBLE_LINK})"
+[${TODAY}](${GETBIBLE_ENCODED_LINK})"
 
 #███████████████████████████████████████████████████████████████ SET FILES ███
 
