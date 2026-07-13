@@ -1,17 +1,17 @@
 {
-  "book": "Ephesians",
-  "chapter": "1",
-  "date": "Monday 13-July, 2026",
-  "getbible": "https://getbible.life/kjv/Ephesians/1/18",
-  "name": "Ephesians 1:18",
+  "book": "Romans",
+  "chapter": "10",
+  "date": "Tuesday 14-July, 2026",
+  "getbible": "https://getbible.life/kjv/Romans/10/1",
+  "name": "Romans 10:1",
   "scripture": [
     {
-      "nr": "18",
-      "text": "The eyes of your understanding being enlightened; that ye may know what is the hope of his calling, and what the riches of the glory of his inheritance in the saints,"
+      "nr": "1",
+      "text": "Brethren, my heart’s desire and prayer to God for Israel is, that they might be saved."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "18",
+  "verse": "1",
   "version": "kjv"
 }
