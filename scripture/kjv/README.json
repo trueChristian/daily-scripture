@@ -1,25 +1,25 @@
 {
-  "book": "Ephesians",
-  "chapter": "5",
-  "date": "Wednesday 15-July, 2026",
-  "getbible": "https://getbible.life/kjv/Ephesians/5/22-24",
-  "name": "Ephesians 5:22-24",
+  "book": "James",
+  "chapter": "1",
+  "date": "Thursday 16-July, 2026",
+  "getbible": "https://getbible.life/kjv/James/1/2-4",
+  "name": "James 1:2-4",
   "scripture": [
     {
-      "nr": "22",
-      "text": "Wives, submit yourselves unto your own husbands, as unto the Lord."
+      "nr": "2",
+      "text": "My brethren, count it all joy when ye fall into divers temptations;"
     },
     {
-      "nr": "23",
-      "text": "For the husband is the head of the wife, even as Christ is the head of the church: and he is the saviour of the body."
+      "nr": "3",
+      "text": "Knowing this, that the trying of your faith worketh patience."
     },
     {
-      "nr": "24",
-      "text": "Therefore as the church is subject unto Christ, so let the wives be to their own husbands in every thing."
+      "nr": "4",
+      "text": "But let patience have her perfect work, that ye may be perfect and entire, wanting nothing."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "22-24",
+  "verse": "2-4",
   "version": "kjv"
 }

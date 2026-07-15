@@ -1,5 +1,5 @@
-**Ephesians 5:22-24**
+**James 1:2-4**
 
-22 Wives, submit yourselves unto your own husbands, as unto the Lord. 23 For the husband is the head of the wife, even as Christ is the head of the church: and he is the saviour of the body. 24 Therefore as the church is subject unto Christ, so let the wives be to their own husbands in every thing.
+2 My brethren, count it all joy when ye fall into divers temptations; 3 Knowing this, that the trying of your faith worketh patience. 4 But let patience have her perfect work, that ye may be perfect and entire, wanting nothing.
 
-[Wednesday 15-July, 2026](https://getbible.life/kjv/Ephesians/5/22-24)
+[Thursday 16-July, 2026](https://getbible.life/kjv/James/1/2-4)
