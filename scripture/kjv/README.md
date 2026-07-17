@@ -1,5 +1,5 @@
-**Psalms 27:3**
+**Psalms 23:1-3**
 
-3 Though an host should encamp against me, my heart shall not fear: though war should rise against me, in this will I be confident.
+1 The Lord is my shepherd; I shall not want. 2 He maketh me to lie down in green pastures: he leadeth me beside the still waters. 3 He restoreth my soul: he leadeth me in the paths of righteousness for his name’s sake.
 
-[Friday 17-July, 2026](https://getbible.life/kjv/Psalms/27/3)
+[Saturday 18-July, 2026](https://getbible.life/kjv/Psalms/23/1-3)
