@@ -1,5 +1,5 @@
-**Psalms 23:1-3**
+**Proverbs 23:23**
 
-1 The Lord is my shepherd; I shall not want. 2 He maketh me to lie down in green pastures: he leadeth me beside the still waters. 3 He restoreth my soul: he leadeth me in the paths of righteousness for his name’s sake.
+23 Buy the truth, and sell it not; also wisdom, and instruction, and understanding.
 
-[Saturday 18-July, 2026](https://getbible.life/kjv/Psalms/23/1-3)
+[Sunday 19-July, 2026](https://getbible.life/kjv/Proverbs/23/23)
