@@ -1,21 +1,17 @@
 {
-  "book": "Galatians",
-  "chapter": "6",
-  "date": "Monday 20-July, 2026",
-  "getbible": "https://getbible.life/kjv/Galatians/6/4-5",
-  "name": "Galatians 6:4-5",
+  "book": "Proverbs",
+  "chapter": "30",
+  "date": "Tuesday 21-July, 2026",
+  "getbible": "https://getbible.life/kjv/Proverbs/30/17",
+  "name": "Proverbs 30:17",
   "scripture": [
     {
-      "nr": "4",
-      "text": "But let every man prove his own work, and then shall he have rejoicing in himself alone, and not in another."
-    },
-    {
-      "nr": "5",
-      "text": "For every man shall bear his own burden."
+      "nr": "17",
+      "text": "The eye that mocketh at his father, and despiseth to obey his mother, the ravens of the valley shall pick it out, and the young eagles shall eat it."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "4-5",
+  "verse": "17",
   "version": "kjv"
 }
