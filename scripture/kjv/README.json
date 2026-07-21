@@ -1,17 +1,17 @@
 {
-  "book": "Proverbs",
-  "chapter": "30",
-  "date": "Tuesday 21-July, 2026",
-  "getbible": "https://getbible.life/kjv/Proverbs/30/17",
-  "name": "Proverbs 30:17",
+  "book": "Song of Songs",
+  "chapter": "4",
+  "date": "Wednesday 22-July, 2026",
+  "getbible": "https://getbible.life/kjv/Song of Songs/4/16",
+  "name": "Song of Songs 4:16",
   "scripture": [
     {
-      "nr": "17",
-      "text": "The eye that mocketh at his father, and despiseth to obey his mother, the ravens of the valley shall pick it out, and the young eagles shall eat it."
+      "nr": "16",
+      "text": "Awake, O north wind; and come, thou south; blow upon my garden, that the spices thereof may flow out. Let my beloved come into his garden, and eat his pleasant fruits."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "17",
+  "verse": "16",
   "version": "kjv"
 }

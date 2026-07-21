@@ -1,5 +1,5 @@
-**Proverbs 30:17**
+**Song of Songs 4:16**
 
-17 The eye that mocketh at his father, and despiseth to obey his mother, the ravens of the valley shall pick it out, and the young eagles shall eat it.
+16 Awake, O north wind; and come, thou south; blow upon my garden, that the spices thereof may flow out. Let my beloved come into his garden, and eat his pleasant fruits.
 
-[Tuesday 21-July, 2026](https://getbible.life/kjv/Proverbs/30/17)
+[Wednesday 22-July, 2026](https://getbible.life/kjv/Song%20of%20Songs/4/16)
