@@ -1,5 +1,5 @@
-**Song of Songs 4:16**
+**Proverbs 13:20**
 
-16 Awake, O north wind; and come, thou south; blow upon my garden, that the spices thereof may flow out. Let my beloved come into his garden, and eat his pleasant fruits.
+20 He that walketh with wise men shall be wise: but a companion of fools shall be destroyed.
 
-[Wednesday 22-July, 2026](https://getbible.life/kjv/Song%20of%20Songs/4/16)
+[Thursday 23-July, 2026](https://getbible.life/kjv/Proverbs/13/20)

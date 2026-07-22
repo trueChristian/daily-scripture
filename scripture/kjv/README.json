@@ -1,17 +1,17 @@
 {
-  "book": "Song of Songs",
-  "chapter": "4",
-  "date": "Wednesday 22-July, 2026",
-  "getbible": "https://getbible.life/kjv/Song of Songs/4/16",
-  "name": "Song of Songs 4:16",
+  "book": "Proverbs",
+  "chapter": "13",
+  "date": "Thursday 23-July, 2026",
+  "getbible": "https://getbible.life/kjv/Proverbs/13/20",
+  "name": "Proverbs 13:20",
   "scripture": [
     {
-      "nr": "16",
-      "text": "Awake, O north wind; and come, thou south; blow upon my garden, that the spices thereof may flow out. Let my beloved come into his garden, and eat his pleasant fruits."
+      "nr": "20",
+      "text": "He that walketh with wise men shall be wise: but a companion of fools shall be destroyed."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "16",
+  "verse": "20",
   "version": "kjv"
 }
