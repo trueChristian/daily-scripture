@@ -1,5 +1,5 @@
-**Proverbs 13:20**
+**2 Chronicles 15:14-15**
 
-20 He that walketh with wise men shall be wise: but a companion of fools shall be destroyed.
+14 And they sware unto the Lord with a loud voice, and with shouting, and with trumpets, and with cornets. 15 And all Judah rejoiced at the oath: for they had sworn with all their heart, and sought him with their whole desire; and he was found of them: and the Lord gave them rest round about.
 
-[Thursday 23-July, 2026](https://getbible.life/kjv/Proverbs/13/20)
+[Friday 24-July, 2026](https://getbible.life/kjv/2%20Chronicles/15/14-15)

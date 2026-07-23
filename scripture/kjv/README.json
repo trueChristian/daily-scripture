@@ -1,17 +1,21 @@
 {
-  "book": "Proverbs",
-  "chapter": "13",
-  "date": "Thursday 23-July, 2026",
-  "getbible": "https://getbible.life/kjv/Proverbs/13/20",
-  "name": "Proverbs 13:20",
+  "book": "2 Chronicles",
+  "chapter": "15",
+  "date": "Friday 24-July, 2026",
+  "getbible": "https://getbible.life/kjv/2 Chronicles/15/14-15",
+  "name": "2 Chronicles 15:14-15",
   "scripture": [
     {
-      "nr": "20",
-      "text": "He that walketh with wise men shall be wise: but a companion of fools shall be destroyed."
+      "nr": "14",
+      "text": "And they sware unto the Lord with a loud voice, and with shouting, and with trumpets, and with cornets."
+    },
+    {
+      "nr": "15",
+      "text": "And all Judah rejoiced at the oath: for they had sworn with all their heart, and sought him with their whole desire; and he was found of them: and the Lord gave them rest round about."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "20",
+  "verse": "14-15",
   "version": "kjv"
 }
