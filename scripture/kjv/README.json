@@ -1,21 +1,17 @@
 {
-  "book": "2 Chronicles",
-  "chapter": "15",
-  "date": "Friday 24-July, 2026",
-  "getbible": "https://getbible.life/kjv/2 Chronicles/15/14-15",
-  "name": "2 Chronicles 15:14-15",
+  "book": "Romans",
+  "chapter": "13",
+  "date": "Saturday 25-July, 2026",
+  "getbible": "https://getbible.life/kjv/Romans/13/7",
+  "name": "Romans 13:7",
   "scripture": [
     {
-      "nr": "14",
-      "text": "And they sware unto the Lord with a loud voice, and with shouting, and with trumpets, and with cornets."
-    },
-    {
-      "nr": "15",
-      "text": "And all Judah rejoiced at the oath: for they had sworn with all their heart, and sought him with their whole desire; and he was found of them: and the Lord gave them rest round about."
+      "nr": "7",
+      "text": "Render therefore to all their dues: tribute to whom tribute is due; custom to whom custom; fear to whom fear; honour to whom honour."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "14-15",
+  "verse": "7",
   "version": "kjv"
 }
