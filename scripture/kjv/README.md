@@ -1,5 +1,5 @@
-**Romans 13:7**
+**Philippians 4:19**
 
-7 Render therefore to all their dues: tribute to whom tribute is due; custom to whom custom; fear to whom fear; honour to whom honour.
+19 But my God shall supply all your need according to his riches in glory by Christ Jesus.
 
-[Saturday 25-July, 2026](https://getbible.life/kjv/Romans/13/7)
+[Sunday 26-July, 2026](https://getbible.life/kjv/Philippians/4/19)

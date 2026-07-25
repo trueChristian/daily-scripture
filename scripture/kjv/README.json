@@ -1,17 +1,17 @@
 {
-  "book": "Romans",
-  "chapter": "13",
-  "date": "Saturday 25-July, 2026",
-  "getbible": "https://getbible.life/kjv/Romans/13/7",
-  "name": "Romans 13:7",
+  "book": "Philippians",
+  "chapter": "4",
+  "date": "Sunday 26-July, 2026",
+  "getbible": "https://getbible.life/kjv/Philippians/4/19",
+  "name": "Philippians 4:19",
   "scripture": [
     {
-      "nr": "7",
-      "text": "Render therefore to all their dues: tribute to whom tribute is due; custom to whom custom; fear to whom fear; honour to whom honour."
+      "nr": "19",
+      "text": "But my God shall supply all your need according to his riches in glory by Christ Jesus."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "7",
+  "verse": "19",
   "version": "kjv"
 }
