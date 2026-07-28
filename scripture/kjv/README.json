@@ -1,17 +1,17 @@
 {
-  "book": "Acts",
-  "chapter": "9",
-  "date": "Tuesday 28-July, 2026",
-  "getbible": "https://getbible.life/kjv/Acts/9/38",
-  "name": "Acts 9:38",
+  "book": "John",
+  "chapter": "16",
+  "date": "Wednesday 29-July, 2026",
+  "getbible": "https://getbible.life/kjv/John/16/13",
+  "name": "John 16:13",
   "scripture": [
     {
-      "nr": "38",
-      "text": "And forasmuch as Lydda was nigh to Joppa, and the disciples had heard that Peter was there, they sent unto him two men, desiring him that he would not delay to come to them."
+      "nr": "13",
+      "text": "Howbeit when he, the Spirit of truth, is come, he will guide you into all truth: for he shall not speak of himself; but whatsoever he shall hear, that shall he speak: and he will shew you things to come."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "38",
+  "verse": "13",
   "version": "kjv"
 }

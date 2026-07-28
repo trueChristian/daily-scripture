@@ -1,5 +1,5 @@
-**Acts 9:38**
+**John 16:13**
 
-38 And forasmuch as Lydda was nigh to Joppa, and the disciples had heard that Peter was there, they sent unto him two men, desiring him that he would not delay to come to them.
+13 Howbeit when he, the Spirit of truth, is come, he will guide you into all truth: for he shall not speak of himself; but whatsoever he shall hear, that shall he speak: and he will shew you things to come.
 
-[Tuesday 28-July, 2026](https://getbible.life/kjv/Acts/9/38)
+[Wednesday 29-July, 2026](https://getbible.life/kjv/John/16/13)
