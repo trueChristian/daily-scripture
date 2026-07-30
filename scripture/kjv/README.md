@@ -1,5 +1,5 @@
-**2 Kings 20:5-6**
+**Matthew 4:4**
 
-5 Turn again, and tell Hezekiah the captain of my people, Thus saith the Lord, the God of David thy father, I have heard thy prayer, I have seen thy tears: behold, I will heal thee: on the third day thou shalt go up unto the house of the Lord. 6 And I will add unto thy days fifteen years; and I will deliver thee and this city out of the hand of the king of Assyria; and I will defend this city for mine own sake, and for my servant David’s sake.
+4 But he answered and said, It is written, Man shall not live by bread alone, but by every word that proceedeth out of the mouth of God.
 
-[Thursday 30-July, 2026](https://getbible.life/kjv/2%20Kings/20/5-6)
+[Friday 31-July, 2026](https://getbible.life/kjv/Matthew/4/4)
