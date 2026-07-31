@@ -1,5 +1,5 @@
-**Matthew 4:4**
+**1 Timothy 3:16**
 
-4 But he answered and said, It is written, Man shall not live by bread alone, but by every word that proceedeth out of the mouth of God.
+16 And without controversy great is the mystery of godliness: God was manifest in the flesh, justified in the Spirit, seen of angels, preached unto the Gentiles, believed on in the world, received up into glory.
 
-[Friday 31-July, 2026](https://getbible.life/kjv/Matthew/4/4)
+[Saturday 01-August, 2026](https://getbible.life/kjv/1%20Timothy/3/16)

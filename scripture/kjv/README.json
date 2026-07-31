@@ -1,17 +1,17 @@
 {
-  "book": "Matthew",
-  "chapter": "4",
-  "date": "Friday 31-July, 2026",
-  "getbible": "https://getbible.life/kjv/Matthew/4/4",
-  "name": "Matthew 4:4",
+  "book": "1 Timothy",
+  "chapter": "3",
+  "date": "Saturday 01-August, 2026",
+  "getbible": "https://getbible.life/kjv/1 Timothy/3/16",
+  "name": "1 Timothy 3:16",
   "scripture": [
     {
-      "nr": "4",
-      "text": "But he answered and said, It is written, Man shall not live by bread alone, but by every word that proceedeth out of the mouth of God."
+      "nr": "16",
+      "text": "And without controversy great is the mystery of godliness: God was manifest in the flesh, justified in the Spirit, seen of angels, preached unto the Gentiles, believed on in the world, received up into glory."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "4",
+  "verse": "16",
   "version": "kjv"
 }
