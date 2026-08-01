@@ -1,17 +1,21 @@
 {
-  "book": "1 Timothy",
-  "chapter": "3",
-  "date": "Saturday 01-August, 2026",
-  "getbible": "https://getbible.life/kjv/1 Timothy/3/16",
-  "name": "1 Timothy 3:16",
+  "book": "Romans",
+  "chapter": "10",
+  "date": "Sunday 02-August, 2026",
+  "getbible": "https://getbible.life/kjv/Romans/10/9-10",
+  "name": "Romans 10:9-10",
   "scripture": [
     {
-      "nr": "16",
-      "text": "And without controversy great is the mystery of godliness: God was manifest in the flesh, justified in the Spirit, seen of angels, preached unto the Gentiles, believed on in the world, received up into glory."
+      "nr": "9",
+      "text": "That if thou shalt confess with thy mouth the Lord Jesus, and shalt believe in thine heart that God hath raised him from the dead, thou shalt be saved."
+    },
+    {
+      "nr": "10",
+      "text": "For with the heart man believeth unto righteousness; and with the mouth confession is made unto salvation."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "16",
+  "verse": "9-10",
   "version": "kjv"
 }
