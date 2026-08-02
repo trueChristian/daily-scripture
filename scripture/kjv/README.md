@@ -1,5 +1,5 @@
-**Romans 10:9-10**
+**Matthew 18:11**
 
-9 That if thou shalt confess with thy mouth the Lord Jesus, and shalt believe in thine heart that God hath raised him from the dead, thou shalt be saved. 10 For with the heart man believeth unto righteousness; and with the mouth confession is made unto salvation.
+11 For the Son of man is come to save that which was lost.
 
-[Sunday 02-August, 2026](https://getbible.life/kjv/Romans/10/9-10)
+[Monday 03-August, 2026](https://getbible.life/kjv/Matthew/18/11)
