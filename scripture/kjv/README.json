@@ -1,17 +1,17 @@
 {
-  "book": "Matthew",
-  "chapter": "18",
-  "date": "Monday 03-August, 2026",
-  "getbible": "https://getbible.life/kjv/Matthew/18/11",
-  "name": "Matthew 18:11",
+  "book": "Ecclesiastes",
+  "chapter": "3",
+  "date": "Tuesday 04-August, 2026",
+  "getbible": "https://getbible.life/kjv/Ecclesiastes/3/18",
+  "name": "Ecclesiastes 3:18",
   "scripture": [
     {
-      "nr": "11",
-      "text": "For the Son of man is come to save that which was lost."
+      "nr": "18",
+      "text": "I said in mine heart concerning the estate of the sons of men, that God might manifest them, and that they might see that they themselves are beasts."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "11",
+  "verse": "18",
   "version": "kjv"
 }

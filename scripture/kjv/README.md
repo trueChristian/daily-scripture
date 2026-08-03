@@ -1,5 +1,5 @@
-**Matthew 18:11**
+**Ecclesiastes 3:18**
 
-11 For the Son of man is come to save that which was lost.
+18 I said in mine heart concerning the estate of the sons of men, that God might manifest them, and that they might see that they themselves are beasts.
 
-[Monday 03-August, 2026](https://getbible.life/kjv/Matthew/18/11)
+[Tuesday 04-August, 2026](https://getbible.life/kjv/Ecclesiastes/3/18)
