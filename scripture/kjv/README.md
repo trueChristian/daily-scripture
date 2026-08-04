@@ -1,5 +1,5 @@
-**Ecclesiastes 3:18**
+**Romans 12:17**
 
-18 I said in mine heart concerning the estate of the sons of men, that God might manifest them, and that they might see that they themselves are beasts.
+17 Recompense to no man evil for evil. Provide things honest in the sight of all men.
 
-[Tuesday 04-August, 2026](https://getbible.life/kjv/Ecclesiastes/3/18)
+[Wednesday 05-August, 2026](https://getbible.life/kjv/Romans/12/17)

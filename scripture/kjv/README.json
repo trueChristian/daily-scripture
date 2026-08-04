@@ -1,17 +1,17 @@
 {
-  "book": "Ecclesiastes",
-  "chapter": "3",
-  "date": "Tuesday 04-August, 2026",
-  "getbible": "https://getbible.life/kjv/Ecclesiastes/3/18",
-  "name": "Ecclesiastes 3:18",
+  "book": "Romans",
+  "chapter": "12",
+  "date": "Wednesday 05-August, 2026",
+  "getbible": "https://getbible.life/kjv/Romans/12/17",
+  "name": "Romans 12:17",
   "scripture": [
     {
-      "nr": "18",
-      "text": "I said in mine heart concerning the estate of the sons of men, that God might manifest them, and that they might see that they themselves are beasts."
+      "nr": "17",
+      "text": "Recompense to no man evil for evil. Provide things honest in the sight of all men."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "18",
+  "verse": "17",
   "version": "kjv"
 }
