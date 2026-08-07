@@ -1,17 +1,21 @@
 {
-  "book": "Luke",
-  "chapter": "12",
-  "date": "Friday 07-August, 2026",
-  "getbible": "https://getbible.life/kjv/Luke/12/56",
-  "name": "Luke 12:56",
+  "book": "Ezekiel",
+  "chapter": "34",
+  "date": "Saturday 08-August, 2026",
+  "getbible": "https://getbible.life/kjv/Ezekiel/34/3-4",
+  "name": "Ezekiel 34:3-4",
   "scripture": [
     {
-      "nr": "56",
-      "text": "Ye hypocrites, ye can discern the face of the sky and of the earth; but how is it that ye do not discern this time?"
+      "nr": "3",
+      "text": "Ye eat the fat, and ye clothe you with the wool, ye kill them that are fed: but ye feed not the flock."
+    },
+    {
+      "nr": "4",
+      "text": "The diseased have ye not strengthened, neither have ye healed that which was sick, neither have ye bound up that which was broken, neither have ye brought again that which was driven away, neither have ye sought that which was lost; but with force and with cruelty have ye ruled them."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "56",
+  "verse": "3-4",
   "version": "kjv"
 }

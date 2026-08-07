@@ -1,5 +1,5 @@
-**Luke 12:56**
+**Ezekiel 34:3-4**
 
-56 Ye hypocrites, ye can discern the face of the sky and of the earth; but how is it that ye do not discern this time?
+3 Ye eat the fat, and ye clothe you with the wool, ye kill them that are fed: but ye feed not the flock. 4 The diseased have ye not strengthened, neither have ye healed that which was sick, neither have ye bound up that which was broken, neither have ye brought again that which was driven away, neither have ye sought that which was lost; but with force and with cruelty have ye ruled them.
 
-[Friday 07-August, 2026](https://getbible.life/kjv/Luke/12/56)
+[Saturday 08-August, 2026](https://getbible.life/kjv/Ezekiel/34/3-4)
