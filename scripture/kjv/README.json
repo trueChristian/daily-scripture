@@ -1,21 +1,17 @@
 {
-  "book": "Joel",
-  "chapter": "2",
-  "date": "Thursday 06-August, 2026",
-  "getbible": "https://getbible.life/kjv/Joel/2/12-13",
-  "name": "Joel 2:12-13",
+  "book": "Luke",
+  "chapter": "12",
+  "date": "Friday 07-August, 2026",
+  "getbible": "https://getbible.life/kjv/Luke/12/56",
+  "name": "Luke 12:56",
   "scripture": [
     {
-      "nr": "12",
-      "text": "Therefore also now, saith the Lord, turn ye even to me with all your heart, and with fasting, and with weeping, and with mourning:"
-    },
-    {
-      "nr": "13",
-      "text": "And rend your heart, and not your garments, and turn unto the Lord your God: for he is gracious and merciful, slow to anger, and of great kindness, and repenteth him of the evil."
+      "nr": "56",
+      "text": "Ye hypocrites, ye can discern the face of the sky and of the earth; but how is it that ye do not discern this time?"
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "12-13",
+  "verse": "56",
   "version": "kjv"
 }
