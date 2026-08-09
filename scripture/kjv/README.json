@@ -1,17 +1,21 @@
 {
-  "book": "1 Corinthians",
-  "chapter": "12",
-  "date": "Sunday 09-August, 2026",
-  "getbible": "https://getbible.life/kjv/1 Corinthians/12/7",
-  "name": "1 Corinthians 12:7",
+  "book": "Isaiah",
+  "chapter": "4",
+  "date": "Monday 10-August, 2026",
+  "getbible": "https://getbible.life/kjv/Isaiah/4/3-4",
+  "name": "Isaiah 4:3-4",
   "scripture": [
     {
-      "nr": "7",
-      "text": "But the manifestation of the Spirit is given to every man to profit withal."
+      "nr": "3",
+      "text": "And it shall come to pass, that he that is left in Zion, and he that remaineth in Jerusalem, shall be called holy, even every one that is written among the living in Jerusalem:"
+    },
+    {
+      "nr": "4",
+      "text": "When the Lord shall have washed away the filth of the daughters of Zion, and shall have purged the blood of Jerusalem from the midst thereof by the spirit of judgment, and by the spirit of burning."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "7",
+  "verse": "3-4",
   "version": "kjv"
 }
