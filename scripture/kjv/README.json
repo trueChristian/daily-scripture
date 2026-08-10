@@ -1,21 +1,17 @@
 {
-  "book": "Isaiah",
-  "chapter": "4",
-  "date": "Monday 10-August, 2026",
-  "getbible": "https://getbible.life/kjv/Isaiah/4/3-4",
-  "name": "Isaiah 4:3-4",
+  "book": "1 John",
+  "chapter": "3",
+  "date": "Tuesday 11-August, 2026",
+  "getbible": "https://getbible.life/kjv/1 John/3/11",
+  "name": "1 John 3:11",
   "scripture": [
     {
-      "nr": "3",
-      "text": "And it shall come to pass, that he that is left in Zion, and he that remaineth in Jerusalem, shall be called holy, even every one that is written among the living in Jerusalem:"
-    },
-    {
-      "nr": "4",
-      "text": "When the Lord shall have washed away the filth of the daughters of Zion, and shall have purged the blood of Jerusalem from the midst thereof by the spirit of judgment, and by the spirit of burning."
+      "nr": "11",
+      "text": "For this is the message that ye heard from the beginning, that we should love one another."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "3-4",
+  "verse": "11",
   "version": "kjv"
 }
