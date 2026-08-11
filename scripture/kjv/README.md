@@ -1,5 +1,5 @@
-**1 John 3:11**
+**Mark 15:13**
 
-11 For this is the message that ye heard from the beginning, that we should love one another.
+13 And they cried out again, Crucify him.
 
-[Tuesday 11-August, 2026](https://getbible.life/kjv/1%20John/3/11)
+[Wednesday 12-August, 2026](https://getbible.life/kjv/Mark/15/13)
