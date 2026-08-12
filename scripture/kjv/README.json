@@ -1,17 +1,21 @@
 {
-  "book": "Mark",
-  "chapter": "15",
-  "date": "Wednesday 12-August, 2026",
-  "getbible": "https://getbible.life/kjv/Mark/15/13",
-  "name": "Mark 15:13",
+  "book": "Philippians",
+  "chapter": "2",
+  "date": "Thursday 13-August, 2026",
+  "getbible": "https://getbible.life/kjv/Philippians/2/15-16",
+  "name": "Philippians 2:15-16",
   "scripture": [
     {
-      "nr": "13",
-      "text": "And they cried out again, Crucify him."
+      "nr": "15",
+      "text": "That ye may be blameless and harmless, the sons of God, without rebuke, in the midst of a crooked and perverse nation, among whom ye shine as lights in the world;"
+    },
+    {
+      "nr": "16",
+      "text": "Holding forth the word of life; that I may rejoice in the day of Christ, that I have not run in vain, neither laboured in vain."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "13",
+  "verse": "15-16",
   "version": "kjv"
 }

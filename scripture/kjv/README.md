@@ -1,5 +1,5 @@
-**Mark 15:13**
+**Philippians 2:15-16**
 
-13 And they cried out again, Crucify him.
+15 That ye may be blameless and harmless, the sons of God, without rebuke, in the midst of a crooked and perverse nation, among whom ye shine as lights in the world; 16 Holding forth the word of life; that I may rejoice in the day of Christ, that I have not run in vain, neither laboured in vain.
 
-[Wednesday 12-August, 2026](https://getbible.life/kjv/Mark/15/13)
+[Thursday 13-August, 2026](https://getbible.life/kjv/Philippians/2/15-16)
