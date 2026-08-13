@@ -1,5 +1,5 @@
-**Philippians 2:15-16**
+**Matthew 7:7-11**
 
-15 That ye may be blameless and harmless, the sons of God, without rebuke, in the midst of a crooked and perverse nation, among whom ye shine as lights in the world; 16 Holding forth the word of life; that I may rejoice in the day of Christ, that I have not run in vain, neither laboured in vain.
+7 Ask, and it shall be given you; seek, and ye shall find; knock, and it shall be opened unto you: 8 For every one that asketh receiveth; and he that seeketh findeth; and to him that knocketh it shall be opened. 9 Or what man is there of you, whom if his son ask bread, will he give him a stone? 10 Or if he ask a fish, will he give him a serpent? 11 If ye then, being evil, know how to give good gifts unto your children, how much more shall your Father which is in heaven give good things to them that ask him?
 
-[Thursday 13-August, 2026](https://getbible.life/kjv/Philippians/2/15-16)
+[Friday 14-August, 2026](https://getbible.life/kjv/Matthew/7/7-11)

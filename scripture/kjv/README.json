@@ -1,21 +1,33 @@
 {
-  "book": "Philippians",
-  "chapter": "2",
-  "date": "Thursday 13-August, 2026",
-  "getbible": "https://getbible.life/kjv/Philippians/2/15-16",
-  "name": "Philippians 2:15-16",
+  "book": "Matthew",
+  "chapter": "7",
+  "date": "Friday 14-August, 2026",
+  "getbible": "https://getbible.life/kjv/Matthew/7/7-11",
+  "name": "Matthew 7:7-11",
   "scripture": [
     {
-      "nr": "15",
-      "text": "That ye may be blameless and harmless, the sons of God, without rebuke, in the midst of a crooked and perverse nation, among whom ye shine as lights in the world;"
+      "nr": "7",
+      "text": "Ask, and it shall be given you; seek, and ye shall find; knock, and it shall be opened unto you:"
     },
     {
-      "nr": "16",
-      "text": "Holding forth the word of life; that I may rejoice in the day of Christ, that I have not run in vain, neither laboured in vain."
+      "nr": "8",
+      "text": "For every one that asketh receiveth; and he that seeketh findeth; and to him that knocketh it shall be opened."
+    },
+    {
+      "nr": "9",
+      "text": "Or what man is there of you, whom if his son ask bread, will he give him a stone?"
+    },
+    {
+      "nr": "10",
+      "text": "Or if he ask a fish, will he give him a serpent?"
+    },
+    {
+      "nr": "11",
+      "text": "If ye then, being evil, know how to give good gifts unto your children, how much more shall your Father which is in heaven give good things to them that ask him?"
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "15-16",
+  "verse": "7-11",
   "version": "kjv"
 }
