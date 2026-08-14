@@ -1,5 +1,5 @@
-**Matthew 7:7-11**
+**1 Corinthians 16:14**
 
-7 Ask, and it shall be given you; seek, and ye shall find; knock, and it shall be opened unto you: 8 For every one that asketh receiveth; and he that seeketh findeth; and to him that knocketh it shall be opened. 9 Or what man is there of you, whom if his son ask bread, will he give him a stone? 10 Or if he ask a fish, will he give him a serpent? 11 If ye then, being evil, know how to give good gifts unto your children, how much more shall your Father which is in heaven give good things to them that ask him?
+14 Let all your things be done with charity.
 
-[Friday 14-August, 2026](https://getbible.life/kjv/Matthew/7/7-11)
+[Saturday 15-August, 2026](https://getbible.life/kjv/1%20Corinthians/16/14)
