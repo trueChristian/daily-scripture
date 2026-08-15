@@ -1,17 +1,25 @@
 {
-  "book": "1 Corinthians",
-  "chapter": "16",
-  "date": "Saturday 15-August, 2026",
-  "getbible": "https://getbible.life/kjv/1 Corinthians/16/14",
-  "name": "1 Corinthians 16:14",
+  "book": "Matthew",
+  "chapter": "15",
+  "date": "Sunday 16-August, 2026",
+  "getbible": "https://getbible.life/kjv/Matthew/15/12-14",
+  "name": "Matthew 15:12-14",
   "scripture": [
     {
+      "nr": "12",
+      "text": "Then came his disciples, and said unto him, Knowest thou that the Pharisees were offended, after they heard this saying?"
+    },
+    {
+      "nr": "13",
+      "text": "But he answered and said, Every plant, which my heavenly Father hath not planted, shall be rooted up."
+    },
+    {
       "nr": "14",
-      "text": "Let all your things be done with charity."
+      "text": "Let them alone: they be blind leaders of the blind. And if the blind lead the blind, both shall fall into the ditch."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "14",
+  "verse": "12-14",
   "version": "kjv"
 }

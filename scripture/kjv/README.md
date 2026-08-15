@@ -1,5 +1,5 @@
-**1 Corinthians 16:14**
+**Matthew 15:12-14**
 
-14 Let all your things be done with charity.
+12 Then came his disciples, and said unto him, Knowest thou that the Pharisees were offended, after they heard this saying? 13 But he answered and said, Every plant, which my heavenly Father hath not planted, shall be rooted up. 14 Let them alone: they be blind leaders of the blind. And if the blind lead the blind, both shall fall into the ditch.
 
-[Saturday 15-August, 2026](https://getbible.life/kjv/1%20Corinthians/16/14)
+[Sunday 16-August, 2026](https://getbible.life/kjv/Matthew/15/12-14)
