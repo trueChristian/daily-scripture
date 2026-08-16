@@ -1,25 +1,25 @@
 {
-  "book": "Matthew",
-  "chapter": "15",
-  "date": "Sunday 16-August, 2026",
-  "getbible": "https://getbible.life/kjv/Matthew/15/12-14",
-  "name": "Matthew 15:12-14",
+  "book": "Ephesians",
+  "chapter": "2",
+  "date": "Monday 17-August, 2026",
+  "getbible": "https://getbible.life/kjv/Ephesians/2/14-16",
+  "name": "Ephesians 2:14-16",
   "scripture": [
     {
-      "nr": "12",
-      "text": "Then came his disciples, and said unto him, Knowest thou that the Pharisees were offended, after they heard this saying?"
-    },
-    {
-      "nr": "13",
-      "text": "But he answered and said, Every plant, which my heavenly Father hath not planted, shall be rooted up."
-    },
-    {
       "nr": "14",
-      "text": "Let them alone: they be blind leaders of the blind. And if the blind lead the blind, both shall fall into the ditch."
+      "text": "For he is our peace, who hath made both one, and hath broken down the middle wall of partition between us;"
+    },
+    {
+      "nr": "15",
+      "text": "Having abolished in his flesh the enmity, even the law of commandments contained in ordinances; for to make in himself of twain one new man, so making peace;"
+    },
+    {
+      "nr": "16",
+      "text": "And that he might reconcile both unto God in one body by the cross, having slain the enmity thereby:"
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "12-14",
+  "verse": "14-16",
   "version": "kjv"
 }

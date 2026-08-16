@@ -1,5 +1,5 @@
-**Matthew 15:12-14**
+**Ephesians 2:14-16**
 
-12 Then came his disciples, and said unto him, Knowest thou that the Pharisees were offended, after they heard this saying? 13 But he answered and said, Every plant, which my heavenly Father hath not planted, shall be rooted up. 14 Let them alone: they be blind leaders of the blind. And if the blind lead the blind, both shall fall into the ditch.
+14 For he is our peace, who hath made both one, and hath broken down the middle wall of partition between us; 15 Having abolished in his flesh the enmity, even the law of commandments contained in ordinances; for to make in himself of twain one new man, so making peace; 16 And that he might reconcile both unto God in one body by the cross, having slain the enmity thereby:
 
-[Sunday 16-August, 2026](https://getbible.life/kjv/Matthew/15/12-14)
+[Monday 17-August, 2026](https://getbible.life/kjv/Ephesians/2/14-16)
