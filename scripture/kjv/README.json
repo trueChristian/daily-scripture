@@ -1,17 +1,17 @@
 {
-  "book": "John",
-  "chapter": "6",
-  "date": "Tuesday 18-August, 2026",
-  "getbible": "https://getbible.life/kjv/John/6/27",
-  "name": "John 6:27",
+  "book": "Isaiah",
+  "chapter": "35",
+  "date": "Wednesday 19-August, 2026",
+  "getbible": "https://getbible.life/kjv/Isaiah/35/8",
+  "name": "Isaiah 35:8",
   "scripture": [
     {
-      "nr": "27",
-      "text": "Labour not for the meat which perisheth, but for that meat which endureth unto everlasting life, which the Son of man shall give unto you: for him hath God the Father sealed."
+      "nr": "8",
+      "text": "And an highway shall be there, and a way, and it shall be called The way of holiness; the unclean shall not pass over it; but it shall be for those: the wayfaring men, though fools, shall not err therein."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "27",
+  "verse": "8",
   "version": "kjv"
 }
