@@ -1,5 +1,5 @@
-**Isaiah 35:8**
+**Matthew 24:39-42**
 
-8 And an highway shall be there, and a way, and it shall be called The way of holiness; the unclean shall not pass over it; but it shall be for those: the wayfaring men, though fools, shall not err therein.
+39 And knew not until the flood came, and took them all away; so shall also the coming of the Son of man be. 40 Then shall two be in the field; the one shall be taken, and the other left. 41 Two women shall be grinding at the mill; the one shall be taken, and the other left. 42 Watch therefore: for ye know not what hour your Lord doth come.
 
-[Wednesday 19-August, 2026](https://getbible.life/kjv/Isaiah/35/8)
+[Thursday 20-August, 2026](https://getbible.life/kjv/Matthew/24/39-42)

@@ -1,17 +1,29 @@
 {
-  "book": "Isaiah",
-  "chapter": "35",
-  "date": "Wednesday 19-August, 2026",
-  "getbible": "https://getbible.life/kjv/Isaiah/35/8",
-  "name": "Isaiah 35:8",
+  "book": "Matthew",
+  "chapter": "24",
+  "date": "Thursday 20-August, 2026",
+  "getbible": "https://getbible.life/kjv/Matthew/24/39-42",
+  "name": "Matthew 24:39-42",
   "scripture": [
     {
-      "nr": "8",
-      "text": "And an highway shall be there, and a way, and it shall be called The way of holiness; the unclean shall not pass over it; but it shall be for those: the wayfaring men, though fools, shall not err therein."
+      "nr": "39",
+      "text": "And knew not until the flood came, and took them all away; so shall also the coming of the Son of man be."
+    },
+    {
+      "nr": "40",
+      "text": "Then shall two be in the field; the one shall be taken, and the other left."
+    },
+    {
+      "nr": "41",
+      "text": "Two women shall be grinding at the mill; the one shall be taken, and the other left."
+    },
+    {
+      "nr": "42",
+      "text": "Watch therefore: for ye know not what hour your Lord doth come."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "8",
+  "verse": "39-42",
   "version": "kjv"
 }
