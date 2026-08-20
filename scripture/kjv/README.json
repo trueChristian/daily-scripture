@@ -1,29 +1,17 @@
 {
   "book": "Matthew",
-  "chapter": "24",
-  "date": "Thursday 20-August, 2026",
-  "getbible": "https://getbible.life/kjv/Matthew/24/39-42",
-  "name": "Matthew 24:39-42",
+  "chapter": "22",
+  "date": "Friday 21-August, 2026",
+  "getbible": "https://getbible.life/kjv/Matthew/22/9",
+  "name": "Matthew 22:9",
   "scripture": [
     {
-      "nr": "39",
-      "text": "And knew not until the flood came, and took them all away; so shall also the coming of the Son of man be."
-    },
-    {
-      "nr": "40",
-      "text": "Then shall two be in the field; the one shall be taken, and the other left."
-    },
-    {
-      "nr": "41",
-      "text": "Two women shall be grinding at the mill; the one shall be taken, and the other left."
-    },
-    {
-      "nr": "42",
-      "text": "Watch therefore: for ye know not what hour your Lord doth come."
+      "nr": "9",
+      "text": "Go ye therefore into the highways, and as many as ye shall find, bid to the marriage."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "39-42",
+  "verse": "9",
   "version": "kjv"
 }
