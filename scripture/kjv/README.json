@@ -1,17 +1,17 @@
 {
-  "book": "Matthew",
-  "chapter": "22",
-  "date": "Friday 21-August, 2026",
-  "getbible": "https://getbible.life/kjv/Matthew/22/9",
-  "name": "Matthew 22:9",
+  "book": "1 Timothy",
+  "chapter": "2",
+  "date": "Saturday 22-August, 2026",
+  "getbible": "https://getbible.life/kjv/1 Timothy/2/11",
+  "name": "1 Timothy 2:11",
   "scripture": [
     {
-      "nr": "9",
-      "text": "Go ye therefore into the highways, and as many as ye shall find, bid to the marriage."
+      "nr": "11",
+      "text": "Let the woman learn in silence with all subjection."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "9",
+  "verse": "11",
   "version": "kjv"
 }

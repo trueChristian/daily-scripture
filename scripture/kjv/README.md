@@ -1,5 +1,5 @@
-**Matthew 22:9**
+**1 Timothy 2:11**
 
-9 Go ye therefore into the highways, and as many as ye shall find, bid to the marriage.
+11 Let the woman learn in silence with all subjection.
 
-[Friday 21-August, 2026](https://getbible.life/kjv/Matthew/22/9)
+[Saturday 22-August, 2026](https://getbible.life/kjv/1%20Timothy/2/11)
