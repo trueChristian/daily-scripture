@@ -1,5 +1,5 @@
-**1 Timothy 2:11**
+**Genesis 2:18**
 
-11 Let the woman learn in silence with all subjection.
+18 And the Lord God said, It is not good that the man should be alone; I will make him an help meet for him.
 
-[Saturday 22-August, 2026](https://getbible.life/kjv/1%20Timothy/2/11)
+[Sunday 23-August, 2026](https://getbible.life/kjv/Genesis/2/18)
