@@ -1,5 +1,5 @@
-**Genesis 2:18**
+**Isaiah 62:1**
 
-18 And the Lord God said, It is not good that the man should be alone; I will make him an help meet for him.
+1 For Zion’s sake will I not hold my peace, and for Jerusalem’s sake I will not rest, until the righteousness thereof go forth as brightness, and the salvation thereof as a lamp that burneth.
 
-[Sunday 23-August, 2026](https://getbible.life/kjv/Genesis/2/18)
+[Monday 24-August, 2026](https://getbible.life/kjv/Isaiah/62/1)

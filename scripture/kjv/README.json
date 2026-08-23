@@ -1,17 +1,17 @@
 {
-  "book": "Genesis",
-  "chapter": "2",
-  "date": "Sunday 23-August, 2026",
-  "getbible": "https://getbible.life/kjv/Genesis/2/18",
-  "name": "Genesis 2:18",
+  "book": "Isaiah",
+  "chapter": "62",
+  "date": "Monday 24-August, 2026",
+  "getbible": "https://getbible.life/kjv/Isaiah/62/1",
+  "name": "Isaiah 62:1",
   "scripture": [
     {
-      "nr": "18",
-      "text": "And the Lord God said, It is not good that the man should be alone; I will make him an help meet for him."
+      "nr": "1",
+      "text": "For Zion’s sake will I not hold my peace, and for Jerusalem’s sake I will not rest, until the righteousness thereof go forth as brightness, and the salvation thereof as a lamp that burneth."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "18",
+  "verse": "1",
   "version": "kjv"
 }
