@@ -1,5 +1,5 @@
-**Isaiah 62:1**
+**1 John 5:3-4**
 
-1 For Zion’s sake will I not hold my peace, and for Jerusalem’s sake I will not rest, until the righteousness thereof go forth as brightness, and the salvation thereof as a lamp that burneth.
+3 For this is the love of God, that we keep his commandments: and his commandments are not grievous. 4 For whatsoever is born of God overcometh the world: and this is the victory that overcometh the world, even our faith.
 
-[Monday 24-August, 2026](https://getbible.life/kjv/Isaiah/62/1)
+[Tuesday 25-August, 2026](https://getbible.life/kjv/1%20John/5/3-4)

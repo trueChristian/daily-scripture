@@ -1,17 +1,21 @@
 {
-  "book": "Isaiah",
-  "chapter": "62",
-  "date": "Monday 24-August, 2026",
-  "getbible": "https://getbible.life/kjv/Isaiah/62/1",
-  "name": "Isaiah 62:1",
+  "book": "1 John",
+  "chapter": "5",
+  "date": "Tuesday 25-August, 2026",
+  "getbible": "https://getbible.life/kjv/1 John/5/3-4",
+  "name": "1 John 5:3-4",
   "scripture": [
     {
-      "nr": "1",
-      "text": "For Zion’s sake will I not hold my peace, and for Jerusalem’s sake I will not rest, until the righteousness thereof go forth as brightness, and the salvation thereof as a lamp that burneth."
+      "nr": "3",
+      "text": "For this is the love of God, that we keep his commandments: and his commandments are not grievous."
+    },
+    {
+      "nr": "4",
+      "text": "For whatsoever is born of God overcometh the world: and this is the victory that overcometh the world, even our faith."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "1",
+  "verse": "3-4",
   "version": "kjv"
 }
