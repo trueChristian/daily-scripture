@@ -1,21 +1,17 @@
 {
-  "book": "1 John",
-  "chapter": "5",
-  "date": "Tuesday 25-August, 2026",
-  "getbible": "https://getbible.life/kjv/1 John/5/3-4",
-  "name": "1 John 5:3-4",
+  "book": "John",
+  "chapter": "10",
+  "date": "Wednesday 26-August, 2026",
+  "getbible": "https://getbible.life/kjv/John/10/11",
+  "name": "John 10:11",
   "scripture": [
     {
-      "nr": "3",
-      "text": "For this is the love of God, that we keep his commandments: and his commandments are not grievous."
-    },
-    {
-      "nr": "4",
-      "text": "For whatsoever is born of God overcometh the world: and this is the victory that overcometh the world, even our faith."
+      "nr": "11",
+      "text": "I am the good shepherd: the good shepherd giveth his life for the sheep."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "3-4",
+  "verse": "11",
   "version": "kjv"
 }
