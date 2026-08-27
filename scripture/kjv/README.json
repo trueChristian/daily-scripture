@@ -1,17 +1,17 @@
 {
-  "book": "John",
-  "chapter": "10",
-  "date": "Wednesday 26-August, 2026",
-  "getbible": "https://getbible.life/kjv/John/10/11",
-  "name": "John 10:11",
+  "book": "Titus",
+  "chapter": "3",
+  "date": "Thursday 27-August, 2026",
+  "getbible": "https://getbible.life/kjv/Titus/3/14",
+  "name": "Titus 3:14",
   "scripture": [
     {
-      "nr": "11",
-      "text": "I am the good shepherd: the good shepherd giveth his life for the sheep."
+      "nr": "14",
+      "text": "And let ours also learn to maintain good works for necessary uses, that they be not unfruitful."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "11",
+  "verse": "14",
   "version": "kjv"
 }

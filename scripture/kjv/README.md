@@ -1,5 +1,5 @@
-**John 10:11**
+**Titus 3:14**
 
-11 I am the good shepherd: the good shepherd giveth his life for the sheep.
+14 And let ours also learn to maintain good works for necessary uses, that they be not unfruitful.
 
-[Wednesday 26-August, 2026](https://getbible.life/kjv/John/10/11)
+[Thursday 27-August, 2026](https://getbible.life/kjv/Titus/3/14)
