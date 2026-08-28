@@ -1,5 +1,5 @@
-**Titus 3:14**
+**1 John 4:8**
 
-14 And let ours also learn to maintain good works for necessary uses, that they be not unfruitful.
+8 He that loveth not knoweth not God; for God is love.
 
-[Thursday 27-August, 2026](https://getbible.life/kjv/Titus/3/14)
+[Friday 28-August, 2026](https://getbible.life/kjv/1%20John/4/8)

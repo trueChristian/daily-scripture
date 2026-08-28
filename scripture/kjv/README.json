@@ -1,17 +1,17 @@
 {
-  "book": "Titus",
-  "chapter": "3",
-  "date": "Thursday 27-August, 2026",
-  "getbible": "https://getbible.life/kjv/Titus/3/14",
-  "name": "Titus 3:14",
+  "book": "1 John",
+  "chapter": "4",
+  "date": "Friday 28-August, 2026",
+  "getbible": "https://getbible.life/kjv/1 John/4/8",
+  "name": "1 John 4:8",
   "scripture": [
     {
-      "nr": "14",
-      "text": "And let ours also learn to maintain good works for necessary uses, that they be not unfruitful."
+      "nr": "8",
+      "text": "He that loveth not knoweth not God; for God is love."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "14",
+  "verse": "8",
   "version": "kjv"
 }
