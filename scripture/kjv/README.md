@@ -1,5 +1,5 @@
-**1 John 4:8**
+**Jude 1:2**
 
-8 He that loveth not knoweth not God; for God is love.
+2 Mercy unto you, and peace, and love, be multiplied.
 
-[Friday 28-August, 2026](https://getbible.life/kjv/1%20John/4/8)
+[Saturday 29-August, 2026](https://getbible.life/kjv/Jude/1/2)
