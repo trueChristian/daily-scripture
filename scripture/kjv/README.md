@@ -1,5 +1,5 @@
-**Jude 1:2**
+**Acts 8:40**
 
-2 Mercy unto you, and peace, and love, be multiplied.
+40 But Philip was found at Azotus: and passing through he preached in all the cities, till he came to Cesarea.
 
-[Saturday 29-August, 2026](https://getbible.life/kjv/Jude/1/2)
+[Sunday 30-August, 2026](https://getbible.life/kjv/Acts/8/40)
