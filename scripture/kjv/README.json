@@ -1,45 +1,17 @@
 {
-  "book": "2 Corinthians",
-  "chapter": "6",
-  "date": "Monday 31-August, 2026",
-  "getbible": "https://getbible.life/kjv/2 Corinthians/6/3-10",
-  "name": "2 Corinthians 6:3-10",
+  "book": "Psalms",
+  "chapter": "68",
+  "date": "Tuesday 01-September, 2026",
+  "getbible": "https://getbible.life/kjv/Psalms/68/10",
+  "name": "Psalms 68:10",
   "scripture": [
     {
-      "nr": "3",
-      "text": "Giving no offence in any thing, that the ministry be not blamed:"
-    },
-    {
-      "nr": "4",
-      "text": "But in all things approving ourselves as the ministers of God, in much patience, in afflictions, in necessities, in distresses,"
-    },
-    {
-      "nr": "5",
-      "text": "In stripes, in imprisonments, in tumults, in labours, in watchings, in fastings;"
-    },
-    {
-      "nr": "6",
-      "text": "By pureness, by knowledge, by longsuffering, by kindness, by the Holy Ghost, by love unfeigned,"
-    },
-    {
-      "nr": "7",
-      "text": "By the word of truth, by the power of God, by the armour of righteousness on the right hand and on the left,"
-    },
-    {
-      "nr": "8",
-      "text": "By honour and dishonour, by evil report and good report: as deceivers, and yet true;"
-    },
-    {
-      "nr": "9",
-      "text": "As unknown, and yet well known; as dying, and, behold, we live; as chastened, and not killed;"
-    },
-    {
       "nr": "10",
-      "text": "As sorrowful, yet alway rejoicing; as poor, yet making many rich; as having nothing, and yet possessing all things."
+      "text": "Thy congregation hath dwelt therein: thou, O God, hast prepared of thy goodness for the poor."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "3-10",
+  "verse": "10",
   "version": "kjv"
 }
