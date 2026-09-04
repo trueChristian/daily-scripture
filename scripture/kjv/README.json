@@ -1,21 +1,17 @@
 {
-  "book": "Matthew",
-  "chapter": "18",
-  "date": "Thursday 03-September, 2026",
-  "getbible": "https://getbible.life/kjv/Matthew/18/21-22",
-  "name": "Matthew 18:21-22",
+  "book": "John",
+  "chapter": "1",
+  "date": "Friday 04-September, 2026",
+  "getbible": "https://getbible.life/kjv/John/1/37",
+  "name": "John 1:37",
   "scripture": [
     {
-      "nr": "21",
-      "text": "Then came Peter to him, and said, Lord, how oft shall my brother sin against me, and I forgive him? till seven times?"
-    },
-    {
-      "nr": "22",
-      "text": "Jesus saith unto him, I say not unto thee, Until seven times: but, Until seventy times seven."
+      "nr": "37",
+      "text": "And the two disciples heard him speak, and they followed Jesus."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "21-22",
+  "verse": "37",
   "version": "kjv"
 }

@@ -1,5 +1,5 @@
-**Matthew 18:21-22**
+**John 1:37**
 
-21 Then came Peter to him, and said, Lord, how oft shall my brother sin against me, and I forgive him? till seven times? 22 Jesus saith unto him, I say not unto thee, Until seven times: but, Until seventy times seven.
+37 And the two disciples heard him speak, and they followed Jesus.
 
-[Thursday 03-September, 2026](https://getbible.life/kjv/Matthew/18/21-22)
+[Friday 04-September, 2026](https://getbible.life/kjv/John/1/37)
