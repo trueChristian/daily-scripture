@@ -1,5 +1,5 @@
-**John 18:25**
+**1 Timothy 4:13**
 
-25 And Simon Peter stood and warmed himself. They said therefore unto him, Art not thou also one of his disciples? He denied it, and said, I am not.
+13 Till I come, give attendance to reading, to exhortation, to doctrine.
 
-[Saturday 12-September, 2026](https://getbible.life/kjv/John/18/25)
+[Sunday 13-September, 2026](https://getbible.life/kjv/1%20Timothy/4/13)

@@ -1,17 +1,17 @@
 {
-  "book": "John",
-  "chapter": "18",
-  "date": "Saturday 12-September, 2026",
-  "getbible": "https://getbible.life/kjv/John/18/25",
-  "name": "John 18:25",
+  "book": "1 Timothy",
+  "chapter": "4",
+  "date": "Sunday 13-September, 2026",
+  "getbible": "https://getbible.life/kjv/1 Timothy/4/13",
+  "name": "1 Timothy 4:13",
   "scripture": [
     {
-      "nr": "25",
-      "text": "And Simon Peter stood and warmed himself. They said therefore unto him, Art not thou also one of his disciples? He denied it, and said, I am not."
+      "nr": "13",
+      "text": "Till I come, give attendance to reading, to exhortation, to doctrine."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "25",
+  "verse": "13",
   "version": "kjv"
 }
