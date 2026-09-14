@@ -1,17 +1,17 @@
 {
-  "book": "1 Timothy",
-  "chapter": "4",
-  "date": "Sunday 13-September, 2026",
-  "getbible": "https://getbible.life/kjv/1 Timothy/4/13",
-  "name": "1 Timothy 4:13",
+  "book": "Revelation",
+  "chapter": "20",
+  "date": "Monday 14-September, 2026",
+  "getbible": "https://getbible.life/kjv/Revelation/20/15",
+  "name": "Revelation 20:15",
   "scripture": [
     {
-      "nr": "13",
-      "text": "Till I come, give attendance to reading, to exhortation, to doctrine."
+      "nr": "15",
+      "text": "And whosoever was not found written in the book of life was cast into the lake of fire."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "13",
+  "verse": "15",
   "version": "kjv"
 }

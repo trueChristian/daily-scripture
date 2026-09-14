@@ -1,5 +1,5 @@
-**1 Timothy 4:13**
+**Revelation 20:15**
 
-13 Till I come, give attendance to reading, to exhortation, to doctrine.
+15 And whosoever was not found written in the book of life was cast into the lake of fire.
 
-[Sunday 13-September, 2026](https://getbible.life/kjv/1%20Timothy/4/13)
+[Monday 14-September, 2026](https://getbible.life/kjv/Revelation/20/15)
