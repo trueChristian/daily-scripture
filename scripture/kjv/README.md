@@ -1,5 +1,5 @@
-**Revelation 20:15**
+**Proverbs 13:24**
 
-15 And whosoever was not found written in the book of life was cast into the lake of fire.
+24 He that spareth his rod hateth his son: but he that loveth him chasteneth him betimes.
 
-[Monday 14-September, 2026](https://getbible.life/kjv/Revelation/20/15)
+[Tuesday 15-September, 2026](https://getbible.life/kjv/Proverbs/13/24)

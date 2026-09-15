@@ -1,17 +1,17 @@
 {
-  "book": "Revelation",
-  "chapter": "20",
-  "date": "Monday 14-September, 2026",
-  "getbible": "https://getbible.life/kjv/Revelation/20/15",
-  "name": "Revelation 20:15",
+  "book": "Proverbs",
+  "chapter": "13",
+  "date": "Tuesday 15-September, 2026",
+  "getbible": "https://getbible.life/kjv/Proverbs/13/24",
+  "name": "Proverbs 13:24",
   "scripture": [
     {
-      "nr": "15",
-      "text": "And whosoever was not found written in the book of life was cast into the lake of fire."
+      "nr": "24",
+      "text": "He that spareth his rod hateth his son: but he that loveth him chasteneth him betimes."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "15",
+  "verse": "24",
   "version": "kjv"
 }
