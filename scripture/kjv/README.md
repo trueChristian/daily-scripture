@@ -1,5 +1,5 @@
-**Proverbs 13:24**
+**Revelation 3:10**
 
-24 He that spareth his rod hateth his son: but he that loveth him chasteneth him betimes.
+10 Because thou hast kept the word of my patience, I also will keep thee from the hour of temptation, which shall come upon all the world, to try them that dwell upon the earth.
 
-[Tuesday 15-September, 2026](https://getbible.life/kjv/Proverbs/13/24)
+[Wednesday 16-September, 2026](https://getbible.life/kjv/Revelation/3/10)
