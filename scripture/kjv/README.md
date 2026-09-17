@@ -1,5 +1,5 @@
-**Revelation 3:10**
+**Psalms 104:33**
 
-10 Because thou hast kept the word of my patience, I also will keep thee from the hour of temptation, which shall come upon all the world, to try them that dwell upon the earth.
+33 I will sing unto the Lord as long as I live: I will sing praise to my God while I have my being.
 
-[Wednesday 16-September, 2026](https://getbible.life/kjv/Revelation/3/10)
+[Thursday 17-September, 2026](https://getbible.life/kjv/Psalms/104/33)
