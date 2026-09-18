@@ -1,5 +1,5 @@
-**Psalms 104:33**
+**Proverbs 23:4-5**
 
-33 I will sing unto the Lord as long as I live: I will sing praise to my God while I have my being.
+4 Labour not to be rich: cease from thine own wisdom. 5 Wilt thou set thine eyes upon that which is not? for riches certainly make themselves wings; they fly away as an eagle toward heaven.
 
-[Thursday 17-September, 2026](https://getbible.life/kjv/Psalms/104/33)
+[Friday 18-September, 2026](https://getbible.life/kjv/Proverbs/23/4-5)
