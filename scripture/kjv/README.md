@@ -1,5 +1,5 @@
-**Proverbs 11:30**
+**Psalms 34:4**
 
-30 The fruit of the righteous is a tree of life; and he that winneth souls is wise.
+4 I sought the Lord, and he heard me, and delivered me from all my fears.
 
-[Monday 21-September, 2026](https://getbible.life/kjv/Proverbs/11/30)
+[Tuesday 22-September, 2026](https://getbible.life/kjv/Psalms/34/4)

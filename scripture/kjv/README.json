@@ -1,17 +1,17 @@
 {
-  "book": "Proverbs",
-  "chapter": "11",
-  "date": "Monday 21-September, 2026",
-  "getbible": "https://getbible.life/kjv/Proverbs/11/30",
-  "name": "Proverbs 11:30",
+  "book": "Psalms",
+  "chapter": "34",
+  "date": "Tuesday 22-September, 2026",
+  "getbible": "https://getbible.life/kjv/Psalms/34/4",
+  "name": "Psalms 34:4",
   "scripture": [
     {
-      "nr": "30",
-      "text": "The fruit of the righteous is a tree of life; and he that winneth souls is wise."
+      "nr": "4",
+      "text": "I sought the Lord, and he heard me, and delivered me from all my fears."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "30",
+  "verse": "4",
   "version": "kjv"
 }
