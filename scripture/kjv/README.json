@@ -1,17 +1,17 @@
 {
-  "book": "Psalms",
-  "chapter": "34",
-  "date": "Tuesday 22-September, 2026",
-  "getbible": "https://getbible.life/kjv/Psalms/34/4",
-  "name": "Psalms 34:4",
+  "book": "1 Corinthians",
+  "chapter": "3",
+  "date": "Wednesday 23-September, 2026",
+  "getbible": "https://getbible.life/kjv/1 Corinthians/3/22",
+  "name": "1 Corinthians 3:22",
   "scripture": [
     {
-      "nr": "4",
-      "text": "I sought the Lord, and he heard me, and delivered me from all my fears."
+      "nr": "22",
+      "text": "Whether Paul, or Apollos, or Cephas, or the world, or life, or death, or things present, or things to come; all are yours;"
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "4",
+  "verse": "22",
   "version": "kjv"
 }

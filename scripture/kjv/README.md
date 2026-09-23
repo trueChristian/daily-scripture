@@ -1,5 +1,5 @@
-**Psalms 34:4**
+**1 Corinthians 3:22**
 
-4 I sought the Lord, and he heard me, and delivered me from all my fears.
+22 Whether Paul, or Apollos, or Cephas, or the world, or life, or death, or things present, or things to come; all are yours;
 
-[Tuesday 22-September, 2026](https://getbible.life/kjv/Psalms/34/4)
+[Wednesday 23-September, 2026](https://getbible.life/kjv/1%20Corinthians/3/22)
