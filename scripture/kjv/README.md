@@ -1,5 +1,5 @@
-**Jeremiah 1:5-9**
+**Psalms 119:1-4**
 
-5 Before I formed thee in the belly I knew thee; and before thou camest forth out of the womb I sanctified thee, and I ordained thee a prophet unto the nations. 6 Then said I, Ah, Lord God! behold, I cannot speak: for I am a child. 7 But the Lord said unto me, Say not, I am a child: for thou shalt go to all that I shall send thee, and whatsoever I command thee thou shalt speak. 8 Be not afraid of their faces: for I am with thee to deliver thee, saith the Lord. 9 Then the Lord put forth his hand, and touched my mouth. And the Lord said unto me, Behold, I have put my words in thy mouth.
+1 Blessed are the undefiled in the way, who walk in the law of the Lord. 2 Blessed are they that keep his testimonies, and that seek him with the whole heart. 3 They also do no iniquity: they walk in his ways. 4 Thou hast commanded us to keep thy precepts diligently.
 
-[Thursday 24-September, 2026](https://getbible.life/kjv/Jeremiah/1/5-9)
+[Friday 25-September, 2026](https://getbible.life/kjv/Psalms/119/1-4)
