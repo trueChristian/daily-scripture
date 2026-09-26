@@ -1,5 +1,5 @@
-**Psalms 119:1-4**
+**Ephesians 4:1-3**
 
-1 Blessed are the undefiled in the way, who walk in the law of the Lord. 2 Blessed are they that keep his testimonies, and that seek him with the whole heart. 3 They also do no iniquity: they walk in his ways. 4 Thou hast commanded us to keep thy precepts diligently.
+1 I therefore, the prisoner of the Lord, beseech you that ye walk worthy of the vocation wherewith ye are called, 2 With all lowliness and meekness, with longsuffering, forbearing one another in love; 3 Endeavouring to keep the unity of the Spirit in the bond of peace.
 
-[Friday 25-September, 2026](https://getbible.life/kjv/Psalms/119/1-4)
+[Saturday 26-September, 2026](https://getbible.life/kjv/Ephesians/4/1-3)
