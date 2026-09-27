@@ -1,25 +1,17 @@
 {
-  "book": "Ephesians",
-  "chapter": "4",
-  "date": "Saturday 26-September, 2026",
-  "getbible": "https://getbible.life/kjv/Ephesians/4/1-3",
-  "name": "Ephesians 4:1-3",
+  "book": "Matthew",
+  "chapter": "21",
+  "date": "Sunday 27-September, 2026",
+  "getbible": "https://getbible.life/kjv/Matthew/21/13",
+  "name": "Matthew 21:13",
   "scripture": [
     {
-      "nr": "1",
-      "text": "I therefore, the prisoner of the Lord, beseech you that ye walk worthy of the vocation wherewith ye are called,"
-    },
-    {
-      "nr": "2",
-      "text": "With all lowliness and meekness, with longsuffering, forbearing one another in love;"
-    },
-    {
-      "nr": "3",
-      "text": "Endeavouring to keep the unity of the Spirit in the bond of peace."
+      "nr": "13",
+      "text": "And said unto them, It is written, My house shall be called the house of prayer; but ye have made it a den of thieves."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "1-3",
+  "verse": "13",
   "version": "kjv"
 }

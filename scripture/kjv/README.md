@@ -1,5 +1,5 @@
-**Ephesians 4:1-3**
+**Matthew 21:13**
 
-1 I therefore, the prisoner of the Lord, beseech you that ye walk worthy of the vocation wherewith ye are called, 2 With all lowliness and meekness, with longsuffering, forbearing one another in love; 3 Endeavouring to keep the unity of the Spirit in the bond of peace.
+13 And said unto them, It is written, My house shall be called the house of prayer; but ye have made it a den of thieves.
 
-[Saturday 26-September, 2026](https://getbible.life/kjv/Ephesians/4/1-3)
+[Sunday 27-September, 2026](https://getbible.life/kjv/Matthew/21/13)
