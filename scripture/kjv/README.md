@@ -1,5 +1,5 @@
-**Matthew 21:13**
+**Jeremiah 3:10**
 
-13 And said unto them, It is written, My house shall be called the house of prayer; but ye have made it a den of thieves.
+10 And yet for all this her treacherous sister Judah hath not turned unto me with her whole heart, but feignedly, saith the Lord.
 
-[Sunday 27-September, 2026](https://getbible.life/kjv/Matthew/21/13)
+[Monday 28-September, 2026](https://getbible.life/kjv/Jeremiah/3/10)
