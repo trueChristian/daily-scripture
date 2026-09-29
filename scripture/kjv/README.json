@@ -1,17 +1,17 @@
 {
-  "book": "Jeremiah",
-  "chapter": "3",
-  "date": "Monday 28-September, 2026",
-  "getbible": "https://getbible.life/kjv/Jeremiah/3/10",
-  "name": "Jeremiah 3:10",
+  "book": "1 Thessalonians",
+  "chapter": "5",
+  "date": "Tuesday 29-September, 2026",
+  "getbible": "https://getbible.life/kjv/1 Thessalonians/5/17",
+  "name": "1 Thessalonians 5:17",
   "scripture": [
     {
-      "nr": "10",
-      "text": "And yet for all this her treacherous sister Judah hath not turned unto me with her whole heart, but feignedly, saith the Lord."
+      "nr": "17",
+      "text": "Pray without ceasing."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "10",
+  "verse": "17",
   "version": "kjv"
 }

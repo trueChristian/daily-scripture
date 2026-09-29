@@ -1,5 +1,5 @@
-**Jeremiah 3:10**
+**1 Thessalonians 5:17**
 
-10 And yet for all this her treacherous sister Judah hath not turned unto me with her whole heart, but feignedly, saith the Lord.
+17 Pray without ceasing.
 
-[Monday 28-September, 2026](https://getbible.life/kjv/Jeremiah/3/10)
+[Tuesday 29-September, 2026](https://getbible.life/kjv/1%20Thessalonians/5/17)
