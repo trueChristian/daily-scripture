@@ -1,5 +1,5 @@
-**1 Thessalonians 5:17**
+**Joel 3:18**
 
-17 Pray without ceasing.
+18 And it shall come to pass in that day, that the mountains shall drop down new wine, and the hills shall flow with milk, and all the rivers of Judah shall flow with waters, and a fountain shall come forth of the house of the Lord, and shall water the valley of Shittim.
 
-[Tuesday 29-September, 2026](https://getbible.life/kjv/1%20Thessalonians/5/17)
+[Wednesday 30-September, 2026](https://getbible.life/kjv/Joel/3/18)

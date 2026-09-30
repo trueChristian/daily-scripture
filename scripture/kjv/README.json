@@ -1,17 +1,17 @@
 {
-  "book": "1 Thessalonians",
-  "chapter": "5",
-  "date": "Tuesday 29-September, 2026",
-  "getbible": "https://getbible.life/kjv/1 Thessalonians/5/17",
-  "name": "1 Thessalonians 5:17",
+  "book": "Joel",
+  "chapter": "3",
+  "date": "Wednesday 30-September, 2026",
+  "getbible": "https://getbible.life/kjv/Joel/3/18",
+  "name": "Joel 3:18",
   "scripture": [
     {
-      "nr": "17",
-      "text": "Pray without ceasing."
+      "nr": "18",
+      "text": "And it shall come to pass in that day, that the mountains shall drop down new wine, and the hills shall flow with milk, and all the rivers of Judah shall flow with waters, and a fountain shall come forth of the house of the Lord, and shall water the valley of Shittim."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "17",
+  "verse": "18",
   "version": "kjv"
 }
