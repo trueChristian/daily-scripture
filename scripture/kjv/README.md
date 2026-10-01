@@ -1,5 +1,5 @@
-**Joel 3:18**
+**Luke 7:29-30**
 
-18 And it shall come to pass in that day, that the mountains shall drop down new wine, and the hills shall flow with milk, and all the rivers of Judah shall flow with waters, and a fountain shall come forth of the house of the Lord, and shall water the valley of Shittim.
+29 And all the people that heard him, and the publicans, justified God, being baptized with the baptism of John. 30 But the Pharisees and lawyers rejected the counsel of God against themselves, being not baptized of him.
 
-[Wednesday 30-September, 2026](https://getbible.life/kjv/Joel/3/18)
+[Thursday 01-October, 2026](https://getbible.life/kjv/Luke/7/29-30)

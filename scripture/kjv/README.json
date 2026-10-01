@@ -1,17 +1,21 @@
 {
-  "book": "Joel",
-  "chapter": "3",
-  "date": "Wednesday 30-September, 2026",
-  "getbible": "https://getbible.life/kjv/Joel/3/18",
-  "name": "Joel 3:18",
+  "book": "Luke",
+  "chapter": "7",
+  "date": "Thursday 01-October, 2026",
+  "getbible": "https://getbible.life/kjv/Luke/7/29-30",
+  "name": "Luke 7:29-30",
   "scripture": [
     {
-      "nr": "18",
-      "text": "And it shall come to pass in that day, that the mountains shall drop down new wine, and the hills shall flow with milk, and all the rivers of Judah shall flow with waters, and a fountain shall come forth of the house of the Lord, and shall water the valley of Shittim."
+      "nr": "29",
+      "text": "And all the people that heard him, and the publicans, justified God, being baptized with the baptism of John."
+    },
+    {
+      "nr": "30",
+      "text": "But the Pharisees and lawyers rejected the counsel of God against themselves, being not baptized of him."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "18",
+  "verse": "29-30",
   "version": "kjv"
 }
