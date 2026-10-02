@@ -1,21 +1,17 @@
 {
-  "book": "Luke",
-  "chapter": "7",
-  "date": "Thursday 01-October, 2026",
-  "getbible": "https://getbible.life/kjv/Luke/7/29-30",
-  "name": "Luke 7:29-30",
+  "book": "James",
+  "chapter": "4",
+  "date": "Friday 02-October, 2026",
+  "getbible": "https://getbible.life/kjv/James/4/4",
+  "name": "James 4:4",
   "scripture": [
     {
-      "nr": "29",
-      "text": "And all the people that heard him, and the publicans, justified God, being baptized with the baptism of John."
-    },
-    {
-      "nr": "30",
-      "text": "But the Pharisees and lawyers rejected the counsel of God against themselves, being not baptized of him."
+      "nr": "4",
+      "text": "Ye adulterers and adulteresses, know ye not that the friendship of the world is enmity with God? whosoever therefore will be a friend of the world is the enemy of God."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "29-30",
+  "verse": "4",
   "version": "kjv"
 }

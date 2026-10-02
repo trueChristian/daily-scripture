@@ -1,5 +1,5 @@
-**Luke 7:29-30**
+**James 4:4**
 
-29 And all the people that heard him, and the publicans, justified God, being baptized with the baptism of John. 30 But the Pharisees and lawyers rejected the counsel of God against themselves, being not baptized of him.
+4 Ye adulterers and adulteresses, know ye not that the friendship of the world is enmity with God? whosoever therefore will be a friend of the world is the enemy of God.
 
-[Thursday 01-October, 2026](https://getbible.life/kjv/Luke/7/29-30)
+[Friday 02-October, 2026](https://getbible.life/kjv/James/4/4)
