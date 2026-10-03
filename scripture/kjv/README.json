@@ -1,17 +1,17 @@
 {
-  "book": "James",
-  "chapter": "4",
-  "date": "Friday 02-October, 2026",
-  "getbible": "https://getbible.life/kjv/James/4/4",
-  "name": "James 4:4",
+  "book": "John",
+  "chapter": "13",
+  "date": "Saturday 03-October, 2026",
+  "getbible": "https://getbible.life/kjv/John/13/20",
+  "name": "John 13:20",
   "scripture": [
     {
-      "nr": "4",
-      "text": "Ye adulterers and adulteresses, know ye not that the friendship of the world is enmity with God? whosoever therefore will be a friend of the world is the enemy of God."
+      "nr": "20",
+      "text": "Verily, verily, I say unto you, He that receiveth whomsoever I send receiveth me; and he that receiveth me receiveth him that sent me."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "4",
+  "verse": "20",
   "version": "kjv"
 }

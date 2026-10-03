@@ -1,5 +1,5 @@
-**James 4:4**
+**John 13:20**
 
-4 Ye adulterers and adulteresses, know ye not that the friendship of the world is enmity with God? whosoever therefore will be a friend of the world is the enemy of God.
+20 Verily, verily, I say unto you, He that receiveth whomsoever I send receiveth me; and he that receiveth me receiveth him that sent me.
 
-[Friday 02-October, 2026](https://getbible.life/kjv/James/4/4)
+[Saturday 03-October, 2026](https://getbible.life/kjv/John/13/20)
