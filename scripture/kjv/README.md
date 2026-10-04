@@ -1,5 +1,5 @@
-**John 13:20**
+**Proverbs 28:27**
 
-20 Verily, verily, I say unto you, He that receiveth whomsoever I send receiveth me; and he that receiveth me receiveth him that sent me.
+27 He that giveth unto the poor shall not lack: but he that hideth his eyes shall have many a curse.
 
-[Saturday 03-October, 2026](https://getbible.life/kjv/John/13/20)
+[Sunday 04-October, 2026](https://getbible.life/kjv/Proverbs/28/27)
