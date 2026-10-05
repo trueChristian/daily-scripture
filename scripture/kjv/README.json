@@ -1,17 +1,17 @@
 {
-  "book": "Proverbs",
-  "chapter": "28",
-  "date": "Sunday 04-October, 2026",
-  "getbible": "https://getbible.life/kjv/Proverbs/28/27",
-  "name": "Proverbs 28:27",
+  "book": "John",
+  "chapter": "10",
+  "date": "Monday 05-October, 2026",
+  "getbible": "https://getbible.life/kjv/John/10/29",
+  "name": "John 10:29",
   "scripture": [
     {
-      "nr": "27",
-      "text": "He that giveth unto the poor shall not lack: but he that hideth his eyes shall have many a curse."
+      "nr": "29",
+      "text": "My Father, which gave them me, is greater than all; and no man is able to pluck them out of my Father’s hand."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "27",
+  "verse": "29",
   "version": "kjv"
 }
