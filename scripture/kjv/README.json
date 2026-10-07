@@ -1,17 +1,17 @@
 {
-  "book": "Romans",
-  "chapter": "14",
-  "date": "Tuesday 06-October, 2026",
-  "getbible": "https://getbible.life/kjv/Romans/14/13",
-  "name": "Romans 14:13",
+  "book": "2 Corinthians",
+  "chapter": "5",
+  "date": "Wednesday 07-October, 2026",
+  "getbible": "https://getbible.life/kjv/2 Corinthians/5/11",
+  "name": "2 Corinthians 5:11",
   "scripture": [
     {
-      "nr": "13",
-      "text": "Let us not therefore judge one another any more: but judge this rather, that no man put a stumblingblock or an occasion to fall in his brother’s way."
+      "nr": "11",
+      "text": "Knowing therefore the terror of the Lord, we persuade men; but we are made manifest unto God; and I trust also are made manifest in your consciences."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "13",
+  "verse": "11",
   "version": "kjv"
 }
