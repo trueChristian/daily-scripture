@@ -1,5 +1,5 @@
-**2 Corinthians 5:11**
+**Revelation 1:9**
 
-11 Knowing therefore the terror of the Lord, we persuade men; but we are made manifest unto God; and I trust also are made manifest in your consciences.
+9 I John, who also am your brother, and companion in tribulation, and in the kingdom and patience of Jesus Christ, was in the isle that is called Patmos, for the word of God, and for the testimony of Jesus Christ.
 
-[Wednesday 07-October, 2026](https://getbible.life/kjv/2%20Corinthians/5/11)
+[Thursday 08-October, 2026](https://getbible.life/kjv/Revelation/1/9)
