@@ -1,17 +1,17 @@
 {
-  "book": "Revelation",
-  "chapter": "1",
-  "date": "Thursday 08-October, 2026",
-  "getbible": "https://getbible.life/kjv/Revelation/1/9",
-  "name": "Revelation 1:9",
+  "book": "John",
+  "chapter": "8",
+  "date": "Friday 09-October, 2026",
+  "getbible": "https://getbible.life/kjv/John/8/45",
+  "name": "John 8:45",
   "scripture": [
     {
-      "nr": "9",
-      "text": "I John, who also am your brother, and companion in tribulation, and in the kingdom and patience of Jesus Christ, was in the isle that is called Patmos, for the word of God, and for the testimony of Jesus Christ."
+      "nr": "45",
+      "text": "And because I tell you the truth, ye believe me not."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "9",
+  "verse": "45",
   "version": "kjv"
 }

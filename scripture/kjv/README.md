@@ -1,5 +1,5 @@
-**Revelation 1:9**
+**John 8:45**
 
-9 I John, who also am your brother, and companion in tribulation, and in the kingdom and patience of Jesus Christ, was in the isle that is called Patmos, for the word of God, and for the testimony of Jesus Christ.
+45 And because I tell you the truth, ye believe me not.
 
-[Thursday 08-October, 2026](https://getbible.life/kjv/Revelation/1/9)
+[Friday 09-October, 2026](https://getbible.life/kjv/John/8/45)
