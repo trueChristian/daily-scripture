@@ -1,5 +1,5 @@
-**John 8:45**
+**Isaiah 28:5**
 
-45 And because I tell you the truth, ye believe me not.
+5 In that day shall the Lord of hosts be for a crown of glory, and for a diadem of beauty, unto the residue of his people,
 
-[Friday 09-October, 2026](https://getbible.life/kjv/John/8/45)
+[Saturday 10-October, 2026](https://getbible.life/kjv/Isaiah/28/5)

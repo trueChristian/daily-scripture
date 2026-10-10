@@ -1,17 +1,17 @@
 {
-  "book": "John",
-  "chapter": "8",
-  "date": "Friday 09-October, 2026",
-  "getbible": "https://getbible.life/kjv/John/8/45",
-  "name": "John 8:45",
+  "book": "Isaiah",
+  "chapter": "28",
+  "date": "Saturday 10-October, 2026",
+  "getbible": "https://getbible.life/kjv/Isaiah/28/5",
+  "name": "Isaiah 28:5",
   "scripture": [
     {
-      "nr": "45",
-      "text": "And because I tell you the truth, ye believe me not."
+      "nr": "5",
+      "text": "In that day shall the Lord of hosts be for a crown of glory, and for a diadem of beauty, unto the residue of his people,"
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "45",
+  "verse": "5",
   "version": "kjv"
 }
