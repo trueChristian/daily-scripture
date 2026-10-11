@@ -1,5 +1,5 @@
-**Isaiah 28:5**
+**Proverbs 17:10**
 
-5 In that day shall the Lord of hosts be for a crown of glory, and for a diadem of beauty, unto the residue of his people,
+10 A reproof entereth more into a wise man than an hundred stripes into a fool.
 
-[Saturday 10-October, 2026](https://getbible.life/kjv/Isaiah/28/5)
+[Sunday 11-October, 2026](https://getbible.life/kjv/Proverbs/17/10)

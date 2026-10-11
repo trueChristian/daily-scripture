@@ -1,17 +1,17 @@
 {
-  "book": "Isaiah",
-  "chapter": "28",
-  "date": "Saturday 10-October, 2026",
-  "getbible": "https://getbible.life/kjv/Isaiah/28/5",
-  "name": "Isaiah 28:5",
+  "book": "Proverbs",
+  "chapter": "17",
+  "date": "Sunday 11-October, 2026",
+  "getbible": "https://getbible.life/kjv/Proverbs/17/10",
+  "name": "Proverbs 17:10",
   "scripture": [
     {
-      "nr": "5",
-      "text": "In that day shall the Lord of hosts be for a crown of glory, and for a diadem of beauty, unto the residue of his people,"
+      "nr": "10",
+      "text": "A reproof entereth more into a wise man than an hundred stripes into a fool."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "5",
+  "verse": "10",
   "version": "kjv"
 }
