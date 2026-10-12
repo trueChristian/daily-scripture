@@ -1,0 +1,21 @@
+{
+  "book": "1 Thessalonians",
+  "chapter": "4",
+  "date": "Monday 12-October, 2026",
+  "getbible": "https://getbible.life/kjv/1 Thessalonians/4/11-12",
+  "name": "1 Thessalonians 4:11-12",
+  "scripture": [
+    {
+      "nr": "11",
+      "text": "And that ye study to be quiet, and to do your own business, and to work with your own hands, as we commanded you;"
+    },
+    {
+      "nr": "12",
+      "text": "That ye may walk honestly toward them that are without, and that ye may have lack of nothing."
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "11-12",
+  "version": "kjv"
+}

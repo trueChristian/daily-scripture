@@ -1,5 +1,5 @@
-**Proverbs 17:10**
+**1 Thessalonians 4:11-12**
 
-10 A reproof entereth more into a wise man than an hundred stripes into a fool.
+11 And that ye study to be quiet, and to do your own business, and to work with your own hands, as we commanded you; 12 That ye may walk honestly toward them that are without, and that ye may have lack of nothing.
 
-[Sunday 11-October, 2026](https://getbible.life/kjv/Proverbs/17/10)
+[Monday 12-October, 2026](https://getbible.life/kjv/1%20Thessalonians/4/11-12)
