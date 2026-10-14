@@ -1,17 +1,25 @@
 {
-  "book": "Psalms",
-  "chapter": "38",
-  "date": "Tuesday 13-October, 2026",
-  "getbible": "https://getbible.life/kjv/Psalms/38/18",
-  "name": "Psalms 38:18",
+  "book": "Haggai",
+  "chapter": "2",
+  "date": "Wednesday 14-October, 2026",
+  "getbible": "https://getbible.life/kjv/Haggai/2/3-5",
+  "name": "Haggai 2:3-5",
   "scripture": [
     {
-      "nr": "18",
-      "text": "For I will declare mine iniquity; I will be sorry for my sin."
+      "nr": "3",
+      "text": "Who is left among you that saw this house in her first glory? and how do ye see it now? is it not in your eyes in comparison of it as nothing?"
+    },
+    {
+      "nr": "4",
+      "text": "Yet now be strong, O Zerubbabel, saith the Lord; and be strong, O Joshua, son of Josedech, the high priest; and be strong, all ye people of the land, saith the Lord, and work: for I am with you, saith the Lord of hosts:"
+    },
+    {
+      "nr": "5",
+      "text": "According to the word that I covenanted with you when ye came out of Egypt, so my spirit remaineth among you: fear ye not."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "18",
+  "verse": "3-5",
   "version": "kjv"
 }
