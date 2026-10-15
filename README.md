@@ -1,5 +1,5 @@
-**Haggai 2:3-5**
+**Hosea 7:8-9**
 
-3 Who is left among you that saw this house in her first glory? and how do ye see it now? is it not in your eyes in comparison of it as nothing? 4 Yet now be strong, O Zerubbabel, saith the Lord; and be strong, O Joshua, son of Josedech, the high priest; and be strong, all ye people of the land, saith the Lord, and work: for I am with you, saith the Lord of hosts: 5 According to the word that I covenanted with you when ye came out of Egypt, so my spirit remaineth among you: fear ye not.
+8 Ephraim, he hath mixed himself among the people; Ephraim is a cake not turned. 9 Strangers have devoured his strength, and he knoweth it not: yea, gray hairs are here and there upon him, yet he knoweth not.
 
-[Wednesday 14-October, 2026](https://getbible.life/kjv/Haggai/2/3-5)
+[Thursday 15-October, 2026](https://getbible.life/kjv/Hosea/7/8-9)
