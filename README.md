@@ -1,5 +1,5 @@
-**Psalms 18:2**
+**Colossians 4:1**
 
-2 The Lord is my rock, and my fortress, and my deliverer; my God, my strength, in whom I will trust; my buckler, and the horn of my salvation, and my high tower.
+1 Masters, give unto your servants that which is just and equal; knowing that ye also have a Master in heaven.
 
-[Friday 16-October, 2026](https://getbible.life/kjv/Psalms/18/2)
+[Saturday 17-October, 2026](https://getbible.life/kjv/Colossians/4/1)

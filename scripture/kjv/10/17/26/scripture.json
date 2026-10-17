@@ -1,0 +1,17 @@
+{
+  "book": "Colossians",
+  "chapter": "4",
+  "date": "Saturday 17-October, 2026",
+  "getbible": "https://getbible.life/kjv/Colossians/4/1",
+  "name": "Colossians 4:1",
+  "scripture": [
+    {
+      "nr": "1",
+      "text": "Masters, give unto your servants that which is just and equal; knowing that ye also have a Master in heaven."
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "1",
+  "version": "kjv"
+}
