@@ -1,0 +1,17 @@
+{
+  "book": "Revelation",
+  "chapter": "2",
+  "date": "Sunday 18-October, 2026",
+  "getbible": "https://getbible.life/kjv/Revelation/2/19",
+  "name": "Revelation 2:19",
+  "scripture": [
+    {
+      "nr": "19",
+      "text": "I know thy works, and charity, and service, and faith, and thy patience, and thy works; and the last to be more than the first."
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "19",
+  "version": "kjv"
+}

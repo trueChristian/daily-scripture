@@ -1,5 +1,5 @@
-**Colossians 4:1**
+**Revelation 2:19**
 
-1 Masters, give unto your servants that which is just and equal; knowing that ye also have a Master in heaven.
+19 I know thy works, and charity, and service, and faith, and thy patience, and thy works; and the last to be more than the first.
 
-[Saturday 17-October, 2026](https://getbible.life/kjv/Colossians/4/1)
+[Sunday 18-October, 2026](https://getbible.life/kjv/Revelation/2/19)
