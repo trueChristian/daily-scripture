@@ -1,17 +1,17 @@
 {
-  "book": "Revelation",
-  "chapter": "2",
-  "date": "Sunday 18-October, 2026",
-  "getbible": "https://getbible.life/kjv/Revelation/2/19",
-  "name": "Revelation 2:19",
+  "book": "2 Corinthians",
+  "chapter": "7",
+  "date": "Monday 19-October, 2026",
+  "getbible": "https://getbible.life/kjv/2 Corinthians/7/14",
+  "name": "2 Corinthians 7:14",
   "scripture": [
     {
-      "nr": "19",
-      "text": "I know thy works, and charity, and service, and faith, and thy patience, and thy works; and the last to be more than the first."
+      "nr": "14",
+      "text": "For if I have boasted any thing to him of you, I am not ashamed; but as we spake all things to you in truth, even so our boasting, which I made before Titus, is found a truth."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "19",
+  "verse": "14",
   "version": "kjv"
 }

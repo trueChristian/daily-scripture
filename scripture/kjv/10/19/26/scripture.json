@@ -1,0 +1,17 @@
+{
+  "book": "2 Corinthians",
+  "chapter": "7",
+  "date": "Monday 19-October, 2026",
+  "getbible": "https://getbible.life/kjv/2 Corinthians/7/14",
+  "name": "2 Corinthians 7:14",
+  "scripture": [
+    {
+      "nr": "14",
+      "text": "For if I have boasted any thing to him of you, I am not ashamed; but as we spake all things to you in truth, even so our boasting, which I made before Titus, is found a truth."
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "14",
+  "version": "kjv"
+}
