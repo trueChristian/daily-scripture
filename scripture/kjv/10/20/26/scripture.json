@@ -1,0 +1,17 @@
+{
+  "book": "Nehemiah",
+  "chapter": "4",
+  "date": "Tuesday 20-October, 2026",
+  "getbible": "https://getbible.life/kjv/Nehemiah/4/17",
+  "name": "Nehemiah 4:17",
+  "scripture": [
+    {
+      "nr": "17",
+      "text": "They which builded on the wall, and they that bare burdens, with those that laded, every one with one of his hands wrought in the work, and with the other hand held a weapon."
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "17",
+  "version": "kjv"
+}

@@ -1,17 +1,17 @@
 {
-  "book": "2 Corinthians",
-  "chapter": "7",
-  "date": "Monday 19-October, 2026",
-  "getbible": "https://getbible.life/kjv/2 Corinthians/7/14",
-  "name": "2 Corinthians 7:14",
+  "book": "Nehemiah",
+  "chapter": "4",
+  "date": "Tuesday 20-October, 2026",
+  "getbible": "https://getbible.life/kjv/Nehemiah/4/17",
+  "name": "Nehemiah 4:17",
   "scripture": [
     {
-      "nr": "14",
-      "text": "For if I have boasted any thing to him of you, I am not ashamed; but as we spake all things to you in truth, even so our boasting, which I made before Titus, is found a truth."
+      "nr": "17",
+      "text": "They which builded on the wall, and they that bare burdens, with those that laded, every one with one of his hands wrought in the work, and with the other hand held a weapon."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "14",
+  "verse": "17",
   "version": "kjv"
 }

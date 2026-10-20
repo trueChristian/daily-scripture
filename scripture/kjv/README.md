@@ -1,5 +1,5 @@
-**2 Corinthians 7:14**
+**Nehemiah 4:17**
 
-14 For if I have boasted any thing to him of you, I am not ashamed; but as we spake all things to you in truth, even so our boasting, which I made before Titus, is found a truth.
+17 They which builded on the wall, and they that bare burdens, with those that laded, every one with one of his hands wrought in the work, and with the other hand held a weapon.
 
-[Monday 19-October, 2026](https://getbible.life/kjv/2%20Corinthians/7/14)
+[Tuesday 20-October, 2026](https://getbible.life/kjv/Nehemiah/4/17)
