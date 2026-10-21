@@ -1,0 +1,17 @@
+{
+  "book": "1 John",
+  "chapter": "4",
+  "date": "Wednesday 21-October, 2026",
+  "getbible": "https://getbible.life/kjv/1 John/4/19",
+  "name": "1 John 4:19",
+  "scripture": [
+    {
+      "nr": "19",
+      "text": "We love him, because he first loved us."
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "19",
+  "version": "kjv"
+}

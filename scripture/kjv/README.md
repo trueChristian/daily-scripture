@@ -1,5 +1,5 @@
-**Nehemiah 4:17**
+**1 John 4:19**
 
-17 They which builded on the wall, and they that bare burdens, with those that laded, every one with one of his hands wrought in the work, and with the other hand held a weapon.
+19 We love him, because he first loved us.
 
-[Tuesday 20-October, 2026](https://getbible.life/kjv/Nehemiah/4/17)
+[Wednesday 21-October, 2026](https://getbible.life/kjv/1%20John/4/19)
