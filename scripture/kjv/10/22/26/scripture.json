@@ -1,0 +1,17 @@
+{
+  "book": "John",
+  "chapter": "4",
+  "date": "Thursday 22-October, 2026",
+  "getbible": "https://getbible.life/kjv/John/4/48",
+  "name": "John 4:48",
+  "scripture": [
+    {
+      "nr": "48",
+      "text": "Then said Jesus unto him, Except ye see signs and wonders, ye will not believe."
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "48",
+  "version": "kjv"
+}

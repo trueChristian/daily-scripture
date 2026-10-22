@@ -1,5 +1,5 @@
-**1 John 4:19**
+**John 4:48**
 
-19 We love him, because he first loved us.
+48 Then said Jesus unto him, Except ye see signs and wonders, ye will not believe.
 
-[Wednesday 21-October, 2026](https://getbible.life/kjv/1%20John/4/19)
+[Thursday 22-October, 2026](https://getbible.life/kjv/John/4/48)
