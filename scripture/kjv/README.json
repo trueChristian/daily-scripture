@@ -1,17 +1,29 @@
 {
-  "book": "John",
-  "chapter": "4",
-  "date": "Thursday 22-October, 2026",
-  "getbible": "https://getbible.life/kjv/John/4/48",
-  "name": "John 4:48",
+  "book": "Ezekiel",
+  "chapter": "2",
+  "date": "Friday 23-October, 2026",
+  "getbible": "https://getbible.life/kjv/Ezekiel/2/1-3,10",
+  "name": "Ezekiel 2:1-3,10",
   "scripture": [
     {
-      "nr": "48",
-      "text": "Then said Jesus unto him, Except ye see signs and wonders, ye will not believe."
+      "nr": "1",
+      "text": "And he said unto me, Son of man, stand upon thy feet, and I will speak unto thee."
+    },
+    {
+      "nr": "2",
+      "text": "And the spirit entered into me when he spake unto me, and set me upon my feet, that I heard him that spake unto me."
+    },
+    {
+      "nr": "3",
+      "text": "And he said unto me, Son of man, I send thee to the children of Israel, to a rebellious nation that hath rebelled against me: they and their fathers have transgressed against me, even unto this very day."
+    },
+    {
+      "nr": "10",
+      "text": "And he spread it before me; and it was written within and without: and there was written therein lamentations, and mourning, and woe."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "48",
+  "verse": "1-3,10",
   "version": "kjv"
 }
