@@ -1,29 +1,17 @@
 {
-  "book": "Matthew",
-  "chapter": "8",
-  "date": "Saturday 24-October, 2026",
-  "getbible": "https://getbible.life/kjv/Matthew/8/14-17",
-  "name": "Matthew 8:14-17",
+  "book": "Acts",
+  "chapter": "20",
+  "date": "Sunday 25-October, 2026",
+  "getbible": "https://getbible.life/kjv/Acts/20/24",
+  "name": "Acts 20:24",
   "scripture": [
     {
-      "nr": "14",
-      "text": "And when Jesus was come into Peter’s house, he saw his wife’s mother laid, and sick of a fever."
-    },
-    {
-      "nr": "15",
-      "text": "And he touched her hand, and the fever left her: and she arose, and ministered unto them."
-    },
-    {
-      "nr": "16",
-      "text": "When the even was come, they brought unto him many that were possessed with devils: and he cast out the spirits with his word, and healed all that were sick:"
-    },
-    {
-      "nr": "17",
-      "text": "That it might be fulfilled which was spoken by Esaias the prophet, saying, Himself took our infirmities, and bare our sicknesses."
+      "nr": "24",
+      "text": "But none of these things move me, neither count I my life dear unto myself, so that I might finish my course with joy, and the ministry, which I have received of the Lord Jesus, to testify the gospel of the grace of God."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "14-17",
+  "verse": "24",
   "version": "kjv"
 }

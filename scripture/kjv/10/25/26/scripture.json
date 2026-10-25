@@ -1,0 +1,17 @@
+{
+  "book": "Acts",
+  "chapter": "20",
+  "date": "Sunday 25-October, 2026",
+  "getbible": "https://getbible.life/kjv/Acts/20/24",
+  "name": "Acts 20:24",
+  "scripture": [
+    {
+      "nr": "24",
+      "text": "But none of these things move me, neither count I my life dear unto myself, so that I might finish my course with joy, and the ministry, which I have received of the Lord Jesus, to testify the gospel of the grace of God."
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "24",
+  "version": "kjv"
+}

@@ -1,5 +1,5 @@
-**Matthew 8:14-17**
+**Acts 20:24**
 
-14 And when Jesus was come into Peter’s house, he saw his wife’s mother laid, and sick of a fever. 15 And he touched her hand, and the fever left her: and she arose, and ministered unto them. 16 When the even was come, they brought unto him many that were possessed with devils: and he cast out the spirits with his word, and healed all that were sick: 17 That it might be fulfilled which was spoken by Esaias the prophet, saying, Himself took our infirmities, and bare our sicknesses.
+24 But none of these things move me, neither count I my life dear unto myself, so that I might finish my course with joy, and the ministry, which I have received of the Lord Jesus, to testify the gospel of the grace of God.
 
-[Saturday 24-October, 2026](https://getbible.life/kjv/Matthew/8/14-17)
+[Sunday 25-October, 2026](https://getbible.life/kjv/Acts/20/24)
