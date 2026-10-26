@@ -1,5 +1,5 @@
-**Acts 20:24**
+**Proverbs 5:8**
 
-24 But none of these things move me, neither count I my life dear unto myself, so that I might finish my course with joy, and the ministry, which I have received of the Lord Jesus, to testify the gospel of the grace of God.
+8 Remove thy way far from her, and come not nigh the door of her house:
 
-[Sunday 25-October, 2026](https://getbible.life/kjv/Acts/20/24)
+[Monday 26-October, 2026](https://getbible.life/kjv/Proverbs/5/8)

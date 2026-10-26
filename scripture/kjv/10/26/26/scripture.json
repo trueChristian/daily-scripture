@@ -1,0 +1,17 @@
+{
+  "book": "Proverbs",
+  "chapter": "5",
+  "date": "Monday 26-October, 2026",
+  "getbible": "https://getbible.life/kjv/Proverbs/5/8",
+  "name": "Proverbs 5:8",
+  "scripture": [
+    {
+      "nr": "8",
+      "text": "Remove thy way far from her, and come not nigh the door of her house:"
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "8",
+  "version": "kjv"
+}
