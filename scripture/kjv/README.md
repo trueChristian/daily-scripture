@@ -1,5 +1,5 @@
-**Proverbs 5:8**
+**Proverbs 20:6**
 
-8 Remove thy way far from her, and come not nigh the door of her house:
+6 Most men will proclaim every one his own goodness: but a faithful man who can find?
 
-[Monday 26-October, 2026](https://getbible.life/kjv/Proverbs/5/8)
+[Tuesday 27-October, 2026](https://getbible.life/kjv/Proverbs/20/6)

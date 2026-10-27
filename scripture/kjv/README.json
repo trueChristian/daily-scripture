@@ -1,17 +1,17 @@
 {
   "book": "Proverbs",
-  "chapter": "5",
-  "date": "Monday 26-October, 2026",
-  "getbible": "https://getbible.life/kjv/Proverbs/5/8",
-  "name": "Proverbs 5:8",
+  "chapter": "20",
+  "date": "Tuesday 27-October, 2026",
+  "getbible": "https://getbible.life/kjv/Proverbs/20/6",
+  "name": "Proverbs 20:6",
   "scripture": [
     {
-      "nr": "8",
-      "text": "Remove thy way far from her, and come not nigh the door of her house:"
+      "nr": "6",
+      "text": "Most men will proclaim every one his own goodness: but a faithful man who can find?"
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "8",
+  "verse": "6",
   "version": "kjv"
 }
