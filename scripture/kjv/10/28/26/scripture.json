@@ -1,0 +1,17 @@
+{
+  "book": "1 Corinthians",
+  "chapter": "12",
+  "date": "Wednesday 28-October, 2026",
+  "getbible": "https://getbible.life/kjv/1 Corinthians/12/23",
+  "name": "1 Corinthians 12:23",
+  "scripture": [
+    {
+      "nr": "23",
+      "text": "And those members of the body, which we think to be less honourable, upon these we bestow more abundant honour; and our uncomely parts have more abundant comeliness."
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "23",
+  "version": "kjv"
+}
