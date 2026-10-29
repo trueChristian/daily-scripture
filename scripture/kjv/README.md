@@ -1,5 +1,5 @@
-**1 Corinthians 12:23**
+**Isaiah 3:16-24**
 
-23 And those members of the body, which we think to be less honourable, upon these we bestow more abundant honour; and our uncomely parts have more abundant comeliness.
+16 Moreover the Lord saith, Because the daughters of Zion are haughty, and walk with stretched forth necks and wanton eyes, walking and mincing as they go, and making a tinkling with their feet: 17 Therefore the Lord will smite with a scab the crown of the head of the daughters of Zion, and the Lord will discover their secret parts. 18 In that day the Lord will take away the bravery of their tinkling ornaments about their feet, and their cauls, and their round tires like the moon, 19 The chains, and the bracelets, and the mufflers, 20 The bonnets, and the ornaments of the legs, and the headbands, and the tablets, and the earrings, 21 The rings, and nose jewels, 22 The changeable suits of apparel, and the mantles, and the wimples, and the crisping pins, 23 The glasses, and the fine linen, and the hoods, and the vails. 24 And it shall come to pass, that instead of sweet smell there shall be stink; and instead of a girdle a rent; and instead of well set hair baldness; and instead of a stomacher a girding of sackcloth; and burning instead of beauty.
 
-[Wednesday 28-October, 2026](https://getbible.life/kjv/1%20Corinthians/12/23)
+[Thursday 29-October, 2026](https://getbible.life/kjv/Isaiah/3/16-24)
