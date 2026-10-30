@@ -1,0 +1,17 @@
+{
+  "book": "Colossians",
+  "chapter": "4",
+  "date": "Friday 30-October, 2026",
+  "getbible": "https://getbible.life/kjv/Colossians/4/6",
+  "name": "Colossians 4:6",
+  "scripture": [
+    {
+      "nr": "6",
+      "text": "Let your speech be alway with grace, seasoned with salt, that ye may know how ye ought to answer every man."
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "6",
+  "version": "kjv"
+}
