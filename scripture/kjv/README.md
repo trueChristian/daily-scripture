@@ -1,5 +1,5 @@
-**Colossians 4:6**
+**2 Corinthians 2:17**
 
-6 Let your speech be alway with grace, seasoned with salt, that ye may know how ye ought to answer every man.
+17 For we are not as many, which corrupt the word of God: but as of sincerity, but as of God, in the sight of God speak we in Christ.
 
-[Friday 30-October, 2026](https://getbible.life/kjv/Colossians/4/6)
+[Saturday 31-October, 2026](https://getbible.life/kjv/2%20Corinthians/2/17)

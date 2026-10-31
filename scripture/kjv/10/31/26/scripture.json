@@ -1,0 +1,17 @@
+{
+  "book": "2 Corinthians",
+  "chapter": "2",
+  "date": "Saturday 31-October, 2026",
+  "getbible": "https://getbible.life/kjv/2 Corinthians/2/17",
+  "name": "2 Corinthians 2:17",
+  "scripture": [
+    {
+      "nr": "17",
+      "text": "For we are not as many, which corrupt the word of God: but as of sincerity, but as of God, in the sight of God speak we in Christ."
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "17",
+  "version": "kjv"
+}
