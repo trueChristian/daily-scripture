@@ -1,0 +1,21 @@
+{
+  "book": "Lamentations",
+  "chapter": "3",
+  "date": "Sunday 01-November, 2026",
+  "getbible": "https://getbible.life/kjv/Lamentations/3/39-40",
+  "name": "Lamentations 3:39-40",
+  "scripture": [
+    {
+      "nr": "39",
+      "text": "Wherefore doth a living man complain, a man for the punishment of his sins?"
+    },
+    {
+      "nr": "40",
+      "text": "Let us search and try our ways, and turn again to the Lord."
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "39-40",
+  "version": "kjv"
+}

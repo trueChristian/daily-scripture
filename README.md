@@ -1,5 +1,5 @@
-**2 Corinthians 2:17**
+**Lamentations 3:39-40**
 
-17 For we are not as many, which corrupt the word of God: but as of sincerity, but as of God, in the sight of God speak we in Christ.
+39 Wherefore doth a living man complain, a man for the punishment of his sins? 40 Let us search and try our ways, and turn again to the Lord.
 
-[Saturday 31-October, 2026](https://getbible.life/kjv/2%20Corinthians/2/17)
+[Sunday 01-November, 2026](https://getbible.life/kjv/Lamentations/3/39-40)
