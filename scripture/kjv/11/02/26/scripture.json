@@ -1,0 +1,25 @@
+{
+  "book": "2 Corinthians",
+  "chapter": "1",
+  "date": "Monday 02-November, 2026",
+  "getbible": "https://getbible.life/kjv/2 Corinthians/1/8-10",
+  "name": "2 Corinthians 1:8-10",
+  "scripture": [
+    {
+      "nr": "8",
+      "text": "For we would not, brethren, have you ignorant of our trouble which came to us in Asia, that we were pressed out of measure, above strength, insomuch that we despaired even of life:"
+    },
+    {
+      "nr": "9",
+      "text": "But we had the sentence of death in ourselves, that we should not trust in ourselves, but in God which raiseth the dead:"
+    },
+    {
+      "nr": "10",
+      "text": "Who delivered us from so great a death, and doth deliver: in whom we trust that he will yet deliver us;"
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "8-10",
+  "version": "kjv"
+}
