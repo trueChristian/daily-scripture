@@ -1,25 +1,29 @@
 {
-  "book": "2 Corinthians",
-  "chapter": "1",
-  "date": "Monday 02-November, 2026",
-  "getbible": "https://getbible.life/kjv/2 Corinthians/1/8-10",
-  "name": "2 Corinthians 1:8-10",
+  "book": "Psalms",
+  "chapter": "119",
+  "date": "Tuesday 03-November, 2026",
+  "getbible": "https://getbible.life/kjv/Psalms/119/25-28",
+  "name": "Psalms 119:25-28",
   "scripture": [
     {
-      "nr": "8",
-      "text": "For we would not, brethren, have you ignorant of our trouble which came to us in Asia, that we were pressed out of measure, above strength, insomuch that we despaired even of life:"
+      "nr": "25",
+      "text": "My soul cleaveth unto the dust: quicken thou me according to thy word."
     },
     {
-      "nr": "9",
-      "text": "But we had the sentence of death in ourselves, that we should not trust in ourselves, but in God which raiseth the dead:"
+      "nr": "26",
+      "text": "I have declared my ways, and thou heardest me: teach me thy statutes."
     },
     {
-      "nr": "10",
-      "text": "Who delivered us from so great a death, and doth deliver: in whom we trust that he will yet deliver us;"
+      "nr": "27",
+      "text": "Make me to understand the way of thy precepts: so shall I talk of thy wondrous works."
+    },
+    {
+      "nr": "28",
+      "text": "My soul melteth for heaviness: strengthen thou me according unto thy word."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "8-10",
+  "verse": "25-28",
   "version": "kjv"
 }
