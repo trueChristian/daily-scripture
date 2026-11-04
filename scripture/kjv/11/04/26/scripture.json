@@ -1,0 +1,17 @@
+{
+  "book": "1 Thessalonians",
+  "chapter": "3",
+  "date": "Wednesday 04-November, 2026",
+  "getbible": "https://getbible.life/kjv/1 Thessalonians/3/3",
+  "name": "1 Thessalonians 3:3",
+  "scripture": [
+    {
+      "nr": "3",
+      "text": "That no man should be moved by these afflictions: for yourselves know that we are appointed thereunto."
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "3",
+  "version": "kjv"
+}

@@ -1,5 +1,5 @@
-**Psalms 119:25-28**
+**1 Thessalonians 3:3**
 
-25 My soul cleaveth unto the dust: quicken thou me according to thy word. 26 I have declared my ways, and thou heardest me: teach me thy statutes. 27 Make me to understand the way of thy precepts: so shall I talk of thy wondrous works. 28 My soul melteth for heaviness: strengthen thou me according unto thy word.
+3 That no man should be moved by these afflictions: for yourselves know that we are appointed thereunto.
 
-[Tuesday 03-November, 2026](https://getbible.life/kjv/Psalms/119/25-28)
+[Wednesday 04-November, 2026](https://getbible.life/kjv/1%20Thessalonians/3/3)
