@@ -1,0 +1,17 @@
+{
+  "book": "Acts",
+  "chapter": "20",
+  "date": "Thursday 05-November, 2026",
+  "getbible": "https://getbible.life/kjv/Acts/20/27",
+  "name": "Acts 20:27",
+  "scripture": [
+    {
+      "nr": "27",
+      "text": "For I have not shunned to declare unto you all the counsel of God."
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "27",
+  "version": "kjv"
+}
