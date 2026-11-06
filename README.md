@@ -1,5 +1,5 @@
-**Acts 20:27**
+**James 1:26**
 
-27 For I have not shunned to declare unto you all the counsel of God.
+26 If any man among you seem to be religious, and bridleth not his tongue, but deceiveth his own heart, this man’s religion is vain.
 
-[Thursday 05-November, 2026](https://getbible.life/kjv/Acts/20/27)
+[Friday 06-November, 2026](https://getbible.life/kjv/James/1/26)

@@ -1,17 +1,17 @@
 {
-  "book": "Acts",
-  "chapter": "20",
-  "date": "Thursday 05-November, 2026",
-  "getbible": "https://getbible.life/kjv/Acts/20/27",
-  "name": "Acts 20:27",
+  "book": "James",
+  "chapter": "1",
+  "date": "Friday 06-November, 2026",
+  "getbible": "https://getbible.life/kjv/James/1/26",
+  "name": "James 1:26",
   "scripture": [
     {
-      "nr": "27",
-      "text": "For I have not shunned to declare unto you all the counsel of God."
+      "nr": "26",
+      "text": "If any man among you seem to be religious, and bridleth not his tongue, but deceiveth his own heart, this man’s religion is vain."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "27",
+  "verse": "26",
   "version": "kjv"
 }
