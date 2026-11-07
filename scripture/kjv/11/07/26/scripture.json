@@ -1,0 +1,17 @@
+{
+  "book": "Psalms",
+  "chapter": "94",
+  "date": "Saturday 07-November, 2026",
+  "getbible": "https://getbible.life/kjv/Psalms/94/15",
+  "name": "Psalms 94:15",
+  "scripture": [
+    {
+      "nr": "15",
+      "text": "But judgment shall return unto righteousness: and all the upright in heart shall follow it."
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "15",
+  "version": "kjv"
+}

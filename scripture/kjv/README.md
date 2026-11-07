@@ -1,5 +1,5 @@
-**James 1:26**
+**Psalms 94:15**
 
-26 If any man among you seem to be religious, and bridleth not his tongue, but deceiveth his own heart, this man’s religion is vain.
+15 But judgment shall return unto righteousness: and all the upright in heart shall follow it.
 
-[Friday 06-November, 2026](https://getbible.life/kjv/James/1/26)
+[Saturday 07-November, 2026](https://getbible.life/kjv/Psalms/94/15)
