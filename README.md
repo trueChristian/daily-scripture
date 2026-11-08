@@ -1,5 +1,5 @@
-**Psalms 94:15**
+**Judges 5:31**
 
-15 But judgment shall return unto righteousness: and all the upright in heart shall follow it.
+31 So let all thine enemies perish, O Lord: but let them that love him be as the sun when he goeth forth in his might. And the land had rest forty years.
 
-[Saturday 07-November, 2026](https://getbible.life/kjv/Psalms/94/15)
+[Sunday 08-November, 2026](https://getbible.life/kjv/Judges/5/31)

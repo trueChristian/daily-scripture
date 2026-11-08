@@ -1,0 +1,17 @@
+{
+  "book": "Judges",
+  "chapter": "5",
+  "date": "Sunday 08-November, 2026",
+  "getbible": "https://getbible.life/kjv/Judges/5/31",
+  "name": "Judges 5:31",
+  "scripture": [
+    {
+      "nr": "31",
+      "text": "So let all thine enemies perish, O Lord: but let them that love him be as the sun when he goeth forth in his might. And the land had rest forty years."
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "31",
+  "version": "kjv"
+}

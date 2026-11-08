@@ -1,17 +1,17 @@
 {
-  "book": "Psalms",
-  "chapter": "94",
-  "date": "Saturday 07-November, 2026",
-  "getbible": "https://getbible.life/kjv/Psalms/94/15",
-  "name": "Psalms 94:15",
+  "book": "Judges",
+  "chapter": "5",
+  "date": "Sunday 08-November, 2026",
+  "getbible": "https://getbible.life/kjv/Judges/5/31",
+  "name": "Judges 5:31",
   "scripture": [
     {
-      "nr": "15",
-      "text": "But judgment shall return unto righteousness: and all the upright in heart shall follow it."
+      "nr": "31",
+      "text": "So let all thine enemies perish, O Lord: but let them that love him be as the sun when he goeth forth in his might. And the land had rest forty years."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "15",
+  "verse": "31",
   "version": "kjv"
 }
