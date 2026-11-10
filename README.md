@@ -1,5 +1,5 @@
-**Isaiah 26:20**
+**Ephesians 2:11-13**
 
-20 Come, my people, enter thou into thy chambers, and shut thy doors about thee: hide thyself as it were for a little moment, until the indignation be overpast.
+11 Wherefore remember, that ye being in time past Gentiles in the flesh, who are called Uncircumcision by that which is called the Circumcision in the flesh made by hands; 12 That at that time ye were without Christ, being aliens from the commonwealth of Israel, and strangers from the covenants of promise, having no hope, and without God in the world: 13 But now in Christ Jesus ye who sometimes were far off are made nigh by the blood of Christ.
 
-[Monday 09-November, 2026](https://getbible.life/kjv/Isaiah/26/20)
+[Tuesday 10-November, 2026](https://getbible.life/kjv/Ephesians/2/11-13)
