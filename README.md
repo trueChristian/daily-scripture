@@ -1,5 +1,5 @@
-**Ephesians 2:11-13**
+**Colossians 1:8-9**
 
-11 Wherefore remember, that ye being in time past Gentiles in the flesh, who are called Uncircumcision by that which is called the Circumcision in the flesh made by hands; 12 That at that time ye were without Christ, being aliens from the commonwealth of Israel, and strangers from the covenants of promise, having no hope, and without God in the world: 13 But now in Christ Jesus ye who sometimes were far off are made nigh by the blood of Christ.
+8 Who also declared unto us your love in the Spirit. 9 For this cause we also, since the day we heard it, do not cease to pray for you, and to desire that ye might be filled with the knowledge of his will in all wisdom and spiritual understanding;
 
-[Tuesday 10-November, 2026](https://getbible.life/kjv/Ephesians/2/11-13)
+[Wednesday 11-November, 2026](https://getbible.life/kjv/Colossians/1/8-9)
