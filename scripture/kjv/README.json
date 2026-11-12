@@ -1,21 +1,17 @@
 {
-  "book": "Colossians",
-  "chapter": "1",
-  "date": "Wednesday 11-November, 2026",
-  "getbible": "https://getbible.life/kjv/Colossians/1/8-9",
-  "name": "Colossians 1:8-9",
+  "book": "Nehemiah",
+  "chapter": "5",
+  "date": "Thursday 12-November, 2026",
+  "getbible": "https://getbible.life/kjv/Nehemiah/5/19",
+  "name": "Nehemiah 5:19",
   "scripture": [
     {
-      "nr": "8",
-      "text": "Who also declared unto us your love in the Spirit."
-    },
-    {
-      "nr": "9",
-      "text": "For this cause we also, since the day we heard it, do not cease to pray for you, and to desire that ye might be filled with the knowledge of his will in all wisdom and spiritual understanding;"
+      "nr": "19",
+      "text": "Think upon me, my God, for good, according to all that I have done for this people."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "8-9",
+  "verse": "19",
   "version": "kjv"
 }

@@ -1,0 +1,17 @@
+{
+  "book": "Nehemiah",
+  "chapter": "5",
+  "date": "Thursday 12-November, 2026",
+  "getbible": "https://getbible.life/kjv/Nehemiah/5/19",
+  "name": "Nehemiah 5:19",
+  "scripture": [
+    {
+      "nr": "19",
+      "text": "Think upon me, my God, for good, according to all that I have done for this people."
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "19",
+  "version": "kjv"
+}
