@@ -1,0 +1,17 @@
+{
+  "book": "Luke",
+  "chapter": "23",
+  "date": "Sunday 15-November, 2026",
+  "getbible": "https://getbible.life/kjv/Luke/23/18",
+  "name": "Luke 23:18",
+  "scripture": [
+    {
+      "nr": "18",
+      "text": "And they cried out all at once, saying, Away with this man, and release unto us Barabbas:"
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "18",
+  "version": "kjv"
+}
