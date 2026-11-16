@@ -1,17 +1,17 @@
 {
-  "book": "Luke",
-  "chapter": "23",
-  "date": "Sunday 15-November, 2026",
-  "getbible": "https://getbible.life/kjv/Luke/23/18",
-  "name": "Luke 23:18",
+  "book": "Isaiah",
+  "chapter": "35",
+  "date": "Monday 16-November, 2026",
+  "getbible": "https://getbible.life/kjv/Isaiah/35/3",
+  "name": "Isaiah 35:3",
   "scripture": [
     {
-      "nr": "18",
-      "text": "And they cried out all at once, saying, Away with this man, and release unto us Barabbas:"
+      "nr": "3",
+      "text": "Strengthen ye the weak hands, and confirm the feeble knees."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "18",
+  "verse": "3",
   "version": "kjv"
 }
