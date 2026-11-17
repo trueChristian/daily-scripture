@@ -1,0 +1,17 @@
+{
+  "book": "Philippians",
+  "chapter": "2",
+  "date": "Tuesday 17-November, 2026",
+  "getbible": "https://getbible.life/kjv/Philippians/2/14",
+  "name": "Philippians 2:14",
+  "scripture": [
+    {
+      "nr": "14",
+      "text": "Do all things without murmurings and disputings:"
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "14",
+  "version": "kjv"
+}

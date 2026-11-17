@@ -1,17 +1,17 @@
 {
-  "book": "Isaiah",
-  "chapter": "35",
-  "date": "Monday 16-November, 2026",
-  "getbible": "https://getbible.life/kjv/Isaiah/35/3",
-  "name": "Isaiah 35:3",
+  "book": "Philippians",
+  "chapter": "2",
+  "date": "Tuesday 17-November, 2026",
+  "getbible": "https://getbible.life/kjv/Philippians/2/14",
+  "name": "Philippians 2:14",
   "scripture": [
     {
-      "nr": "3",
-      "text": "Strengthen ye the weak hands, and confirm the feeble knees."
+      "nr": "14",
+      "text": "Do all things without murmurings and disputings:"
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "3",
+  "verse": "14",
   "version": "kjv"
 }

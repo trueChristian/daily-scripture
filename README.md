@@ -1,5 +1,5 @@
-**Isaiah 35:3**
+**Philippians 2:14**
 
-3 Strengthen ye the weak hands, and confirm the feeble knees.
+14 Do all things without murmurings and disputings:
 
-[Monday 16-November, 2026](https://getbible.life/kjv/Isaiah/35/3)
+[Tuesday 17-November, 2026](https://getbible.life/kjv/Philippians/2/14)
