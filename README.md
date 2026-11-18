@@ -1,5 +1,5 @@
-**Philippians 2:14**
+**Ephesians 6:19-20**
 
-14 Do all things without murmurings and disputings:
+19 And for me, that utterance may be given unto me, that I may open my mouth boldly, to make known the mystery of the gospel, 20 For which I am an ambassador in bonds: that therein I may speak boldly, as I ought to speak.
 
-[Tuesday 17-November, 2026](https://getbible.life/kjv/Philippians/2/14)
+[Wednesday 18-November, 2026](https://getbible.life/kjv/Ephesians/6/19-20)
