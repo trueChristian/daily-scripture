@@ -1,0 +1,17 @@
+{
+  "book": "Ephesians",
+  "chapter": "6",
+  "date": "Friday 20-November, 2026",
+  "getbible": "https://getbible.life/kjv/Ephesians/6/10",
+  "name": "Ephesians 6:10",
+  "scripture": [
+    {
+      "nr": "10",
+      "text": "Finally, my brethren, be strong in the Lord, and in the power of his might."
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "10",
+  "version": "kjv"
+}
