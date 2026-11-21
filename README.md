@@ -1,5 +1,5 @@
-**Ephesians 6:10**
+**Isaiah 2:12**
 
-10 Finally, my brethren, be strong in the Lord, and in the power of his might.
+12 For the day of the Lord of hosts shall be upon every one that is proud and lofty, and upon every one that is lifted up; and he shall be brought low:
 
-[Friday 20-November, 2026](https://getbible.life/kjv/Ephesians/6/10)
+[Saturday 21-November, 2026](https://getbible.life/kjv/Isaiah/2/12)
