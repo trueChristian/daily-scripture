@@ -1,17 +1,17 @@
 {
-  "book": "Isaiah",
-  "chapter": "2",
-  "date": "Saturday 21-November, 2026",
-  "getbible": "https://getbible.life/kjv/Isaiah/2/12",
-  "name": "Isaiah 2:12",
+  "book": "Psalms",
+  "chapter": "40",
+  "date": "Sunday 22-November, 2026",
+  "getbible": "https://getbible.life/kjv/Psalms/40/16",
+  "name": "Psalms 40:16",
   "scripture": [
     {
-      "nr": "12",
-      "text": "For the day of the Lord of hosts shall be upon every one that is proud and lofty, and upon every one that is lifted up; and he shall be brought low:"
+      "nr": "16",
+      "text": "Let all those that seek thee rejoice and be glad in thee: let such as love thy salvation say continually, The Lord be magnified."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "12",
+  "verse": "16",
   "version": "kjv"
 }

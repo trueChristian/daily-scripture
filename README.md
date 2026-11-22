@@ -1,5 +1,5 @@
-**Isaiah 2:12**
+**Psalms 40:16**
 
-12 For the day of the Lord of hosts shall be upon every one that is proud and lofty, and upon every one that is lifted up; and he shall be brought low:
+16 Let all those that seek thee rejoice and be glad in thee: let such as love thy salvation say continually, The Lord be magnified.
 
-[Saturday 21-November, 2026](https://getbible.life/kjv/Isaiah/2/12)
+[Sunday 22-November, 2026](https://getbible.life/kjv/Psalms/40/16)
