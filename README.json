@@ -1,17 +1,17 @@
 {
-  "book": "Psalms",
-  "chapter": "40",
-  "date": "Sunday 22-November, 2026",
-  "getbible": "https://getbible.life/kjv/Psalms/40/16",
-  "name": "Psalms 40:16",
+  "book": "Luke",
+  "chapter": "22",
+  "date": "Monday 23-November, 2026",
+  "getbible": "https://getbible.life/kjv/Luke/22/68",
+  "name": "Luke 22:68",
   "scripture": [
     {
-      "nr": "16",
-      "text": "Let all those that seek thee rejoice and be glad in thee: let such as love thy salvation say continually, The Lord be magnified."
+      "nr": "68",
+      "text": "And if I also ask you, ye will not answer me, nor let me go."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "16",
+  "verse": "68",
   "version": "kjv"
 }

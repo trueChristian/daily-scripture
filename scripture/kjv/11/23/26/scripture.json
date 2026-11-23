@@ -1,0 +1,17 @@
+{
+  "book": "Luke",
+  "chapter": "22",
+  "date": "Monday 23-November, 2026",
+  "getbible": "https://getbible.life/kjv/Luke/22/68",
+  "name": "Luke 22:68",
+  "scripture": [
+    {
+      "nr": "68",
+      "text": "And if I also ask you, ye will not answer me, nor let me go."
+    }
+  ],
+  "source": "https://git.vdm.dev/christian/daily-scripture",
+  "telegram": "daily_scripture",
+  "verse": "68",
+  "version": "kjv"
+}
