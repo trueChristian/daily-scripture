@@ -1,17 +1,17 @@
 {
-  "book": "Luke",
-  "chapter": "22",
-  "date": "Monday 23-November, 2026",
-  "getbible": "https://getbible.life/kjv/Luke/22/68",
-  "name": "Luke 22:68",
+  "book": "Psalms",
+  "chapter": "32",
+  "date": "Tuesday 24-November, 2026",
+  "getbible": "https://getbible.life/kjv/Psalms/32/11",
+  "name": "Psalms 32:11",
   "scripture": [
     {
-      "nr": "68",
-      "text": "And if I also ask you, ye will not answer me, nor let me go."
+      "nr": "11",
+      "text": "Be glad in the Lord, and rejoice, ye righteous: and shout for joy, all ye that are upright in heart."
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "68",
+  "verse": "11",
   "version": "kjv"
 }
