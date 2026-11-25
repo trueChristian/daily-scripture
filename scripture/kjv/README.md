@@ -1,5 +1,5 @@
-**Psalms 32:11**
+**Romans 15:1**
 
-11 Be glad in the Lord, and rejoice, ye righteous: and shout for joy, all ye that are upright in heart.
+1 We then that are strong ought to bear the infirmities of the weak, and not to please ourselves.
 
-[Tuesday 24-November, 2026](https://getbible.life/kjv/Psalms/32/11)
+[Wednesday 25-November, 2026](https://getbible.life/kjv/Romans/15/1)
