@@ -1,5 +1,5 @@
-**Romans 15:1**
+**Acts 5:14**
 
-1 We then that are strong ought to bear the infirmities of the weak, and not to please ourselves.
+14 And believers were the more added to the Lord, multitudes both of men and women.)
 
-[Wednesday 25-November, 2026](https://getbible.life/kjv/Romans/15/1)
+[Thursday 26-November, 2026](https://getbible.life/kjv/Acts/5/14)

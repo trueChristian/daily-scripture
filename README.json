@@ -1,17 +1,17 @@
 {
-  "book": "Romans",
-  "chapter": "15",
-  "date": "Wednesday 25-November, 2026",
-  "getbible": "https://getbible.life/kjv/Romans/15/1",
-  "name": "Romans 15:1",
+  "book": "Acts",
+  "chapter": "5",
+  "date": "Thursday 26-November, 2026",
+  "getbible": "https://getbible.life/kjv/Acts/5/14",
+  "name": "Acts 5:14",
   "scripture": [
     {
-      "nr": "1",
-      "text": "We then that are strong ought to bear the infirmities of the weak, and not to please ourselves."
+      "nr": "14",
+      "text": "And believers were the more added to the Lord, multitudes both of men and women.)"
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "1",
+  "verse": "14",
   "version": "kjv"
 }
