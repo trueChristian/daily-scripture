@@ -1,17 +1,25 @@
 {
-  "book": "Acts",
-  "chapter": "5",
-  "date": "Thursday 26-November, 2026",
-  "getbible": "https://getbible.life/kjv/Acts/5/14",
-  "name": "Acts 5:14",
+  "book": "Revelation of John",
+  "chapter": "6",
+  "date": "Friday 27-November, 2026",
+  "getbible": "https://getbible.life/kjv/Revelation of John/6/15-17",
+  "name": "Revelation of John 6:15-17",
   "scripture": [
     {
-      "nr": "14",
-      "text": "And believers were the more added to the Lord, multitudes both of men and women.)"
+      "nr": "15",
+      "text": "And the kings of the earth, and the great men, and the rich men, and the chief captains, and the mighty men, and every bondman, and every free man, hid themselves in the dens and in the rocks of the mountains;"
+    },
+    {
+      "nr": "16",
+      "text": "And said to the mountains and rocks, Fall on us, and hide us from the face of him that sitteth on the throne, and from the wrath of the Lamb:"
+    },
+    {
+      "nr": "17",
+      "text": "For the great day of his wrath is come; and who shall be able to stand?"
     }
   ],
   "source": "https://git.vdm.dev/christian/daily-scripture",
   "telegram": "daily_scripture",
-  "verse": "14",
+  "verse": "15-17",
   "version": "kjv"
 }
