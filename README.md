@@ -1,5 +1,5 @@
-**Revelation of John 6:15-17**
+**Luke 4:42-43**
 
-15 And the kings of the earth, and the great men, and the rich men, and the chief captains, and the mighty men, and every bondman, and every free man, hid themselves in the dens and in the rocks of the mountains; 16 And said to the mountains and rocks, Fall on us, and hide us from the face of him that sitteth on the throne, and from the wrath of the Lamb: 17 For the great day of his wrath is come; and who shall be able to stand?
+42 And when it was day, he departed and went into a desert place: and the people sought him, and came unto him, and stayed him, that he should not depart from them. 43 And he said unto them, I must preach the kingdom of God to other cities also: for therefore am I sent.
 
-[Friday 27-November, 2026](https://getbible.life/kjv/Revelation%20of%20John/6/15-17)
+[Saturday 28-November, 2026](https://getbible.life/kjv/Luke/4/42-43)
